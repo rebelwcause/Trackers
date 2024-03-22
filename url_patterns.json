@@ -2128,6 +2128,7 @@
   "/geov2.js",
   "/get-ads-by-zones/",
   "/get/?go=1&data=",
+  "/get/live/web/_/",
   "/get?go=1&data=",
   "/getAdsysCode?",
   "/get_geoip?",
