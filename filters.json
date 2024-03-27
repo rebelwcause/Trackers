@@ -248,6 +248,7 @@
   ".stats?action=",
   ".svc/?tracking_id=",
   ".theatlantic.com/email.gif?",
+  ".top/cuid/?",
   ".v4.analytics.",
   ".webex.com/q/",
   ".wix.com/_api/ping/",
@@ -988,7 +989,6 @@
   "/adunits.",
   "/adunits/bcid?",
   "/adutil.",
-  "/adutils.",
   "/adv-banner-",
   "/adv-mobile.",
   "/adv-scroll-sidebar.js",
@@ -4681,6 +4681,7 @@
   "adimo.co/api/tracking/",
   "adobe.io/system/log",
   "adobe.io/web/v1/metrics",
+  "ads.securityweek.com/app.js",
   "adult-sex-games.com/images/adult-games/",
   "adult-sex-games.com/images/promo/",
   "adultasianporn.com/puty3s/",
@@ -7277,7 +7278,6 @@
   "zzup.com/ad.php"
 ],
 "allcss": [
-  ".gnt_mol_oy",
   "#onetrust-consent-sdk",
   "AD-SLOT",
   "AD-TRIPLE-BOX",
