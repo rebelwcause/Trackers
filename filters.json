@@ -7277,6 +7277,8 @@
   "zzup.com/ad.php"
 ],
 "allcss": [
+  ".gnt_mol_oy",
+  "#onetrust-consent-sdk",
   "AD-SLOT",
   "AD-TRIPLE-BOX",
   "DFP-AD",
@@ -7444,8 +7446,6 @@
   "section#headerAd"
 ],
 "css": [
-  ".gnt_mol_oy",
-  "#onetrust-consent-sdk",
   ".js-report-ad-button-container",
   "#AC_ad",
   "#AD_160",
