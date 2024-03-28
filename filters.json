@@ -7571,7 +7571,6 @@
   "zzup.com/ad.php"
 ],
 "allcss": [
-  "#onetrust-consent-sdk",
   "#adframe:not(frameset)",
   "#leader-companion > a[href]",
   ".AdBody:not(body)",
