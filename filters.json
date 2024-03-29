@@ -7572,6 +7572,7 @@
 ],
 "allcss": [
   "#onetrust-consent-sdk",
+  "div[class^=\"Layout_adWrapper\"]",
   "#adframe:not(frameset)",
   "#leader-companion > a[href]",
   ".AdBody:not(body)",
@@ -7831,6 +7832,8 @@
 ],
 "css": [
   ".js-report-ad-button-container",
+  ".privacyNotification",
+  ".cookieConfirm",
   "#AC_ad",
   "#AD_160",
   "#AD_300",
