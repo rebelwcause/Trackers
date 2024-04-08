@@ -6331,6 +6331,7 @@
 "myfreecams.com/mfc2/lib/o-mfccore.js",
 "mykocam.com/js/feeds.js",
 "mylistcrawler.com/wp-content/plugins/elfsight-popup-cc/",
+"mylocal.co.uk/api/trpc/analytics.",
 "mylust.com/092-",
 "mylust.com/assets/script.js",
 "myprivacy.dpgmedia.net/audits",
@@ -7678,7 +7679,9 @@
 ],
 "kohls.com": [
 "#PDP_monetization_HL",
-"#open-drawer"
+"#PMP_monetization_HL",
+"#open-drawer",
+"li.products_grid:has(p.piq-sponsored)"
 ],
 "physicsandmathstutor.com": [
 "#PMT_PDF_Top",
@@ -12985,7 +12988,9 @@
 ],
 "wayfair.com": [
 ".MediaNativePlacement-wrapper-link",
-"div[data-enzyme-id=\"WssBannerContainer\"]"
+"a[data-enzyme-id=\"WssBannerContainer\"]",
+"div[data-enzyme-id=\"WssBannerContainer\"]",
+"[data-hb-id=\"Card\"]:has([data-node-id^=\"ListingCardSponsored\"])"
 ],
 "boardgameoracle.com": [
 ".MuiContainer-root > .jss232"
@@ -19122,7 +19127,8 @@
 "meijer.com": [
 ".criteo-banner",
 ".sponsoredproducts",
-".product-grid__product:has(.product-tile__sponsored)"
+".product-grid__product:has(.product-tile__sponsored)",
+"div.slick-slide:has(.product-tile__sponsored)"
 ],
 "staradvertiser.com": [
 ".csMon"
@@ -20798,9 +20804,6 @@
 ],
 "dcfcfans.uk": [
 ".ipsSpacer_both"
-],
-"1tamilmv.tax": [
-".ipsWidget:has([href*=\"RajbetImage\"])"
 ],
 "1tamilblasters.com": [
 ".ipsWidget_inner.ipsPad.ipsType_richText > p > a"
@@ -26845,9 +26848,6 @@
 "div[style^=\"background-color:#EBEBEB;\"]",
 "div[style^=\"height:610px\"]"
 ],
-"tartaria-faucet.net": [
-"div[style^=\"display\"]:has([src^=\"https://multiwall-ads.shop/\"])"
-],
 "realpython.com": [
 "div[style^=\"display:block;position:relative;\"]"
 ],
@@ -27322,6 +27322,9 @@
 "pigglywigglystores.com": [
 ".fp-item:has(.fp-tag-ad)"
 ],
+"1tamilmv.tax": [
+".ipsWidget:has([href*=\"RajbetImage\"])"
+],
 "content.dictionary.com": [
 ".lp-code:has(> [class$=\"Ad\"])"
 ],
@@ -27412,6 +27415,9 @@
 ],
 "svgrepo.com": [
 "[class^=\"style_native\"]:has([href*=\"buysellads.com\"])"
+],
+"tesco.com": [
+"[class^=\"styled__StyledLIProductItem\"]:has([class^=\"styled__StyledOffers\"])"
 ],
 "argos.co.uk": [
 "[class^=\"styles__LazyHydrateCard\"]:has([class*=\"ProductCardstyles__FlyoutBadge\"])"
@@ -27524,6 +27530,9 @@
 ],
 "thisday.app": [
 "div[style=\"min-height: 340px;\"]:has(div.ad)"
+],
+"tartaria-faucet.net": [
+"div[style^=\"display\"]:has([src^=\"https://multiwall-ads.shop/\"])"
 ],
 "streeteasy.com": [
 "li.searchCardList--listItem:has(.jsSponsoredListingCard)"
@@ -31065,7 +31074,8 @@
 ".video-container"
 ],
 "boyfriendtv.com": [
-".video-extra-wrapper"
+".video-extra-wrapper",
+"a[href*=\"//bit.ly/\"]"
 ],
 "pornzog.com": [
 ".video-ntv"
