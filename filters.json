@@ -12811,6 +12811,9 @@
 ".BannerPromo-desktop",
 "div.HtmlModule > [href]"
 ],
+"video-to-mp3-converter.com": [
+".BannerReAds_horizontal-area__5JNuE"
+],
 "bloomberg.com": [
 ".BaseAd_baseAd-dXBqvbLRJy0-",
 ".dvz-v0-ad",
@@ -21095,6 +21098,9 @@
 ".swiper-container-horizontal",
 ".swiper-wrapper",
 "[href*=\"bit.ly/\"]"
+],
+"ytfreedownloader.com": [
+".kl-before-header"
 ],
 "kiryuu.id": [
 ".kln",
