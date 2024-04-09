@@ -7472,7 +7472,7 @@
 ".total-adblock-desktop"
 ],
 "mojeek.com": [
-"##body > div[class=\"main\"] > div[class=\"pop-in js-pop\"]"
+"body > div[class=\"main\"] > div[class=\"pop-in js-pop\"]"
 ],
 "spiegel.de": [
 "#vi-stories-main-container",
