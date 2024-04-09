@@ -3515,6 +3515,7 @@
 "/script/nwsu.js",
 "/script/pixel.js",
 "/script/suv4r.js",
+"/script/thankYou.js",
 "/scriptAnalytics.js",
 "/scripts.kissmetrics.com/",
 "/scripts/afc/",
@@ -7462,6 +7463,14 @@
 "zzup.com/ad.php"
 ],
 "css_sites": {
+"startpage.com": [
+"div[class='mainline-results mainline-results__web'] > div[class='block-display'] > div[id='block-display']",
+".a-bg",
+".nord-vpn-promo",
+".pa-bg",
+".pa-bg-carousel",
+".total-adblock-desktop"
+],
 "spiegel.de": [
 "#vi-stories-main-container",
 ".emsAnzeige",
@@ -7680,6 +7689,7 @@
 "kohls.com": [
 "#PDP_monetization_HL",
 "#PMP_monetization_HL",
+"#kmnsponsoredbrand-sponsored_top-anchor",
 "#open-drawer",
 "li.products_grid:has(p.piq-sponsored)"
 ],
@@ -9071,6 +9081,10 @@
 "forum.wordreference.com": [
 "#botSupp",
 "#topSupp"
+],
+"pymnts.com": [
+"#bottom-ad",
+".pymnt_ads"
 ],
 "cheese.com": [
 "#bottom-banner",
@@ -13117,6 +13131,12 @@
 ".ehgtMe.sc-ed3f1eaf-1",
 ".hYrQwu"
 ],
+"thesaurus.com": [
+".SZjJlj7dd7R6mDTODwIT",
+".otd-item__bottom",
+".fHACXxic9xvQeSNITiwH",
+"main div[class]:has(> [data-type=\"ad-vertical\"])"
+],
 "gq.com": [
 ".SavingsUnitedCouponsWrapper-humLIe"
 ],
@@ -13152,6 +13172,7 @@
 ".TeixwVbjB8cchva8bDlg",
 ".fHACXxic9xvQeSNITiwH",
 ".otd-item__bottom",
+"[data-type=\"ad-horizontal-module\"]",
 "main div[class]:has(> [data-type=\"ad-vertical\"])"
 ],
 "poebuilds.net": [
@@ -13223,13 +13244,6 @@
 ".c",
 ".d",
 ".e"
-],
-"startpage.com": [
-".a-bg",
-".nord-vpn-promo",
-".pa-bg",
-".pa-bg-carousel",
-".total-adblock-desktop"
 ],
 "rumble.com": [
 ".a-break"
@@ -16791,6 +16805,13 @@
 "classicfm.com": [
 ".apple_music"
 ],
+"ctinsider.com": [
+".ar16-9",
+".b-gray300.bt",
+".b-gray300.bt.bb",
+".b-gray300.md\\:bt",
+".b-gray300.md\\:bt.md\\:bb"
+],
 "middletownpress.com": [
 ".ar16-9",
 ".b-gray300.bt",
@@ -17020,12 +17041,6 @@
 ".sem_banner"
 ],
 "beaumontenterprise.com": [
-".b-gray300.bt",
-".b-gray300.bt.bb",
-".b-gray300.md\\:bt",
-".b-gray300.md\\:bt.md\\:bb"
-],
-"ctinsider.com": [
 ".b-gray300.bt",
 ".b-gray300.bt.bb",
 ".b-gray300.md\\:bt",
@@ -22186,6 +22201,7 @@
 ],
 "thehackernews.com": [
 ".okay_two",
+".okayjon",
 ".pixpix",
 "[href^=\"https://thn.news/\"]"
 ],
@@ -22197,11 +22213,6 @@
 ],
 "otakuusamagazine.com": [
 ".otaku_big_ad"
-],
-"thesaurus.com": [
-".otd-item__bottom",
-".fHACXxic9xvQeSNITiwH",
-"main div[class]:has(> [data-type=\"ad-vertical\"])"
 ],
 "egmnow.com": [
 ".outbrain-wrapper"
@@ -27478,11 +27489,15 @@
 ],
 "skyscanner.com": [
 "div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
-"div:has(> a[data-testid=\"inline-brand-banner\"])"
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
 "skyscanner.net": [
 "div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
-"div:has(> a[data-testid=\"inline-brand-banner\"])"
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
 "thebay.com": [
 "div.product:has(div.citrus-sponsored)",
@@ -27807,6 +27822,54 @@
 "div.not_clustered[id^=\"uitk-eg-maps-container-\"]",
 "div[class=\"uitk-spacing uitk-spacing-margin-blockstart-three\"]:has(a[href*=\"&trackingData\"])",
 "div[class=\"uitk-spacing uitk-spacing-margin-blockstart-three\"]:has(a[href^=\"https://adclick.g.doubleclick.net/pcs/click?\"])"
+],
+"skyscanner.ca": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.co.in": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.co.kr": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.au": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.mx": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.tr": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.cz": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.dk": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.es": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.it": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.jp": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.no": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
 "gunsandammo.com": [
 "#VideoPlayerDivIframe",
@@ -30752,6 +30815,10 @@
 ],
 "pornmaki.com": [
 ".promotionbox"
+],
+"telegram-porn.com": [
+".proxy-adv__container",
+".summary-adv-telNews-link"
 ],
 "freemovies.tv": [
 ".publis-bottom"
