@@ -7464,12 +7464,15 @@
 ],
 "css_sites": {
 "startpage.com": [
-"div[class='mainline-results mainline-results__web'] > div[class='block-display'] > div[id='block-display']",
+"div[class=\"mainline-results mainline-results__web\"] > div[class=\"block-display\"] > div[id=\"block-display\"]",
 ".a-bg",
 ".nord-vpn-promo",
 ".pa-bg",
 ".pa-bg-carousel",
 ".total-adblock-desktop"
+],
+"mojeek.com": [
+"##body > div[class=\"main\"] > div[class=\"pop-in js-pop\"]"
 ],
 "spiegel.de": [
 "#vi-stories-main-container",
@@ -27823,7 +27826,27 @@
 "div[class=\"uitk-spacing uitk-spacing-margin-blockstart-three\"]:has(a[href*=\"&trackingData\"])",
 "div[class=\"uitk-spacing uitk-spacing-margin-blockstart-three\"]:has(a[href^=\"https://adclick.g.doubleclick.net/pcs/click?\"])"
 ],
+"skyscanner.ae": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.at": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
 "skyscanner.ca": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.ch": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.co.id": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.co.il": [
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
@@ -27835,7 +27858,31 @@
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
+"skyscanner.co.nz": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.co.th": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.co.za": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
 "skyscanner.com.au": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.br": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.eg": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.hk": [
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
@@ -27843,11 +27890,43 @@
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
+"skyscanner.com.my": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.ph": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.sa": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.sg": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
 "skyscanner.com.tr": [
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
+"skyscanner.com.tw": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.ua": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.com.vn": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
 "skyscanner.cz": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.de": [
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
@@ -27859,6 +27938,26 @@
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
+"skyscanner.fi": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.fr": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.gg": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.hu": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.ie": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
 "skyscanner.it": [
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
@@ -27867,7 +27966,39 @@
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
+"skyscanner.nl": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
 "skyscanner.no": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.pk": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.pl": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.pt": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.qa": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.ro": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"skyscanner.se": [
+"div[aria-label=\"Sponsored\"]",
+"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"tianxun.com": [
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
@@ -29069,7 +29200,9 @@
 ".yxd-jdsp-b",
 ".yxd-jdsp-l-tab",
 ".yxd-jsp-a",
-"[class^=\"xplayer-banner\"]"
+"[class^=\"xplayer-banner\"]",
+"a[href^=\"https://flirtify.com/\"]",
+"div[class*=\"promoMessageBanner-\"]"
 ],
 "tubepornclassic.com": [
 ".___it0h1l3u2se2lo",
@@ -31207,7 +31340,9 @@
 "xhamster2.com": [
 ".wio-xbanner",
 ".wio-xspa",
-"[class^=\"xplayer-banner\"]"
+"[class^=\"xplayer-banner\"]",
+"a[href^=\"https://flirtify.com/\"]",
+"div[class*=\"promoMessageBanner-\"]"
 ],
 "teenager365.com": [
 ".wps-player__happy-inside-btn-close"
@@ -31505,6 +31640,22 @@
 ],
 "imx.to": [
 "a[href^=\"https://camonster.com/\"]"
+],
+"xhaccess.com": [
+"a[href^=\"https://flirtify.com/\"]",
+"div[class*=\"promoMessageBanner-\"]"
+],
+"xhamster.desi": [
+"a[href^=\"https://flirtify.com/\"]",
+"div[class*=\"promoMessageBanner-\"]"
+],
+"xhamster3.com": [
+"a[href^=\"https://flirtify.com/\"]",
+"div[class*=\"promoMessageBanner-\"]"
+],
+"xhamster42.desi": [
+"a[href^=\"https://flirtify.com/\"]",
+"div[class*=\"promoMessageBanner-\"]"
 ],
 "hitbdsm.com": [
 "a[href^=\"https://go.rabbitsreviews.com/\"]"
