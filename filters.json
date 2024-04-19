@@ -1750,6 +1750,7 @@
 "/cookiespolicy.",
 "/cookiewarning.",
 "/cookiewet.",
+"/cookiewookie.js",
 "/coopcommerce-pixel.js",
 "/coradiant.js",
 "/core-ads.js",
@@ -4419,10 +4420,13 @@
 "26216.stunserver.net/a8.js",
 "2merkato.com/images/banners/",
 "2oceansvibe.com/?custom=takeover",
+"2watchmygf.com/spot/",
 "360buyimg.com/jdf/1.0.0/unit/log/",
 "3movs.com/2ff/",
 "3naked.com/nb/",
 "3prn.com/even/ok.js",
+"3xtraffic.com/ads/",
+"3xtraffic.com/common/000/cads/",
 "40svintageporn.com/hit",
 "429men.com/zdoink/",
 "4399.com/js/4399stat.js",
@@ -5353,6 +5357,7 @@
 "developer.mozilla.org/pong/",
 "developer.mozilla.org/submit/",
 "developpez.com/public/js/log.js",
+"deviantart.com/_nsfgfb/",
 "dforum.net/counter/",
 "dhl.com/g8Dj6P8TAg/",
 "dictionary.com/adscripts/",
@@ -5592,6 +5597,7 @@
 "freedownloadmanager.org/ajax/th_hit.php",
 "freedownloadmanager.org/ajax/th_view.php",
 "freedownloadmanager.org/js/achecker.js",
+"freehqsex.com/ads/",
 "freelivesex.tv/imgs/ad/",
 "freeones.com/static-assets/istripper/",
 "freeonline.org/sito_track?",
@@ -5742,6 +5748,7 @@
 "hdpornmax.com/tmp/",
 "hdpornphotos.com/images/728x180_",
 "hdpornphotos.com/images/banner_",
+"healthcentral.com/common/ads/generateads.js",
 "healthline.com/api/metrics",
 "hearstapps.com/moapt/moapt-hdm.latest.js",
 "hearstnp.com/log?",
@@ -6096,6 +6103,8 @@
 "livejournal.com/ljcounter/",
 "livejournal.com/log?",
 "livelyvideo.tv/lb/logger",
+"livesexgirlsrooms.com/ads/",
+"livesexgirlsrooms.com/js/popunder.js",
 "load.tm.all3dp.com/rqlevydw.js",
 "location3.com/analytics/",
 "lolhentai.net/tceb29242cf7.js",
@@ -6424,6 +6433,8 @@
 "paypal.com/webapps/mch/cmd/?",
 "paypal.com/xoplatform/logger/api/logger",
 "payza.com/images/banners/",
+"pc161021.com/scripts/noui/StatProvider.js",
+"pc161021.com/scripts/noui/eventlogger.js",
 "pcgamesn.com/cdn-cgi/trace",
 "pcmag.com/js/ga.js",
 "pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js",
@@ -7348,6 +7359,7 @@
 "yespornpleasexxx.com/wp-content/litespeed/js/",
 "yext.com/plpixel?",
 "yigouw.com/c.js",
+"yimg.com/aaq/benji/",
 "yimg.com/aaq/wf/wf-darla-",
 "yimg.com/cx/vzm/cs.js",
 "yimg.com/dy/ads/readmo.js",
@@ -13132,10 +13144,6 @@
 ".ad-margin-big",
 ".header-ad-slot"
 ],
-"deviantart.com": [
-"._15LLi",
-"._3jfHP"
-],
 "gadgetsnow.com": [
 "._1edxh",
 "._1pjMr",
@@ -14869,7 +14877,8 @@
 ".polarAds"
 ],
 "drive.com.au": [
-".adSpacing_drive-ad-spacing__g09um",
+".adSpacing_drive-ad-spacing__HdaBg",
+".gam-ad",
 "hr"
 ],
 "thestockmarketwatch.com": [
@@ -17732,6 +17741,9 @@
 ],
 "marengo-uniontimes.com": [
 ".banneritem"
+],
+"mir.az": [
+".bannerreklam"
 ],
 "marinetechnologynews.com": [
 ".banners",
@@ -20641,6 +20653,9 @@
 ".home-content-panel__sponsor",
 ".primary-header-sponsors",
 ".sponsor"
+],
+"freespoke.com": [
+".home-page-message"
 ],
 "bonginoreport.com": [
 ".homepage-ad-2"
@@ -23944,6 +23959,9 @@
 ".styles_bb__hb10X",
 ".styles_sidebar__m6yLy"
 ],
+"producthunt.com": [
+".styles_item__hNPI1"
+],
 "fstoppers.com": [
 ".supportImg"
 ],
@@ -26055,6 +26073,9 @@
 "forum.nasaspaceflight.com": [
 "[style=\"text-align:center; margin-bottom:30px;\"]"
 ],
+"deviantart.com": [
+"[style=\"width: 308px; height: 316px;\"]"
+],
 "forum.lowyat.net": [
 "[style^=\"height:100px;padding:5px\"]"
 ],
@@ -26328,6 +26349,9 @@
 ],
 "detectiveconanworld.com": [
 "a[href^=\"https://brave.com/\"]"
+],
+"broadwayworld.com": [
+"a[href^=\"https://cloud.broadwayworld.com/rec/ticketclick.cfm\"]"
 ],
 "sythe.org": [
 "a[href^=\"https://discord.gg/dmwatch\"]",
@@ -26674,7 +26698,8 @@
 "div[class^=\"adUnit_\"]"
 ],
 "90min.com": [
-"div[class^=\"ad_\"]"
+"div[class^=\"ad_\"]",
+"figure:has(> div > #mm-player-placeholder-large-screen)"
 ],
 "constative.com": [
 "div[class^=\"ad_placeholder_\"]",
