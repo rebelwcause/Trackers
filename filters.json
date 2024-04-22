@@ -250,7 +250,6 @@
 ".lazyload-ad-",
 ".lazyload-ad.",
 ".live/o.js",
-".lms-analytics/",
 ".mailbutler.io/tracking/",
 ".members.babbel.com/mo/",
 ".microsoft.com/trans_pixel.",
@@ -2663,6 +2662,7 @@
 "/legion-advertising-atlasastro/",
 "/lhnhelpouttab-current.min.js",
 "/li.blogtrottr.com/imp?",
+"/li.lms-analytics/insight.min.js",
 "/lib/analytics.js",
 "/library/svy/broker.js",
 "/libs/tracker.js",
@@ -7033,6 +7033,7 @@
 "manychat.com/pixel/logEvent",
 "manychat.com/widget/log?",
 "manysex.com/ha10y0dcss",
+"manysex.tube/soc/roll.js",
 "mapbox.com/www/scripts/analytics.js",
 "mapcarta.com/logs",
 "mapquest.com/logger",
@@ -8181,6 +8182,7 @@
 "static.prd.datawars.io/static/promo/",
 "static.qiyi.com/js/pingback/",
 "static.searchiq.co/t/pxl.gif",
+"static.staff-start.com/js/track/",
 "static.sunmedia.tv/integrations/",
 "static.talpanetwork.com/prod/js/components/talpa-analytics/",
 "static.teimg.com/analytics.js",
@@ -8878,6 +8880,7 @@
 "xing.com/collect/",
 "xing.com/logjam/",
 "xinhuanet.com/s?",
+"xjav.tube/ps/Hij2yp.js",
 "xlgaytube.tv/analytics.js",
 "xlgaytube.tv/stats.gif",
 "xmilf.com/0eckuwtxfr/",
@@ -14702,7 +14705,7 @@
 "main div[class]:has(> [data-type=\"ad-vertical\"])"
 ],
 "gq.com": [
-".SavingsUnitedCouponsWrapper-humLIe"
+".SavingsUnitedCouponsWrapper-gPnqA-d"
 ],
 "lbcgroup.tv": [
 ".ScriptDiv"
@@ -18316,6 +18319,9 @@
 ".dfskieurjkc23a",
 ".durs-bordered",
 "[href^=\"https://stARtgAMinG.net/\"]"
+],
+"lingohut.com": [
+".al-board"
 ],
 "lyricsmode.com": [
 ".al-c-banner",
@@ -22421,6 +22427,9 @@
 "frdl.to": [
 ".img-fluid"
 ],
+"lifesitenews.com": [
+".important-info"
+],
 "reuters.com": [
 ".in-article-desktop-connatix-player",
 "[class^=\"primary-video__container_\"]",
@@ -22869,6 +22878,9 @@
 ],
 "golfworkoutprogram.com": [
 ".lasso-container"
+],
+"apkpac.com": [
+".layout-beyond-ads"
 ],
 "flava.co.nz": [
 ".layout__background"
@@ -26328,7 +26340,6 @@
 ".uyj-before-header"
 ],
 "militarywatchmagazine.com": [
-".v-card--link",
 ".v-size--x-small.theme--light"
 ],
 "zillow.com": [
@@ -26573,9 +26584,6 @@
 "[href*=\"://go.nordvpn.net/\"]"
 ],
 "trackalerts.com": [
-".widget_custom_html"
-],
-"winaero.com": [
 ".widget_custom_html"
 ],
 "athleticsillustrated.com": [
@@ -28254,6 +28262,11 @@
 "article[data-qa=\"disco-updates-website-ad\"]",
 "div[data-qa=\"jobs-inline-ad\"]"
 ],
+"winaero.com": [
+"aside.sidebar > section:not([id^=\"custom_html-\"]).widget_custom_html",
+"#content p:has(~ ins.adsbygoogle)",
+"aside > .widget_text:has(.adsbygoogle)"
+],
 "vezod.com": [
 "av-adv-slot"
 ],
@@ -28782,6 +28795,9 @@
 "img[aria-label=\"Ebay partner network affiliate Link\"]"
 ],
 "inkbotdesign.com": [
+"img[decoding=\"async\"]"
+],
+"kuramanime.lol": [
 "img[decoding=\"async\"]"
 ],
 "wjr.com": [
@@ -30189,22 +30205,14 @@
 ".searchRightTopAds"
 ],
 "youtube.com": [
+"#masthead-ad",
+"#player-ads",
 "#shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-browse.ytd-page-manager.style-scope > ytd-two-column-browse-results-renderer.grid-disabled.grid.ytd-browse.style-scope > #primary.ytd-two-column-browse-results-renderer.style-scope > ytd-rich-grid-renderer.ytd-two-column-browse-results-renderer.style-scope > #contents.ytd-rich-grid-renderer.style-scope > ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > #contents.ytd-rich-grid-row.style-scope > ytd-rich-item-renderer.ytd-rich-grid-row.style-scope > #content.ytd-rich-item-renderer.style-scope > ytd-ad-slot-renderer.ytd-rich-item-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-browse.ytd-page-manager.style-scope > ytd-two-column-browse-results-renderer.grid-disabled.grid.ytd-browse.style-scope > #primary.ytd-two-column-browse-results-renderer.style-scope > ytd-rich-grid-renderer.ytd-two-column-browse-results-renderer.style-scope > #contents.ytd-rich-grid-renderer.style-scope > ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > #contents.ytd-rich-grid-row.style-scope > ytd-rich-item-renderer.ytd-rich-grid-row.style-scope:has(> #content.ytd-rich-item-renderer.style-scope > ytd-ad-slot-renderer.ytd-rich-item-renderer.style-scope)",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-browse.ytd-page-manager.style-scope > ytd-two-column-browse-results-renderer.grid-disabled.grid.ytd-browse.style-scope > #primary.ytd-two-column-browse-results-renderer.style-scope > ytd-rich-grid-renderer.ytd-two-column-browse-results-renderer.style-scope > #masthead-ad.ytd-rich-grid-renderer.style-scope > ytd-ad-slot-renderer.ytd-rich-grid-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-browse.ytd-page-manager.style-scope > ytd-two-column-browse-results-renderer.grid-disabled.grid.ytd-browse.style-scope > #primary.ytd-two-column-browse-results-renderer.style-scope > ytd-rich-grid-renderer.ytd-two-column-browse-results-renderer.style-scope > #masthead-ad.ytd-rich-grid-renderer.style-scope > ytd-banner-promo-renderer.ytd-rich-grid-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-search.ytd-page-manager.style-scope > #container.ytd-search.style-scope > ytd-two-column-search-results-renderer.ytd-search.style-scope > #primary.ytd-two-column-search-results-renderer.style-scope > ytd-section-list-renderer.ytd-two-column-search-results-renderer.style-scope > #contents.ytd-section-list-renderer.style-scope > ytd-item-section-renderer.ytd-section-list-renderer.style-scope > #contents.ytd-item-section-renderer.style-scope > ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-search.ytd-page-manager.style-scope > #container.ytd-search.style-scope > ytd-two-column-search-results-renderer.ytd-search.style-scope > #primary.ytd-two-column-search-results-renderer.style-scope > ytd-section-list-renderer.ytd-two-column-search-results-renderer.style-scope > #contents.ytd-section-list-renderer.style-scope > ytd-item-section-renderer.ytd-section-list-renderer.style-scope > #contents.ytd-item-section-renderer.style-scope > ytd-search-pyv-renderer.ytd-item-section-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #primary.ytd-watch-flexy.style-scope > #primary-inner.ytd-watch-flexy.style-scope > #below.ytd-watch-flexy.style-scope > #related.ytd-watch-flexy.style-scope > #player-ads.ytd-watch-flexy.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #primary.ytd-watch-flexy.style-scope > #primary-inner.ytd-watch-flexy.style-scope > #below.ytd-watch-flexy.style-scope > #related.ytd-watch-flexy.style-scope > ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > #items.ytd-watch-next-secondary-results-renderer.style-scope > ytd-ad-slot-renderer.ytd-watch-next-secondary-results-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #primary.ytd-watch-flexy.style-scope > #primary-inner.ytd-watch-flexy.style-scope > #below.ytd-watch-flexy.style-scope > #related.ytd-watch-flexy.style-scope > ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > #items.ytd-watch-next-secondary-results-renderer.style-scope > ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope > #contents.ytd-item-section-renderer.style-scope > ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #primary.ytd-watch-flexy.style-scope > #primary-inner.ytd-watch-flexy.style-scope > #below.ytd-watch-flexy.style-scope > ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope > #main.style-scope.ytd-merch-shelf-renderer > #banner.style-scope.ytd-merch-shelf-renderer",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #primary.ytd-watch-flexy.style-scope > #primary-inner.ytd-watch-flexy.style-scope > #below.ytd-watch-flexy.style-scope > ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope > #main.style-scope.ytd-merch-shelf-renderer > #item-list.style-scope.ytd-merch-shelf-renderer",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #primary.ytd-watch-flexy.style-scope > #primary-inner.ytd-watch-flexy.style-scope > #player.ytd-watch-flexy.style-scope > #player-container-outer.ytd-watch-flexy.style-scope > #player-container-inner.ytd-watch-flexy.style-scope > #player-container.ytd-watch-flexy.style-scope > ytd-player#ytd-player.ytd-watch-flexy.style-scope > #container.ytd-player.style-scope > #movie_player.playing-mode.html5-video-player > .ytp-suggested-action > button.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #secondary.ytd-watch-flexy.style-scope > #secondary-inner.ytd-watch-flexy.style-scope > #related.ytd-watch-flexy.style-scope > #player-ads.ytd-watch-flexy.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #secondary.ytd-watch-flexy.style-scope > #secondary-inner.ytd-watch-flexy.style-scope > #related.ytd-watch-flexy.style-scope > ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > #items.ytd-watch-next-secondary-results-renderer.style-scope > ytd-ad-slot-renderer.ytd-watch-next-secondary-results-renderer.style-scope",
-"body > ytd-app > #content.ytd-app.style-scope > ytd-page-manager#page-manager.ytd-app.style-scope > ytd-watch-flexy.ytd-page-manager.style-scope > #columns.ytd-watch-flexy.style-scope > #secondary.ytd-watch-flexy.style-scope > #secondary-inner.ytd-watch-flexy.style-scope > #related.ytd-watch-flexy.style-scope > ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > #items.ytd-watch-next-secondary-results-renderer.style-scope > ytd-item-section-renderer > #contents > ytd-ad-slot-renderer"
+".ytd-merch-shelf-renderer",
+".ytp-suggested-action > button.ytp-suggested-action-badge",
+"ytd-ad-slot-renderer",
+"ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)",
+"ytd-search-pyv-renderer"
 ],
 "m.youtube.com": [
 "lazy-list > ad-slot-renderer",
@@ -30614,6 +30622,14 @@
 ],
 "maturesladies.com": [
 "#inVideoInner"
+],
+"aniporn.com": [
+"#in_v",
+"#und_ban",
+".btn-close",
+".left > section",
+"article > section",
+"div[style=\"width: 300px; height: 250px;\"]"
 ],
 "hotmovs.com": [
 "#in_va",
@@ -33844,9 +33860,6 @@
 "div[style=\"text-align:center;margin-bottom:20px;\"]"
 ],
 "abxxx.com": [
-"div[style=\"width: 300px; height: 250px;\"]"
-],
-"aniporn.com": [
 "div[style=\"width: 300px; height: 250px;\"]"
 ],
 "missav123.com": [
