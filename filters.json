@@ -3321,6 +3321,7 @@
 "/probance_tracker.js",
 "/processing/impressions.asp?",
 "/prod/dfm/g2i.min.js",
+"/prod/dfm/t8y9347t.min.js",
 "/prod/ncg/ncg.js",
 "/prod/ping?",
 "/prodprebidheader-",
@@ -3557,6 +3558,7 @@
 "/script/intrf.js",
 "/script/ippg.js",
 "/script/jeSus.js",
+"/script/liB1.js",
 "/script/naN.js",
 "/script/native_render.js",
 "/script/native_server.js",
@@ -3566,6 +3568,7 @@
 "/script/suv4r.js",
 "/script/thankYou.js",
 "/script/uBlock.js",
+"/script/xxAG1.js",
 "/scriptAnalytics.js",
 "/scripts.kissmetrics.com/",
 "/scripts/afc/",
@@ -3834,7 +3837,6 @@
 "/stats/collect?",
 "/stats/collector.js",
 "/stats/event.js?",
-"/stats/events",
 "/stats/footer.js",
 "/stats/ga.js",
 "/stats/impression",
@@ -5098,8 +5100,6 @@
 "api.airfind.com/stats/",
 "api.atlassian.com/metal/ingest",
 "api.blink.net/a/",
-"api.contentpass.net/analytics",
-"api.contentpass.net/stats",
 "api.ea3w.com/hits.js",
 "api.earthly.dev/analytics|",
 "api.edkt.io/analytics",
@@ -8368,6 +8368,7 @@
 "wpengine.com/wp-json/api/advanced_placement/api-in-article-ad/",
 "wpzoom.com/images/aff/",
 "wqah.com/images/banners/",
+"wrtn.ai/proxy/client/metrics",
 "wsimg.com/parking-lander/",
 "wsj.com/asset/ace/ace.min.js",
 "wsj.com/cookies/pixel.gif",
@@ -11141,6 +11142,18 @@
 "#header",
 ".adbl"
 ],
+"fxempire.com": [
+"#header-ads-block",
+".dKBfBG",
+".ddAwpw",
+".eLQRRm",
+".frzZuq",
+"[height=\"250\"]",
+"[height=\"600\"]",
+"span[style=\"user-select:none\"]",
+".gAruxy",
+"[data-cy=\"article-ad\"]"
+],
 "khelnow.com": [
 "#header-adwords-section"
 ],
@@ -11571,6 +11584,19 @@
 ],
 "allwomenstalk.com": [
 "#leaderboard"
+],
+"bloomberg.com": [
+"#leaderboard",
+".BaseAd_baseAd-dXBqvbLRJy0-",
+".dvz-v0-ad",
+"[class^=\"FullWidthAd_\"]",
+"[data-component=\"in-body-ad\"]",
+"div[class^=\"media-ui-BaseAd\"]",
+"div[class^=\"media-ui-FullWidthAd\"]",
+".leaderboard-container",
+".leaderboard-wrapper",
+"[data-component=\"broker-box-ad\"]",
+"[data-ad-status=\"rendering\"]"
 ],
 "datpiff.com": [
 "#leaderboard",
@@ -13624,7 +13650,8 @@
 ],
 "androidauthority.com": [
 ".--_-___Yb",
-"._--_-___kb",
+"._--_-___Pb",
+"._--_-___ub",
 "a[data-sel=\"dealbar-link\"]",
 ".--_-___r",
 ".--_-___mb"
@@ -13867,18 +13894,6 @@
 ],
 "video-to-mp3-converter.com": [
 ".BannerReAds_horizontal-area__5JNuE"
-],
-"bloomberg.com": [
-".BaseAd_baseAd-dXBqvbLRJy0-",
-".dvz-v0-ad",
-"[class^=\"FullWidthAd_\"]",
-"[data-component=\"in-body-ad\"]",
-"div[class^=\"media-ui-BaseAd\"]",
-"div[class^=\"media-ui-FullWidthAd\"]",
-".leaderboard-container",
-".leaderboard-wrapper",
-"[data-component=\"broker-box-ad\"]",
-"[data-ad-status=\"rendering\"]"
 ],
 "cnbc.com": [
 ".BoxRail-styles-makeit-ad--lyuQB",
@@ -17796,7 +17811,9 @@
 ".aoiwjs",
 ".dfskieurjkc23a",
 ".durs-bordered",
-"[href^=\"https://stARtgAMinG.net/\"]"
+"[href^=\"https://stARtgAMinG.net/\"]",
+".bbj",
+"#iwkjdooqw"
 ],
 "lingohut.com": [
 ".al-board"
@@ -18488,7 +18505,8 @@
 ".banner"
 ],
 "newcastleworld.com": [
-".banner"
+".banner",
+".helper__DesktopAdContainer-sc-12ggaoi-1"
 ],
 "news.am": [
 ".banner",
@@ -20491,14 +20509,6 @@
 "yourstory.com": [
 ".dJEWSq"
 ],
-"fxempire.com": [
-".dKBfBG",
-".ddAwpw",
-".eLQRRm",
-".frzZuq",
-".gAruxy",
-"[data-cy=\"article-ad\"]"
-],
 "cryptorank.io": [
 ".dPbBGP",
 ".hofjwZ",
@@ -22400,6 +22410,10 @@
 ],
 "thepcguild.com": [
 ".leader"
+],
+"etonline.com": [
+".leader-inc",
+".omni-skybox-plus-stick-placeholder"
 ],
 "blaauwberg.net": [
 ".leaderBoardContainer"
@@ -33020,6 +33034,7 @@
 "#bottom-ad-tray",
 "#bottom-ad-wrapper",
 "#bottom-add",
+"#bottom-adhesion",
 "#bottom-adhesion-container",
 "#bottom-ads",
 "#bottom-ads-bar",
