@@ -493,7 +493,6 @@
 "/ClickTrack.js",
 "/CntRpt.aspx?hCase=",
 "/CofinaHits.js",
-"/ContextLogResource/",
 "/Cookie-popup-",
 "/CookieAlertBootStrapper.",
 "/CookieInfo.",
@@ -575,7 +574,7 @@
 "/PhoenixGoogleAnalytics.min.js",
 "/PixelTracking.",
 "/PromosAds/",
-"/PushexSDK.",
+"/PushexSDK.js",
 "/PvCountUp.action",
 "/Quantcast/cmp_v2.js",
 "/QuotaService.RecordEvent?",
@@ -595,7 +594,6 @@
 "/SetConsentCookie.",
 "/SetCookieBanner.",
 "/SiteSearchAnalytics.js",
-"/SourcePoint_JS_Files/",
 "/StatCms/ViewCount?",
 "/StatRecorder.asp?",
 "/StatSNA.js",
@@ -634,6 +632,7 @@
 "/WRb.js",
 "/WebStat2.asmx",
 "/Web_JS_Stats.",
+"/_/_/logClientError/",
 "/_/api/v2/analytics/?",
 "/_/lite/performance/",
 "/_/trace/trace/",
@@ -846,6 +845,7 @@
 "/admantx/",
 "/admgr.js",
 "/admiral.js",
+"/admiral_worker_caller.js",
 "/admitad.js",
 "/adn-hb/",
 "/adobe-analytics.js",
@@ -1609,7 +1609,6 @@
 "/cmail2.com/t/",
 "/cmanalytics.min.js",
 "/cmbdv2.js",
-"/cmp-hello.",
 "/cmp/heycookie.js",
 "/cmp/int_cmp.",
 "/cmp/messaging.js",
@@ -2040,7 +2039,6 @@
 "/endpoint/stats.php?",
 "/ent_counter?",
 "/entry_stats?",
-"/epsilon.v2.",
 "/ero-ads_",
 "/ero.htm",
 "/erobanner.js",
@@ -3378,8 +3376,7 @@
 "/push/p.js?",
 "/pushlog.min.js",
 "/pushlog.php",
-"/pushly-sdk.",
-"/pushly-sw.",
+"/pushly-sdk.min.js",
 "/pustrck.js",
 "/pv.gif?",
 "/pv.php?id=",
@@ -3517,7 +3514,7 @@
 "/rr/t?step=",
 "/rrweb-record-pack.js",
 "/rrweb-record.min.js",
-"/rrweb-script.",
+"/rrweb-script.js",
 "/rrweb.js",
 "/rrweb.min.js",
 "/rt_tag.js",
@@ -3888,7 +3885,6 @@
 "/statscounter/",
 "/statscript.js",
 "/statsd_proxy",
-"/statslogresource/",
 "/statstracker.",
 "/statstracker/",
 "/statstracker?",
@@ -4293,7 +4289,6 @@
 "/vghd.gif",
 "/vghd2.gif",
 "/vglnk.js",
-"/vgwort/",
 "/video-ad-overlay.",
 "/video-ad.",
 "/video-ads-player.",
@@ -5338,6 +5333,8 @@
 "bilder-a.akamaihd.net/ip/js/ipdvdc/dbav.js",
 "bilibili.com/x/frontend/finger/fpfmc?",
 "bilibilicomics.com/twirp/log.",
+"billboard.com/wp-content/plugins/pmc-plugins/pmc-social-share-bar/build/tracking.js",
+"billboard.com/wp-content/plugins/pmc-plugins/pmc-trackonomics/build/index.js",
 "bioinformatics.org/images/ack_banners/",
 "biomedcentral.com/track/",
 "birdsend.co/assets/static/js/pixel/",
@@ -8603,7 +8600,6 @@
 "xiaohongshu.com/api/collect",
 "xiaohongshu.com/api/v2/collect",
 "xiaohuangshu.me/visit.php",
-"xiaomi.com/js/mstr.js?",
 "xing.com/collect/",
 "xing.com/logjam/",
 "xinhuanet.com/s?",
@@ -10646,6 +10642,8 @@
 ],
 "kbb.com": [
 "#contentFor_kbbAdsSimplifiedNativeAd",
+".ads__container",
+".ads__container-kbbLockedAd",
 ".sticky-container"
 ],
 "lineageos18.com": [
@@ -13663,6 +13661,9 @@
 ".text-center.italic",
 ".top-0.justify-center",
 ".top-10"
+],
+"jigsawplanet.com": [
+"#tsi-9c55f80e-3"
 ],
 "pcworld.com": [
 "#tso",
@@ -18178,6 +18179,9 @@
 ".cs-teaser",
 "a[href*=\"/sponsored/\"]"
 ],
+"bloomberglinea.com": [
+".arcad-feature-custom"
+],
 "1news.co.nz": [
 ".arcad_feature"
 ],
@@ -19558,7 +19562,7 @@
 ".box"
 ],
 "chosun.com": [
-".box--bg-grey-20"
+".box--bg-grey-20:has(.dfpAd)"
 ],
 "filmbooster.com": [
 ".box-banner"
@@ -21554,6 +21558,9 @@
 ".g"
 ],
 "thegolfnewsnet.com": [
+".g"
+],
+"utdmercury.com": [
 ".g"
 ],
 "waamradio.com": [
@@ -27225,6 +27232,12 @@
 "tcbscans.com": [
 "[href^=\"https://readcbr.com/\"]"
 ],
+"rlsbb.cc": [
+"[href^=\"https://rlsbb.cc/link.php\"]"
+],
+"rlsbb.ru": [
+"[href^=\"https://rlsbb.ru/link.php\"]"
+],
 "all-free-download.com": [
 "[href^=\"https://shutterstock.7eer.net/c/\"] img"
 ],
@@ -30003,6 +30016,10 @@
 ],
 "stars-portraits.com": [
 ".ads"
+],
+"arktimes.com": [
+"#top-banner-container",
+"#EdwardsFooterFlyer"
 ],
 "nbcsports.com": [
 "#nbcsports-leaderboard",
