@@ -7075,6 +7075,7 @@
 "myspace.com/beacon/",
 "myunique.info/wp-includes/js/pop.js",
 "myvidster.com/js/myv_ad_camp2.php",
+"mzbcdn.net/mngr/mtm.js",
 "n.tooplay.com/s?v_unique=",
 "n11.com/realTime/count",
 "naiz.eus/visits",
@@ -7952,6 +7953,7 @@
 "stats.publitas.com/publitas-stats/track",
 "stavka.tv/metrika/watch.js",
 "stavka.tv/post-affilate-pro.js",
+"stay22.com",
 "stayz.com.au/cl/data/omgpixel.json",
 "steamanalyst.com/steeem/delivery/",
 "steamchina.com/default/usabilitytracking",
@@ -14845,6 +14847,9 @@
 ".rail-recommended"
 ],
 "businesstech.co.za": [
+".ad"
+],
+"businessworld.in": [
 ".ad"
 ],
 "c21media.net": [
@@ -40457,6 +40462,7 @@
 ".articleTopAd",
 ".article__ad-holder",
 ".article__adblock",
+".article__adhesion",
 ".article__adv",
 ".article__header-ad-slot",
 ".article__inset--margin-ad",
@@ -45741,6 +45747,7 @@
 ".ad-container--hot-video",
 ".ae-player__itv",
 ".ami-video-wrapper",
+".ampexcoVideoPlayer",
 ".aniview-inline-player",
 ".anyClipWrapper",
 ".aplvideo",
