@@ -549,7 +549,6 @@
 "/ad/dfp/",
 "/ad/err?",
 "/ad/getban?",
-"/ad/image/",
 "/ad/imp?",
 "/ad/load_ad?",
 "/ad/pagehits.",
@@ -890,7 +889,6 @@
 "/advertising/banners/",
 "/advertisingwebrenderer.min.js",
 "/advertisment-",
-"/advertisment_",
 "/adverts_",
 "/advrotator.js",
 "/advrotator_",
@@ -905,7 +903,6 @@
 "/aff-ads.",
 "/aff/ads_",
 "/aff/banners/",
-"/aff/images/",
 "/aff_banner/",
 "/aff_banners/",
 "/aff_i?offer_id=",
@@ -1217,7 +1214,6 @@
 "/banner/html/zone?zid=",
 "/banner/sponsors.",
 "/banner_468.",
-"/banner_ad_",
 "/banner_ads/",
 "/banner_ads_",
 "/bannerad.",
@@ -1995,7 +1991,6 @@
 "/extendedanalytics.js",
 "/external-tracking.min.js",
 "/external/ad.",
-"/external/ad/",
 "/external/ads/",
 "/external_ad?",
 "/external_ads.",
@@ -2044,7 +2039,6 @@
 "/fload.js",
 "/float-ads/",
 "/float_ad.js",
-"/floatad_",
 "/floatads.",
 "/floating-ad-",
 "/floatingad.js",
@@ -2101,7 +2095,6 @@
 "/frontend-gtag.min.js",
 "/frontend-metrics/",
 "/frontend-sentry-",
-"/frontend/ads/",
 "/frontend_loader.js",
 "/fsrscripts/triggerparams.js",
 "/ftt2/js.php",
@@ -2361,9 +2354,7 @@
 "/if/services/tdg?hs=",
 "/iiquniversalid.min.js",
 "/image.ng/",
-"/image/ad/",
 "/image/ads/",
-"/image/ads_",
 "/image/affiliate/",
 "/image_ads/",
 "/imageads/",
@@ -3040,7 +3031,6 @@
 "/php-stats.recjs.php?",
 "/php/ad/",
 "/phpads/",
-"/phpadsnew/",
 "/phpbb_ads/",
 "/phpmyvisites.js",
 "/piano-analytics.js",
@@ -4236,7 +4226,6 @@
 "/video-js-ads.",
 "/video.ads.",
 "/video.counters.",
-"/video/ad/",
 "/video/ads/",
 "/video/tracking.js",
 "/video_ad.",
@@ -5064,7 +5053,6 @@
 "api-v3.findify.io/v3/feedback",
 "api-web.pressplay.cc/marketing",
 "api.aio.media/stat?",
-"api.airfind.com/stats/",
 "api.atlassian.com/metal/ingest",
 "api.blink.net/a/",
 "api.ea3w.com/hits.js",
@@ -5661,7 +5649,6 @@
 "cookiefirst.com",
 "cookiehub.net",
 "cookieinfoscript.com",
-"cookielaw.org",
 "cookieparty.eu",
 "cookiepro.com",
 "cookieq.com",
@@ -5937,6 +5924,7 @@
 "elitepvpers.com/epvplytics.",
 "elitesingles.com/cs/tp.png?",
 "elliottwave.com/fw/regular_leaderboard.js",
+"elpais.com.co/js/frontend/ads/",
 "elpais.com/t.gif",
 "emarketeer.com/tracker/",
 "embed.mikmak.tv/brandtracking/",
@@ -6715,6 +6703,7 @@
 "lastpass.com/lpapi/content/pixels",
 "lastpass.com/m.php/loadanalytics2",
 "lastpass.com/m.php/proxy_tracker",
+"latestlaws.com/frontend/ads/",
 "laurenhi.com/app/eclog/",
 "lawdepot.com/affiliate/",
 "ldlc.com/v4px/js/ldlcmachine.js",
@@ -9392,7 +9381,8 @@
 ".ad-3-728",
 ".ad-5-300",
 ".aduns",
-".aduns2"
+".aduns2",
+".aduns6"
 ],
 "irannewsdaily.com": [
 "#ads"
@@ -12622,6 +12612,10 @@
 "#recthome",
 "#recthomebot"
 ],
+"ip-tracker.org": [
+"#rekl",
+".ad-1-drzac"
+],
 "tapatalk.com": [
 "#relatedblogbar"
 ],
@@ -12794,7 +12788,12 @@
 ".billboard",
 ".dmpu-item",
 ".sc-igwadP",
-"div[class^=\"TopBanner\"]"
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"TopBanner\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "ubergizmo.com": [
 "#sidebar_card_spon",
@@ -13105,6 +13104,7 @@
 ],
 "homedepot.com": [
 "#sponsored-standard-banner-nucleus",
+".browse-search__pod:has([id^=\"plp_pod_sponsored\"])",
 "section[id^=\"browse-search-pods-\"] > div.browse-search__pod:has(div.product-sponsored)"
 ],
 "landreport.com": [
@@ -15681,8 +15681,11 @@
 "fastcompany.com": [
 ".ad-container",
 ".adhesive-banner",
+".jw-floating-dismissible",
 ".post__promotion",
-".sticky-outer-wrapper"
+".py-8",
+".sticky-outer-wrapper",
+".sticky:has(.ad-container)"
 ],
 "footyheadlines.com": [
 ".ad-container"
@@ -18616,8 +18619,24 @@
 ".gc-leaderboard",
 ".gc-medium-rectangle"
 ],
+"3addedminutes.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "alistapart.com": [
 ".banner"
+],
+"anguscountyworld.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "arcadebomb.com": [
 ".banner",
@@ -18629,12 +18648,45 @@
 ".banner",
 ".sponsors"
 ],
+"banburyguardian.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"bedfordtoday.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"biggleswadetoday.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "bikechatforums.com": [
 ".banner",
 ".row2[style=\"padding: 5px;\"]"
 ],
 "birminghamworld.uk": [
 ".banner"
+],
+"blackpoolgazette.co.uk": [
+".banner",
+".billboard",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "bristolworld.com": [
 ".banner"
@@ -18648,6 +18700,30 @@
 ".boo_3oo_6oo",
 ".f_man_728"
 ],
+"bucksherald.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"burnleyexpress.net": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"buxtonadvertiser.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "ca-flyers.com": [
 ".banner"
 ],
@@ -18659,6 +18735,14 @@
 "caribvision.tv": [
 ".banner"
 ],
+"chad.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "cmo.com.au": [
 ".banner",
 ".boombox"
@@ -18666,11 +18750,53 @@
 "coryarcangel.com": [
 ".banner"
 ],
+"daventryexpress.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "derbyshiretimes.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"derbyworld.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"derryjournal.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"dewsburyreporter.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "doncasterfreepress.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "elyricsworld.com": [
 ".banner"
@@ -18685,9 +18811,27 @@
 "exalink.fun": [
 ".banner"
 ],
+"falkirkherald.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"farminglife.com": [
+".banner",
+".billboard",
+".helper__DesktopAdContainer-sc-12ggaoi-1"
+],
 "fifetoday.co.uk": [
 ".banner",
-".iehxDO"
+".iehxDO",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "filmmakermagazine.com": [
 ".banner"
@@ -18713,7 +18857,12 @@
 ".jsx-3256658636"
 ],
 "glasgowworld.com": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "gr8.cc": [
 ".banner",
@@ -18723,11 +18872,56 @@
 ".banner",
 ".banner2"
 ],
+"halifaxcourier.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"harboroughmail.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"harrogateadvertiser.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "hartlepoolmail.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"hemeltoday.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "hortidaily.com": [
 ".banner"
+],
+"hucknalldispatch.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "hyipexplorer.com": [
 ".banner"
@@ -18767,38 +18961,117 @@
 "kissasians.org": [
 ".banner"
 ],
+"lancasterguardian.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "laserpointerforums.com": [
 ".banner"
 ],
+"leightonbuzzardonline.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"lep.co.uk": [
+".banner",
+".billboard",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "lincolnshireworld.com": [
 ".banner",
-".helper__AdContainer-sc-12ggaoi-0"
+".helper__AdContainer-sc-12ggaoi-0",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "liverpoolworld.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "londonworld.com": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"lutontoday.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "manchesterworld.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "marinelink.com": [
 ".banner",
 ".jq-banner"
 ],
+"meltontimes.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "mercopress.com": [
 ".banner"
 ],
 "miltonkeynes.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "mob.org": [
 ".banner"
 ],
 "newcastleworld.com": [
 ".banner",
-".helper__DesktopAdContainer-sc-12ggaoi-1"
+".helper__DesktopAdContainer-sc-12ggaoi-1",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"newryreporter.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "news.am": [
 ".banner",
@@ -18810,15 +19083,54 @@
 ".banner-wr",
 ".right-banner-wr > .right"
 ],
+"newsletter.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "northamptonchron.co.uk": [
 ".banner",
-".billboard"
+".billboard",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "northantstelegraph.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"northernirelandworld.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "northumberlandgazette.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"nottinghamworld.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "oncyprus.com": [
 ".banner"
@@ -18826,11 +19138,24 @@
 "onlineconvertfree.com": [
 ".banner"
 ],
+"peterboroughtoday.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "pharmatimes.com": [
 ".banner"
 ],
 "portsmouth.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "powerboat.world": [
 ".banner"
@@ -18847,9 +19172,26 @@
 "reversephonesearch.com.au": [
 ".banner"
 ],
+"rotherhamadvertiser.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "scientificamerican.com": [
 ".banner",
 ".footer-banner"
+],
+"shieldsgazette.com": [
+".banner",
+".billboard",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "smartcarfinder.com": [
 ".banner"
@@ -18865,11 +19207,35 @@
 "starradionortheast.co.uk": [
 ".banner"
 ],
+"stornowaygazette.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "subscene.com": [
 ".banner"
 ],
 "sumodb.com": [
 ".banner"
+],
+"sunderlandecho.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"surreyworld.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "sussexexpress.co.uk": [
 ".banner",
@@ -18894,9 +19260,30 @@
 "thehun.com": [
 ".banner"
 ],
+"thescarboroughnews.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"thesouthernreporter.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "thestar.co.uk": [
 ".banner",
 ".billboard",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]",
 ".gOoqzH"
 ],
 "timeslive.co.za": [
@@ -18905,6 +19292,14 @@
 ],
 "tmi.me": [
 ".banner"
+],
+"totallysnookered.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "toyworldmag.co.uk": [
 ".banner"
@@ -18918,11 +19313,48 @@
 "vloot.io": [
 ".banner"
 ],
+"wakefieldexpress.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"walesworld.com": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "warwickshireworld.com": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "weekly-ads.us": [
 ".banner"
+],
+"wigantoday.net": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
+"worksopguardian.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "worldtimeserver.com": [
 ".banner",
@@ -18934,8 +19366,21 @@
 "ynetnews.com": [
 ".banner"
 ],
+"yorkshireeveningpost.co.uk": [
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
+],
 "yorkshirepost.co.uk": [
-".banner"
+".banner",
+"[data-type=\"AdRowBillboard\"]",
+"div[class^=\"AdLoadingText\"]",
+"div[class^=\"SidebarAds_\"]",
+"div[class^=\"helper__AdContainer\"]",
+"div[data-ads-params]"
 ],
 "dayspedia.com": [
 ".banner--aside",
@@ -19335,16 +19780,7 @@
 ".bigsquare",
 ".square"
 ],
-"blackpoolgazette.co.uk": [
-".billboard"
-],
 "hotstar.com": [
-".billboard"
-],
-"lep.co.uk": [
-".billboard"
-],
-"shieldsgazette.com": [
 ".billboard"
 ],
 "talksport.com": [
@@ -19608,8 +20044,7 @@
 ".ldb-top",
 ".middle4",
 ".sidebar-1skyscraper",
-".sidebar-skyscraper",
-"[class*=\"clickout-\"]"
+".sidebar-skyscraper"
 ],
 "softicons.com": [
 ".bottom_125_block",
@@ -20033,6 +20468,9 @@
 ".citrus_ad_banner",
 ".sponsored_product",
 ".plp_thumb_wrap:has([data-citrusadimpressionid])"
+],
+"apps.jeurissen.co": [
+".cja-landing__content > .cja-sqrimage"
 ],
 "kissanime.com.ru": [
 ".close_ad_button"
@@ -20512,8 +20950,7 @@
 ".components-Ad-__Ad__ad"
 ],
 "beincrypto.com": [
-".cont-wrapper",
-"[class*=\"clickout-\"]"
+".cont-wrapper"
 ],
 "whatismyip.net": [
 ".container > .panel[id]"
@@ -20605,8 +21042,7 @@
 ],
 "coinpaprika.com": [
 ".cp-table__row--ad-row",
-".dynamic-ad",
-"[class*=\"clickout-\"]"
+".dynamic-ad"
 ],
 "cpomagazine.com": [
 ".cpoma-adlabel",
@@ -20635,7 +21071,8 @@
 "div.slick-slide:has(.product-tile__sponsored)"
 ],
 "staradvertiser.com": [
-".csMon"
+".csMon",
+".promo-container"
 ],
 "c-span.org": [
 ".cspan-ad-still-prebid-wrapper",
@@ -21384,6 +21821,9 @@
 ".flex_container_werbung",
 ".ice_ner",
 ".ice_werbung"
+],
+"recipes.timesofindia.com": [
+".flipkartbanner"
 ],
 "klmanga.net": [
 ".float-ck"
@@ -24814,6 +25254,12 @@
 "sabcsport.com": [
 ".sbac_header_top_ad"
 ],
+"news.bitcoin.com": [
+".sc-cpornS",
+"[class*=\"clickout-\"]",
+".dXWTEu",
+".gyHIup"
+],
 "sankakucomplex.com": [
 ".scad"
 ],
@@ -27304,8 +27750,7 @@
 ],
 "crypto-news-flash.com": [
 "[href^=\"https://mollars.com/\"]",
-".adsBanner",
-"[class*=\"clickout-\"]"
+".adsBanner"
 ],
 "abovetopsecret.com": [
 "[href^=\"https://mypatriotsupply.com/\"]"
@@ -29037,6 +29482,9 @@
 "aleteia.org": [
 "#root > div[class]:has(> .adslot)"
 ],
+"luxa.org": [
+".MuiContainer-root:has(> ins.adsbygoogle)"
+],
 "haveibeenpwned.com": [
 ".actionsBar:has(.why1Password)",
 ".bodyGradient > :has(.why1Password)"
@@ -30170,8 +30618,7 @@
 ".OcelotAdModule"
 ],
 "coinspeaker.com": [
-".aside-banner",
-"[class*=\"clickout-\"]"
+".aside-banner"
 ],
 "skynews.com.au": [
 ".header_ads-container"
@@ -30784,7 +31231,6 @@
 "#vertical.ad",
 ".Ad.Leaderboard",
 ".AdBody:not(body)",
-".Wdgt.widgetAds",
 ".\\[\\&_\\.gdprAdTransparencyCogWheelButton\\]\\:\\!pjra-z-\\[5\\]",
 ".ad-box:not(#ad-banner):not(:empty)",
 ".ad.addon",
@@ -35921,7 +36367,6 @@
 ".WidgetAdvertiser",
 ".WidthAd",
 ".WikiaTopAds",
-".XEad",
 "._SummaryPageHeaderAdView",
 "._SummaryPageSidebarStickyAdView",
 ".__isboostOverContent",
@@ -36053,8 +36498,6 @@
 ".ad--rightRail",
 ".ad--scroll",
 ".ad--section",
-".ad--seeding",
-".ad--showmob",
 ".ad--sidebar",
 ".ad--sky",
 ".ad--skyscraper",
@@ -36066,7 +36509,6 @@
 ".ad--stripe",
 ".ad--stroeer",
 ".ad--subcontainer",
-".ad--tabletDesktop",
 ".ad--top",
 ".ad--top-desktop",
 ".ad--top-leaderboard",
@@ -36078,24 +36520,14 @@
 ".ad--widget",
 ".ad--wrapper",
 ".ad-1",
-".ad-1-drzac-links",
-".ad-1-sidebar-1",
-".ad-1-sidebar-2",
-".ad-10",
-".ad-101",
-".ad-11",
-".ad-12",
 ".ad-120-60",
 ".ad-120x60",
 ".ad-120x600",
 ".ad-120x90",
-".ad-121",
-".ad-125",
 ".ad-125x125",
 ".ad-13",
 ".ad-137",
 ".ad-14",
-".ad-150",
 ".ad-160",
 ".ad-160-160",
 ".ad-160-600",
@@ -36103,10 +36535,7 @@
 ".ad-2",
 ".ad-200",
 ".ad-200x200",
-".ad-234",
-".ad-246x90",
 ".ad-250",
-".ad-250x250",
 ".ad-250x300",
 ".ad-3",
 ".ad-300",
@@ -36114,9 +36543,7 @@
 ".ad-300-250-600",
 ".ad-300-600",
 ".ad-300-b",
-".ad-300-b-absolute",
 ".ad-300-block",
-".ad-300-blog",
 ".ad-300-dummy",
 ".ad-300-flex",
 ".ad-300-x-250",
@@ -36164,11 +36591,7 @@
 ".ad-970",
 ".ad-970-250",
 ".ad-970-90",
-".ad-970x250-container",
-".ad-970x250-home",
-".ad-980-1",
 ".ad-Advert_Placeholder",
-".ad-CUSTOM",
 ".ad-E",
 ".ad-LREC",
 ".ad-LREC2",
@@ -36176,7 +36599,6 @@
 ".ad-MPU",
 ".ad-MediumRectangle",
 ".ad-PENCIL",
-".ad-RR",
 ".ad-S",
 ".ad-Square",
 ".ad-SuperBanner",
@@ -36422,7 +36844,6 @@
 ".ad-cover",
 ".ad-critical",
 ".ad-cta",
-".ad-ctn",
 ".ad-current",
 ".ad-curtain",
 ".ad-custom-size",
@@ -36445,8 +36866,6 @@
 ".ad-disclaimer-text",
 ".ad-display",
 ".ad-displayed",
-".ad-div-a0-wrapper",
-".ad-div-t0-wrapper",
 ".ad-diver",
 ".ad-divider",
 ".ad-dog",
@@ -36457,7 +36876,6 @@
 ".ad-e",
 ".ad-element",
 ".ad-enabled",
-".ad-endcap-wrapper",
 ".ad-engage",
 ".ad-entity-container",
 ".ad-entry-wrapper",
@@ -36515,10 +36933,6 @@
 ".ad-grid-125",
 ".ad-grid-container",
 ".ad-group",
-".ad-grp",
-".ad-h",
-".ad-h-250",
-".ad-h-60",
 ".ad-halfpage",
 ".ad-halfpage-placeholder",
 ".ad-hdr",
@@ -36533,14 +36947,11 @@
 ".ad-header-sidebar",
 ".ad-header-small-square",
 ".ad-heading",
-".ad-headliner-container",
-".ad-heigh-mobile-250",
 ".ad-height-250",
 ".ad-height-280",
 ".ad-height-600",
 ".ad-here",
 ".ad-hero",
-".ad-hfu",
 ".ad-hide-mobile",
 ".ad-hideable",
 ".ad-hint",
@@ -36574,9 +36985,6 @@
 ".ad-identifier",
 ".ad-iframe",
 ".ad-iframe-container",
-".ad-imagehold",
-".ad-in-300x250",
-".ad-in-artilce",
 ".ad-in-content",
 ".ad-in-content-300",
 ".ad-in-post",
@@ -37080,9 +37488,6 @@
 ".ad-topbanner",
 ".ad-topper",
 ".ad-topright",
-".ad-topteaser",
-".ad-total",
-".ad-total1",
 ".ad-tower",
 ".ad-tower-container",
 ".ad-towers",
@@ -45419,6 +45824,7 @@
 ".widget6-ad",
 ".widget7-ad",
 ".widgetAD",
+".widgetAds",
 ".widgetContentIfrWrapperAd",
 ".widgetSponsors",
 ".widget_300x250_advertisement",
