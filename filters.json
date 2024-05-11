@@ -582,7 +582,6 @@
 "/ad_request.js",
 "/ad_request.php",
 "/ad_right.",
-"/ad_rotator/",
 "/ad_server.",
 "/ad_side.",
 "/ad_skyscraper.gif",
@@ -838,7 +837,6 @@
 "/adv/mjx.js",
 "/adv_2.",
 "/adv_468.",
-"/adv_ads_v3/relatedads/",
 "/adv_banner_",
 "/adv_out.js",
 "/adv_teasers.js",
@@ -1175,7 +1173,6 @@
 "/banners/ads-",
 "/banners/ads.",
 "/banners/aff.",
-"/bannersads_",
 "/base/es5/bundle.js",
 "/base/es6/bundle.js",
 "/batch.gif?",
@@ -2295,7 +2292,6 @@
 "/image_ads/",
 "/images-ad/",
 "/images/ad2/",
-"/images/adz/",
 "/images/top100.gif",
 "/imawebcookie.js",
 "/img.gif?",
@@ -2331,7 +2327,6 @@
 "/in.php?referer=",
 "/in/show/?mid=",
 "/inboundanalytics.min.js",
-"/include/ad/",
 "/include/ad_",
 "/include/js/ga-set.js",
 "/increment_page_counter.jsp",
@@ -2684,7 +2679,6 @@
 "/mi/insite/",
 "/microad.js",
 "/microsoft.cognitiveservices.speech.sdk.bundle.js",
-"/min/ads/",
 "/min/gtm/",
 "/minescripts.js",
 "/mint/?js",
@@ -2710,7 +2704,6 @@
 "/mobileads.",
 "/mod_cookiesaccept/",
 "/mod_jbcookies/",
-"/mod_pagepeel_banner/",
 "/module-ads/",
 "/module/ads/",
 "/modules/ad/",
@@ -2877,7 +2870,6 @@
 "/pagecounter.adp?",
 "/pagedot.gif?",
 "/pageear.js",
-"/pageear/",
 "/pagehit.ashx",
 "/pagelogger/connector.php?",
 "/pagepeel.",
@@ -2912,7 +2904,6 @@
 "/particles/analytics.js",
 "/partner-ad-",
 "/partner-analytics/",
-"/partner_ads/",
 "/partner_tracking_min.js",
 "/partnerad.",
 "/partnerads/",
@@ -2949,7 +2940,6 @@
 "/php-stats.phpjs.php?",
 "/php-stats.recjs.php?",
 "/phpads/adx.js",
-"/phpbb_ads/",
 "/phpmyvisites.js",
 "/piano-analytics.js",
 "/pincttracking.js",
@@ -3048,7 +3038,6 @@
 "/plugins/ad-ace/includes/shoppable-images/",
 "/plugins/adrotate-pro/",
 "/plugins/ads-",
-"/plugins/ads/",
 "/plugins/adsanity-",
 "/plugins/ane-banners-entre-links/",
 "/plugins/ane-preroll-",
@@ -3234,7 +3223,6 @@
 "/rdrr/renderer.js",
 "/rdstation-popup.min.js",
 "/readthedocs-analytics.js",
-"/realmedia/ads/adstream_",
 "/realtimeapi/impression?",
 "/realytics-1.2.min.js",
 "/realytics.js",
@@ -3263,7 +3251,6 @@
 "/reklama3.png",
 "/reklama4.jpg",
 "/reklama4.png",
-"/reklame/",
 "/remote-weblab-triggers/",
 "/ren.gif?",
 "/rendertimingpixel.",
@@ -3436,7 +3423,6 @@
 "/serveads.php",
 "/server.php?request=track&output=",
 "/server/detect.php?",
-"/service/ads/",
 "/service/track?",
 "/services/pixel.html?",
 "/servlet/cookie?",
@@ -3482,7 +3468,6 @@
 "/si-tracking.",
 "/side-ads-",
 "/side-ads/",
-"/side_ads/",
 "/sidead.",
 "/sidead1.js",
 "/sideads.js",
@@ -3513,7 +3498,6 @@
 "/skin-ad_",
 "/skin/ad/",
 "/skin/adv/",
-"/skin3/ads/",
 "/skin_ad-",
 "/skinad.",
 "/skyadright.",
@@ -3582,12 +3566,10 @@
 "/sponsored-links/",
 "/sponsored-widget",
 "/sponsored_ad.",
-"/sponsored_ads/",
 "/sponsored_link.",
 "/sponsored_links_",
 "/sponsored_text.",
 "/sponsoredlinks.",
-"/sponsoredlinks/",
 "/sponsoredlinks?",
 "/spresso.sdk.tracking.web.js",
 "/sptracking.",
@@ -4353,7 +4335,6 @@
 "/wtinit.js",
 "/wtrack?event=",
 "/wutime-adblocktracker/",
-"/www/deliver/",
 "/www/deliverx/",
 "/www/js/ad/",
 "/wwwcount.cgi?",
@@ -4757,6 +4738,7 @@
 "abema-tv.com/v1/stats/",
 "about.me/track?",
 "aboutmyarea.co.uk/images/imgstore/",
+"absoluteanime.com/!bin/skin3/ads/",
 "abysscdn.com/cdn-cgi/trace",
 "ac.dun.163yun.com/v2/collect?",
 "academia.edu/record_hit",
@@ -6286,6 +6268,7 @@
 "hu-manity.co",
 "hub.fromdoppler.com/public/dhtrack.js",
 "hub.reacti.co/index.js",
+"hubcloud.day/video/bn/",
 "hubpages.com/ctracker/",
 "hudong.com/flux.js",
 "huffpost.com/ping?",
@@ -8418,6 +8401,7 @@
 "xing.com/collect/",
 "xing.com/logjam/",
 "xing.com/xas/",
+"xingcdn.com/crate/ad-",
 "xingcdn.com/xas/",
 "xinhuanet.com/s?",
 "xlgaytube.tv/analytics.js",
@@ -20490,6 +20474,9 @@
 "map.riftkit.net": [
 ".coachify_wrapper"
 ],
+"100percentfedup.com": [
+".code-block"
+],
 "180gadgets.com": [
 ".code-block"
 ],
@@ -21929,6 +21916,11 @@
 "theiphoneappreview.com": [
 ".frame",
 ".widget_links"
+],
+"mathgames.com": [
+".frame-container",
+".main-banner-adContainer",
+".right-ad-override"
 ],
 "freedomfirstnetwork.com": [
 ".freed-1",
@@ -27214,7 +27206,8 @@
 "[action^=\"//href.li/?\"]"
 ],
 "hubcloud.day": [
-"[alt=\"New-Banner\"]"
+"[alt=\"New-Banner\"]",
+"[href*=\"bit.ly/\"]"
 ],
 "gab.com": [
 "[aria-label*=\"Sponsored:\"]",
@@ -28115,8 +28108,6 @@
 "a[ajaxify*=\"&eid=\"] + a[href^=\"https://l.facebook.com/l.php?u=\"]",
 "a[aria-label=\"Advertiser link\"]",
 "a[aria-label=\"Advertiser\"]",
-"a[aria-label][href*=\"&fbclid=\"]",
-"a[aria-label][href*=\"26fbclid%\"]",
 "article[data-ft*=\"\\\"ei\\\":\\\"\"]",
 "._6y8t:has(a[href=\"/ads/about/?entry_product=ad_preferences\"])",
 "div[style=\"max-width: 390px; min-width: 190px;\"]:has(a[href^=\"/ads/\"])",
@@ -28126,8 +28117,6 @@
 "a[ajaxify*=\"&eid=\"] + a[href^=\"https://l.facebook.com/l.php?u=\"]",
 "a[aria-label=\"Advertiser link\"]",
 "a[aria-label=\"Advertiser\"]",
-"a[aria-label][href*=\"&fbclid=\"]",
-"a[aria-label][href*=\"26fbclid%\"]",
 "article[data-ft*=\"\\\"ei\\\":\\\"\"]",
 "._6y8t:has(a[href=\"/ads/about/?entry_product=ad_preferences\"])",
 "div[style=\"max-width: 390px; min-width: 190px;\"]:has(a[href^=\"/ads/\"])"
@@ -28404,6 +28393,9 @@
 "glory985.com": [
 "a[href^=\"https://sweetbidsflo.irauctions.com/listing/0\"]"
 ],
+"veev.to": [
+"a[href^=\"https://t.ly/\"]"
+],
 "vnkb.com": [
 "a[href^=\"https://vnkb.com/e/\"]"
 ],
@@ -28515,7 +28507,8 @@
 "article[data-qa=\"disco-updates-video-ad\"]",
 "article[data-qa=\"disco-updates-website-ad\"]",
 "div[data-qa=\"jobs-inline-ad\"]",
-"div[data-qa=\"jobs-recommendation-ad\"]"
+"div[data-qa=\"jobs-recommendation-ad\"]",
+"li[data-qa=\"notifications-ad\"]"
 ],
 "winaero.com": [
 "aside.sidebar > section:not([id^=\"custom_html-\"]).widget_custom_html",
@@ -47849,6 +47842,10 @@
 "image": true,
 "script": true
 },
+"/ad_rotator/": {
+"image": true,
+"script": true
+},
 "/adbanners/": {
 "image": true
 },
@@ -47904,6 +47901,10 @@
 },
 "/adsmanager/": {},
 "/adtrack.": {},
+"/advadsv3/": {
+"script": true,
+"stylesheet": true
+},
 "/advanced-ads-": {},
 "/advbanner/": {
 "image": false
@@ -48054,6 +48055,9 @@
 "/img_ad/": {
 "image": true
 },
+"/include/ad/": {
+"script": true
+},
 "/includes/ads/": {
 "script": true
 },
@@ -48076,11 +48080,18 @@
 "/mod_ijoomla_adagency_zone/": {
 "xmlhttprequest": false
 },
+"/mod_pagepeel_banner/": {
+"image": true,
+"script": true
+},
 "/module-ads-html-": {
 "script": true
 },
 "/mydirtyhobby.": {},
 "/nativeads/script/": {
+"script": true
+},
+"/pageear/": {
 "script": true
 },
 "/partnerbanner.": {},
@@ -48094,6 +48105,9 @@
 "image": true,
 "script": true
 },
+"/phpbb_ads/": {
+"xmlhttprequest": false
+},
 "/pix/ads/": {
 "image": true
 },
@@ -48102,6 +48116,9 @@
 },
 "/plugins/adrotate/": {
 "script": true
+},
+"/plugins/ads/": {
+"xmlhttprequest": false
 },
 "/plugins/advanced-ads/": {},
 "/plugins/cactus-ads/": {
@@ -48154,9 +48171,15 @@
 "/publicidades/": {
 "xmlhttprequest": false
 },
+"/realmedia/ads/": {
+"xmlhttprequest": false
+},
 "/reklam.": {},
 "/reklam/": {},
 "/reklama/": {},
+"/reklame/": {
+"xmlhttprequest": false
+},
 "/responsive/ad_": {
 "sub_frame": true
 },
@@ -48169,6 +48192,9 @@
 },
 "/servlet/view/": {
 "script": true
+},
+"/side_ads/": {
+"xmlhttprequest": false
 },
 "/sidebar_ads/": {
 "xmlhttprequest": false
@@ -48500,6 +48526,10 @@
 "popup": true
 },
 "ca3d.site": {
+"main_frame": true,
+"popup": true
+},
+"ca9246.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -49378,6 +49408,9 @@
 "image": true
 },
 "/t/ofc4/": {
+"image": true
+},
+"/track.octanemail.in/sapi/": {
 "image": true
 },
 "/track/open/": {
