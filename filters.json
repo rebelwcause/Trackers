@@ -47484,8 +47484,6 @@
 ".ads-loaded": [
 "forbes.com"
 ],
-"#ad-carousel": [],
-"#ad-p3": [],
 "#ad-rotator": [
 "53.com"
 ],
@@ -47495,14 +47493,9 @@
 "#ad-wrapper": [
 "ufoevidence.org"
 ],
-"#ad_1": [],
-"#ad_2": [],
-"#ad_3": [],
-"#ad_4": [],
 "#ad_link": [
 "drc1bk94f7rq8.cloudfront.net"
 ],
-"#ad_top": [],
 "#adbar": [
 "linuxtracker.org"
 ],
@@ -47513,15 +47506,12 @@
 "#adcontainer1": [
 "about.com"
 ],
-"#adcontent": [],
 "#ads-col": [
 "lifeinvader.com"
 ],
-"#ads-header": [],
 "#ads-left": [
 "miuithemers.com"
 ],
-"#ads-menu": [],
 "#ads-wrapper": [
 "finvtech.com",
 "herstage.com",
@@ -47548,7 +47538,6 @@
 "basinnow.com",
 "oxfordlearnersdictionaries.com"
 ],
-"#article_ad": [],
 "#banner-ad": [
 "catb.org"
 ],
@@ -47564,21 +47553,16 @@
 "#google-ads": [
 "developers.google.com"
 ],
-"#headerAd": [],
 "#header_ad": [
 "airplaydirect.com",
 "zeirishi-web.com"
 ],
-"#leftad": [],
-"#page_ad": [],
 "#prerollAd": [
 "box10.com"
 ],
 "#related_ads": [
 "spjai.com"
 ],
-"#right_ads": [],
-"#rightad": [],
 "#side-ad": [
 "techeyesonline.com"
 ],
@@ -47601,7 +47585,6 @@
 ".Adsense": [
 "gamingcools.com"
 ],
-".ProductAd": [],
 ".ac-widget-placeholder": [
 "click2houston.com",
 "clickondetroit.com",
@@ -47625,8 +47608,6 @@
 ".ad-bottom": [
 "ikkaku.net"
 ],
-".ad-button": [],
-".ad-center": [],
 ".ad-click": [
 "newegg.com"
 ],
@@ -47634,7 +47615,6 @@
 "flat-ads.com",
 "job.inshokuten.com"
 ],
-".ad-cover": [],
 ".ad-current": [
 "xda-developers.com"
 ],
@@ -47650,24 +47630,15 @@
 ".ad-icon": [
 "transparencyreport.google.com"
 ],
-".ad-label": [],
-".ad-links": [],
-".ad-notice": [],
-".ad-outside": [],
-".ad-point": [],
-".ad-popup": [],
 ".ad-root": [
 "hulu.com"
 ],
 ".ad-sidebar": [
 "wiki.fextralife.com"
 ],
-".ad-source": [],
-".ad-text": [],
 ".ad-title": [
 "job.inshokuten.com"
 ],
-".ad-widget": [],
 ".ad-wrapper": [
 "lifeinvader.com",
 "marginalreport.net",
@@ -47680,7 +47651,6 @@
 ".ad-zone-container": [
 "xda-developers.com"
 ],
-".ad336": [],
 ".ad728x90": [
 "leffatykki.com"
 ],
@@ -47700,7 +47670,6 @@
 ".adLink": [
 "hdfcbank.com"
 ],
-".adMiddle": [],
 ".adResult": [
 "infotel.ca"
 ],
@@ -47710,7 +47679,6 @@
 ".ad_banner": [
 "clien.net"
 ],
-".ad_bg": [],
 ".ad_block": [
 "sozai-good.com"
 ],
@@ -47751,11 +47719,9 @@
 ".ad_main": [
 "muzines.co.uk"
 ],
-".ad_middle": [],
 ".ad_spot": [
 "huffingtonpost.co.uk"
 ],
-".ad_top": [],
 ".adban": [
 "genshinimpactcalculator.com"
 ],
@@ -47771,7 +47737,6 @@
 ".adlink": [
 "kingsinteriors.co.uk"
 ],
-".adrect": [],
 ".adrow": [
 "epawaweather.com"
 ],
@@ -47800,7 +47765,6 @@
 ".ads-title": [
 "juicesky.com"
 ],
-".ads-top": [],
 ".ads1": [
 "getwallpapers.com",
 "wallpaperaccess.com",
@@ -47859,7 +47823,6 @@
 "packhacker.com",
 "packinsider.com"
 ],
-".adtitle": [],
 ".adv-banner": [
 "brandexperience-group.com"
 ],
@@ -47905,8 +47868,6 @@
 ".adverttext": [
 "stjornartidindi.is"
 ],
-".adwidget": [],
-".adwords": [],
 ".after-post-ad": [
 "consumerist.com"
 ],
@@ -47925,15 +47886,12 @@
 ".article_ad": [
 "deluxemusic.tv"
 ],
-".banner-ad-container": [],
 ".block-ad": [
 "popporn.com"
 ],
-".block-sponsor": [],
 ".bottom_ad_block": [
 "ixbtlabs.com"
 ],
-".boxAds": [],
 ".box_ads": [
 "canonsupports.com"
 ],
@@ -47950,7 +47908,6 @@
 "heraldsun.com",
 "tvinsider.com"
 ],
-".column-ad": [],
 ".connatix-wrapper": [
 "huffpost.com"
 ],
@@ -47977,8 +47934,6 @@
 ".dfp-tag-wrapper": [
 "out.com"
 ],
-".display-ad": [],
-".display_ad": [],
 ".ez-video-wrap": [
 "humix.com"
 ],
@@ -47988,8 +47943,6 @@
 ".footer-ad": [
 "songlyrics.com"
 ],
-".footer_ads": [],
-".gallery-ad": [],
 ".greyAd": [
 "davidsilverspares.co.uk"
 ],
@@ -48006,7 +47959,6 @@
 ".header-ad-row": [
 "infosecurity-magazine.com"
 ],
-".header_ad": [],
 ".home-ad": [
 "iedrc.org"
 ],
@@ -48016,7 +47968,6 @@
 ".inline-ad": [
 "thelincolnite.co.uk"
 ],
-".is-sponsored": [],
 ".large-advert": [
 "vukajlija.com"
 ],
@@ -48103,7 +48054,6 @@
 ".sponsor_post": [
 "geekwire.com"
 ],
-".sponsored-article": [],
 ".sponsoredItem": [
 "zdnet.com"
 ],
@@ -48116,7 +48066,6 @@
 ".topAd": [
 "cp24.com"
 ],
-".top_ad": [],
 ".top_ads": [
 "livesexgirlsrooms.com"
 ],
