@@ -715,7 +715,6 @@
 "/ads/header.",
 "/ads/index-",
 "/ads/index.",
-"/ads/index/",
 "/ads/leaderboard-",
 "/ads/leaderboard.",
 "/ads/native.js",
@@ -2280,7 +2279,6 @@
 "/in.php?referer=",
 "/in/show/?mid=",
 "/inboundanalytics.min.js",
-"/include/ad_",
 "/include/js/ga-set.js",
 "/increment_page_counter.jsp",
 "/index-ad-",
@@ -2601,7 +2599,6 @@
 "/mcount.cgi?",
 "/measure/pixel/",
 "/measure/visit/",
-"/media/plg_adbutlerads/",
 "/media/plg_system_eprivacy",
 "/medialaanuniversaltracker.js",
 "/mediametrie.js",
@@ -48218,6 +48215,9 @@
 "/ads/images/": {
 "image": true
 },
+"/ads/index/": {
+"xmlhttprequest": false
+},
 "/ads/rectangle_": {
 "sub_frame": true
 },
@@ -48476,7 +48476,6 @@
 "/modules/ads/": {
 "xmlhttprequest": false
 },
-"/mydirtyhobby.": {},
 "/nativeads/script/": {
 "script": true
 },
@@ -48511,6 +48510,10 @@
 },
 "/player/ads/": {
 "xmlhttprequest": false
+},
+"/plg_adbutlerads/": {
+"script": true,
+"stylesheet": true
 },
 "/plugin/ad/": {
 "script": true
