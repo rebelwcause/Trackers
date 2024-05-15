@@ -47420,9 +47420,6 @@
 "#cookie-law-info-bar"
 ],
 "css_exceps": {
-".ads-loaded": [
-"forbes.com"
-],
 "#ad-rotator": [
 "53.com"
 ],
@@ -47697,6 +47694,9 @@
 ],
 ".ads-left": [
 "miuithemers.com"
+],
+".ads-loaded": [
+"forbes.com"
 ],
 ".ads-mobile": [
 "fireload.com"
