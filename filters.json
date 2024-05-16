@@ -26392,6 +26392,15 @@
 "roadtests.com": [
 ".topad"
 ],
+"cycleexif.com": [
+".topban",
+"[style=\"margin-bottom: 25px;\"]"
+],
+"thespoken.cc": [
+".topban",
+"[href^=\"https://www.amazon.com/\"]",
+"[style=\"margin-bottom: 25px;\"]"
+],
 "eurointegration.com.ua": [
 ".topban_r"
 ],
