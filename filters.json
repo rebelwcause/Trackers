@@ -47550,6 +47550,12 @@
 ".ad-bottom": [
 "ikkaku.net"
 ],
+".ad-box:not(#ad-banner):not(:empty)": [
+"job.inshokuten.com",
+"sexgr.net",
+"webbtelescope.org",
+"websaver.ca"
+],
 ".ad-click": [
 "newegg.com"
 ],
@@ -48038,6 +48044,58 @@
 "elnuevoherald.com",
 "sacbee.com"
 ],
+"[data-ad-name]": [
+"gumtree.com.au"
+],
+"[id^=\"div-gpt-ad\"]": [
+"amazon.com",
+"faceyourmanga.com",
+"isc2.org",
+"liverc.com",
+"mit.edu",
+"muscatdaily.com",
+"timesofoman.com",
+"virginaustralia.com"
+],
+"a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"]": [
+"politico.com"
+],
+"div[aria-label=\"Ads\"]": [
+"play.google.com"
+],
+"div[data-ad-targeting]": [
+"news.artnet.com",
+"powernationtv.com",
+"worldsurfleague.com"
+],
+"div[data-native_ad]": [
+"cookinglight.com"
+],
+"div[id^=\"ad_position_\"]": [
+"googleads.g.doubleclick.net"
+],
+"div[id^=\"dfp-ad-\"]": [
+"out.com"
+],
+"div[id^=\"ezoic-pub-ad-\"]": [
+"xdpedia.com"
+],
+"ins.adsbygoogle[data-ad-slot]": [
+"advancedrenamer.com",
+"androidrepublic.org",
+"anonymousemail.me",
+"apkmirror.com",
+"cdromance.com",
+"demos.krajee.com",
+"epicbundle.com",
+"kadinlarkulubu.com",
+"nextbigtrade.com",
+"phcorner.net",
+"pixiz.com",
+"spoilertv.com",
+"teemo.gg",
+"willyoupressthebutton.com"
+],
 ".adslot": [
 "apkmirror.com",
 "tuxpi.com"
@@ -48089,6 +48147,9 @@
 "grubhub.com",
 "dashboard.razorpay.com",
 "joinhoney.com"
+],
+"div#topAd": [
+"tubefilter.com"
 ]
 },
 "url_type_patterns": {
