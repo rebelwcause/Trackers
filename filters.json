@@ -2840,6 +2840,7 @@
 "/pageview?user_guid=",
 "/pageviews.gif?",
 "/pageviews?token=",
+"/pandectes-core.js",
 "/parsely.js",
 "/parsonsmaize/abilene.js",
 "/parsonsmaize/chanute.js",
@@ -3083,6 +3084,7 @@
 "/pubcid.min.js",
 "/pubfig.min.js",
 "/public/analytics.js",
+"/public/latest/js/ws-tracking.js",
 "/public/statsd",
 "/public/visit/record",
 "/public/visitor.json?",
@@ -8306,6 +8308,12 @@
 "www-direct.motorcycle.com/eventstream",
 "www-direct.upgradedhome.com/eventstream",
 "www-idm.com/wp-content/uploads/2022/02/bitcoin.png",
+"x.com/1.1/attribution",
+"x.com/1.1/jot",
+"x.com/9/measurement/",
+"x.com/i/api/1.1/jot",
+"x.com/i/csp_report",
+"x.com/i/jot",
 "xboxone-hq.com/images/banners/",
 "xda-developers.com/app/plugins/xda-kco-affiliate/",
 "xero.com/api/events/",
@@ -19927,6 +19935,10 @@
 ".border-thick-branding",
 ".my-2"
 ],
+"myanimelist.net": [
+".border_top",
+"[src*=\"/c/img/images/event/\"]"
+],
 "blockchair.com": [
 ".bottom--buttons-container",
 ".d-block",
@@ -20520,9 +20532,6 @@
 ".code-block",
 ".stream-item-mag"
 ],
-"cookingwithdog.com": [
-".code-block"
-],
 "corrosionhour.com": [
 ".code-block",
 ".widget_custom_html",
@@ -20805,6 +20814,10 @@
 ],
 "womensmethod.com": [
 ".code-block > center p"
+],
+"cookingwithdog.com": [
+".code-block-1",
+".code-block"
 ],
 "streamtelly.com": [
 ".code-block-1"
@@ -27888,9 +27901,6 @@
 ],
 "websiteoutlook.com": [
 "[rel=\"nofollow\"]"
-],
-"myanimelist.net": [
-"[src*=\"/c/img/images/event/\"]"
 ],
 "wallpaperaccess.com": [
 "[src=\"/continue.png\"]"
@@ -39063,6 +39073,7 @@
 ".ads-decorator",
 ".ads-desktop",
 ".ads-div",
+".ads-el",
 ".ads-end-content",
 ".ads-favicon",
 ".ads-feed",
@@ -43764,7 +43775,6 @@
 ".pf_content_ad",
 ".pf_sky_ad",
 ".pf_top_ad",
-".pfimgAds",
 ".pg-ad-block",
 ".pg-adnotice",
 ".pg-adtarget",
@@ -43773,22 +43783,12 @@
 ".pgevoke-story-topads",
 ".pgevoke-topads",
 ".ph-ad",
-".ph-ad-desktop",
-".ph-ad-mediumrectangle",
 ".photo-ad",
 ".photo-ad-pad",
 ".photoAd",
 ".photoad",
-".photobox-adbox",
 ".phpads_container",
-".pics_detail_ad",
-".pics_footer_ad",
-".picto_ad",
-".picture_ad",
-".pin-ad",
 ".pix_adzone",
-".pj-ad",
-".pkad",
 ".placeholder-ad",
 ".placeholder-dfp",
 ".placeholderAd",
@@ -43798,17 +43798,13 @@
 ".player-ad-overlay",
 ".player-ads",
 ".player-ads2",
-".player-section__ad-b",
+".player-section__ads-banners",
 ".player-under-ad",
 ".playerAd",
 ".playerAdv",
-".player__inline-ad",
 ".player_ad",
 ".player_ad2",
 ".player_ad_box",
-".player_hide_ad",
-".player_hover_ad",
-".player_ima-ad-container",
 ".playerad",
 ".playerdads",
 ".plugin-ad",
@@ -43820,14 +43816,12 @@
 ".pm-ads-inplayer",
 ".pm-banner-ad",
 ".pmc-adm-boomerang-pub-div",
-".pmg-sponsoredlinks",
 ".polar-ad",
 ".polaris-ad--wrapper-desktop",
 ".polarisMarketing",
 ".polaris__ad",
 ".polaris__below-header-ad-wrapper",
 ".position-ads",
-".post--native-ad",
 ".post-ad",
 ".post-ad-title",
 ".post-ad-top",
@@ -43844,8 +43838,6 @@
 ".post-sponsored",
 ".postAd",
 ".postWideAd",
-".post__ad",
-".post__article-top-ad-wrapper",
 ".post_ad",
 ".post_ads",
 ".post_advert",
@@ -43853,11 +43845,8 @@
 ".post_sponsored",
 ".postad",
 ".postads",
-".postads3",
 ".postbit-ad",
-".postend-advert",
 ".poster_ad",
-".postfooterad",
 ".posts-ad",
 ".pp-ad-container",
 ".pp_ad_code_adtxt",
@@ -43867,13 +43856,11 @@
 ".ppr_priv_horizon_ad",
 ".pr_adslot_0",
 ".pr_adslot_1",
-".prebid-wrapper",
 ".preheader_advert",
 ".premium-ad",
 ".premium-ads",
 ".premium-adv",
 ".premium-mpu-container",
-".premiumad",
 ".priad",
 ".priad-1",
 ".primary-ad",
@@ -43887,8 +43874,6 @@
 ".printAds",
 ".product-ad",
 ".product-ads",
-".product-ads-carousel",
-".product-bar-ads",
 ".product-inlist-ad",
 ".profile-ad-container",
 ".profile-ads-container",
@@ -45772,6 +45757,7 @@
 ".m-sidebar-ad",
 ".m-sidebar-ad--slot",
 ".media-network-ad",
+".post__article-top-ad-wrapper",
 ".rhsWidgetNotAdFree",
 ".right_ad_4",
 ".sponsored-headlines",
@@ -51319,6 +51305,9 @@
 "/adsense/search/ads.js",
 "/velog/"
 ],
+"x.com/": [
+"/videoads/"
+],
 "url.rw/": [
 "&a=",
 "&mid="
@@ -51936,6 +51925,9 @@
 ],
 "www.ebay.": [
 "/gh/dfpsvc?"
+],
+"x.com": [
+"/log.json"
 ],
 "xhcdn.com/js/": [
 ".track.min.js"
