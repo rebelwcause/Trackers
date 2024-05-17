@@ -47403,6 +47403,9 @@
 ".ad.bottomrect": [
 "rebelwcause.github.io"
 ],
+".cookie-popup:not(body):not(html)": [
+"github.io"
+],
 "#ad-rotator": [
 "53.com"
 ],
@@ -48125,7 +48128,7 @@
 "div#topAd": [
 "tubefilter.com"
 ],
-".cookie-banner": [
+".cookie-banner:not(body):not(html)": [
 "rebelwcause.github.io"
 ]
 },
