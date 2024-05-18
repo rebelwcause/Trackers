@@ -5796,7 +5796,6 @@
 "faphouse.com/api/collector/",
 "faphouse.com/collector/",
 "fapturbo.com/testoid/",
-"fast.fonts.net/jsapi/core/mt.js",
 "fast.wistia.net/assets/external/googleads.js",
 "fastcdn.co/js/sptw.",
 "fastcmp.com",
@@ -7069,7 +7068,6 @@
 "pimpandhost.com/mikakoki/",
 "pin-river.data.ea.com/pinevents",
 "ping.contactpigeon.com/bi/px/",
-"ping.typekit.net/p.gif",
 "pinkoi.com/_log/",
 "pinkvilla.com/comscore_response.php",
 "pinnacle.com/ru/?btag=",
@@ -8308,12 +8306,6 @@
 "www-direct.motorcycle.com/eventstream",
 "www-direct.upgradedhome.com/eventstream",
 "www-idm.com/wp-content/uploads/2022/02/bitcoin.png",
-"x.com/1.1/attribution",
-"x.com/1.1/jot",
-"x.com/9/measurement/",
-"x.com/i/api/1.1/jot",
-"x.com/i/csp_report",
-"x.com/i/jot",
 "xboxone-hq.com/images/banners/",
 "xda-developers.com/app/plugins/xda-kco-affiliate/",
 "xero.com/api/events/",
@@ -9410,18 +9402,22 @@
 ],
 "brisbanetimes.com.au": [
 "#articlePartnerStories",
-"._2gSkZ"
+"._2gSkZ",
+"[class] > :has(> .adWrapper)"
 ],
 "smh.com.au": [
 "#articlePartnerStories",
-"._2gSkZ"
+"._2gSkZ",
+"[class] > :has(> .adWrapper)"
 ],
 "theage.com.au": [
-"#articlePartnerStories"
+"#articlePartnerStories",
+"[class] > :has(> .adWrapper)"
 ],
 "watoday.com.au": [
 "#articlePartnerStories",
-"._2gSkZ"
+"._2gSkZ",
+"[class] > :has(> .adWrapper)"
 ],
 "thehindu.com": [
 "#articledivrec",
@@ -15115,6 +15111,7 @@
 "seattletimes.com": [
 ".ad",
 ".ad-container",
+".st-theticket-promo",
 "a[href*=\"/sponsored/\"]",
 "[data-zone=\"Sponsored\"]"
 ],
@@ -20385,6 +20382,9 @@
 "whattomine.com": [
 ".centered-image-short"
 ],
+"tlgrm.eu": [
+".channel-card--promoted"
+],
 "cheknews.ca": [
 ".chek-advertisement-placeholder",
 ".sponsored-by"
@@ -20510,6 +20510,10 @@
 ".code-block",
 ".m77g3atigrcd",
 ".sidebar-widget"
+],
+"bohemian.com": [
+".code-block",
+".td-a-rec"
 ],
 "borncity.com": [
 ".code-block"
@@ -21926,6 +21930,9 @@
 ".frame-container",
 ".main-banner-adContainer",
 ".right-ad-override"
+],
+"ranobes.top": [
+".free-support-top"
 ],
 "freedomfirstnetwork.com": [
 ".freed-1",
@@ -23731,6 +23738,10 @@
 "mmegi.bw": [
 ".mmegi-web-banner",
 ".vertical-banner"
+],
+"procyclingstats.com": [
+".mob-ad",
+".top-cont"
 ],
 "putlockers.do": [
 ".mobile-btn",
@@ -26015,9 +26026,6 @@
 "aptoslife.com": [
 ".td-a-rec"
 ],
-"bohemian.com": [
-".td-a-rec"
-],
 "carnewschina.com": [
 ".td-a-rec",
 ".tdi_162"
@@ -26383,9 +26391,6 @@
 "freedesignresources.net": [
 ".top-cat-ads",
 ".widget_text"
-],
-"procyclingstats.com": [
-".top-cont"
 ],
 "foodrenegade.com": [
 ".top-cta"
@@ -27261,6 +27266,14 @@
 "[data-comment=\"gab-ad-comment\"]",
 "a[rel=\"noopener\"][target=\"_blank\"][href^=\"https://grow.gab.com/go/\"]"
 ],
+"giantfood.com": [
+"[aria-label^=\"Sponsored\"]",
+"[data-product-id]:has(.flag_label--sponsored)"
+],
+"martinsfoods.com": [
+"[aria-label^=\"Sponsored\"]",
+"[data-product-id]:has(.flag_label--sponsored)"
+],
 "top.gg": [
 "[class*=\"__AdContainer-\"]"
 ],
@@ -28116,6 +28129,9 @@
 "americaoutloud.com": [
 "[width=\"728\"]",
 "img[width=\"300\"]"
+],
+"artificialintelligence-news.com": [
+"[width=\"728\"]"
 ],
 "forexmt4indicators.com": [
 "[width=\"728\"]",
@@ -33248,6 +33264,8 @@
 "#adslot5",
 "#adslot6",
 "#adslot7",
+"#adslot_1",
+"#adslot_2",
 "#adslot_left",
 "#adslot_rect",
 "#adslot_top",
@@ -48886,6 +48904,14 @@
 "main_frame": true,
 "popup": true
 },
+"1350c3.xyz": {
+"main_frame": true,
+"popup": true
+},
+"20519a.xyz": {
+"main_frame": true,
+"popup": true
+},
 "22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz": {
 "main_frame": true,
 "popup": true
@@ -50111,9 +50137,6 @@
 "image": true,
 "tp": true
 },
-"primer.typekit.net": {
-"xmlhttprequest": true
-},
 "providesupport.com/cmd/": {
 "image": true
 },
@@ -51206,6 +51229,9 @@
 "/affiliate/referral.asp?site=": [
 "&aff_id="
 ],
+"flocdn.com/": [
+"/ads-coordinator/"
+],
 "ifoneunlock.com/": [
 "_banner_"
 ],
@@ -51304,9 +51330,6 @@
 "www.google.": [
 "/adsense/search/ads.js",
 "/velog/"
-],
-"x.com/": [
-"/videoads/"
 ],
 "url.rw/": [
 "&a=",
@@ -51925,9 +51948,6 @@
 ],
 "www.ebay.": [
 "/gh/dfpsvc?"
-],
-"x.com": [
-"/log.json"
 ],
 "xhcdn.com/js/": [
 ".track.min.js"
