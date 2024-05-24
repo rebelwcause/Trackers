@@ -239,6 +239,7 @@
 ".gif?stat=open",
 ".goodwell18.com/track/",
 ".hit.stat24.",
+".hit.ua/hit?",
 ".hootsuite.com/trk?",
 ".html?clicktag=",
 ".info/tsv",
@@ -4327,6 +4328,8 @@
 "2merkato.com/images/banners/",
 "2oceansvibe.com/?custom=takeover",
 "360buyimg.com/jdf/1.0.0/unit/log/",
+"360playvid.com",
+"360playvid.info",
 "40svintageporn.com/hit",
 "4399.com/js/4399stat.js",
 "4399.com/plugins/tj/event?",
@@ -4691,6 +4694,8 @@
 "admin.blog.fc2.com/dctanalyzer.php",
 "admin.guide-rank.com/guiderank-tracking/",
 "adn-srv.reckoner-api.com/v1/ad/",
+"adnz.co/dmp/publisher.js",
+"adnz.co/header.js",
 "adobe.io/system/log",
 "adobe.io/web/v1/metrics",
 "adrama.to/bbb.php",
@@ -4851,10 +4856,12 @@
 "api.fanmatics.com/event",
 "api.idg.zone/intextlinks-tracking/",
 "api.ip.sb/geoip",
+"api.iris.tv/update",
 "api.lit.link/v1/access_logs/",
 "api.narrativ.com/favicon.ico",
 "api.odysee.com/locale/get",
 "api.phnx.click/js/article-stat-",
+"api.phoenix-widget.com/c?wid=",
 "api.remanga.org/api/logging/",
 "api.reverso.net/stats/",
 "api.solvvy.com/v1/pixels/track",
@@ -5154,6 +5161,7 @@
 "bzpics.com/jslib/st.js?",
 "c-date.com/pixel/",
 "c-date.it/tracking?",
+"c.evidon.com/sitenotice/evidon-banner.js",
 "c.keltis.com/c.aspx",
 "c.woopic.com/tools/pdb.min.js",
 "c0.froala.com/i?",
@@ -5276,6 +5284,7 @@
 "checkout.com/logging",
 "chewy.com/api/event/",
 "chickadvisor.com/js/detect.min.js",
+"chicoryapp.com",
 "chil-chil.net/cpadshow/",
 "chimpstatic.com/mcjs-connected/js/",
 "chosun.com/hitlog/",
@@ -5303,6 +5312,10 @@
 "click.email.rdaenthusiast.com/open.aspx",
 "click.mail.disneyplus.com/open.aspx",
 "click.xda-developers.com/api/pixel.gif",
+"clickdimensions.com/ts.js",
+"clickfunnels.com/assets/cfpop.js",
+"clickfunnels.com/assets/pushcrew.js",
+"clickfunnels.com/cf.js",
 "clickiocmp.com",
 "clicknplay.to/api/spots/",
 "clinch.co/a_js/client_pixels/",
@@ -5372,6 +5385,7 @@
 "cn.ntdtv.com/assets/themes/ntd/js/article_ads.js",
 "cnetcontent.com/log?",
 "cnevids.com/metrics/",
+"cnnx.link/roi/",
 "cnpapers.com/scripts/library/",
 "cnstrc.com/behavior?",
 "cnt.re/cnt/",
@@ -5403,6 +5417,7 @@
 "components2.corriereobjects.it/rcs_data-tracking/",
 "components2.rcsobjects.it/rcs_tracking-service/",
 "compress-or-die.com/hokuspokus",
+"concert.io/lookup/",
 "concomber.com//",
 "conde.io/beacon",
 "condenastdigital.com/content?",
@@ -5426,8 +5441,11 @@
 "consumer.org.nz/session/ping/",
 "content.garena.com/shopee/track_config/",
 "contentdriver.com/api/impression",
+"contentexchange.me/static/tracker.js",
+"contentexchange.me/widget/",
 "contently.com/xdomain/",
 "contentpass.net/stats?",
+"contentreveal.net/event/events.js",
 "contents-search-windows.com/api/v1/x",
 "controlcookies.com",
 "contx.net/collect.js",
@@ -5757,6 +5775,7 @@
 "eveonline.com/redir.asp",
 "everyaction.com/v1/track/",
 "everythingrf.com/wsfeglobal.asmx/getwallpaper",
+"evidon.com/pub/",
 "eviesays.com/js/analytics/",
 "evri.com/analytics/",
 "ewaline.su/stats.js",
@@ -5778,6 +5797,7 @@
 "ext.chtbl.com/trackable.js",
 "extendoffice.com/analytics.js",
 "extensoft.com/artisteer/banners/",
+"extole.io/core.js",
 "eye.targetads.io/web/pixel",
 "ezapp.ovh/track.js?pixelid=",
 "ezneering.com/wp-content/plugins/hashbar-wp-notification-bar/assets/js/analytics.js",
@@ -6177,6 +6197,8 @@
 "hqq.tv/js/amung_counter.js",
 "hqq.tv/js/counters.js",
 "hqq.tv/js/gcounter.js",
+"hrzn-nxt.com/pxl?",
+"hs-scripts.com",
 "hsforms.com/embed/v3/counters.gif",
 "html5games.com/event/",
 "httdev.it/e/c?",
@@ -6450,11 +6472,13 @@
 "kiwisizing.com/api/log",
 "kk-resources.com/ks.js",
 "kkam.com/rest/high/api/cogitoergosum",
+"klickly.com/track",
 "klix.ba/pixel/",
 "klm.us/cwzuvc/",
 "kloth.net/images/pixel.gif",
 "kn007.net/snmp.php",
 "knewz.com/api/event",
+"kochava.com/track/",
 "kodik.cc/stats",
 "kodik.info/stats|",
 "koe-vip.com/statistik/",
@@ -6553,6 +6577,7 @@
 "listrak.com/api/activity/impression",
 "littlebigsnake.com/event?",
 "live-partner.com/tags?",
+"live-tv.top/js/k.min.js",
 "livedoor.com/counter/",
 "livehdcams.com/api/events",
 "livehdcams.com/api/metrics",
@@ -6716,6 +6741,7 @@
 "mkcms.com/stats.js",
 "ml.com/enterprisetagging/",
 "mlstatic.com/analytics/",
+"mmcdn.com/events/",
 "mmin.io/embed/",
 "mmosale.com/baner_images/",
 "mng.jiji.com/cookie.html",
@@ -6862,6 +6888,7 @@
 "news.chosun.com/svc/fb_count.html",
 "news.com.au/track/",
 "news.com.au/tracking/",
+"news.itsfoss.com/assets/images/pikapods.jpg",
 "news.nate.com/js/today/useragent",
 "newsbreak.com/_api/stat/",
 "newscgp.com/cs/sync/",
@@ -6888,6 +6915,7 @@
 "ngpvan.com/v1/track/",
 "nhregister.com/413gkwmt/init.js",
 "nice264.com/data?",
+"nid.thetimes.com/prod/sp/nid_sp.js",
 "nikaraw.com/load_adb",
 "nike.com/assets/measure/data-capture/",
 "nikkei.com/.resources/tracking/",
@@ -7020,7 +7048,6 @@
 "parkwhiz.com/events/",
 "parte.tv/static/assets/js/pa/lp.js",
 "partners.etoro.com",
-"passeidireto.com/pd-tracking-lib/",
 "pasteheaven.com/assets/images/banners/",
 "pastemagazine.com/common/js/ads-",
 "pastemytxt.com/download_ad.jpg",
@@ -7278,6 +7305,7 @@
 "redditmedia.com/gtm/",
 "redditmedia.com/gtm?id=",
 "redditsave.com/api/event",
+"redfast.com/ping/",
 "redfin.com/rift?",
 "redgifs.com/v2/metrics/",
 "redirector.yarbot.host/jwplayer/ping.gif",
@@ -7360,6 +7388,7 @@
 "s3wfg.com/js/vortexloader.js",
 "s73cloud.com/metrics/",
 "sa.crunchyroll.com/analytics.js",
+"saambaa.com",
 "saasexch.com/bapi/fe/usd/report/",
 "saccest.com/js/lidyana.js",
 "safarinow.com/affiliate-zone/",
@@ -7367,6 +7396,7 @@
 "safelinku.com/js/web-script.js",
 "sahibinden.com/ajax/counter",
 "sahibinden.com/sbbi/",
+"sajari.com/js/sj.js",
 "salescs.com/liveagent/scripts/track.js",
 "salesloft.com/sl.js",
 "salesmanago.com/api/r.gif",
@@ -7614,6 +7644,7 @@
 "srv.onedio.com/track",
 "srv.wego.com/analytics/",
 "srware.net/iron/assets/img/av/",
+"ssc.shopstyle.com/collective.min.js",
 "ssense.com/58asv359/init.js",
 "ssgdfs.com/kr/common/getpageicfcd",
 "ssl.kaptcha.com/collect/",
@@ -7664,6 +7695,7 @@
 "static.sunmedia.tv/integrations/",
 "static.talpanetwork.com/prod/js/components/talpa-analytics/",
 "static.teimg.com/analytics.js",
+"static.tradetracker.net",
 "static.vdmximg.com/wp-includes/js/u_hits_control.js",
 "static.vocento.com/tag-manager/latest/vtm.js",
 "static.vocstatic.com/tag-manager/latest/vtm.js",
@@ -7724,6 +7756,7 @@
 "streamtheworld.com/imp?",
 "streeteasy.com/czdhf737/init.js",
 "streetsblog.org/api/session|",
+"stripchat.com/pixel/",
 "stripe.com/?event=",
 "stripe.com/tracking/",
 "strongvpn.com/aff/",
@@ -7884,6 +7917,7 @@
 "tiava.com/js/analytics",
 "tickaroo.com/api/collect/",
 "tidal.com/t|",
+"tieszhu.com/e.html",
 "tiktokv.com/monitor_browser/",
 "tiktokv.com/web/report?",
 "tiktokv.us/monitor_browser/",
@@ -7937,12 +7971,15 @@
 "traceprof.com",
 "trackdesk.com/tracking.js",
 "tracking.injoyalot.com",
+"trackjs.com/releases/current/tracker.js",
+"trackjs.com/usage.gif?",
 "tradablebits.com/pixels/",
 "tradingview.com/ping",
 "traditionalmusic.co.uk/images/banners/",
 "traffer.biz/img/banners/",
 "trafficmanager.net/uet/tracking_script?",
 "trahkino.cc/static/js/li.js",
+"transcend-cdn.com",
 "travel.mediaalpha.com/js/serve.js",
 "travelocity.com/api/datacapture/track",
 "travelocity.com/cl/data/bingpixels.json?",
@@ -7966,6 +8003,7 @@
 "trtarsiv.com/js/player/jwtracking.js",
 "truck1.eu/_banners_/",
 "trucknetuk.com/phpbb2old/sponsors/",
+"truex.com/js/client.js",
 "trumba.com/et.aspx?",
 "trumparea.com/_adz/",
 "trustcommander.net/iab-tcfapi/",
@@ -7974,6 +8012,7 @@
 "trustmary.io/agg-event",
 "trvl-px.com/trvl-px/",
 "trwl1.com/ascripts/gcrt.js",
+"tsbluebox.com",
 "tsphone.biz/pixelvoleur.jpg?",
 "tubedupe.com/js/td_track.js",
 "tubeoffline.com/itbimg/",
@@ -7998,6 +8037,7 @@
 "tuttocagliari.net/pixel",
 "tuttogratis.it/gopix.php?",
 "tuttomercatoweb.com/pixel",
+"tvpage.com/tvpa.min.js",
 "twc.net/device/ovp/logger?",
 "tweakers.net/x/scripts/min/ptbo.js",
 "twgreatdaily.com/site/js/name/stat",
@@ -8094,6 +8134,7 @@
 "vesseltracker.com/assets/js/leaflet-ais-trackingsymbols/",
 "vevo.com/event/",
 "vhanime.com/js/bnanime.js",
+"viadata.store",
 "video-cdn.net/event?",
 "video.mediaset.it/polymediashowanalytics/",
 "videogame.it/a/logview/",
@@ -8239,6 +8280,8 @@
 "whois.com/js/gtmdatalayer.js",
 "whooshkaa.com/identify",
 "whooshkaa.com/listen/track",
+"whoson.com/poll.gif",
+"whoson.com/w.js",
 "whosread.com/counter/",
 "widgeo.net/compteur.php?",
 "widgeo.net/geocompteur/",
@@ -8267,6 +8310,7 @@
 "wix.com/_api/blog-social-counters/",
 "wix.com/_api/wix-laboratory-server/laboratory/conductallinscope",
 "wizcase.com/jssdk//track/",
+"wiztube.xyz/cdn-cgi/trace",
 "wl.jd.com",
 "wmtools.it/wmtcounter.php?",
 "wn.com/count.js",
@@ -9539,7 +9583,8 @@
 "#ball_splash_holder"
 ],
 "gamepressure.com": [
-"#baner-outer"
+"#baner-outer",
+".ad-2020-rec-alt-mob"
 ],
 "allmyfaves.com": [
 "#banner"
@@ -10528,6 +10573,10 @@
 "#text-4",
 ".inside",
 ".section-post-about"
+],
+"godisageek.com": [
+"#custom_html-4",
+"#text-11"
 ],
 "comicsheatingup.net": [
 "#custom_html-5"
@@ -13742,6 +13791,12 @@
 ".js-bfa-impression",
 ".subbuzz-bfp--connatix_video"
 ],
+"darkreading.com": [
+".Ad"
+],
+"gamedeveloper.com": [
+".Ad"
+],
 "imgur.io": [
 ".Ad"
 ],
@@ -14076,6 +14131,14 @@
 ".leader_wrapper",
 ".y49o7q"
 ],
+"seattletimes.com": [
+".H0FqVZjh86HAsl61ps5e",
+".ad",
+".ad-container",
+".stn-player",
+".tall-rect",
+"[data-zone=\"Sponsored\"]"
+],
 "metservice.com": [
 ".Header",
 ".Mrec-min-height"
@@ -14297,6 +14360,10 @@
 ],
 "streetsblog.org": [
 ".Sponsorship_articleBannerWrapper__wV_1S"
+],
+"thetimes.com": [
+".Sticky-AdContainer",
+".responsive__InlineAdWrapper-sc-4v1r4q-14"
 ],
 "apartmenttherapy.com": [
 ".StickyFooter",
@@ -15148,13 +15215,6 @@
 "scholarlykitchen.sspnet.org": [
 ".ad"
 ],
-"seattletimes.com": [
-".ad",
-".ad-container",
-".st-theticket-promo",
-"a[href*=\"/sponsored/\"]",
-"[data-zone=\"Sponsored\"]"
-],
 "segmentnext.com": [
 ".ad"
 ],
@@ -15210,7 +15270,8 @@
 ".ad"
 ],
 "thedp.com": [
-".ad"
+".ad",
+".sponsored"
 ],
 "theeastafrican.co.ke": [
 ".ad"
@@ -17913,6 +17974,7 @@
 ],
 "9to5linux.com": [
 ".ai_widget",
+".block-widget",
 ".widget_custom_html",
 ".widget:has([href$=\".php\"])"
 ],
@@ -18139,6 +18201,15 @@
 "body:style(overflow: auto !important;)"
 ],
 "ajc.com": [
+".arc_ad"
+],
+"daytondailynews.com": [
+".arc_ad"
+],
+"journal-news.com": [
+".arc_ad"
+],
+"springfieldnewssun.com": [
 ".arc_ad"
 ],
 "adn.com": [
@@ -20902,6 +20973,9 @@
 ".commercial-unit",
 ".article-betting-unit-container"
 ],
+"audacy.com": [
+".component--google-ad-manager"
+],
 "linguisticsociety.org": [
 ".component-3"
 ],
@@ -21307,6 +21381,10 @@
 "livesoccertv.com": [
 ".desktop-ad-container",
 "div[style^=\"height:250px\"]"
+],
+"vitalmtb.com": [
+".desktop-header-ad",
+".v-ad-slot"
 ],
 "tiermaker.com": [
 ".desktop-sticky"
@@ -23120,6 +23198,10 @@
 ".l-hybrid-col-frame_rail-wrap"
 ],
 "vox.com": [
+".l66a0c1k",
+".l66a0c1n",
+".l66a0c1p",
+"[data-concert=\"leaderboard_top_tablet_desktop\"]",
 ".l-leaderboard-slot"
 ],
 "keybr.com": [
@@ -25938,6 +26020,9 @@
 "kayifamily.net": [
 ".stream-item"
 ],
+"xboxera.com": [
+".stream-item"
+],
 "coinpedia.org": [
 ".stream-item-inline-post",
 ".stream-title"
@@ -26781,6 +26866,9 @@
 "technclub.com": [
 ".wbyqkx-container"
 ],
+"northernvirginiamag.com": [
+".website-header__ad--leaderboard"
+],
 "probuilds.net": [
 ".welcome-bnr",
 "a[class^=\"dl-blitz-\"]"
@@ -26941,6 +27029,9 @@
 ".widget_media_image"
 ],
 "kkfm.com": [
+".widget_media_image"
+],
+"levittownnow.com": [
 ".widget_media_image"
 ],
 "marqueesportsnetwork.com": [
@@ -27483,6 +27574,9 @@
 "polygon.com": [
 "[data-native-ad-id^=\"container\"]",
 ".ob-smartfeed-wrapper"
+],
+"helpnetsecurity.com": [
+"[data-origin][style]"
 ],
 "greenbaycrimereports.com": [
 "[data-original-width=\"820\"]"
@@ -29785,6 +29879,10 @@
 "freshdirect.com": [
 "[class*=\"ProductsGrid_grid_item_\"]:has([data-qa=\"tile_marketing_tag\"])"
 ],
+"popularmechanics.com": [
+"[class] > :has(> #article-marketplace-horizontal)",
+"[class] > :has(> #gpt-ad-vertical-bottom)"
+],
 "svgrepo.com": [
 "[class^=\"style_native\"]:has([href*=\"buysellads.com\"])"
 ],
@@ -29793,30 +29891,6 @@
 ],
 "argos.co.uk": [
 "[class^=\"styles__LazyHydrateCard\"]:has([class*=\"ProductCardstyles__FlyoutBadge\"])"
-],
-"olx.bg": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.com.br": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.kz": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.pl": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.pt": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.ro": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.ua": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
-],
-"olx.uz": [
-"[data-cy=\"l-card\"]:has([data-testid=\"adCard-featured\"])"
 ],
 "kayak.com": [
 "[role=\"button\"]:has([class*=\"ad-marking\"])",
@@ -31504,6 +31578,7 @@
 "div[id^=\"ads250_250-widget-\"]",
 "div[id^=\"ads300_100-widget-\"]",
 "div[id^=\"ads300_250-widget-\"]",
+"div[id^=\"ads300_600-widget-\"]",
 "div[id^=\"adspot-\"]",
 "div[id^=\"advads_ad_\"]",
 "div[id^=\"crt-\"][style]",
@@ -31852,7 +31927,6 @@
 "#Mpu_Bottom",
 "#Mpu_Top",
 "#MyAdsId3",
-"#N-ad-article-rightRail-1",
 "#NR-Ads",
 "#NavAD",
 "#OAS2",
@@ -31876,7 +31950,6 @@
 "#SponsoredLinks",
 "#SponsorsAds",
 "#StickyBannerAd",
-"#Top-Ad-Container",
 "#Top-ad",
 "#Top1AdWrapper",
 "#TopADs",
@@ -32001,7 +32074,6 @@
 "#ad-bottom-fixed",
 "#ad-bottom-right-container",
 "#ad-bottom-wrapper",
-"#ad-bottomright",
 "#ad-box",
 "#ad-box-1",
 "#ad-box-2",
@@ -32083,8 +32155,6 @@
 "#ad-incontent",
 "#ad-index",
 "#ad-inline-block",
-"#ad-inside1",
-"#ad-inside2",
 "#ad-label2",
 "#ad-large-banner-top",
 "#ad-large-header",
@@ -32113,14 +32183,12 @@
 "#ad-main",
 "#ad-main-bottom",
 "#ad-main-top",
-"#ad-makeup",
 "#ad-manager",
 "#ad-masthead",
 "#ad-medium",
 "#ad-medium-lower",
 "#ad-medium-rectangle",
 "#ad-medrec",
-"#ad-medrec-article-container",
 "#ad-medrec__first",
 "#ad-mid",
 "#ad-mid-rect",
@@ -32213,28 +32281,20 @@
 "#ad-slug-wrapper",
 "#ad-small-banner",
 "#ad-space",
-"#ad-space-1",
-"#ad-space-2",
 "#ad-space-big",
-"#ad-special",
 "#ad-splash",
 "#ad-sponsors",
 "#ad-spot",
 "#ad-spot-bottom",
 "#ad-spot-one",
-"#ad-squares",
 "#ad-standard",
 "#ad-standard-wrap",
-"#ad-startProMaps",
 "#ad-stickers",
 "#ad-sticky-footer-container",
 "#ad-story-right",
 "#ad-story-top",
 "#ad-stripe",
-"#ad-tab",
-"#ad-tape",
 "#ad-target",
-"#ad-target-Leaderbord",
 "#ad-teaser",
 "#ad-text",
 "#ad-three",
@@ -32269,45 +32329,24 @@
 "#ad-wrapper-main-1",
 "#ad-wrapper-sidebar-1",
 "#ad-wrapper-top-1",
-"#ad-wrapper1",
 "#ad1-placeholder",
-"#ad11",
-"#ad125B",
 "#ad125x125",
 "#ad160",
-"#ad160-2",
 "#ad160600",
-"#ad160a",
 "#ad160x600",
-"#ad2-home",
-"#ad2-label",
 "#ad250",
-"#ad2_footer",
-"#ad2_iframe",
-"#ad2_inline",
 "#ad300",
 "#ad300-250",
-"#ad300-title",
-"#ad300X250",
 "#ad300_250",
-"#ad300x250Module",
-"#ad31",
-"#ad32",
 "#ad336",
 "#ad336x280",
 "#ad468",
-"#ad468_hidden",
 "#ad468x60",
-"#ad468x60-story",
-"#ad468x60_top",
 "#ad480x60",
 "#ad6",
 "#ad600",
-"#ad600x90",
-"#ad650",
 "#ad728",
 "#ad72890",
-"#ad728Bottom",
 "#ad728Box",
 "#ad728Header",
 "#ad728Mid",
@@ -32834,8 +32873,6 @@
 "#ad_xrail_top",
 "#ad_zone",
 "#adaptvcompanion",
-"#adb-top",
-"#adbForum",
 "#adb_bottom",
 "#adbackground",
 "#adbanner-container",
@@ -32850,7 +32887,6 @@
 "#adblade",
 "#adblade_ad",
 "#adblkad",
-"#adblock-300x250",
 "#adblock-big",
 "#adblock-leaderboard",
 "#adblock-small",
@@ -32937,10 +32973,8 @@
 "#adm-inline-article-ad-1",
 "#adm-inline-article-ad-2",
 "#admain",
-"#admaintop",
 "#admasthead",
 "#admid",
-"#admiddleCenter",
 "#admobilefoot",
 "#admobilefootinside",
 "#admobilemiddle",
@@ -32973,10 +33007,7 @@
 "#adposition3",
 "#adposition4",
 "#adpositionbottom",
-"#adpostloader",
-"#adpromo",
 "#adrect",
-"#adrig",
 "#adright",
 "#adright2",
 "#adrightbottom",
@@ -33013,7 +33044,6 @@
 "#ads-blog",
 "#ads-bot",
 "#ads-bottom",
-"#ads-by-google",
 "#ads-col",
 "#ads-container",
 "#ads-container-2",
@@ -33022,7 +33052,6 @@
 "#ads-container-top",
 "#ads-content",
 "#ads-content-double",
-"#ads-div2",
 "#ads-footer",
 "#ads-footer-inner",
 "#ads-footer-wrap",
@@ -33094,7 +33123,6 @@
 "#adsContainer",
 "#adsContent",
 "#adsDisplay",
-"#adsHeadLine",
 "#adsHeader",
 "#adsHeading",
 "#adsLREC",
@@ -33116,7 +33144,6 @@
 "#adsZone",
 "#adsZone1",
 "#adsZone2",
-"#ads_01",
 "#ads_0_container",
 "#ads_160",
 "#ads_3",
@@ -33126,7 +33153,6 @@
 "#ads_728",
 "#ads_728x90",
 "#ads_728x90_top",
-"#ads_back",
 "#ads_banner",
 "#ads_banner1",
 "#ads_banner_header",
@@ -34467,7 +34493,6 @@
 "#gm-ad-lrec",
 "#goad1",
 "#goads",
-"#gog_ad",
 "#gooadtop",
 "#google-ad",
 "#google-ads",
@@ -34489,27 +34514,19 @@
 "#googleAdArea",
 "#googleAdBottom",
 "#googleAdBox",
-"#googleAdMid",
 "#googleAdTop",
-"#googleAdView",
 "#googleAds",
-"#googleAdsFrame",
 "#googleAdsense",
 "#googleAdsenseAdverts",
-"#googleAdwordsModule",
-"#googleAfcContainer",
 "#googleSearchAds",
 "#google_ad_1",
 "#google_ad_2",
 "#google_ad_3",
 "#google_ad_container",
-"#google_ad_inline",
 "#google_ad_slot",
 "#google_ads",
 "#google_ads_1",
 "#google_ads_box",
-"#google_ads_div_header1",
-"#google_ads_div_header2",
 "#google_ads_frame",
 "#google_ads_frame1_anchor",
 "#google_ads_frame2_anchor",
@@ -34517,26 +34534,14 @@
 "#google_ads_frame4_anchor",
 "#google_ads_frame5_anchor",
 "#google_ads_frame6_anchor",
-"#google_ads_test",
-"#google_ads_wide",
 "#google_adsense",
 "#google_adsense_ad",
-"#google_textlinks",
 "#googlead",
-"#googlead-leaderboard",
-"#googlead-left",
-"#googlead-post-mpu",
-"#googlead-sidebar-middle",
-"#googlead-sidebar-top",
-"#googlead01",
 "#googlead2",
-"#googleadbig",
 "#googleadleft",
 "#googleads",
 "#googleads1",
 "#googleadsense",
-"#googleadsense300x250",
-"#googleadsrc",
 "#googleadstop",
 "#googlebanner",
 "#googlesponsor",
@@ -34557,7 +34562,6 @@
 "#grdAds",
 "#gridAdSidebar",
 "#grid_ad",
-"#gtm_dfp_leaderboard_top",
 "#half-page-ad",
 "#halfPageAd",
 "#half_page_ad_300x600",
@@ -38608,33 +38612,25 @@
 ".adace-slot-wrapper",
 ".adace-sponsors-box",
 ".adace-vignette",
-".adadded",
-".adageunicorns",
 ".adalert-overlayer",
 ".adalert-toplayer",
 ".adamazon",
 ".adarea",
 ".adarea-long",
 ".adarticle",
-".adb-728x90",
-".adb-bottom-outer",
-".adbTrkWt",
+".adb-top",
 ".adback",
 ".adban",
-".adban-hold-narrow",
 ".adband",
 ".adbanner-300-250",
 ".adbanner-bottom",
 ".adbanner1",
-".adbanner2nd",
 ".adbannerbox",
-".adbanneriframe",
 ".adbannerright",
 ".adbannertop",
 ".adbase",
 ".adbbox",
 ".adbckgrnd",
-".adbelowfirstpost",
 ".adbetween",
 ".adbetweenarticles",
 ".adbkgnd",
@@ -38642,9 +38638,6 @@
 ".adblade-container",
 ".adbladeimg",
 ".adblk",
-".adblock-240-400",
-".adblock-300-300",
-".adblock-600-120",
 ".adblock-bottom",
 ".adblock-header",
 ".adblock-header1",
@@ -38655,7 +38648,6 @@
 ".adblock-wide",
 ".adblock300",
 ".adblock300250",
-".adblock300x250Spot1",
 ".adblock728x90",
 ".adblock__banner",
 ".adblock_noborder",
@@ -42142,6 +42134,7 @@
 ".google-ad-manager",
 ".google-ad-placeholder",
 ".google-ad-sidebar",
+".google-ad-space",
 ".google-ad-widget",
 ".google-ads",
 ".google-ads-billboard",
@@ -45688,6 +45681,7 @@
 ".trc_spotlight_item",
 ".gnt_xmst",
 "#floorboard_block",
+".box-lgpd",
 "#cookieConsentContainer",
 "#cmp-app-container",
 ".privacy-warning",
@@ -48658,6 +48652,9 @@
 "data:text": {
 "popup": true
 },
+"demand.supply": {
+"script": true
+},
 "adservice.google.": {
 "main_frame": true
 },
@@ -48669,6 +48666,9 @@
 "sub_frame": true,
 "tp": true,
 "xmlhttprequest": true
+},
+"bannersnack.com": {
+"tp": true
 },
 "bannersnack.net": {
 "tp": true
@@ -48720,7 +48720,15 @@
 "main_frame": true,
 "popup": true
 },
+"1116c5.xyz": {
+"main_frame": true,
+"popup": true
+},
 "1350c3.xyz": {
+"main_frame": true,
+"popup": true
+},
+"1a1fb6.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -48792,6 +48800,10 @@
 "main_frame": true,
 "popup": true
 },
+"7608d5.xyz": {
+"main_frame": true,
+"popup": true
+},
 "7e809ed7-e553-4e29-acb1-4e3c0e986562.site": {
 "main_frame": true,
 "popup": true
@@ -48805,6 +48817,10 @@
 "popup": true
 },
 "8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online": {
+"main_frame": true,
+"popup": true
+},
+"977878.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -48912,6 +48928,10 @@
 "popup": true,
 "tp": true
 },
+"bongacams.com": {
+"popup": true,
+"tp": true
+},
 "entainpartners.com": {
 "popup": true,
 "tp": true
@@ -48951,6 +48971,9 @@
 "script": true,
 "tp": true
 },
+"app.clickfunnels.com": {
+"stylesheet": false
+},
 "bookingdragon.com": {
 "sub_frame": true,
 "tp": true
@@ -48979,6 +49002,10 @@
 "gamezop.com": {
 "sub_frame": true,
 "tp": true
+},
+"go.onelink.me": {
+"image": true,
+"script": true
 },
 "huffpost.com/embed/connatix/": {
 "sub_frame": true
@@ -49766,6 +49793,9 @@
 "screen13.com": {
 "image": true
 },
+"trx-hub.com": {
+"image": true
+},
 "adoberesources.net": {
 "tp": true
 },
@@ -49801,6 +49831,24 @@
 "keen.io": {
 "tp": true
 },
+"onelink.me": {
+"image": true,
+"script": true,
+"tp": true
+},
+"petametrics.com": {
+"image": true,
+"tp": true
+},
+"pgs.io": {
+"tp": true
+},
+"piwik.pro": {
+"tp": true
+},
+"questionpro.com": {
+"tp": true
+},
 "researchnow.co.uk": {
 "tp": true
 },
@@ -49808,6 +49856,9 @@
 "tp": true
 },
 "simpleanalytics.com": {
+"tp": true
+},
+"sumologic.com": {
 "tp": true
 },
 "wc4.net": {
@@ -49969,7 +50020,8 @@
 "image": true
 },
 "r.stripe.com": {
-"script": true
+"script": true,
+"xmlhttprequest": true
 },
 "rfksrv.com/rfkj/": {
 "image": true
@@ -49996,6 +50048,10 @@
 },
 "tracker.netklix.com": {
 "script": true
+},
+"trackjs.com/agent/": {
+"script": true,
+"tp": true
 },
 "urldefense.com": {
 "image": true,
@@ -51100,6 +51156,9 @@
 "coins4days.com/": [
 "_ext_iframe/"
 ],
+"cybernews.com/images/tools/": [
+"/banner/"
+],
 "ebayrtm.com/rtm?rtmcmd": [
 "&enc="
 ],
@@ -51328,6 +51387,9 @@
 "at.cbsi.com": [
 "/event?"
 ],
+"avo.app": [
+"/track"
+],
 "awswaf.com": [
 "/report",
 "/telemetry"
@@ -51393,6 +51455,9 @@
 ],
 "emihosting.com": [
 "/tracking/"
+],
+"extole.io": [
+"/core.js"
 ],
 "f.email.bjs.com": [
 "/1x2.gif"
@@ -51553,6 +51618,9 @@
 ],
 "terabox.fun/api/getsyscfg?": [
 "web_share_ads_adsterra_config"
+],
+"tvpage.com": [
+"/__tvpa.gif?"
 ],
 "typeform.com/": [
 "/insights/events"
