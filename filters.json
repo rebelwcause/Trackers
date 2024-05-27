@@ -1048,6 +1048,7 @@
 "/appmeasurement_module_activitymap.min.js",
 "/appmeasurementcustom.min.js",
 "/apricot.php?",
+"/apstag.js",
 "/aptrk.js",
 "/apu.php?",
 "/arcads.js",
@@ -10332,8 +10333,8 @@
 ".oi-add-block",
 ".oi-recom-art-wrap",
 ".oi-spons-ad",
+".oi-wrapper1",
 ".oiad",
-".oiad-txt",
 ".one-ad",
 "ul > li:has(> div[class^=\"adg_\"])",
 "#taboola-mid-article-thumbnails",
@@ -10370,6 +10371,7 @@
 ".japmJB",
 ".sc-6zn1bq-0",
 "a[href^=\"https://www.amazon.\"][href*=\"tag=\"]",
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
 ".taboola-container"
 ],
 "qz.com": [
@@ -10550,6 +10552,9 @@
 "godisageek.com": [
 "#custom_html-4",
 "#text-11"
+],
+"mangaread.org": [
+"#custom_html-48"
 ],
 "comicsheatingup.net": [
 "#custom_html-5"
@@ -12192,7 +12197,8 @@
 ".cmscontent-article2",
 ".cmscontent-left-article",
 ".cmscontent-right1",
-".oiad-txt",
+".oi-wrapper1",
+".oiad",
 ".oiadv",
 ".photos-add",
 "div[style^=\"min-height: 250px\"]",
@@ -13561,7 +13567,8 @@
 ".cmscontent-right1",
 ".filmibeat-top-ad",
 ".infinite-scroll-add",
-".oiad-txt",
+".oi-wrapper1",
+".oiad",
 ".photos-add",
 ".photos-left-ad",
 "ul > li:has(> div[id^=\"taboola-mid-home-stream\"])"
@@ -13573,13 +13580,16 @@
 ".cmscontent-left-article",
 ".cmscontent-right1",
 ".gr-db-ad-content",
-".oiad-txt",
+".oi-wrapper1",
+".oiad",
 "div[style^=\"min-height: 250px\"]",
 "#taboola-mid-category-thumbnails",
 "ul > li:has(> div[id^=\"taboola-mid-home-stream\"])"
 ],
 "mykhel.com": [
-"#verticleLinks"
+"#verticleLinks",
+".oi-wrapper1",
+".oiad"
 ],
 "ghgossip.com": [
 "#vi-sticky-ad"
@@ -16179,10 +16189,18 @@
 ".adLabelWrapperManual",
 ".polarBlock"
 ],
+"niagarafallsreview.ca": [
+".adLabelWrapper",
+".adLabelWrapperManual"
+],
 "niagarathisweek.com": [
 ".adLabelWrapper",
 ".sticky-parent",
 ".polarBlock:has(.polarAds)"
+],
+"thepeterboroughexaminer.com": [
+".adLabelWrapper",
+".adLabelWrapperManual"
 ],
 "therecord.com": [
 ".adLabelWrapper",
@@ -16378,6 +16396,9 @@
 ".add-300x250",
 ".add-970x250",
 ".advertisement-text"
+],
+"securityaffairs.com": [
+".add-banner"
 ],
 "buzz.ie": [
 ".add-block"
@@ -18071,8 +18092,11 @@
 ],
 "livejournal.com": [
 ".allbanners",
+".mdspost-aside__item--banner",
 ".pagewide-wrapper",
-".xhtml_banner"
+".xhtml_banner",
+"[style$=\"width: 300px;\"]",
+"[class*=\"categories\"] + div[class]:has(> [class*=\"-commercial\"])"
 ],
 "silverprice.org": [
 ".alt-content"
@@ -20165,6 +20189,14 @@
 "barakbulletin.com": [
 ".bsac"
 ],
+"businesstoday.in": [
+".btPlyer",
+".itgdAdsPlaceholder",
+".outer-add-section",
+".right-side-tabola",
+".secondAdPosition",
+".stoybday-ad"
+],
 "autoblog.com": [
 ".btf-native",
 ".gemini-native"
@@ -20522,7 +20554,8 @@
 ".cmscontent-left-article",
 ".cmscontent-right1",
 ".header-ad-block",
-".oiad-txt"
+".oi-wrapper1",
+".oiad"
 ],
 "drivespark.com": [
 ".cmscontent-article1",
@@ -20530,7 +20563,8 @@
 ".cmscontent-left-article",
 ".cmscontent-right1",
 ".dp-add-block",
-".oiad-txt",
+".oi-wrapper1",
+".oiad",
 ".photos-add",
 ".photos-left-ad",
 ".topsection div[style^=\"float\"]",
@@ -20541,6 +20575,8 @@
 ".cmscontent-article2",
 ".cmscontent-left-article",
 ".cmscontent-right1",
+".oi-wrapper1",
+".oiad",
 "span[class^=\"oiad-txt\"]"
 ],
 "careerindia.com": [
@@ -21404,6 +21440,7 @@
 "theonion.com": [
 ".dfp",
 ".japmJB",
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
 ".taboola-container"
 ],
 "gazette.com": [
@@ -23005,7 +23042,8 @@
 ".jUIMbR"
 ],
 "avclub.com": [
-".japmJB"
+".japmJB",
+"[class] > div:has(> [is=\"bulbs-dfp\"])"
 ],
 "deadspin.com": [
 ".japmJB",
@@ -23014,14 +23052,17 @@
 ],
 "gizmodo.com": [
 ".japmJB",
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
 ".taboola-container"
 ],
 "jalopnik.com": [
 ".japmJB",
-"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]"
+"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]",
+"[class] > div:has(> [is=\"bulbs-dfp\"])"
 ],
 "theroot.com": [
 ".japmJB",
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
 ".taboola-container"
 ],
 "thetakeout.com": [
@@ -24306,12 +24347,6 @@
 "egmnow.com": [
 ".outbrain-wrapper"
 ],
-"businesstoday.in": [
-".outer-add-section",
-".right-side-tabola",
-".secondAdPosition",
-".stoybday-ad"
-],
 "aminoapps.com": [
 ".overflow-scroll-sidebar > div"
 ],
@@ -25357,6 +25392,9 @@
 ],
 "sherbrookerecord.com": [
 ".sam-pro-container"
+],
+"f95zone.to": [
+".samAlignCenter"
 ],
 "audi-sport.net": [
 ".samBannerUnit"
@@ -27542,6 +27580,9 @@
 "hedgefollow.com": [
 "[data-dee_type^=\"large_banner\"]"
 ],
+"dannydutch.com": [
+"[data-hook=\"HtmlComponent\"]"
+],
 "clevelandclinic.org": [
 "[data-identity*=\"billboard-ad\"]",
 "[data-identity=\"leaderboard-ad\"]"
@@ -27878,6 +27919,10 @@
 ],
 "urbanartassociation.com": [
 "[href^=\"http://redirect.viglink.com\"]"
+],
+"learn-cpp.org": [
+"[href^=\"http://www.spoj.com/\"]",
+"[href^=\"https://codingforkids.io\"]"
 ],
 "windows-noob.com": [
 "[href^=\"https://adaptiva.com/\"]",
@@ -31469,7 +31514,6 @@
 ".advertisement.rectangle",
 ".advertisement.under-article",
 ".align.Ad",
-".appnexus.ad",
 ".bigbox.ad",
 ".billboard.ad",
 ".category-ad:not(html):not(body):not(.post)",
@@ -31543,27 +31587,17 @@
 "div[data-adzone]",
 "div[data-alias=\"300x250 Ad 1\"]",
 "div[data-alias=\"300x250 Ad 2\"]",
-"div[data-content=\"Advertisement\"]",
 "div[data-contentexchange-widget]",
 "div[data-dfp-id]",
-"div[data-google-query-id]",
 "div[data-id-advertdfpconf]",
-"div[data-insertion]",
-"div[data-mini-ad-unit]",
 "div[data-native-ad]",
 "div[data-native_ad]",
-"div[id^=\"_vdo_ads_player_ai_\"]",
 "div[id^=\"ad-div-\"]",
 "div[id^=\"ad-position-\"]",
 "div[id^=\"ad_position_\"]",
 "div[id^=\"adngin-\"]",
 "div[id^=\"adrotate_widgets-\"]",
-"div[id^=\"ads250_250-widget-\"]",
-"div[id^=\"ads300_100-widget-\"]",
-"div[id^=\"ads300_250-widget-\"]",
-"div[id^=\"ads300_600-widget-\"]",
 "div[id^=\"adspot-\"]",
-"div[id^=\"advads_ad_\"]",
 "div[id^=\"crt-\"][style]",
 "div[id^=\"dfp-ad-\"]",
 "div[id^=\"div-ads-\"]",
@@ -31623,6 +31657,7 @@
 "[data-freestar-ad]",
 "[data-revive-zoneid]",
 "[data-testid=\"prism-ad-wrapper\"]",
+"div[data-content=\"Advertisement\"]",
 "div.adsninja-ad-zone",
 "div.bgr-ad-leaderboard",
 "div.adsHeight300x250",
@@ -33466,6 +33501,9 @@
 "#adv_top",
 "#adv_wallpaper",
 "#adv_wallpaper2",
+"#advads_ad_widget-18",
+"#advads_ad_widget-19",
+"#advads_ad_widget-8",
 "#adver",
 "#adver-top",
 "#adverFrame",
@@ -37159,7 +37197,6 @@
 ".ad-mobile-300x250",
 ".ad-mobile-300x50",
 ".ad-mobile-banner",
-".ad-mobile-dynamic",
 ".ad-mobile-flex-inc",
 ".ad-mobile-flex-pos2",
 ".ad-mobile-incontent-ad-plus",
@@ -39190,6 +39227,7 @@
 ".ads300-250",
 ".ads300250",
 ".ads300_250",
+".ads300_600-widget",
 ".ads300box",
 ".ads300x600",
 ".ads336_280",
@@ -40523,25 +40561,12 @@
 ".affiliate-ad",
 ".affiliate-footer",
 ".affiliate-link",
-".affiliate-mrec-iframe",
 ".affiliate-sidebar",
 ".affiliate-strip",
-".affiliate-unit__link",
-".affiliate-unit__wrapper",
 ".affiliateAdvertText",
 ".affiliate_ad",
 ".affiliate_header_ads",
-".affiliates-sidebar",
-".affiliation728x90",
-".affinityAdHeader",
-".afns-ad-sponsor-logo",
-".afsAdvertising",
-".afsAdvertisingBottom",
-".aft-top-728x90",
-".aftContentAdLeft",
-".aftContentAdRight",
 ".after-content-ad",
-".after-first-post-ad-1",
 ".after-intro-ad",
 ".after-post-ad",
 ".after-post-ads",
@@ -40550,14 +40575,11 @@
 ".after_comments_ads",
 ".after_content_banner_advert",
 ".after_post_ad",
-".afterpostadbox",
 ".afw_ad",
 ".aggads-ad",
 ".ahe-ad",
-".ahe-adsticky",
 ".ai-top-ad-outer",
 ".aisle-ad",
-".aisoad",
 ".ajax_ad",
 ".ajaxads",
 ".ajdg_bnnrwidgets",
@@ -40583,7 +40605,6 @@
 ".anchorAd",
 ".anchored-ad-widget",
 ".annonstext",
-".another-ad",
 ".anyad",
 ".anzeige_banner",
 ".aoa_overlay",
@@ -40618,7 +40639,6 @@
 ".article--ad",
 ".article--content-ad",
 ".article-ad",
-".article-ad-970x90",
 ".article-ad-align-left",
 ".article-ad-blk",
 ".article-ad-bottom",
@@ -40708,7 +40728,6 @@
 ".atf-ad",
 ".atfAds",
 ".atf_adWrapper",
-".atf_placeholder",
 ".atomsAdsCellModel",
 ".attachment-advert_home",
 ".attachment-dm-advert-bronze",
@@ -41425,8 +41444,6 @@
 ".content-page-ad_wrap",
 ".content-result-ads",
 ".content-top-ad-item",
-".content-top-mpu",
-".content-unit-ad",
 ".content1-ad",
 ".content2-ad",
 ".contentAd",
@@ -41547,7 +41564,6 @@
 ".deckAd",
 ".deckads",
 ".demand-supply",
-".demo-advert",
 ".desktop-ad",
 ".desktop-ad-banner",
 ".desktop-ad-container",
@@ -41741,6 +41757,12 @@
 ".dynamicad2",
 ".e-ad",
 ".e-advertise",
+".e3lan",
+".e3lan-top",
+".e3lan-widget-content",
+".e3lan300-100",
+".e3lan300-250",
+".e3lan300_250-widget",
 ".eaa-ad",
 ".eads",
 ".easy-ads",
@@ -42532,23 +42554,14 @@
 ".img_ad",
 ".img_ads",
 ".imgad",
-".imgur-ad",
-".imuBox",
-".in-ad",
 ".in-article-ad",
 ".in-article-ad-placeholder",
 ".in-article-ad-wrapper",
 ".in-article-adx",
-".in-article-mpu",
 ".in-between-ad",
-".in-body-ad-row",
-".in-body-banner-ad",
 ".in-content-ad",
-".in-content-ad--container",
-".in-content-ad-container",
 ".in-content-ad-wrapper",
 ".in-page-ad",
-".in-post-banner-ad",
 ".in-slider-ad",
 ".in-story-ads",
 ".in-text-ad",
@@ -42567,21 +42580,14 @@
 ".incontentAd",
 ".incontent_ads",
 ".index-adv",
-".index-content-ad-wrapper",
-".index-content-ad-wrapper-top",
 ".index_728_ad",
 ".index_ad",
 ".index_ad_a2",
 ".index_ad_a4",
 ".index_ad_a5",
 ".index_ad_a6",
-".index_ad_column2",
 ".index_right_ad",
-".indexad",
 ".infinity-ad",
-".info-ads",
-".ingridAd",
-".inhouseAdUnit",
 ".inhousead",
 ".injected-ad",
 ".injectedAd",
@@ -42599,8 +42605,6 @@
 ".inline-display-ad",
 ".inline-google-ad-slot",
 ".inline-mpu",
-".inline-mpu-left",
-".inline-panorama-ad",
 ".inline-story-add",
 ".inlineAd",
 ".inlineAdContainer",
@@ -42608,8 +42612,6 @@
 ".inlineAdInner",
 ".inlineAdNotice",
 ".inlineAdText",
-".inlineAdTour",
-".inlineAd_content",
 ".inlineAdvert",
 ".inlineAdvertisement",
 ".inlinePageAds",
@@ -42619,7 +42621,6 @@
 ".inline_ad_title",
 ".inline_ads",
 ".inlinead",
-".inlinead-tagtop",
 ".inlinead_lazyload",
 ".inlineadsense",
 ".inlineadtitle",
@@ -42631,14 +42632,12 @@
 ".inner-adv",
 ".inner-advert",
 ".inner-post-ad",
-".innerAd300",
 ".innerAdWrapper",
 ".innerAds",
 ".innerContentAd",
 ".innerWidecontentAd",
 ".inner_ad",
 ".inner_ad_advertise",
-".inner_adv",
 ".inner_big_ad",
 ".innerad",
 ".inpostad",
@@ -42649,16 +42648,11 @@
 ".insert_ad_column",
 ".insert_advertisement",
 ".insertad",
-".inside-post-ad",
-".insideStoryAd",
 ".inside_ad",
 ".insideads",
 ".inslide-ad",
 ".insticator-ads",
-".instoryAdBlock",
-".instoryAdNoBlock",
 ".instream_ad",
-".insurance-ad",
 ".intAdRow",
 ".intad",
 ".interAd",
@@ -42694,16 +42688,12 @@
 ".islandAd",
 ".islandAdvert",
 ".island_ad",
-".island_ad_right_top",
 ".islandad",
 ".item--ad",
 ".item-ad",
 ".item-ad-leaderboard",
 ".item-advertising",
 ".item-container-ad",
-".item-housead",
-".item-housead-last",
-".item-inline-ad",
 ".itemAdvertise",
 ".item_ads",
 ".itsanad",
@@ -42712,7 +42702,6 @@
 ".jannah_ad",
 ".jg-ad-5",
 ".jg-ad-970",
-".jl-ads-leaderboard",
 ".jobbioapp",
 ".jobs-ad-box",
 ".jobs-ad-marker",
@@ -42725,7 +42714,6 @@
 ".js-ad-dynamic",
 ".js-ad-frame",
 ".js-ad-home",
-".js-ad-hover",
 ".js-ad-loader-bottom",
 ".js-ad-slot",
 ".js-ad-static",
@@ -42733,13 +42721,10 @@
 ".js-ad-unit-bottom",
 ".js-ad-wrapper",
 ".js-ad_iframe",
-".js-ad_iframe_wrap",
 ".js-adfliction-iframe",
 ".js-adfliction-standard",
 ".js-ads",
 ".js-ads-carousel",
-".js-ads-header-content",
-".js-adv-rotator-image",
 ".js-advert",
 ".js-advert-container",
 ".js-adzone",
@@ -42759,39 +42744,28 @@
 ".js-native-ad",
 ".js-no-sticky-ad",
 ".js-overlay_ad",
-".js-product-ad-slider",
 ".js-react-simple-ad",
 ".js-results-ads",
 ".js-right-ad-block",
 ".js-sidebar-ads",
-".js-site-header-advert",
 ".js-skyscraper-ad",
 ".js-slide-right-ad",
 ".js-slide-top-ad",
-".js-slim-nav-ad",
 ".js-sticky-ad",
 ".js-stream-ad",
-".js-stream-featured-ad",
 ".js-toggle-ad",
-".js-underplayerAd",
 ".jsAdSlot",
 ".jsMPUSponsor",
-".jsOneAd",
-".js_ad-sticky-footer",
 ".js_adContainer",
 ".js_ad_wrapper",
-".js_contained-ad-container",
 ".js_deferred-ad",
 ".js_desktop-horizontal-ad",
 ".js_midbanner_ad_slot",
-".js_movable_ad_slot",
 ".js_preheader-ad-container",
 ".js_slideshow-full-width-ad",
 ".js_slideshow-sidebar-ad",
 ".js_sticky-top-ad",
 ".jsx-adcontainer",
-".juicyads_300x250",
-".jumboAd",
 ".jw-ad",
 ".jw-ad-block",
 ".jw-ad-label",
@@ -44904,7 +44878,6 @@
 ".under-player-ad",
 ".under-player-ads",
 ".under_ads",
-".underplayerAd",
 ".underplayer__ad",
 ".uniAdBox",
 ".uniAds",
@@ -45220,7 +45193,6 @@
 ".yad-sponsored",
 ".yahooAd",
 ".yahooAds",
-".yahooContentMatch",
 ".yahoo_ad",
 ".yahoo_ads",
 ".yahooad",
@@ -45491,6 +45463,7 @@
 "#interstory_second_ddb_0",
 "#mpu_bottom_sb_1_parent",
 "#mpu_bottom_sb_2_parent",
+".ad-mobile-dynamic",
 ".ad-slot-header__wrapper",
 ".ad__w728",
 ".ads_inline_640",
@@ -45499,7 +45472,10 @@
 ".c-asurionBottomBanner",
 ".c-posts__ad",
 ".floating-preroll-ad",
+".instoryAdBlock",
+".instoryAdNoBlock",
 ".js-ad-placement",
+".js_ad-sticky-footer",
 ".js_modal_exit_intent",
 ".lastAdSlot",
 ".latestStoriesAd",
@@ -45674,6 +45650,7 @@
 "#kanews-cookie-box",
 ".e-consents-alert",
 ".wp-gdpr-cookie-notice-wrap",
+".wp-block-jetpack-cookie-consent",
 ".inpage_cookieOptOutForm",
 ".optanon-show-settings",
 ".sqs-cookie-banner-v2",
@@ -48705,7 +48682,15 @@
 "main_frame": true,
 "popup": true
 },
+"5ceea3.xyz": {
+"main_frame": true,
+"popup": true
+},
 "5fd6bc.xyz": {
+"main_frame": true,
+"popup": true
+},
+"605efe.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -48742,6 +48727,10 @@
 "popup": true
 },
 "977878.xyz": {
+"main_frame": true,
+"popup": true
+},
+"97b448.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -48806,6 +48795,10 @@
 "popup": true
 },
 "d980ed.xyz": {
+"main_frame": true,
+"popup": true
+},
+"dd2270.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -49067,6 +49060,9 @@
 },
 "kissanimes.net/30": {
 "sub_frame": true
+},
+"learn-cpp.org/static/img/banners/cfk/": {
+"image": true
 },
 "manytoon.com/script/": {
 "script": true
