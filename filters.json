@@ -4119,7 +4119,6 @@
 "/web-pixel-shopify-app-pixel@",
 "/web-pixel-shopify-custom-pixel@",
 "/web-vitals.",
-"/web-vitals/",
 "/web/push?",
 "/web_analytics/",
 "/web_answertip.js",
@@ -11620,8 +11619,7 @@
 "[class^=\"FullWidthAd_\"]",
 "[data-component=\"in-body-ad\"]",
 "div[class^=\"media-ui-BaseAd\"]",
-"div[class^=\"media-ui-FullWidthAd\"]",
-".leaderboard-container"
+"div[class^=\"media-ui-FullWidthAd\"]"
 ],
 "datpiff.com": [
 "#leaderboard",
@@ -12591,6 +12589,12 @@
 "out.com": [
 "#sPost_Layout_Default_0_0_20_0_0_2_2",
 ".footer"
+],
+"spectrum.ieee.org": [
+"#sSS_Default_Post_0_0_20_0_0_1_4_2",
+".tag-type-whitepaper",
+".top-leader-container",
+"div[class^=\"rblad-\"]"
 ],
 "flatpanelshd.com": [
 "#sb-site > .hidden-xs.container",
@@ -13858,6 +13862,15 @@
 ".AdUnit_adUnitCenter__FKOWE",
 ".Ad_rootHomepage__mSzqh"
 ],
+"barrons.com": [
+".AdWrapper-sc-9rx3gf-0",
+".RenderBlock__AdWrapper-sc-1vrmc5r-0",
+".adWrapperTopLead",
+".barrons-body-ad-placement",
+".standard__AdWrapper-sc-14sjre0-6",
+".uds-ad-container",
+"div[class^=\"BarronsTheme--adWrapper\"]"
+],
 "complex.com": [
 ".AdWrapper__AdPlaceholderContainer-sc-15idjh1-0"
 ],
@@ -14323,14 +14336,6 @@
 "tvzoneuk.com": [
 ".R38Z80",
 "[data-hook=\"HtmlComponent\"]"
-],
-"barrons.com": [
-".RenderBlock__AdWrapper-sc-1vrmc5r-0",
-".adWrapperTopLead",
-".barrons-body-ad-placement",
-".standard__AdWrapper-sc-14sjre0-6",
-".uds-ad-container",
-"div[class^=\"BarronsTheme--adWrapper\"]"
 ],
 "charismanews.com": [
 ".RightBnrWrap",
@@ -16323,6 +16328,11 @@
 ".col-md-12 > table",
 ".text-center.mt-5",
 "[style=\"min-height: 305px;\"]"
+],
+"geoguessr.com": [
+".ad_wrapper__3DZ7k",
+".game-layout__in-game-ad",
+".start__display-ad"
 ],
 "webextension.org": [
 ".adb"
@@ -21594,9 +21604,10 @@
 ],
 "thehackernews.com": [
 ".dog_two",
+".okfix",
+"div.rocking",
 ".sadbar2",
-".sadfix",
-"div.rocking"
+".sadfix"
 ],
 "domaingang.com": [
 ".domai-target",
@@ -22320,11 +22331,6 @@
 ],
 "komikindo.tv": [
 ".gambar_pemanis"
-],
-"geoguessr.com": [
-".game-layout__in-game-ad",
-".start__display-ad",
-"aside[class^=\"ad_\"]"
 ],
 "pokernews.com": [
 ".gameCards",
@@ -26206,11 +26212,6 @@
 "ucompares.com": [
 ".tablepress-id-46"
 ],
-"spectrum.ieee.org": [
-".tag-type-whitepaper",
-".top-leader-container",
-"div[class^=\"rblad-\"]"
-],
 "igg-games.com": [
 ".taxonomy-description",
 ".uk-panel.widget-text",
@@ -27390,7 +27391,8 @@
 ".zAzfDBzdxq3"
 ],
 "pcmag.com": [
-".zad"
+".zad",
+"img[src^=\"https://t.myvisualiq.net/\"]"
 ],
 "windows101tricks.com": [
 ".zanui-container"
@@ -27715,27 +27717,40 @@
 "manomano.co.uk": [
 "[data-testid=\"spr-brd-banner\"]",
 "div[data-testid=\"boosted-product-recommendations\"]",
+".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
+".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 "a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)"
 ],
 "manomano.de": [
 "[data-testid=\"spr-brd-banner\"]",
 "div[data-testid=\"boosted-product-recommendations\"]",
+".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
+".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 "a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)"
 ],
 "manomano.es": [
 "[data-testid=\"spr-brd-banner\"]",
 "div[data-testid=\"boosted-product-recommendations\"]",
+".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
+".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 "a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)"
 ],
 "manomano.fr": [
 "[data-testid=\"spr-brd-banner\"]",
 "div[data-testid=\"boosted-product-recommendations\"]",
+".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
+".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 "a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)"
 ],
 "manomano.it": [
 "[data-testid=\"spr-brd-banner\"]",
 "div[data-testid=\"boosted-product-recommendations\"]",
+".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
+".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 "a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)"
+],
+"thesportsrush.com": [
+"[data-type=\"ad\"]"
 ],
 "forum.ragezone.com": [
 "[data-widget-key=\"widget_partners\"]"
@@ -45480,6 +45495,7 @@
 ".trc_spotlight_item",
 ".gnt_xmst",
 "#floorboard_block",
+".cws-cookies-notification",
 "#agree_cookies",
 ".freeprivacypolicy-com---nb",
 ".freeprivacypolicy-com---nb-simple",
@@ -48708,6 +48724,10 @@
 "main_frame": true,
 "popup": true
 },
+"bd5a57.xyz": {
+"main_frame": true,
+"popup": true
+},
 "ca3d.site": {
 "main_frame": true,
 "popup": true
@@ -48749,6 +48769,10 @@
 "popup": true
 },
 "dd2270.xyz": {
+"main_frame": true,
+"popup": true
+},
+"de214f.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -51885,6 +51909,10 @@
 "://top.": [
 "/count/cnt.php?"
 ],
+"api.target.com/consumers/": [
+"_debugevent=",
+"/ttms/events"
+],
 "mrbeast.store/undefined/": [
 "/trackimageviews"
 ],
@@ -51941,10 +51969,6 @@
 ],
 "familydollar.com/ccstoreui/": [
 "/analytics/"
-],
-"api.target.com/consumers/": [
-"/ttms/events",
-"/ingest/web/eventstream"
 ],
 "api.target.com/firefly_events/": [
 "/events/"
