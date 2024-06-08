@@ -4321,6 +4321,7 @@
 "199.19.203.46/js",
 "1worldsync.com/log?",
 "216.18.176.4/logger/",
+"24sata.hr/static/scripts/utils/tracking.min.js",
 "24support.cc/js/stats.js",
 "24ur.com/bin/player/?mod=statistics&",
 "26216.stunserver.net/a8.js",
@@ -5201,6 +5202,7 @@
 "cast.imp.joins.com/persona.js",
 "catalove.com/bimp/",
 "catalove.com/ntv/",
+"catawiki.com/ab/s.js",
 "cbc.ca/g/stats/",
 "cbsaavideo.com/measurements/",
 "cbsivideo.com/measurements/",
@@ -7173,6 +7175,7 @@
 "proxycheck.io/v2/",
 "proxysolutions.net/affiliates/",
 "psr.staticbg.com/rum/monitor.min.js",
+"pubgifs.com/pixel.gif",
 "public.cobrowse.oraclecloud.com/rely/storage/",
 "public.fbot.me/track/",
 "publicbroadcasting.net/analytics/",
@@ -27749,6 +27752,9 @@
 ".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 "a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)"
 ],
+"game8.co": [
+"[data-track-nier-keyword=\"footer_overlay_ads\"]"
+],
 "thesportsrush.com": [
 "[data-type=\"ad\"]"
 ],
@@ -30102,6 +30108,10 @@
 "div:has(> a[data-testid=\"inline-brand-banner\"])",
 "div[aria-label=\"Sponsored\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+],
+"flightradar24.com": [
+"div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)",
+"#primisAdContainer"
 ],
 "thebay.com": [
 "div.product:has(div.citrus-sponsored)",
@@ -48540,6 +48550,10 @@
 "main_frame": true,
 "popup": true
 },
+"0ae00c7c.xyz": {
+"main_frame": true,
+"popup": true
+},
 "1116c5.xyz": {
 "main_frame": true,
 "popup": true
@@ -48624,6 +48638,10 @@
 "main_frame": true,
 "popup": true
 },
+"5afc476a.xyz": {
+"main_frame": true,
+"popup": true
+},
 "5ceea3.xyz": {
 "main_frame": true,
 "popup": true
@@ -48653,6 +48671,10 @@
 "popup": true
 },
 "7608d5.xyz": {
+"main_frame": true,
+"popup": true
+},
+"7ca989e1.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -51908,6 +51930,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"cdn.lihkg.com/static/": [
+"/js/21.chunk.js"
 ],
 "api.target.com/consumers/": [
 "_debugevent=",
