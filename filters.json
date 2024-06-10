@@ -5580,6 +5580,7 @@
 "dev.to/fallback_activity_recorder",
 "developer.mozilla.org/pong/",
 "developer.mozilla.org/submit/",
+"developers.miro.com/pageview",
 "developpez.com/public/js/log.js",
 "deviantart.com/_nsfgfb/",
 "devicebind.ebay.com/signin/sub/log",
@@ -5716,6 +5717,7 @@
 "eiga.k-img.com/javascripts/td.js?1578981009",
 "eighten-bloc-party.thebrowser.company/script.js",
 "eiu.com/n/wp-content/plugins/eiu-google-tag-manager/assets/dist/js/eiu-google-tag-manager.min.js",
+"eletrogate.com/_events/",
 "elil.cc/pdev/",
 "elil.cc/reqe.js",
 "elitepvpers.com/epvplytics.",
@@ -7665,6 +7667,7 @@
 "static.dditscdn.com/arms-datacollectorjs/",
 "static.ex.co/cdn/content/monetization/pixel-sdk/",
 "static.foxnews.com/static/leap/sites/fnc/metrics.js",
+"static.getmodsapk.com/cloudflare/ads-images/",
 "static.hankyung.com/js/ga/googletagmanager.js",
 "static.ifruplink.net/static_src/mc-banner/",
 "static.iqiyi.com/js/pingback/",
@@ -7767,6 +7770,9 @@
 "sunflowerbright109.io/sdk.js",
 "sunknudsen.com/static/media/js/fathom",
 "sunset.com/tia/",
+"support.github.com/_event",
+"support.github.com/session/event",
+"support.github.com/session/user",
 "support.huawei.com/enterprisesearch/3rdparty/opensource/analytics/",
 "surdotly.com/js/surly.min.js",
 "survey.hyzen-cloud.com/pixel/",
@@ -8783,6 +8789,12 @@
 "#Upper",
 "#skywideupper"
 ],
+"breakingnews.ie": [
+"#\\30 _pweumum7",
+".custom-mpu-container",
+".p-2.bg-gray-100",
+".py-2.bg-gray-100"
+],
 "turbobit.net": [
 "#__bgd_link"
 ],
@@ -8881,6 +8893,9 @@
 ".articletoolset",
 ".varWrapper",
 "#ad-colB-1"
+],
+"getmodsapk.com": [
+"#ad-container"
 ],
 "retrostic.com": [
 "#ad-header"
@@ -13856,6 +13871,10 @@
 "div[class^=\"AdContainer\"]",
 "div[class^=\"TopContainer-\"]"
 ],
+"tvnz.co.nz": [
+".AdOnPause",
+".Advert"
+],
 "petfinder.com": [
 ".AdUnitParagraph-module--adunitContainer--2b7a6",
 ".CardGrid-module--breakOut--a18cf",
@@ -13953,9 +13972,6 @@
 ],
 "theohiostar.com": [
 ".AdvancedText"
-],
-"tvnz.co.nz": [
-".Advert"
 ],
 "suffolknews.co.uk": [
 ".Advertisement",
@@ -17235,6 +17251,9 @@
 "dailyedge.ie": [
 ".advert"
 ],
+"datalounge.com": [
+".advert"
+],
 "derehamtimes.co.uk": [
 ".advert"
 ],
@@ -20346,6 +20365,12 @@
 ".c-ad--rightpageskin",
 ".c-freestar-video-ad__container"
 ],
+"theglobeandmail.com": [
+".c-ad-sticky",
+"div[class^=\"BaseAd_\"]",
+".BaseAd__StyledRootBaseAd-sc-1khlkqq-1",
+"#BaseAd__StyledAdPlaceholder-sc-1khlkqq-0"
+],
 "zdnet.com": [
 ".c-adDisplay_container_incontent-all-top",
 ".c-avStickyVideo",
@@ -21355,11 +21380,6 @@
 ".custom-jucdap",
 "div[data-freestar-ad]"
 ],
-"breakingnews.ie": [
-".custom-mpu-container",
-".p-2.bg-gray-100",
-".py-2.bg-gray-100"
-],
 "ehitavada.com": [
 ".custom-popup",
 "div[class^=\"ad_space_\"]"
@@ -21402,6 +21422,10 @@
 "publish0x.com": [
 ".d-md-none.text-center",
 ".d-xl-block"
+],
+"dagens.com": [
+".d-none-mobile.d-none-tablet.i-2",
+".generic-widget.d-none-mobile.i-1"
 ],
 "cutyt.com": [
 ".d-xl-block"
@@ -22519,6 +22543,8 @@
 ],
 "emojipedia.org": [
 ".h-\\[282px\\]",
+".h-\\[312px\\]",
+"div[class=\"flex flex-col items-center md:order-1\"]",
 "div[class^=\"AdContainer\"]"
 ],
 "thenewdaily.com.au": [
@@ -22962,6 +22988,9 @@
 "manitobacooperator.ca": [
 ".inline--2",
 ".leaderboard-height"
+],
+"pexels.com": [
+".inline-ads"
 ],
 "cochranenow.com": [
 ".inline-billboard"
@@ -28958,11 +28987,6 @@
 "sportinglife.com": [
 "div[class^=\"Article__FlashTalkingWrapper-\"]",
 "div[class^=\"Layout__TopAdvertWrapper-\"]"
-],
-"theglobeandmail.com": [
-"div[class^=\"BaseAd_\"]",
-".BaseAd__StyledRootBaseAd-sc-1khlkqq-1",
-"#BaseAd__StyledAdPlaceholder-sc-1khlkqq-0"
 ],
 "yallo.tv": [
 "div[class^=\"BrandingBackgroundstyled__Wrapper-\"]"
@@ -48554,6 +48578,14 @@
 "main_frame": true,
 "popup": true
 },
+"0c0b6e3f.xyz": {
+"main_frame": true,
+"popup": true
+},
+"0d785fd7.xyz": {
+"main_frame": true,
+"popup": true
+},
 "1116c5.xyz": {
 "main_frame": true,
 "popup": true
@@ -48571,6 +48603,10 @@
 "popup": true
 },
 "1a1fb6.xyz": {
+"main_frame": true,
+"popup": true
+},
+"1dd6e9ba.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -48595,6 +48631,10 @@
 "popup": true
 },
 "3a2e.site": {
+"main_frame": true,
+"popup": true
+},
+"420db600.xyz": {
 "main_frame": true,
 "popup": true
 },
