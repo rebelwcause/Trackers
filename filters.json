@@ -6292,9 +6292,14 @@
 "indiadesire.com/bbd/",
 "indianpornvideotube.com/incnt",
 "indiansinkuwait.com/campaign/",
+"indiatimes.com/ads_",
+"indiatimes.com/itads_",
+"indiatimes.com/lgads_",
+"indiatimes.com/manageads/",
 "indiatimes.com/personalisation/logdata/",
 "indiatimes.com/pixel?",
 "indiatimes.com/savelogs?",
+"indiatimes.com/toiads_",
 "inet.az/img.php",
 "inetstatic.com/tracking/",
 "inews.co.uk/rta2/",
@@ -12047,7 +12052,8 @@
 ".widget_text"
 ],
 "polygonscan.com": [
-"#my-banner-ad"
+"#my-banner-ad",
+"#t8xt5pt6kr-0-1"
 ],
 "mangareader.cc": [
 "#myModal"
@@ -14495,6 +14501,10 @@
 ],
 "tampafp.com": [
 "._ning_outer"
+],
+"filerox.com": [
+"._ozxowqadvert",
+".ad"
 ],
 "coingraph.us": [
 ".a",
@@ -30001,6 +30011,11 @@
 "radioreference.com": [
 ".box.gradient:has(a[href*=\"&Click=\"])"
 ],
+"doordash.com": [
+".carousel-virtual-wrapper:has([href*=\"collection_type=sponsored_brand\"])",
+".ccdtLs:has([data-testid=\"sponsored:Sponsored\"])",
+"div:has(> a[data-anchor-id=\"SponsoredStoreCard\"])"
+],
 "templateshub.net": [
 ".col-lg-4.col-md-6:has(> div.singel-course)"
 ],
@@ -30221,9 +30236,6 @@
 ],
 "healthyrex.com": [
 "div.textwidget:has(a[rel=\"nofollow sponsored\"])"
-],
-"doordash.com": [
-"div:has(> a[data-anchor-id=\"SponsoredStoreCard\"])"
 ],
 "heb.com": [
 "div:has(> div[id^=\"hrm-banner-shotgun\"])"
@@ -47164,7 +47176,8 @@
 "watchinfilm.com"
 ],
 "#adsContainer": [
-"mafagames.com"
+"mafagames.com",
+"telkomsel.com"
 ],
 "#adspace": [
 "zeirishi-web.com"
@@ -48845,6 +48858,10 @@
 "main_frame": true,
 "popup": true
 },
+"9814b49f.xyz": {
+"main_frame": true,
+"popup": true
+},
 "a49ebd.xyz": {
 "main_frame": true,
 "popup": true
@@ -48950,6 +48967,10 @@
 "popup": true
 },
 "e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz": {
+"main_frame": true,
+"popup": true
+},
+"e1ce13d5.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -49455,6 +49476,7 @@
 },
 "/webanalytics.": {},
 "/webtracking/": {
+"main_frame": false,
 "sub_frame": false
 },
 "://fathom.": {},
@@ -49541,6 +49563,9 @@
 "image": true
 },
 ".elaine-asp.de/action/view/": {
+"image": true
+},
+".emlfiles4.com/cmpimg/t/": {
 "image": true
 },
 ".eventim.de/op/": {
