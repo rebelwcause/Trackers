@@ -1986,7 +1986,7 @@
 "/froloa.js",
 "/frontend-gtag.js",
 "/frontend-gtag.min.js",
-"/frontend-metrics/",
+"/frontend-metrics",
 "/frontend-sentry-",
 "/frontend_loader.js",
 "/fsrscripts/triggerparams.js",
@@ -2843,6 +2843,7 @@
 "/pageview?t=",
 "/pageview?user_guid=",
 "/pageviews.gif?",
+"/pageviews.php?type=",
 "/pageviews?token=",
 "/pandectes-core.js",
 "/parsely.js",
@@ -4342,6 +4343,7 @@
 "4f.to/spns/",
 "4gtv.tv/js/ga_",
 "4hds.com/js/camstats.js",
+"4kporn.xxx/static/analytics/",
 "4pna.com/clientscript/kr_scripts/rbs_scripts/rbs_banner_sender.min.js",
 "4shared.com/js/d1visitscounter.4min.js",
 "4sysops.com/global/appear.js",
@@ -6605,6 +6607,7 @@
 "lycos.com/catman/",
 "lycos.com/hb.js",
 "lyft.com/api/track",
+"lyngsat.com/system/loadclick.js",
 "m-economynews.com/weblog/gtracker",
 "m-oo-m.com/data/report/",
 "m.cdn.yclients.com/utm.marker.js",
@@ -8060,6 +8063,7 @@
 "udemy.com/api-2.0/ecl",
 "ufe.helixo.co/api/v1/stats",
 "uhdmovies.eu/axwinpop.js",
+"uhdmovies.foo/onewinpop.js",
 "uhit.eu/id/",
 "ukcampsite.co.uk/banners/",
 "uloz.to/detect.html",
@@ -11759,6 +11763,9 @@
 "#leaderboard-container",
 ".slot"
 ],
+"farooqkperogi.com": [
+"#leaderboard-content"
+],
 "alternet.org": [
 "#leaderboard-placeholder",
 ".sidebar_sticky_container"
@@ -12586,6 +12593,16 @@
 ],
 "medicaldialogues.in": [
 "#right_level_8"
+],
+"collegedunia.com": [
+"#right_side_barslot_1",
+"#right_side_barslot_2",
+".ads_body_ad_code_container",
+".college-sidebar .course-finder-banner",
+".headerslot",
+".sidebar .course-finder-banner",
+".unacedemy-wrapper",
+"[class*=\"-ad-slot\"]"
 ],
 "box-core.net": [
 "#rrec",
@@ -14432,7 +14449,8 @@
 ],
 "thetimes.com": [
 ".Sticky-AdContainer",
-".responsive__InlineAdWrapper-sc-4v1r4q-14"
+".responsive__InlineAdWrapper-sc-4v1r4q-14",
+"article[id=\"article-main\"] > div:has(#ad-header)"
 ],
 "apartmenttherapy.com": [
 ".StickyFooter",
@@ -21821,6 +21839,9 @@
 "floridianpress.com": [
 ".enhanced-text-widget"
 ],
+"malwarefox.com": [
+".entry-content > .gb-container"
+],
 "kupondo.com": [
 ".entry-content > .row"
 ],
@@ -22098,6 +22119,7 @@
 ".footer-banner",
 ".leaderboard",
 ".native-box",
+".pbh_inline",
 ".r-11rk87y"
 ],
 "wst.tv": [
@@ -23126,7 +23148,8 @@
 "[href*=\"://go.nordvpn.net/\"]"
 ],
 "iconfinder.com": [
-".istockphoto-placeholder"
+".istockphoto-placeholder",
+"a[data-tracking^=\"iStock\"]"
 ],
 "albertsonsmarket.com": [
 ".item-citrus"
@@ -26379,6 +26402,9 @@
 "aptoslife.com": [
 ".td-a-rec"
 ],
+"betootaadvocate.com": [
+".td-a-rec"
+],
 "carnewschina.com": [
 ".td-a-rec",
 ".tdi_162"
@@ -27199,6 +27225,9 @@
 "gamingonphone.com": [
 ".widget_custom_html"
 ],
+"girgitnews.com": [
+".widget_custom_html"
+],
 "guides.wp-bullet.com": [
 ".widget_custom_html",
 "[style=\"height: 288px;\"]"
@@ -27262,6 +27291,9 @@
 "glitched.online": [
 ".widget_media_image",
 "[href*=\"bit.ly/\"]"
+],
+"jharkhandmirror.net": [
+".widget_media_image"
 ],
 "kashmirreader.com": [
 ".widget_media_image"
@@ -28551,7 +28583,8 @@
 "[style^=\"width: 728px;\"]"
 ],
 "alphacoders.com": [
-"[style^=\"width:980px; height:280px;\"]"
+"[style^=\"width:980px; height:280px;\"]",
+".css-grid-content:has(> .in-thumb-ad-css-grid)"
 ],
 "mrchecker.net": [
 "[target=\"_blank\"]"
@@ -29278,7 +29311,8 @@
 "div[data-resultid$=\"-sponsored\"]"
 ],
 "momondo.com": [
-"div[data-resultid$=\"-sponsored\"]"
+"div[data-resultid$=\"-sponsored\"]",
+"[class*=\"mod-pres-default\"]:has(div[class*=\"ad-badge\"])"
 ],
 "linustechtips.com": [
 "div[data-role=\"sidebarAd\"]"
@@ -45623,6 +45657,7 @@
 ".trc_spotlight_item",
 ".gnt_xmst",
 "#floorboard_block",
+".nca-cookiesaccept-line",
 "#dv-cookie-notice",
 "#politykaprywatnosci",
 ".cws-cookies-notification",
@@ -48650,6 +48685,10 @@
 "snap.com": {
 "tp": true
 },
+"00701059.xyz": {
+"main_frame": true,
+"popup": true
+},
 "02777e.site": {
 "main_frame": true,
 "popup": true
@@ -48878,6 +48917,10 @@
 "main_frame": true,
 "popup": true
 },
+"b2bf222e.xyz": {
+"main_frame": true,
+"popup": true
+},
 "b51475b8.xyz": {
 "main_frame": true,
 "popup": true
@@ -48926,6 +48969,10 @@
 "main_frame": true,
 "popup": true
 },
+"cd57296e.xyz": {
+"main_frame": true,
+"popup": true
+},
 "ce357c.xyz": {
 "main_frame": true,
 "popup": true
@@ -48951,6 +48998,10 @@
 "popup": true
 },
 "d980ed.xyz": {
+"main_frame": true,
+"popup": true
+},
+"da28c69e.xyz": {
 "main_frame": true,
 "popup": true
 },
