@@ -6243,6 +6243,7 @@
 "instant-gaming.com/affgames/",
 "instructables.com/counter",
 "intelligems.io/track",
+"interestingengineering.com/partial/connatix_desktop.html",
 "internethaber.com/ajax/hit-increment",
 "internetslang.com/jass/",
 "internships.com/ogckki0e/init.js",
@@ -6668,6 +6669,8 @@
 "moviedollars.com/dynamic_ads/",
 "moviefone.com/click?",
 "moviefone.com/ping?",
+"moviehaxx.pro/js/bootstrap-native.min.js",
+"moviehaxx.pro/js/xeditable.min.js",
 "movieweb.com/strpixel.png",
 "mowplayer.com/media/statistics/",
 "mozilla.org/media/js/firefox_new_pixel.",
@@ -11241,6 +11244,18 @@
 "#header_pay",
 ".pay"
 ],
+"conjugacao-de-verbos.com": [
+"#header_pub"
+],
+"conjugacion.es": [
+"#header_pub"
+],
+"die-konjugation.de": [
+"#header_pub"
+],
+"the-conjugation.com": [
+"#header_pub"
+],
 "deckstats.net": [
 "#header_right_big"
 ],
@@ -11323,6 +11338,54 @@
 "whatismyip.com": [
 "#hp-ad-banner-top"
 ],
+"laredoute.be": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.ch": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.co.uk": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.com": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.de": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.es": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.fr": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.gr": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.it": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.nl": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.pt": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
+"laredoute.ru": [
+"#hp-sponsored-banner",
+"li[class*=\"sponsored-\"]"
+],
 "blog.hubspot.com": [
 "#hs_cos_wrapper_blog_post_sticky_cta"
 ],
@@ -11374,6 +11437,9 @@
 ],
 "tophostingapp.com": [
 "#iframe_id"
+],
+"igeeksblog.com": [
+"#ig_header"
 ],
 "unitconversion.org": [
 "#ileft",
@@ -11792,6 +11858,10 @@
 ".shop-with-us__container",
 ".widget_media_image",
 "#taboola-right-rail-thumbnails"
+],
+"lightnovelcave.com": [
+"#lnvidcontainer",
+"[data-mobid]"
 ],
 "wormate.io": [
 "#loa831pibur0w4gv"
@@ -12941,6 +13011,9 @@
 "orteil.dashnet.org": [
 "#smallSupport"
 ],
+"apkmoddone.com": [
+"#sn-Notif"
+],
 "givemesport.com": [
 "#sn_gg_ad_wrapper",
 ".gms-ad",
@@ -14012,6 +14085,9 @@
 "interestingengineering.com": [
 ".Ad_adContainer__XNCwI",
 ".Ad_ad__hm0Ut",
+".t-h-\\[130px\\]",
+".t-h-\\[176px\\]",
+".t-h-\\[280px\\]",
 ".Anyclip_conBody__emI_Z"
 ],
 "dexerto.com": [
@@ -16591,6 +16667,11 @@
 "online-image-editor.com": [
 ".add"
 ],
+"watcher.guru": [
+".add",
+".add-header",
+"[class*=\"clickout-\"]"
+],
 "mid-day.com": [
 ".add-300x250",
 ".add-970x250",
@@ -17084,6 +17165,10 @@
 ],
 "glanceoflife.com": [
 ".ads_margin"
+],
+"allevents.in": [
+".ads_place_right",
+".advt-text"
 ],
 "skyve.io": [
 ".ads_space"
@@ -18131,6 +18216,153 @@
 ".sense-970x250",
 ".sense-headin"
 ],
+"trovit.ae": [
+".afs-container-skeleton"
+],
+"trovit.be": [
+".afs-container-skeleton"
+],
+"trovit.ca": [
+".afs-container-skeleton"
+],
+"trovit.ch": [
+".afs-container-skeleton"
+],
+"trovit.cl": [
+".afs-container-skeleton"
+],
+"trovit.co.cr": [
+".afs-container-skeleton"
+],
+"trovit.co.id": [
+".afs-container-skeleton"
+],
+"trovit.co.in": [
+".afs-container-skeleton"
+],
+"trovit.co.ke": [
+".afs-container-skeleton"
+],
+"trovit.co.nz": [
+".afs-container-skeleton"
+],
+"trovit.co.uk": [
+".afs-container-skeleton"
+],
+"trovit.co.ve": [
+".afs-container-skeleton"
+],
+"trovit.co.za": [
+".afs-container-skeleton"
+],
+"trovit.com": [
+".afs-container-skeleton"
+],
+"trovit.com.br": [
+".afs-container-skeleton"
+],
+"trovit.com.co": [
+".afs-container-skeleton"
+],
+"trovit.com.ec": [
+".afs-container-skeleton"
+],
+"trovit.com.hk": [
+".afs-container-skeleton"
+],
+"trovit.com.kw": [
+".afs-container-skeleton"
+],
+"trovit.com.mx": [
+".afs-container-skeleton"
+],
+"trovit.com.pa": [
+".afs-container-skeleton"
+],
+"trovit.com.pe": [
+".afs-container-skeleton"
+],
+"trovit.com.pk": [
+".afs-container-skeleton"
+],
+"trovit.com.qa": [
+".afs-container-skeleton"
+],
+"trovit.com.sg": [
+".afs-container-skeleton"
+],
+"trovit.com.tr": [
+".afs-container-skeleton"
+],
+"trovit.com.tw": [
+".afs-container-skeleton"
+],
+"trovit.com.uy": [
+".afs-container-skeleton"
+],
+"trovit.com.vn": [
+".afs-container-skeleton"
+],
+"trovit.cz": [
+".afs-container-skeleton"
+],
+"trovit.dk": [
+".afs-container-skeleton"
+],
+"trovit.es": [
+".afs-container-skeleton"
+],
+"trovit.fr": [
+".afs-container-skeleton"
+],
+"trovit.hu": [
+".afs-container-skeleton"
+],
+"trovit.ie": [
+".afs-container-skeleton"
+],
+"trovit.it": [
+".afs-container-skeleton"
+],
+"trovit.jp": [
+".afs-container-skeleton"
+],
+"trovit.lu": [
+".afs-container-skeleton"
+],
+"trovit.ma": [
+".afs-container-skeleton"
+],
+"trovit.my": [
+".afs-container-skeleton"
+],
+"trovit.ng": [
+".afs-container-skeleton"
+],
+"trovit.nl": [
+".afs-container-skeleton"
+],
+"trovit.no": [
+".afs-container-skeleton"
+],
+"trovit.ph": [
+".afs-container-skeleton"
+],
+"trovit.pl": [
+".afs-container-skeleton"
+],
+"trovit.pt": [
+".afs-container-skeleton"
+],
+"trovit.ro": [
+".afs-container-skeleton"
+],
+"trovit.se": [
+".afs-container-skeleton"
+],
+"trovitargentina.com.ar": [
+".afs-container-skeleton"
+],
 "domainnamewire.com": [
 ".after-header",
 ".banners",
@@ -18958,7 +19190,8 @@
 ".ban_top"
 ],
 "saabplanet.com": [
-".baner"
+".baner",
+".code-block"
 ],
 "rhumbarlv.com": [
 ".banlink"
@@ -20956,6 +21189,9 @@
 "alltechnerd.com": [
 ".code-block"
 ],
+"americanmilitarynews.com": [
+".code-block"
+],
 "americansongwriter.com": [
 ".code-block"
 ],
@@ -21010,7 +21246,8 @@
 ".code-block"
 ],
 "cryptopotato.com": [
-".code-block"
+".code-block",
+"[class*=\"clickout-\"]"
 ],
 "cryptoslate.com": [
 ".code-block",
@@ -21146,6 +21383,7 @@
 ],
 "patriotfetch.com": [
 ".code-block",
+".widget_custom_html",
 ".widget_media_image"
 ],
 "protrumpnews.com": [
@@ -23092,6 +23330,9 @@
 ".skyscrapper",
 ".stickyRHSAds",
 "label"
+],
+"onlinevideoconverter.pro": [
+".helper-widget"
 ],
 "igorslab.de": [
 ".herald-sidebar",
@@ -25175,6 +25416,9 @@
 ".promo-topper",
 ".promo__vertical"
 ],
+"federalnewsnetwork.com": [
+".promo-inline"
+],
 "spin.com": [
 ".promo-lead",
 "div[id*=\"-promo-lead-\"]",
@@ -25881,6 +26125,9 @@
 "geekdoing.com": [
 ".samBannerUnit"
 ],
+"skitalk.com": [
+".samBannerUnit"
+],
 "sportfishingbc.com": [
 ".samBannerUnit"
 ],
@@ -26163,6 +26410,9 @@
 ],
 "torontolife.com": [
 ".sjm-dfp-wrapper"
+],
+"govexec.com": [
+".skybox-item-sponsored"
 ],
 "gtainside.com": [
 ".skyscraper"
@@ -28633,6 +28883,9 @@
 "hola.com": [
 "[id^=\"div-hola-slot-\"]"
 ],
+"komando.com": [
+"[id^=\"leaderboardAdDiv\"]"
+],
 "popculture.com": [
 "[id^=\"native-plus-\"]",
 ".popculture-embed"
@@ -28649,10 +28902,6 @@
 "sitepoint.com": [
 "[rel*=\"sponsored\"]",
 "div[data-unit-code]"
-],
-"thefinancialbrand.com": [
-"[rel*=\"sponsored\"]",
-"aside[class][style*=\"cursor:\"]"
 ],
 "tld-list.com": [
 "[rel*=\"sponsored\"]",
@@ -30055,42 +30304,6 @@
 "dermstore.com": [
 "li.sponsoredProductsList"
 ],
-"laredoute.be": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.ch": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.co.uk": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.com": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.de": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.es": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.fr": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.gr": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.it": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.nl": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.pt": [
-"li[class*=\"sponsored-\"]"
-],
-"laredoute.ru": [
-"li[class*=\"sponsored-\"]"
-],
 "escorenews.com": [
 "noindex"
 ],
@@ -30154,6 +30367,9 @@
 ],
 "backgrounds.wetransfer.net": [
 "we-wallpaper"
+],
+"laredoute.*": [
+"#hp-sponsored-banner"
 ],
 "puzzle-battleships.com": [
 "#Skyscraper:has(> #bannerSide)",
@@ -31411,6 +31627,10 @@
 "thebetterindia.com": [
 ".vspl__gtap-notification-content",
 ".vspl__gtap-notification-overlay"
+],
+"vip.idlixofficialx.com": [
+".ac0c1cd-wrapper",
+".ac0c1cd-blackout"
 ],
 "lasvegasweekly.com": [
 "#bottom-bar-container"
@@ -36772,6 +36992,7 @@
 ".AdsBoxSection",
 ".AdsBoxTop",
 ".AdsLayout__top-container",
+".AdsRectangleWrapper",
 ".AdsSlot",
 ".Ads__wrapper",
 ".Ads_header",
@@ -45976,6 +46197,7 @@
 ".trc_spotlight_item",
 ".gnt_xmst",
 "#floorboard_block",
+"#buzzblogpro-cookie-banner",
 ".navbar-privacy",
 ".nca-cookiesaccept-line",
 "#dv-cookie-notice",
@@ -49315,6 +49537,10 @@
 "main_frame": true,
 "popup": true
 },
+"466c4d0f.xyz": {
+"main_frame": true,
+"popup": true
+},
 "485728.xyz": {
 "main_frame": true,
 "popup": true
@@ -49595,6 +49821,10 @@
 "main_frame": true,
 "popup": true
 },
+"f4c9a0fb.xyz": {
+"main_frame": true,
+"popup": true
+},
 "f6176563.site": {
 "main_frame": true,
 "popup": true
@@ -49698,6 +49928,9 @@
 "gamezop.com": {
 "sub_frame": true,
 "tp": true
+},
+"html-load.cc/script/": {
+"script": true
 },
 "huffpost.com/embed/connatix/": {
 "sub_frame": true
@@ -49839,9 +50072,6 @@
 },
 "hltv.org/partnerimage/": {
 "image": true
-},
-"html-load.cc/script/": {
-"script": true
 },
 "illicium.web.money": {
 "sub_frame": true
@@ -50972,7 +51202,8 @@
 "script": true
 },
 "gravito.net/cmp": {
-"script": true
+"script": true,
+"xmlhttprequest": true
 },
 "/borlabs-cookie/": {
 "script": false
