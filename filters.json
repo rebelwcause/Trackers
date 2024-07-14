@@ -3236,6 +3236,7 @@
 "/script/ippg.js",
 "/script/jesus.js",
 "/script/lib1.js",
+"/script/lib2.js",
 "/script/nan.js",
 "/script/native_render.js",
 "/script/native_server.js",
@@ -6434,6 +6435,7 @@
 "lacoccinelle.net/tools.js",
 "lagacetanewspaper.com/wp-content/uploads/banners/",
 "lalaziosiamonoi.it/pixel",
+"lambda-url.us-east-1.on.aws/chug/event",
 "lancome-usa.com/iz/pxq99aloxk/init.js",
 "lapresse.ca/webparts/ads/",
 "lasentinel.net/static/img/promos/",
@@ -6850,7 +6852,6 @@
 "nhregister.com/413gkwmt/init.js",
 "nice264.com/data?",
 "nid.thetimes.com/prod/sp/nid_sp.js",
-"nikaraw.com/load_adb",
 "nike.com/assets/measure/data-capture/",
 "nikkei.com/.resources/tracking/",
 "nile.works/api/save-perf?",
@@ -7756,6 +7757,7 @@
 "t.oned.io/onedio-visit.img?_t=",
 "t.yesware.com",
 "t21.press/counter.php",
+"ta.tokopedia.com/promo/v1/views",
 "taadd.com/files/js/site_skin.js",
 "taboolasyndication.com",
 "tagsd.com/newserving/tracking_id.php",
@@ -7886,6 +7888,7 @@
 "tnaflix.com/stats.php",
 "toast.com/log",
 "toast.com/sendid?",
+"tokopedia.com/helios-client/client-log",
 "tongji2.vip.duba.net/__infoc.gif?",
 "top.bodr.net/c.php",
 "top.gg/api/auctions/i",
@@ -23760,6 +23763,9 @@
 "1tamilblasters.com": [
 ".ipsWidget_inner.ipsPad.ipsType_richText > p > a"
 ],
+"houstoniamag.com": [
+".is-cream"
+],
 "alibaba.com": [
 ".is-creative",
 "a[campaignid][target=\"_blank\"]"
@@ -31918,19 +31924,6 @@
 ],
 "lasvegasweekly.com": [
 "#bottom-bar-container"
-],
-"computerworld.com": [
-".ad",
-".ad-container"
-],
-"csoonline.com": [
-".ad"
-],
-"infoworld.com": [
-".ad"
-],
-"networkworld.com": [
-".ad"
 ],
 "arktimes.com": [
 "#top-banner-container",
@@ -49885,6 +49878,10 @@
 "main_frame": true,
 "popup": true
 },
+"1c52e1e2.live": {
+"main_frame": true,
+"popup": true
+},
 "1dd6e9ba.xyz": {
 "main_frame": true,
 "popup": true
@@ -49902,6 +49899,10 @@
 "popup": true
 },
 "22dd31.xyz": {
+"main_frame": true,
+"popup": true
+},
+"258104d2.live": {
 "main_frame": true,
 "popup": true
 },
@@ -52790,6 +52791,9 @@
 ],
 "/gate.amnesty-international.": [
 "/open.php?"
+],
+"/global-cdm.net:443/sap/public/cuan/": [
+"/pixel.gif"
 ],
 "/link-tracker?": [
 "&l=open&"
