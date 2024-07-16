@@ -4646,6 +4646,7 @@
 "akamaized.net/mr/popunder.js",
 "alarm.youku.com/api/sendalarm",
 "alarmsportsnetwork.com",
+"alaskaair.com/alxmt4ma/init.js",
 "alawar.com/gcounter_alawar.js",
 "alex.leonard.ie/misc-images/transparent.png",
 "alfemminile.com/logpix.php",
@@ -5505,6 +5506,7 @@
 "devicebind.ebay.com/signin/sub/log",
 "dfiles.eu/stats.php",
 "dforum.net/counter/",
+"dg.incomaker.com/tracking/",
 "dhl.com/g8dj6p8tag/",
 "dictionary.com/adscripts/",
 "diepresse.com/layout/diepresse/services/proxy/share-counter.jsp",
@@ -7114,6 +7116,7 @@
 "privacypolicies.com/track/",
 "privatejetfinder.com/skins/partners/",
 "pro.ranklet4.com/impression?",
+"probid.ai",
 "prod-app.because-intelligence.com/track/",
 "prod.benchmarkemail.com/tracker.bundle.js",
 "production-bq-lambda-stack.production.yummly.com/event",
@@ -7274,6 +7277,7 @@
 "retently.com/api/remote/tracking/",
 "retty.me/gen204.php",
 "retty.me/javascripts/common/logging.js",
+"reurl.cc/javascripts/tagtoo.js",
 "reverbnation.com/api/user/app_events",
 "reverbnation.com/widgets/trk/",
 "revive-chat.io/js/tracking-min.js",
@@ -7761,6 +7765,7 @@
 "taadd.com/files/js/site_skin.js",
 "taboolasyndication.com",
 "tagsd.com/newserving/tracking_id.php",
+"tagtoo.co/js/unitrack.js",
 "tagtray.com/api",
 "tahoe.com/imp",
 "taiwanplus.com/api/video/startvideo",
@@ -7817,8 +7822,6 @@
 "tetori.link/share/js/tracking.js",
 "thanks.viewfr.com/webroot/ads/adsterra/",
 "the-group.net/aether/",
-"the-sun.com/assets/client/analyticslisteners~",
-"the-sun.com/assets/client/newrelicexperimenttracking~",
 "theav.xyz/anyalytics",
 "theblock.co/api/analytics",
 "theconversation.com/javascripts/lib/content_tracker_hook.js",
@@ -8243,7 +8246,6 @@
 "widgetserver.com/t/",
 "wifeo.com/compteurs/",
 "wikihow.com/ev/",
-"wikihow.com/q9783lyewk/",
 "wikihow.com/x/collect",
 "wikihow.com/x/zscsucgm?",
 "wikimonde.com/matom.js",
@@ -8299,7 +8301,6 @@
 "www-direct.upgradedhome.com/eventstream",
 "www-idm.com/wp-content/uploads/2022/02/bitcoin.png",
 "xboxone-hq.com/images/banners/",
-"xda-developers.com/app/plugins/xda-kco-affiliate/",
 "xero.com/api/events/",
 "xfinity.com/event/",
 "xgaytube.com/stats.js",
@@ -8386,6 +8387,7 @@
 "zazzle.com.au/svc/px",
 "zazzle.com/botdefender/init.js",
 "zazzle.com/svc/px",
+"zed.dev/_vercel/insights/view",
 "zengenti.com/tags/",
 "zenimpact.io/dist/zen_init.min.js",
 "zergnet.com/zerg.js",
@@ -10107,7 +10109,8 @@
 "oann.com": [
 "#block-95",
 ".ad-slot__ad-label",
-".sidebar-ad-slot__ad-label"
+".sidebar-ad-slot__ad-label",
+"img[width=\"300\"][height=\"250\"]"
 ],
 "leopathu.com": [
 "#block-accuwebhostingcontenttop",
@@ -10375,6 +10378,11 @@
 "romsmania.games": [
 "#click-widget-banner",
 ".aawp"
+],
+"animetrilogy.com": [
+"#close-teaser",
+"#floatcenter",
+"#overplay"
 ],
 "xcalibrscans.com": [
 "#close-teaser"
@@ -10703,7 +10711,6 @@
 ],
 "designtaxi.com": [
 "#div-center-wrapper",
-"#exid",
 ".displayboard",
 ".nt",
 ".nt-displayboard",
@@ -12626,9 +12633,6 @@
 "#sky-left",
 ".billboard-container"
 ],
-"bnnbloomberg.ca": [
-"#promotions"
-],
 "proxyium.com": [
 "#proxyscrape_ad"
 ],
@@ -13138,12 +13142,16 @@
 "#snack_dmpu",
 "#snack_ldb",
 "#snack_mpu",
-"#snack_sky"
+"#snack_sky",
+".samCodeUnit",
+".samUnitWrapper"
 ],
 "gpfans.com": [
 "#snack_ldb",
+"#snack_mpu",
 ".advertise-panel",
-".leaderboardbg"
+".leaderboardbg",
+"[style=\"margin:10px auto 10px auto; text-align:center; width:100%; overflow:hidden; min-height: 250px;\"]"
 ],
 "ghacks.net": [
 "#snhb-snhb_ghacks_bottom-0",
@@ -13889,6 +13897,10 @@
 ".upworthy_infinite_scroll_ad",
 ".upworthy_infinte_scroll_outer_wrap"
 ],
+"videocardz.com": [
+"#vc-intermid-desktop-ad",
+".google-sidebar"
+],
 "sammobile.com": [
 "#venatus-hybrid-banner",
 ".g"
@@ -14026,9 +14038,11 @@
 "tunnelsonline.info": [
 "#wrapper_banners"
 ],
-"xda-developers.com": [
-"#xda_alert_bar",
-".spon_banner"
+"xdaforums.com": [
+"#xdaforums_leaderboard_atf",
+"#xdaforums_leaderboard_btf",
+"#xdaforums_right_1",
+"#xdaforums_right_2"
 ],
 "blasternation.com": [
 "#xobda"
@@ -14044,7 +14058,8 @@
 "#zppMiddle2",
 "#zppRight2",
 ".bas",
-".hPubRight2"
+".hPubRight2",
+".zppAds"
 ],
 "arydigital.tv": [
 "#zzright",
@@ -17323,6 +17338,9 @@
 "waqi.info": [
 ".adsbygoogle"
 ],
+"harvardmagazine.com": [
+".adsbygoogle-block"
+],
 "aitextpromptgenerator.com": [
 ".adsbyus_wrapper",
 "[href^=\"https://app.getsitepop.com/\"]"
@@ -17912,6 +17930,9 @@
 "oxygen.com": [
 ".advertisement",
 ".blog-post-section__zergnet"
+],
+"philosophynow.org": [
+".advertisement"
 ],
 "prospectmagazine.co.uk": [
 ".advertisement"
@@ -19142,6 +19163,9 @@
 ".c",
 ".d",
 ".e10"
+],
+"bnnbloomberg.ca": [
+".b-ads-custom"
 ],
 "dailyvoice.com": [
 ".b-banner",
@@ -20400,16 +20424,6 @@
 "unixmen.com": [
 ".banners_home"
 ],
-"euronews.com": [
-".base-leaderboard",
-".c-card-sponsor",
-".enw-MPU",
-".m-object--is-branded",
-".m-object--is-partner-content",
-".qa-dfpLeaderBoard",
-".m-object:has(.m-object__sponsored-quote)",
-"#js-smart-banner"
-],
 "propublica.org": [
 ".bb-ad"
 ],
@@ -21032,6 +21046,14 @@
 ],
 "truck1.eu": [
 ".c-banners"
+],
+"euronews.com": [
+".c-card-sponsor",
+".enw-MPU",
+".qa-dfpLeaderBoard",
+".m-object:has(.m-object__spons-quote)",
+"#js-smart-banner",
+".base-leaderboard"
 ],
 "thehustle.co": [
 ".c-layout--trends",
@@ -22050,6 +22072,7 @@
 ".cz-toa-wrapp",
 ".noty_bar",
 ".s-ou-wrap",
+"[href=\"https://try.flare.io/bleeping-computer/\"]",
 "[href^=\"https://www.bleepingcomputer.com/go/\"]"
 ],
 "mangamiso.net": [
@@ -23763,6 +23786,9 @@
 "1tamilblasters.com": [
 ".ipsWidget_inner.ipsPad.ipsType_richText > p > a"
 ],
+"freeiptvplayer.net": [
+".iptv_ads"
+],
 "houstoniamag.com": [
 ".is-cream"
 ],
@@ -25181,10 +25207,6 @@
 "torrends.to": [
 ".notice-top"
 ],
-"forum.xda-developers.com": [
-".notices--thnoticesplus_topbar",
-".spot"
-],
 "panda-novel.com": [
 ".novel-ins2"
 ],
@@ -25380,6 +25402,10 @@
 ],
 "newkerala.com": [
 ".pb-2 .text-mute"
+],
+"dermatologytimes.com": [
+".pb-24",
+".sm\\:w-\\[728px\\]"
 ],
 "royalsocietypublishing.org": [
 ".pb-ad"
@@ -26099,6 +26125,10 @@
 "eitb.eus": [
 ".publicidad_cabecera",
 ".publicidad_robapaginas"
+],
+"online-stopwatch.com": [
+".publift-div",
+".publift-unfixed"
 ],
 "speedtest.net": [
 ".pure-u-custom-ad-rectangle",
@@ -28495,6 +28525,9 @@
 "philnews.ph": [
 "[class*=\"clickout-\"]"
 ],
+"fullmatch.info": [
+"[class*=\"wp-image\"]"
+],
 "douglas.at": [
 "[class=\"cms-criteo\"]",
 ".product-grid-column:has(.product-tile__sponsored)"
@@ -28633,6 +28666,9 @@
 "[data-ez-ph-id]"
 ],
 "cumbriacrack.com": [
+"[data-hbwrap]"
+],
+"euromaidanpress.com": [
 "[data-hbwrap]"
 ],
 "dannydutch.com": [
@@ -32580,15 +32616,6 @@
 ],
 "vse42.ru": [
 ".ya-metrika"
-],
-"vidak.icu": [
-"a[href=\"//www.liveinternet.ru/click\"]"
-],
-"pb.wtf": [
-"a[href=\"//www.liveinternet.ru/click\"]"
-],
-"piratbit.*": [
-"a[href=\"//www.liveinternet.ru/click\"]"
 ],
 "mobivid.net": [
 "a[href=\"http://mycounter.com.ua/\"]"
@@ -46557,6 +46584,8 @@
 ".trc-spotlight-first-recommendation",
 ".trc_spotlight_item",
 "#floorboard_block",
+"#cconsent-bar",
+".ets_cookie_banber_block",
 ".cli-popupbar-overlay",
 ".seopress-user-consent",
 "#buzzblogpro-cookie-banner",
@@ -48538,9 +48567,6 @@
 "gottabemobile.com",
 "mrmoneymustache.com",
 "thinkcomputers.org"
-],
-".dfp-tag-wrapper": [
-"out.com"
 ],
 ".ez-video-wrap": [
 "humix.com"
