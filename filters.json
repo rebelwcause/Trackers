@@ -608,7 +608,6 @@
 "/adbox.js",
 "/adcall?",
 "/adcgi?",
-"/adcheck.",
 "/adchoice.",
 "/adcommon?",
 "/adconfig.js",
@@ -631,8 +630,6 @@
 "/adfshow?",
 "/adfx.loader.bind.js",
 "/adhelper.js",
-"/adimage.",
-"/adimages.",
 "/adj.php?",
 "/adjs.php",
 "/adlayer.php",
@@ -1280,6 +1277,7 @@
 "/click_stats.js",
 "/click_track.js",
 "/click_tracking.js",
+"/clickadu300.aspx",
 "/clickcount.asp",
 "/clickcount.js",
 "/clickcount.php",
@@ -4513,7 +4511,6 @@
 "_header_ad.",
 "_header_ad_",
 "_headerad.",
-"_images/ad.",
 "_images/ad_",
 "_images/ads/",
 "_imp?log=",
@@ -5392,6 +5389,7 @@
 "cpkshop.com/campaign/",
 "cqloud.com/measurements/",
 "crall.io/beacon/",
+"crank-in.net/assets/common/js/sendpv.js",
 "creately.com/static/js/creately-analytics-",
 "credible.com/api/logs-fe",
 "cricbuzz.com/api/adverts/",
@@ -6373,6 +6371,7 @@
 "jsdelivr.net/snowplow/",
 "jst.ai/vck.js",
 "jsuol.com/rm/clicklogger_",
+"julius.ai/monitoring",
 "juno.com/start/javascript.do?message=",
 "justanswer.com/jatag/",
 "justdial.com/jd-trkr",
@@ -7906,11 +7905,13 @@
 "timinternet.it/timmobilestatic/jsprivacy/gdl_function_cookie.js",
 "tingz.co/analytics/mp/track",
 "tintup.com/app/dist/tintanalyticsproxy-bundle.js",
+"tinybird.co/v0/events?",
 "tinyurl.com/pixel.gif/",
 "tiscali.it/banner-tiscali/stats.html?",
 "titan24.com/scripts/stats.js",
 "tkx.mp.lura.live/rest/v2/server_time",
 "tm-awx.com/pageview",
+"tmp.argusplatform.com/js/wid.tracker.js",
 "tmtarget.com/tracking/",
 "tnaflix.com/stats.php",
 "toast.com/log",
@@ -14816,11 +14817,12 @@
 ".paarv6m"
 ],
 "androidauthority.com": [
-"._--_-___Qb",
+"._--_-___0b",
 "._--_-___Yb",
 "[data-ad-type]",
 "a[data-sel=\"dealbar-link\"]",
 "div:not([class]) > div[class^=\"_--_-___\"]:has(> div[data-ad-type=\"leaderboard_atf\"])",
+"._--_-___Qb",
 "main > div:last-child > div:has(> div:only-child:empty)",
 "aside > div > div > div > div > div:has(> div:only-child:empty)"
 ],
@@ -22245,6 +22247,9 @@
 ".hofjwZ",
 ".hspOLW"
 ],
+"vogue.com.au": [
+".dYmYok"
+],
 "counter.dev": [
 ".da"
 ],
@@ -25837,6 +25842,20 @@
 "search.installmac.com": [
 ".promoted"
 ],
+"twitter.com": [
+".promoted-account",
+".promotion",
+".stream-item-group-start[label=\"promoted\"]",
+"a[href*=\"src=promoted_trend_click\"]",
+"a[href*=\"src=promoted_trend_click\"] + div",
+"div[data-testid=\"cellInnerDiv\"] > div > div[class] > div[class][data-testid=\"placementTracking\"]",
+".tweet:has(.promo)",
+"article[data-testid=\"tweet\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
+"div[data-testid=\"UserCell\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
+"div[data-testid=\"eventHero\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
+"div[data-testid=\"placementTracking\"]:has(div[data-testid$=\"-impression-pixel\"])",
+"div[data-testid=\"trend\"]:has(path[d$=\"10H8.996V8h7v7z\"])"
+],
 "x.com": [
 ".promoted-account",
 ".promotion",
@@ -26430,6 +26449,9 @@
 ],
 "boomlive.in": [
 ".right_ad_4"
+],
+"footballdb.com": [
+".rightcol_ad"
 ],
 "smartasset.com": [
 ".riklam-container",
@@ -29554,6 +29576,12 @@
 ".adsbygoogle",
 "div.cornered.box > center"
 ],
+"kc.linksgen.com": [
+"[style=\"margin: 0px auto; text-align: center; overflow: hidden; width: 610px;\"]"
+],
+"kisscartoon.se": [
+"[style=\"margin: 0px auto; text-align: center; overflow: hidden; width: 610px;\"]"
+],
 "africam.com": [
 "[style=\"min-height: 250px;\"]",
 "[style=\"min-height: 90px;\"]"
@@ -31333,6 +31361,12 @@
 "priceline.com": [
 "div[data-testid=\"HTL_NEW_LISTING_CARD_RESP\"]:has(a[aria-label*=\" Promoted\"])"
 ],
+"twiiter.com": [
+"div[data-testid=\"UserCell\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
+"div[data-testid=\"eventHero\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
+"div[data-testid=\"placementTracking\"]:has(div[data-testid$=\"-impression-pixel\"])",
+"div[data-testid=\"trend\"]:has(path[d$=\"10H8.996V8h7v7z\"])"
+],
 "booking.com": [
 "div[data-testid=\"property-card\"]:has(div[data-testid=\"new-ad-design-badge\"])",
 ".js_sr_persuation_msg",
@@ -32198,18 +32232,6 @@
 ],
 "fivethirtyeight.com": [
 ".master-ad"
-],
-"twitter.com": [
-".promoted-account",
-".promotion",
-".stream-item-group-start[label=\"promoted\"]",
-"a[href*=\"src=promoted_trend_click\"]",
-"a[href*=\"src=promoted_trend_click\"] + div",
-"div[data-testid=\"cellInnerDiv\"] > div > div[class] > div[class][data-testid=\"placementTracking\"]",
-"div[data-testid=\"UserCell\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
-"div[data-testid=\"eventHero\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
-"div[data-testid=\"placementTracking\"]:has(div[data-testid$=\"-impression-pixel\"])",
-"div[data-testid=\"trend\"]:has(path[d$=\"10H8.996V8h7v7z\"])"
 ],
 "wired.com": [
 "div[class^=\"ConsumerMarketingUnitThemedWrapper-\"]",
@@ -49196,6 +49218,14 @@
 "/adhandler/": {
 "sub_frame": false
 },
+"/adimage.": {
+"image": true,
+"script": true,
+"stylesheet": true
+},
+"/adimages.": {
+"script": true
+},
 "/admanager/": {
 "object": false
 },
@@ -49862,6 +49892,9 @@
 "_advertisment.": {
 "xmlhttprequest": false
 },
+"_images/ad.": {
+"image": true
+},
 "_reklama_": {},
 "/e/cm?": {
 "sub_frame": true
@@ -50180,6 +50213,10 @@
 "main_frame": true,
 "popup": true
 },
+"28d287b9.xyz": {
+"main_frame": true,
+"popup": true
+},
 "28d591da.xyz": {
 "main_frame": true,
 "popup": true
@@ -50209,6 +50246,10 @@
 "popup": true
 },
 "420db600.xyz": {
+"main_frame": true,
+"popup": true
+},
+"45496fee.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -50269,6 +50310,10 @@
 "popup": true
 },
 "5afc476a.xyz": {
+"main_frame": true,
+"popup": true
+},
+"5cc3ac02.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -53834,6 +53879,9 @@
 ],
 "mrbeast.store/undefined/": [
 "/trackimageviews"
+],
+"api.tinybird.co/": [
+"/events"
 ],
 "basspro.com/": [
 "/track?"
