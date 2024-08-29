@@ -4237,6 +4237,7 @@
 "123-stream.org",
 "123animehub.cc/final",
 "123rf.com/apicore-index/traffic_log",
+"1337x.to/js/vpn.js",
 "163.com/sn.gif?",
 "17173.com/ping.js",
 "17173.com/pv?",
@@ -6045,7 +6046,6 @@
 "go.masterclass-piano.com/v1/track_capi?",
 "go.techtarget.com/clicktrack-r/",
 "go5.link/js/pageviews.js",
-"goadopt.io",
 "goaffpro.com/track",
 "gobankingrates.com/analytics/latest/ct.bundle.js",
 "gobankingrates.com/fp/",
@@ -6330,6 +6330,7 @@
 "infotor.net/button.php",
 "infusionsoft.app/app/webtracking/",
 "infusionsoft.com/app/webtracking/gettrackingcode",
+"ingesteer.services-prod.nsvcs.net/rum_collection|",
 "ingestion.sportskeeda.com/logviewedpage",
 "ingress.pressreader.com/services/track",
 "inmoment.com.au/intercept/",
@@ -8554,6 +8555,7 @@
 "zone-telechargement.ninja/bypassmajs",
 "zooplus.io/static/js/tracking-min.js",
 "zoosk.com/cs/tp.png?",
+"zoyaporn.com/js/jquery.iframetracker.js",
 "zynga.com/track/",
 "zyuken.net/gcp_remote/ads_imp/"
 ],
@@ -21886,6 +21888,21 @@
 ".chill",
 "[style=\"height:280px;\"]"
 ],
+"cdmediaworld.com": [
+".chk",
+"[height=\"600\"]",
+"[width=\"468\"]"
+],
+"gametarget.net": [
+".chk",
+"[height=\"600\"]",
+"[width=\"468\"]"
+],
+"lnkworld.com": [
+".chk",
+"[height=\"600\"]",
+"[width=\"468\"]"
+],
 "hannaford.com": [
 ".citrus_ad_banner",
 ".sponsored_product",
@@ -22534,6 +22551,9 @@
 ".sponsoredproducts",
 ".product-grid__product:has(.product-tile__sponsored)",
 "div.slick-slide:has(.product-tile__sponsored)"
+],
+"davidjones.com": [
+".criteo-carousel-wrapper"
 ],
 "staradvertiser.com": [
 ".csMon",
@@ -30324,6 +30344,25 @@
 "[width=\"300\"]",
 "div[style*=\"width:300px\"]"
 ],
+"flashx.cc": [
+"[width=\"468\"]"
+],
+"flashx.co": [
+"[width=\"468\"]"
+],
+"forum.gsmhosting.com": [
+"[width=\"468\"]"
+],
+"jeepforum.com": [
+"[width=\"468\"]"
+],
+"themediaonline.co.za": [
+"[width=\"468\"]",
+"img[width=\"300\"]"
+],
+"topprepperwebsites.com": [
+"[width=\"468\"]"
+],
 "drwealth.com": [
 "[width=\"640\"]"
 ],
@@ -31444,10 +31483,6 @@
 "seguintoday.com": [
 "img[width=\"300\"]"
 ],
-"themediaonline.co.za": [
-"img[width=\"300\"]",
-"img[width=\"468\"]"
-],
 "theolivepress.es": [
 "img[width=\"300\"]"
 ],
@@ -31462,18 +31497,6 @@
 ],
 "wschronicle.com": [
 "img[width=\"300\"]"
-],
-"flashx.cc": [
-"img[width=\"468\"]"
-],
-"flashx.co": [
-"img[width=\"468\"]"
-],
-"forum.gsmhosting.com": [
-"img[width=\"468\"]"
-],
-"topprepperwebsites.com": [
-"img[width=\"468\"]"
 ],
 "umod.org": [
 "ins[data-revive-id]"
@@ -31598,9 +31621,6 @@
 ],
 "learninginfo.org": [
 "table[width=\"346\"]"
-],
-"jeepforum.com": [
-"table[width=\"468\"]"
 ],
 "pcstats.com": [
 "table[width=\"866\"]"
@@ -49550,6 +49570,7 @@
 "davidsilverspares.co.uk"
 ],
 ".has-ad": [
+"deep-edge.net",
 "forums.digitalspy.com",
 "marketwatch.com"
 ],
@@ -51051,6 +51072,14 @@
 "popup": true
 },
 "2edef809.xyz": {
+"main_frame": true,
+"popup": true
+},
+"30937261.xyz": {
+"main_frame": true,
+"popup": true
+},
+"38941752.xyz": {
 "main_frame": true,
 "popup": true
 },
