@@ -579,7 +579,6 @@
 "/ad_request.js",
 "/ad_request.php",
 "/ad_right.",
-"/ad_server.",
 "/ad_side.",
 "/ad_skyscraper.gif",
 "/ad_sticky.js",
@@ -612,7 +611,6 @@
 "/adcgi?",
 "/adchoice.",
 "/adcommon?",
-"/adconfig.js",
 "/adcount.js",
 "/adcount.php",
 "/add_page_view?",
@@ -697,7 +695,6 @@
 "/ads/bid300b.aspx",
 "/ads/bid300c.aspx",
 "/ads/bid728.aspx",
-"/ads/bottom.",
 "/ads/cbr.",
 "/ads/custom_ads.js",
 "/ads/delivery.",
@@ -724,7 +721,6 @@
 "/ads1.",
 "/ads160.",
 "/ads3.",
-"/ads300.",
 "/ads4.",
 "/ads468.",
 "/ads468x60.",
@@ -762,7 +758,6 @@
 "/adsinclude.",
 "/adslide.js",
 "/adsload.js",
-"/adsmanager.nsf/",
 "/adsplugin.",
 "/adsrv.",
 "/adsscript.",
@@ -1047,7 +1042,6 @@
 "/astrack.js",
 "/astracker.js",
 "/astracker/ast.php",
-"/asyncjs.php",
 "/asyncspc.php",
 "/at-composer.js",
 "/at.gif?",
@@ -1094,7 +1088,6 @@
 "/ban300.php",
 "/ban728.html",
 "/ban728.php",
-"/ban728x90.",
 "/banalytics.js",
 "/bandeaucookie.",
 "/banman/ad.aspx",
@@ -1383,7 +1376,6 @@
 "/com_joomlawatch/img.php",
 "/com_jrealtimeanalytics/",
 "/combo?darla/",
-"/common/ad.asp",
 "/common/ads?",
 "/common/analytics.js",
 "/common/ga.js",
@@ -1910,7 +1902,6 @@
 "/footer_ad.js",
 "/footer_ad.php",
 "/footer_ads.php",
-"/footer_ads.png",
 "/footerad.",
 "/footerads.",
 "/footerpixel.gif?",
@@ -2328,7 +2319,6 @@
 "/js_tracking?",
 "/jsad.php",
 "/jsads-1.4.min.js",
-"/jsads.js",
 "/jscounter.js",
 "/jscounter.php",
 "/jscripts/analytics.js",
@@ -2639,7 +2629,6 @@
 "/nativead.",
 "/nativeads-v2.js",
 "/nativeads.js",
-"/nativebanner/ane-native-banner.js",
 "/nativendo.js",
 "/navbar-analytics.js",
 "/naytev.min.js",
@@ -2767,7 +2756,6 @@
 "/pagecount.php?",
 "/pagecounter.adp?",
 "/pagedot.gif?",
-"/pageear.js",
 "/pagehit.ashx",
 "/pagelogger/connector.php?",
 "/pagepeel.",
@@ -2967,7 +2955,6 @@
 "/popup_ad.js",
 "/popup_ad.php",
 "/popup_code.php",
-"/popupads.js",
 "/popupunder.js",
 "/porpoiseant/",
 "/postcounter.php?",
@@ -2990,7 +2977,6 @@
 "/prebid35.",
 "/prebid4.",
 "/prebid5.",
-"/prebid6.",
 "/prebid7.",
 "/prebid9.",
 "/prebid?",
@@ -3131,7 +3117,6 @@
 "/reklama2.png",
 "/reklama3.jpg",
 "/reklama3.png",
-"/reklama4.jpg",
 "/reklama4.png",
 "/remote-weblab-triggers/",
 "/ren.gif?",
@@ -3433,7 +3418,6 @@
 "/sponsor-banner.jpg",
 "/sponsor-banner.png",
 "/sponsor-links.html",
-"/sponsorad.jpg",
 "/sponsorad.png",
 "/sponsored-links.",
 "/sponsored_ad.",
@@ -5663,6 +5647,7 @@
 "duckduckgo.com/y.js?ifu=",
 "dugout.co/das2.js",
 "dunhilltraveldeals.com",
+"duolingo.com/2017-06-30/tracking-status",
 "duplichecker.com/csds/",
 "dus.trivago.com/tracking",
 "dx.com/affiliate/",
@@ -14268,6 +14253,7 @@
 ],
 "sammobile.com": [
 "#venatus-hybrid-banner",
+".adRoot-loop-ad",
 ".g"
 ],
 "afkgaming.com": [
@@ -16829,6 +16815,9 @@
 ".ad-slot_NjPAE",
 ".advertise-with-us-link_O9rIX",
 ".componentAdbutler_uF1zH",
+".header-zone__banner",
+"[class*=\"ad-slot\"]",
+"[href=\"javascript:void(0);\"]",
 "div[class^=\"ad-slot_\"]",
 "mm-collectors"
 ],
@@ -22567,7 +22556,8 @@
 ".meteored-ads"
 ],
 "currys.co.uk": [
-".cretio-sponsored-product"
+".cretio-sponsored-product",
+".criteoproducts-container"
 ],
 "meijer.com": [
 ".criteo-banner",
@@ -23280,8 +23270,8 @@
 ".fPHZZA"
 ],
 "infoq.com": [
-".f_sponsorbox_top_2",
-".spns"
+".f_spbox_top_1",
+".f_spbox_top_2"
 ],
 "tokyvideo.com": [
 ".fan--related-videos.fan"
@@ -47287,6 +47277,7 @@
 "#gpt-dynamic_native_article_4",
 "#gpt-high_impact",
 "#gpt-poster",
+".gnt_em_vp__tavp",
 ".gnt_flp",
 ".gnt_rr_xpst",
 ".gnt_rr_xst",
@@ -50029,8 +50020,14 @@
 "image": true,
 "script": true
 },
+"/ad_server.cgi": {
+"sub_frame": true
+},
 "/adbanners/": {
 "image": true
+},
+"/adconfig.js": {
+"script": true
 },
 "/adfurikun/": {
 "image": false
@@ -50126,6 +50123,9 @@
 "/adsimg/": {
 "image": true
 },
+"/adsmanager.nsf/": {
+"image": true
+},
 "/adsmanager/": {},
 "/adtrack.": {},
 "/adv-banner-": {
@@ -50216,8 +50216,14 @@
 "/assets/ads/": {
 "image": false
 },
+"/asyncjs.php": {
+"script": true
+},
 "/awaps-ad-sdk-": {
 "script": true
+},
+"/ban728x90.": {
+"image": true
 },
 "/banner-ad.": {
 "script": false
@@ -50395,6 +50401,9 @@
 "/nativeads/script/": {
 "script": true
 },
+"/nativebanner/ane-native-banner.js": {
+"script": true
+},
 "/neverblock/": {
 "script": true
 },
@@ -50403,6 +50412,9 @@
 },
 "/pagead/1p-user-list/": {
 "image": true
+},
+"/pageear.js": {
+"script": true
 },
 "/pageear/": {
 "script": true
@@ -50501,6 +50513,9 @@
 "/popup-domination/": {
 "stylesheet": false
 },
+"/popupads.js": {
+"script": true
+},
 "/prism_ad/": {
 "script": true
 },
@@ -50541,6 +50556,9 @@
 "/reklam.": {},
 "/reklam/": {},
 "/reklama/": {},
+"/reklama4.jpg": {
+"image": true
+},
 "/reklame/": {
 "xmlhttprequest": false
 },
@@ -50583,6 +50601,9 @@
 "xmlhttprequest": false
 },
 "/sponsor-ad": {
+"image": true
+},
+"/sponsorad.jpg": {
 "image": true
 },
 "/sponsors/ads/": {
@@ -50798,6 +50819,9 @@
 },
 "/prebid.": {},
 "/prebid/": {
+"script": true
+},
+"/prebid6.": {
 "script": true
 },
 "/prebid8.": {
@@ -51315,6 +51339,14 @@
 "popup": true
 },
 "814272c4.xyz": {
+"main_frame": true,
+"popup": true
+},
+"88129513.xyz": {
+"main_frame": true,
+"popup": true
+},
+"89263907.xyz": {
 "main_frame": true,
 "popup": true
 },
