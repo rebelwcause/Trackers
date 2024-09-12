@@ -68,7 +68,6 @@
 "-ad-300x600-",
 "-ad-458x80.",
 "-ad-bottom-",
-"-ad-column-",
 "-ad-right.",
 "-ad-sidebar.",
 "-ad-unit.",
@@ -528,45 +527,34 @@
 "/action/analytics",
 "/activity.gif?",
 "/ad--unit.htm|",
-"/ad-125.",
 "/ad-provider.js",
 "/ad-third-party?",
 "/ad.cgi?",
 "/ad.html?",
 "/ad/a.aspx?",
-"/ad/dfp/js/dfp.js",
 "/ad/err?",
 "/ad/getban?",
 "/ad/imp?",
 "/ad/load_ad?",
 "/ad/pagehits.",
-"/ad/popup.",
-"/ad/postbid_handler1.0.9.js",
 "/ad?count=",
 "/ad?pos_",
 "/ad?type=",
 "/ad_728.js",
-"/ad_bottom.js",
 "/ad_break?",
 "/ad_campaign?",
 "/ad_common.js",
 "/ad_counter.aspx",
 "/ad_display.js",
-"/ad_header.js",
-"/ad_overlay.js",
 "/ad_pos=",
 "/ad_position=",
 "/ad_request.js",
 "/ad_request.php",
-"/ad_sticky.js",
 "/ad_vert.gif",
 "/adanalytics.js",
 "/adaptive_components.ashx?type=ads&",
-"/adasync.js",
-"/adasync.min.js",
 "/adb.policy.js",
 "/adb1.gif?",
-"/adb_detector.",
 "/adblock-detect.",
 "/adblock-detector.",
 "/adblock.gif?",
@@ -586,7 +574,6 @@
 "/addlinkerevents-std.js",
 "/addlinkerevents.js",
 "/addlog/?",
-"/addons/ads.",
 "/addpageview/",
 "/adds/counter.js",
 "/adengine.js",
@@ -595,15 +582,12 @@
 "/adfshow?",
 "/adfx.loader.bind.js",
 "/adj.php?",
-"/adlayer.php",
-"/adlib.min.js",
 "/adlogger.php",
 "/adlogger_tracker.php",
 "/adm_tracking.js",
 "/admantx-",
 "/admantx.",
 "/admantx/",
-"/admgr.js",
 "/admiral.js",
 "/admiral_worker_caller.js",
 "/adobe-analytics.js",
@@ -620,33 +604,23 @@
 "/adobeanalytics.js",
 "/adobeanalytics/",
 "/adobeanalyticsandtargetoverwrites.min.",
-"/adplugin.",
-"/adpopup.js",
 "/adrecover.js",
 "/adrum.js",
 "/adrum_",
 "/ads-async.",
 "/ads-rectangle.",
 "/ads-right.",
-"/ads-templateslist.",
-"/ads.bundle.js",
-"/ads.bundle.min.js",
 "/ads.cfm?",
-"/ads.jsp",
 "/ads.pl?",
 "/ads/!rotator/",
 "/ads/acctid=",
 "/ads/bid300c.aspx",
 "/ads/cbr.",
 "/ads/custom_ads.js",
-"/ads/delivery.",
-"/ads/footer.",
 "/ads/ga-audiences?",
 "/ads/get-ads-by-zones/?zones%",
-"/ads/leaderboard.",
 "/ads/native.js",
 "/ads/outbrain?",
-"/ads/popout.",
 "/ads/popup.",
 "/ads/serve?",
 "/ads/spacer.",
@@ -666,42 +640,30 @@
 "/ads?param=",
 "/ads?zone=",
 "/ads?zone_id=",
-"/ads_bottom.js",
 "/ads_frame.",
-"/adscontroller.js",
-"/adscroll.js",
 "/adsct?",
-"/adserver2.",
 "/adserver?",
 "/adsforwp-front.min.css",
 "/adsinclude.",
-"/adsplugin.",
 "/adsrv.",
 "/adsservice.",
 "/adstat.js",
 "/adstats.php",
 "/adstrack.js",
-"/adstream.",
 "/ads~adsize~",
 "/adtech;",
-"/adtools.",
 "/adtracking.asmx",
 "/adtrk/tr.gif",
 "/adunit/track-view|",
 "/adunits.",
 "/adunits/bcid?",
-"/adutil.",
 "/adv.css?",
-"/adv_468.",
 "/adv_out.js",
-"/adv_vert.js",
 "/advert?",
 "/advertbanner.",
 "/advertisingwebrenderer.min.js",
 "/advrotator.js",
 "/advstats.js",
-"/advtbanner.",
-"/adx2.",
 "/aff_i?offer_id=",
 "/aff_land?referrer",
 "/affad?",
@@ -729,7 +691,6 @@
 "/ajaxlog?",
 "/ajs.php?",
 "/ajs?zoneid=",
-"/ak-ads-ns.",
 "/akam/10/",
 "/akam/11/",
 "/akam/13/",
@@ -851,8 +812,6 @@
 "/anclytic-ajax.html",
 "/anclytic.htm",
 "/angular-tag.js",
-"/annonse.",
-"/annonser.",
 "/anonymous_user_guid.gif?",
 "/antanalysis.min.js",
 "/anti_ab.",
@@ -905,7 +864,6 @@
 "/appmeasurement_module_activitymap.min.js",
 "/appmeasurementcustom.min.js",
 "/apricot.php?",
-"/apstag.js",
 "/aptrk.js",
 "/apu.php?",
 "/ard.png?",
@@ -973,9 +931,7 @@
 "/banner.asp?",
 "/banner.cgi?",
 "/banner/html/zone?zid=",
-"/banner_468.",
 "/banners.cgi?",
-"/banners/ads.",
 "/banners/aff.",
 "/base/es5/bundle.js",
 "/base/es6/bundle.js",
@@ -1048,7 +1004,6 @@
 "/bootstrap/metrics.js",
 "/botd.gif?",
 "/bottom_ad.jpg",
-"/bottomads.js",
 "/bower_components/fp/fp.js",
 "/bpix.bmp?b=",
 "/bpsma.js",
@@ -1250,7 +1205,6 @@
 "/common/ga.js",
 "/common/tracker.js",
 "/common/tracking/webtrekk",
-"/common_ad.js",
 "/comscore-min.js",
 "/comscore?",
 "/comscore_beacon/",
@@ -1451,7 +1405,6 @@
 "/csi?v=3&s=",
 "/csp_204?",
 "/csp_log?",
-"/css/adsense.",
 "/cta-loaded.js",
 "/ctr_tracking.php?",
 "/curveball/ads/",
@@ -1467,13 +1420,11 @@
 "/cxense/cx.js",
 "/cxf-tracking@",
 "/d.gif?",
-"/data-file_123.js",
 "/data_collect.js",
 "/datacollectionapi-client/index.js",
 "/dataunlocker-prod.js",
 "/dataunlocker.js",
 "/datawrapper.gif?",
-"/datomata.widget.js",
 "/dcjs/prod/",
 "/dcs.gif?",
 "/dcs_tag.js",
@@ -1500,7 +1451,6 @@
 "/detroitchicago/vpp.gif?",
 "/dfm/fp.min.js",
 "/dfp.min.js",
-"/dfp_async.js",
 "/dfpnew.min.js",
 "/dg/default/cs?",
 "/dg/default/rest/",
@@ -1674,15 +1624,12 @@
 "/evt.gif?",
 "/exactag.js",
 "/exactag_clientside.js",
-"/exitpopunder.js",
 "/exittracker.js",
 "/exmo.email/open.html",
 "/exonb/backloaderforload.php",
-"/expads-blocked.js",
 "/expcount/additional.php",
 "/extendedanalytics.js",
 "/external-tracking.min.js",
-"/external/ad.",
 "/external_ad?",
 "/external_ads.",
 "/ez_aba_load/",
@@ -1710,7 +1657,6 @@
 "/fbpixel.js",
 "/fe_logger?",
 "/ferra-cookie-consent-widget.min.js",
-"/fgh1ijkl.js",
 "/figanalytics-short-ttl.js",
 "/fingerprint.js",
 "/fingerprint.min.js",
@@ -1735,9 +1681,6 @@
 "/flyad.js",
 "/flying-analytics/",
 "/footer-tracking.js",
-"/footer_ad.php",
-"/footer_ads.php",
-"/footerads.",
 "/footerpixel.gif?",
 "/foresee-trigger.js",
 "/fp-3.3.6.min.js",
@@ -1844,7 +1787,6 @@
 "/gc?refurl=",
 "/gcount.pl?",
 "/gd_tracker_events.js",
-"/gdpr-ad-script.js",
 "/gdpr-cookie-min.",
 "/gdpr.js",
 "/gemius.3.15.js",
@@ -1861,9 +1803,7 @@
 "/geolocationdata/v1/",
 "/geov2.js",
 "/gestioncookiescnilplugin/",
-"/get/?go=1&data=",
 "/get/live/web/_/",
-"/get?go=1&data=",
 "/get_geoip?",
 "/get_site_data?requestuuid=",
 "/get_tracking_url.",
@@ -1922,7 +1862,6 @@
 "/googletracker.js",
 "/googletracking.js",
 "/gospel2truth.js",
-"/gpt-prebid.js",
 "/greenoaks.gif?",
 "/gridinbound.blob.core.",
 "/grumi-ip.js",
@@ -1941,7 +1880,6 @@
 "/gtm.min.js",
 "/gtm/gtm-",
 "/gtmtracking.js",
-"/gunosyadssdkv2.js",
 "/gv-analytics/",
 "/h.gif?",
 "/hawk.js",
@@ -1949,7 +1887,6 @@
 "/hawklinks.js",
 "/hc/activity",
 "/header-pixels.min.js",
-"/headerads1.php",
 "/healthanalytics.js",
 "/heatmapsessionrecording/configs.php",
 "/heatmapsessionrecording/tracker.min.js",
@@ -2061,7 +1998,6 @@
 "/increment_page_counter.jsp",
 "/index-ad.js",
 "/index.track?",
-"/index_ads.js",
 "/indextools.js",
 "/infinity.js.aspx?",
 "/infocookies.",
@@ -2139,7 +2075,6 @@
 "/js_tracker.js",
 "/js_tracker.min.js",
 "/js_tracking?",
-"/jsad.php",
 "/jscounter.js",
 "/jscounter.php",
 "/jscripts/analytics.js",
@@ -2184,7 +2119,6 @@
 "/leadgen/ga.js",
 "/leadtag.js",
 "/leage.google.tracker.js",
-"/left_ads.js",
 "/leftad.png",
 "/legalcookie.",
 "/legion-advertising-atlasastro/",
@@ -2213,7 +2147,6 @@
 "/load_analytics.php",
 "/loader-wp/static/loader.min.js?",
 "/loader/counter.js",
-"/localads.aspx",
 "/localga.js",
 "/locotrack.js",
 "/log-nt/",
@@ -2379,7 +2312,6 @@
 "/metrika/tag.js",
 "/mgid.html",
 "/mi/insite/",
-"/microad.js",
 "/microsoft.cognitiveservices.speech.sdk.bundle.js",
 "/min/gtm/",
 "/minescripts.js",
@@ -2398,7 +2330,6 @@
 "/mms/get_loaders?",
 "/mn-collector.php",
 "/mnppixellibrary.min.js",
-"/mnpw3.js",
 "/mnt/imp?",
 "/moat/yield.js",
 "/mobile_ad.",
@@ -2417,7 +2348,6 @@
 "/mormont.js",
 "/mpel/mpel.js",
 "/mpixel.js",
-"/mpuadhelper.js",
 "/mpulse.js",
 "/mpulse.min.js",
 "/ms-widgets/tracking-cookies/",
@@ -2431,12 +2361,10 @@
 "/mytracking.js",
 "/nalogimpressions",
 "/natero_analytics.min.js",
-"/nativeads-v2.js",
 "/nativendo.js",
 "/navbar-analytics.js",
 "/naytev.min.js",
 "/nb-collector|",
-"/nb/frot_lod.js",
 "/ncj-pixel.js",
 "/neilson.js",
 "/neoworx_tracker.php",
@@ -2478,8 +2406,6 @@
 "/ntv.json?key=",
 "/nuggad?",
 "/null.gif?",
-"/nwm-fcn.min.js",
-"/nwm-pw2.min.js",
 "/nxst-advertising/dist/htlbid-advertising.min.js",
 "/o.gif?",
 "/o_code.js",
@@ -2509,7 +2435,6 @@
 "/ope-adalliance.js",
 "/open.aspx?",
 "/open/log/",
-"/openads.js",
 "/openpixel.gif?",
 "/openpixel.js",
 "/openrtb2/auction",
@@ -2536,7 +2461,6 @@
 "/page-addviews?",
 "/page-analytics.js",
 "/page-events/trackclick/",
-"/page-links-to/dist/new-tab.js",
 "/page-view.gif?",
 "/page.bsigroup.com/",
 "/page/bouncy.php?",
@@ -2722,16 +2646,13 @@
 "/pointeur.gif?",
 "/pomegranate.js",
 "/pongaudiencels?",
-"/pop_8_2.js",
 "/pop_ads.js",
-"/popin-min.js",
 "/popu.js",
 "/popunder2.js",
 "/popunder5.js",
 "/popunder7.min.js",
 "/popunder?",
 "/popup_ad.php",
-"/popup_code.php",
 "/popupunder.js",
 "/porpoiseant/",
 "/postcounter.php?",
@@ -2887,7 +2808,6 @@
 "/revinit.js",
 "/rgea.min.js",
 "/right_ad.",
-"/right_ads.",
 "/risk_fp_log?",
 "/riveted.min.js",
 "/rivraddon.js",
@@ -3036,7 +2956,6 @@
 "/seo/pagestat/",
 "/seostats.php",
 "/seotracking-v3.js",
-"/serveads.php",
 "/server.php?request=track&output=",
 "/server/detect.php?",
 "/service/track?",
@@ -3099,7 +3018,6 @@
 "/sitestats.gif?",
 "/sitetrek.js",
 "/sk-logabpstatus.php",
-"/skyadright.",
 "/skype-analytics.js",
 "/skyscraperad.",
 "/sl/assetlisting/?",
@@ -3138,14 +3056,11 @@
 "/sophus3_logging.js",
 "/sourcepoint.js",
 "/sp-2.0.0.min.js",
-"/sp/delivery/js.php",
 "/sp_analytics.js",
 "/sp_tracker.js",
 "/spacedesc=",
 "/spacer.gif?",
 "/splunk-logging-v2.js",
-"/sponsor-banner.jpg",
-"/sponsor-banner.png",
 "/sponsor-links.html",
 "/sponsorad.png",
 "/sponsored-links.",
@@ -3156,7 +3071,6 @@
 "/sptracking.",
 "/spymonitor.js",
 "/squaread.jpg",
-"/squaread.js",
 "/sr.gif?",
 "/sranalytics.",
 "/srp.gif?",
@@ -3346,7 +3260,6 @@
 "/tealiumanalytics.js",
 "/tealiumtagsdata.js",
 "/tenant.min.js",
-"/theologicalpresentation.com/",
 "/thermostat.js",
 "/thetracker.js",
 "/thixel.js",
@@ -3366,7 +3279,6 @@
 "/tongji.js",
 "/top-10-tracker.min.js",
 "/top-ad.",
-"/top_ad.",
 "/top_ads.",
 "/toplytics.js",
 "/toucancookie.",
@@ -3665,7 +3577,6 @@
 "/vghd.gif",
 "/vghd2.gif",
 "/vglnk.js",
-"/video-ads-player.",
 "/video-ga.js",
 "/video-js-ads.",
 "/video.counters.",
@@ -3778,7 +3689,6 @@
 "/webtrends.min.js",
 "/webxmr.js",
 "/wecoma-lite.js",
-"/welcome_ad.js",
 "/wf-beacon-",
 "/whisper?event=",
 "/white_pixel.gif?",
@@ -3843,8 +3753,6 @@
 "/wp_stat.php?",
 "/wpengine-analytics/js/main.js",
 "/wpm/strict/app/web-pixel",
-"/wppas.min.css",
-"/wppas.min.js",
 "/wps-visitor-counter/styles/js/custom.js",
 "/wpstatistics/v1/hit?",
 "/wrapper/metrics/v1/custom-metrics?",
@@ -3866,7 +3774,6 @@
 "/wysistat.js",
 "/x.gif?",
 "/x_track.php?",
-"/xads.php",
 "/xgemius.js",
 "/xinhua_webdig.js",
 "/xiti.js",
@@ -3974,6 +3881,7 @@
 "://affiliate.",
 "://affiliates.",
 "://affiliates2.",
+"://ak-ads-ns.",
 "://analytics-cdn.",
 "://analytics.",
 "://backstory.ebay.",
@@ -5320,7 +5228,6 @@
 "download.amd.com/onetrust/consent/",
 "download.megaup.net/download",
 "downloads.redbull.com/webtrekk/",
-"drakecomic.com/wp-content/themes/mangareader/script.js",
 "dramanice.ws/z-6769166",
 "dribbble.com/client_app/events",
 "dribbble.com/client_app/screenshot_boost_ad_events",
@@ -7276,6 +7183,7 @@
 "seyredelim.com/lib/ajax/track.php",
 "sezzle.com/v1/event/log",
 "sfchronicle.com/413gkwmt/init.js",
+"sfgame.net/tracking_ggs.php",
 "sfgate.com/413gkwmt/init.js",
 "sfstatic.net/build/js/basicmetricstracking.",
 "shalltry.com/athena/",
@@ -7586,6 +7494,9 @@
 "sulia.com/papi/sulia_partner.js/",
 "sumaity.com/js/press/analytics_scroll.js",
 "sumaity.com/script/analytics/s_code.js",
+"sumsub.com/api/tunnel/",
+"sumsub.com/resources/fevents",
+"sumsub.com/stry/",
 "sundayobserver.lk/sites/default/files/pictures/covid19-flash-1_0.gif",
 "sunflowerbright109.io/sdk.js",
 "sunknudsen.com/static/media/js/fathom",
@@ -10448,6 +10359,15 @@
 ],
 "seatguru.com": [
 "#comparePrices"
+],
+"euronews.com": [
+"#connatix-container",
+".c-card-sponsor",
+".enw-MPU",
+".qa-dfpLeaderBoard",
+".m-object:has(.m-object__spons-quote)",
+"#js-smart-banner",
+".base-leaderboard"
 ],
 "cpuid.com": [
 "#console_log"
@@ -15231,7 +15151,9 @@
 ".bgcutgrad"
 ],
 "autoguide.com": [
-".ad"
+".ad",
+".billboardSize",
+".sidebar-ad-unit"
 ],
 "automation.com": [
 ".ad"
@@ -16832,6 +16754,9 @@
 ".adContainer--inline",
 ".advertWrapper_billboard__npTvz",
 ".article_adContainer__qr_Hd"
+],
+"clashofstats.com": [
+".adContainer_Y58xc"
 ],
 "anews.com.tr": [
 ".adControl"
@@ -21449,14 +21374,6 @@
 "truck1.eu": [
 ".c-banners"
 ],
-"euronews.com": [
-".c-card-sponsor",
-".enw-MPU",
-".qa-dfpLeaderBoard",
-".m-object:has(.m-object__spons-quote)",
-"#js-smart-banner",
-".base-leaderboard"
-],
 "thehustle.co": [
 ".c-layout--trends",
 ".sidebar-feed-trends"
@@ -22885,6 +22802,10 @@
 "ubereats.com": [
 ".dw.ec"
 ],
+"dmarge.com": [
+".dx-ad-wrapper",
+".post-infinite-ads"
+],
 "nomadlist.com": [
 ".dynamic-fill"
 ],
@@ -23398,6 +23319,9 @@
 ".full-width-off-white",
 ".wp-block-jci-ad-area-two"
 ],
+"zoonek.com": [
+".fullwidth-ads"
+],
 "whatismybrowser.com": [
 ".fun-info-footer",
 ".fun-inner"
@@ -23609,7 +23533,8 @@
 ],
 "gearpatrol.com": [
 ".gearpatrol-ad",
-".wp-block-gearpatrol-ad-slot"
+".wp-block-gearpatrol-ad-slot",
+".wp-block-gearpatrol-from-our-partners"
 ],
 "geekflare.com": [
 ".geekflare-core-resources",
@@ -28190,6 +28115,9 @@
 "cfl.ca": [
 ".top-banner"
 ],
+"developer.mozilla.org": [
+".top-banner"
+],
 "fleetfinancials.com": [
 ".top-banner"
 ],
@@ -29772,6 +29700,9 @@
 ],
 "summit.news": [
 "[href=\"https://infowarsstore.com/\"]"
+],
+"julieroys.com": [
+"[href=\"https://julieroys.com/restore\"]"
 ],
 "hightimes.com": [
 "[href=\"https://leafwell.com\"]"
@@ -31642,6 +31573,9 @@
 "gpro.net": [
 ".boxy:has(#blockblockA)"
 ],
+"bws.com.au": [
+".card-list-item:has(.productTile.is-Sponsored)"
+],
 "doordash.com": [
 ".carousel-virtual-wrapper:has([href*=\"collection_type=sponsored_brand\"])",
 ".ccdtLs:has([data-testid=\"sponsored:Sponsored\"])",
@@ -32632,15 +32566,6 @@
 "kidspot.com.au": [
 ".secondary-video"
 ],
-"movieweb.com": [
-".video"
-],
-"screenrant.com": [
-".video"
-],
-"thegamer.com": [
-".video"
-],
 "bowhunter.com": [
 ".video-detail-player"
 ],
@@ -32827,6 +32752,15 @@
 "thebetterindia.com": [
 ".vspl__gtap-notification-content",
 ".vspl__gtap-notification-overlay"
+],
+"movieweb.com": [
+".video"
+],
+"screenrant.com": [
+".video"
+],
+"thegamer.com": [
+".video"
 ],
 "vip.idlixofficialx.com": [
 ".ac0c1cd-wrapper",
@@ -49992,6 +49926,9 @@
 "/ad.min.js": {
 "script": true
 },
+"/ad/dfp/": {
+"script": true
+},
 "/ad/image/": {
 "image": true
 },
@@ -50018,6 +49955,12 @@
 },
 "/ad_bottom.jpg": {
 "image": true
+},
+"/ad_bottom.js": {
+"script": true
+},
+"/ad_header.js": {
+"script": true
 },
 "/ad_home.js": {
 "script": true
@@ -50057,6 +50000,12 @@
 "/adaptvadplayer.js": {
 "script": true
 },
+"/adasync.js": {
+"script": true
+},
+"/adasync.min.js": {
+"script": true
+},
 "/adbanners/": {
 "image": true
 },
@@ -50083,6 +50032,9 @@
 "/adjs.php": {
 "script": true
 },
+"/adlayer.php": {
+"script": true
+},
 "/adlog.php": {
 "image": true
 },
@@ -50095,6 +50047,9 @@
 "/admanager/": {
 "object": false
 },
+"/admgr.js": {
+"script": true
+},
 "/admitad.js": {
 "script": true
 },
@@ -50105,6 +50060,9 @@
 "script": true
 },
 "/adplayer.": {
+"script": true
+},
+"/adpopup.js": {
 "script": true
 },
 "/adright.": {},
@@ -50127,7 +50085,16 @@
 "/ads-frontend.min.js": {
 "script": true
 },
+"/ads-templateslist.": {
+"script": true
+},
 "/ads-vast-vpaid.js?": {
+"script": true
+},
+"/ads.bundle.js": {
+"script": true
+},
+"/ads.bundle.min.js": {
 "script": true
 },
 "/ads.jplayer.": {
@@ -50138,6 +50105,9 @@
 },
 "/ads/banners/": {
 "image": true
+},
+"/ads/footer.": {
+"xmlhttprequest": false
 },
 "/ads/gam_prebid-": {
 "script": true
@@ -50214,6 +50184,12 @@
 "/adsbox.": {
 "script": false
 },
+"/adscontroller.js": {
+"script": true
+},
+"/adscroll.js": {
+"script": true
+},
 "/adsdelivery/": {
 "sub_frame": true
 },
@@ -50247,6 +50223,9 @@
 "image": true
 },
 "/adsmanager/": {},
+"/adsplugin/js/": {
+"script": true
+},
 "/adsscript.": {
 "script": true
 },
@@ -50256,7 +50235,13 @@
 "/adswrapper.js": {
 "script": true
 },
+"/adtools.js": {
+"script": true
+},
 "/adtrack.": {},
+"/adutil.js": {
+"script": true
+},
 "/adv-banner-": {
 "image": true
 },
@@ -50270,6 +50255,9 @@
 "script": true
 },
 "/adv_teasers.js": {
+"script": true
+},
+"/adv_vert.js": {
 "script": true
 },
 "/advadsv3/": {
@@ -50369,6 +50357,9 @@
 "/api/ad.": {
 "script": true
 },
+"/apstag.js": {
+"script": true
+},
 "/arcads.js": {
 "script": true
 },
@@ -50405,6 +50396,9 @@
 "image": true,
 "sub_frame": true
 },
+"/banner_468.": {
+"image": true
+},
 "/banner_ads/": {
 "xmlhttprequest": false
 },
@@ -50421,6 +50415,9 @@
 "image": true
 },
 "/banners/ads-": {
+"xmlhttprequest": false
+},
+"/banners/ads.": {
 "xmlhttprequest": false
 },
 "/banners/adv/": {
@@ -50441,6 +50438,9 @@
 "/bottomad.png": {
 "image": true
 },
+"/bottomads.js": {
+"script": true
+},
 "/buysellads.js": {
 "script": true
 },
@@ -50459,6 +50459,9 @@
 "/common/ad.js": {
 "script": true
 },
+"/common_ad.js": {
+"script": true
+},
 "/concert_ads-": {
 "script": true
 },
@@ -50469,6 +50472,9 @@
 "xmlhttprequest": false
 },
 "/css/ads-": {
+"stylesheet": true
+},
+"/css/adsense.": {
 "stylesheet": true
 },
 "/css/adv.": {
@@ -50496,6 +50502,9 @@
 "/delivery/lg.php": {
 "script": true,
 "sub_frame": true
+},
+"/dfp_async.js": {
+"script": true
 },
 "/dmcads_": {
 "script": true
@@ -50530,10 +50539,16 @@
 "/exports/tour_20/": {
 "sub_frame": true
 },
+"/external/ad.": {
+"script": true
+},
 "/external/ads/": {
 "image": true
 },
 "/fel456.js": {
+"script": true
+},
+"/fgh1ijkl.js": {
 "script": true
 },
 "/flashad.asp": {
@@ -50554,11 +50569,26 @@
 "/footer_ad.js": {
 "script": true
 },
+"/footer_ads.php": {
+"sub_frame": true
+},
+"/footerads.php": {
+"script": true
+},
 "/frontend_loader.js": {
 "script": true
 },
 "/ftt2/js.php": {
 "script": true
+},
+"/gdpr-ad-script.js": {
+"script": true
+},
+"/get/?go=1&data=": {
+"sub_frame": true
+},
+"/get?go=1&data=": {
+"sub_frame": true
 },
 "/globals_ps_afc.js": {
 "script": true
@@ -50571,6 +50601,9 @@
 "xmlhttprequest": true
 },
 "/gpt_ads-public.js": {
+"script": true
+},
+"/gunosyadssdkv2.js": {
 "script": true
 },
 "/homepage_ads/": {},
@@ -50614,6 +50647,9 @@
 "/index_ad/": {
 "image": true
 },
+"/index_ads.js": {
+"script": true
+},
 "/inhouse_ads/": {
 "image": true
 },
@@ -50653,6 +50689,9 @@
 "/lazyad-loader.min.js": {
 "script": true
 },
+"/left_ads.js": {
+"script": true
+},
 "/leftad.js": {
 "script": true
 },
@@ -50668,6 +50707,12 @@
 },
 "/media_ads/": {
 "image": true
+},
+"/microad.js": {
+"script": true
+},
+"/mnpw3.js": {
+"script": true
 },
 "/mod_ijoomla_adagency_zone/": {
 "xmlhttprequest": false
@@ -50688,11 +50733,17 @@
 "/modules/ads/": {
 "xmlhttprequest": false
 },
+"/mpuadhelper.js": {
+"script": true
+},
 "/mysimpleads/mysa_output.php": {
 "script": true
 },
 "/native/ts-master.": {
 "sub_frame": true
+},
+"/nativeads-v2.js": {
+"script": true
 },
 "/nativeads.js": {
 "script": true
@@ -50703,10 +50754,16 @@
 "/nativebanner/ane-native-banner.js": {
 "script": true
 },
+"/nb/frot_lud.js": {
+"script": true
+},
 "/neverblock/": {
 "script": true
 },
 "/new/floatadv.js": {
+"script": true
+},
+"/nwm-pw2.min.js": {
 "script": true
 },
 "/oiopub-direct/js.php": {
@@ -50716,6 +50773,9 @@
 "script": true
 },
 "/oncc-adbanner.js": {
+"script": true
+},
+"/page-links-to/dist/new-tab.js": {
 "script": true
 },
 "/page-peel": {
@@ -50839,6 +50899,12 @@
 "/plugins/wp125/": {
 "stylesheet": false
 },
+"/pop_8/pop_8_": {
+"script": true
+},
+"/popin-min.js": {
+"script": true
+},
 "/popunder1.js": {
 "script": true
 },
@@ -50852,6 +50918,9 @@
 "script": true
 },
 "/popup_ad.js": {
+"script": true
+},
+"/popup_code.php": {
 "script": true
 },
 "/popupads.js": {
@@ -50936,6 +51005,9 @@
 "/responsive_ads.js": {
 "script": true
 },
+"/right_ads.": {
+"xmlhttprequest": false
+},
 "/rightad.js": {
 "script": true
 },
@@ -50948,6 +51020,9 @@
 "/servead/request/": {
 "script": true,
 "sub_frame": true
+},
+"/serveads.php": {
+"script": true
 },
 "/servlet/view/": {
 "script": true
@@ -51007,6 +51082,9 @@
 "/small_ad.": {
 "image": true
 },
+"/sp/delivery/": {
+"script": true
+},
 "/spc.php?": {
 "script": true
 },
@@ -51057,6 +51135,9 @@
 },
 "/tnt.ads.": {
 "script": true
+},
+"/top_ad.": {
+"xmlhttprequest": false
 },
 "/v2/a/push/js/": {
 "tp": true
@@ -51172,6 +51253,12 @@
 "script": true
 },
 "/wpbanners_show.php": {
+"script": true
+},
+"/wppas.min.css": {
+"stylesheet": true
+},
+"/wppas.min.js": {
 "script": true
 },
 "/wpxbz-theme.js": {
@@ -51342,6 +51429,12 @@
 "script": true
 },
 ".prebid.": {},
+"/ad/postbid_handler1.": {
+"script": true
+},
+"/gpt-prebid.js": {
+"script": true
+},
 "/pbjsandwichdirecta9-": {
 "script": true
 },
@@ -51806,6 +51899,10 @@
 "main_frame": true,
 "popup": true
 },
+"54199287.xyz": {
+"main_frame": true,
+"popup": true
+},
 "54eeeadb.xyz": {
 "main_frame": true,
 "popup": true
@@ -51887,6 +51984,10 @@
 "popup": true
 },
 "72560514.xyz": {
+"main_frame": true,
+"popup": true
+},
+"72716408.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -51995,6 +52096,10 @@
 "popup": true
 },
 "97b448.xyz": {
+"main_frame": true,
+"popup": true
+},
+"98140548.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -55467,6 +55572,9 @@
 ],
 "dek-d.com": [
 "/analytic.js"
+],
+"drakecomic.": [
+"/wp-content/themes/mangareader/script.js"
 ],
 "weather.com/": [
 ".medalliasurvey."
