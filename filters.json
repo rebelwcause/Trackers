@@ -10188,6 +10188,7 @@
 "icon-icons.com": [
 "#bsa-placeholder-search",
 "#istockphoto-placeholder",
+"#right_column",
 ".apu",
 ".apu-mixed-packs",
 ".istock-container"
@@ -28139,6 +28140,9 @@
 "schoolbusfleet.com": [
 ".top-banner"
 ],
+"seekvectorlogo.net": [
+".top-banner"
+],
 "wltreport.com": [
 ".top-banner"
 ],
@@ -29199,39 +29203,57 @@
 ],
 "douglas.at": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.be": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.ch": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.cz": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.de": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.es": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.hr": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.hu": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.it": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.lt": [
 "[class=\"cms-criteo\"]"
@@ -29241,27 +29263,39 @@
 ],
 "douglas.nl": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.pl": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.pt": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.ro": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.si": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "douglas.sk": [
 "[class=\"cms-criteo\"]",
-".product-grid-column:has(.product-tile__sponsored)"
+".product-grid-column:has(.product-tile__sponsored)",
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "nocibe.fr": [
 "[class=\"cms-criteo\"]"
@@ -31361,6 +31395,10 @@
 ],
 "backgrounds.wetransfer.net": [
 "we-wallpaper"
+],
+"douglas.*": [
+".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
+"div.product-grid-column:has(button[data-testid=\"sponsored-button\"])"
 ],
 "laredoute.*": [
 "#hp-sponsored-banner"
@@ -47541,6 +47579,8 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+".glue-cookie-notification-bar",
+".amdb-lgpd-consent",
 ".cb01-cookie-bar",
 ".gdpr-cookie-bar",
 "#syl-cookie-monster",
@@ -50908,6 +50948,9 @@
 "/popunder1.js": {
 "script": true
 },
+"/popunder1000.js": {
+"script": true
+},
 "/popup-domination/": {
 "stylesheet": false
 },
@@ -51138,6 +51181,9 @@
 },
 "/top_ad.": {
 "xmlhttprequest": false
+},
+"/topad.html": {
+"sub_frame": true
 },
 "/v2/a/push/js/": {
 "tp": true
