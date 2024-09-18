@@ -561,7 +561,6 @@
 "/addlog/?",
 "/addpageview/",
 "/adds/counter.js",
-"/adengine.js",
 "/adf-tm-base-min.js",
 "/adfshow?",
 "/adj.php?",
@@ -594,12 +593,10 @@
 "/ads/!rotator/",
 "/ads/acctid=",
 "/ads/bid300c.aspx",
-"/ads/cbr.",
 "/ads/ga-audiences?",
 "/ads/get-ads-by-zones/?zones%",
 "/ads/outbrain?",
 "/ads/serve?",
-"/ads/spacer.",
 "/ads/targeted|",
 "/ads?apid",
 "/ads?callback",
@@ -774,7 +771,6 @@
 "/angular-tag.js",
 "/anonymous_user_guid.gif?",
 "/antanalysis.min.js",
-"/anti_ab.",
 "/ap.lijit.com/",
 "/api-analytics.",
 "/api-insights/log?",
@@ -1927,7 +1923,6 @@
 "/inboundanalytics.min.js",
 "/include/js/ga-set.js",
 "/increment_page_counter.jsp",
-"/index-ad.js",
 "/index.track?",
 "/indextools.js",
 "/infinity.js.aspx?",
@@ -2668,7 +2663,6 @@
 "/rcanalyticsevents.js",
 "/rcanalyticslib.js",
 "/rd-js-integration.min.js",
-"/rdmadfeed.js",
 "/rdrr/renderer.js",
 "/rdstation-popup.min.js",
 "/readthedocs-analytics.js",
@@ -7837,6 +7831,7 @@
 "w4m.rs/tracker.js",
 "wa.slideshare.net/api/v1/events",
 "waaw.ac/cdn-cgi/trace",
+"waaw.to/cdn-cgi/trace",
 "waaw1.tv/cdn-cgi/trace",
 "waitrose.com/gdavc7/",
 "walla.co.il/countshp.asp?",
@@ -9337,7 +9332,6 @@
 "filext.com": [
 "#b1c",
 "#b2c",
-"#b3c",
 "#b4c",
 "#ba1c",
 ".a"
@@ -15040,7 +15034,8 @@
 ".instream-wrap",
 ".ad_crown",
 ".ad_fullwidth",
-".ad_xrail"
+".ad_xrail",
+"#story-recommendations"
 ],
 "as.com": [
 ".ad",
@@ -15548,7 +15543,8 @@
 ".recommended-articles > .recommended-articles__heading",
 ".section-iframe",
 ".story-card--sponsored--headline",
-".story-card--sponsored-text-below"
+".story-card--sponsored-text-below",
+".ticker-banner"
 ],
 "patch.com": [
 ".ad"
@@ -47554,6 +47550,7 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+"#aviso-cookies",
 ".glue-cookie-notification-bar",
 ".amdb-lgpd-consent",
 ".cb01-cookie-bar",
@@ -49234,11 +49231,17 @@
 ".ad-root": [
 "hulu.com"
 ],
+".ad-section": [
+"honor.com"
+],
 ".ad-sidebar": [
 "wiki.fextralife.com"
 ],
 ".ad-title": [
 "job.inshokuten.com"
+],
+".ad-wrap:not(#google_ads_iframe_checktag)": [
+"honor.com"
 ],
 ".ad-wrapper": [
 "lifeinvader.com",
@@ -50045,6 +50048,9 @@
 "/adcount.js": {
 "script": true
 },
+"/adengine.js": {
+"script": true
+},
 "/adfox/loader.js": {
 "script": true
 },
@@ -50151,6 +50157,9 @@
 "/ads/banners/": {
 "image": true
 },
+"/ads/cbr.js": {
+"script": true
+},
 "/ads/custom_ads.js": {
 "script": true
 },
@@ -50186,6 +50195,9 @@
 },
 "/ads/slideup.": {
 "script": true
+},
+"/ads/spacer.": {
+"image": true
 },
 "/ads/sponsor.": {
 "stylesheet": true
@@ -50758,6 +50770,9 @@
 "/index-ad-": {
 "stylesheet": true
 },
+"/index-ad.js": {
+"script": true
+},
 "/index_ad/": {
 "image": true
 },
@@ -51102,6 +51117,9 @@
 "xmlhttprequest": false
 },
 "/rad_singlepageapp.js": {
+"script": true
+},
+"/rdmadfeed.js": {
 "script": true
 },
 "/realmedia/ads/": {
@@ -52196,6 +52214,10 @@
 "popup": true
 },
 "72075223.xyz": {
+"main_frame": true,
+"popup": true
+},
+"72356275.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -55921,6 +55943,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"assets.rfdcontent.com/": [
+"/analytics/"
 ],
 "player.ivideosmart.com/ivsplayer/": [
 "/moat-tracker.js"
