@@ -5915,6 +5915,7 @@
 "jamanetwork.com/ama/adtag",
 "jansatta.com/api/capture/ua",
 "jav4tv.com/player/analytics",
+"javedit.com/e/public/viewclick/",
 "javhd.com/ascripts/gcu.js",
 "javhd.com/rstat",
 "javynow.com/ajax/access.php",
@@ -11844,6 +11845,12 @@
 ".widget_media_image",
 "#taboola-right-rail-thumbnails"
 ],
+"slidesgo.com": [
+"#list_ads1",
+"#list_ads2",
+"#list_ads3",
+"div[id^=\"article_ads\"]"
+],
 "lightnovelcave.com": [
 "#lnvidcontainer",
 "[data-mobid]"
@@ -13786,10 +13793,12 @@
 ".bg-neutral-grey-4.items-center",
 ".bg-neutral-grey.justify-center",
 ".code-block",
+".lg\\:min-h-\\[290px\\]",
 ".position-sticky",
 ".text-center.italic",
 ".top-0.justify-center",
-".top-10"
+".top-10",
+"#primis-player"
 ],
 "jigsawplanet.com": [
 "#tsi-9c55f80e-3"
@@ -16651,6 +16660,9 @@
 "economist.com": [
 ".adComponent_advert__kPVUI",
 ".advert"
+],
+"forums.sufficientvelocity.com": [
+".adContainer"
 ],
 "m.economictimes.com": [
 ".adContainer",
@@ -23775,6 +23787,11 @@
 "adswikia.com": [
 ".header-banner"
 ],
+"arcadepunks.com": [
+".header-banner",
+".widget_custom_html",
+"img[width=\"728\"]"
+],
 "freemalaysiatoday.com": [
 ".header-banner"
 ],
@@ -23965,6 +23982,9 @@
 ],
 "freespoke.com": [
 ".home-page-message"
+],
+"socialcounts.org": [
+".home_sticky-ad__Aa_yD"
 ],
 "bonginoreport.com": [
 ".homepage-ad-2"
@@ -30933,9 +30953,6 @@
 "agoda.com": [
 "div[id^=\"ads-\"]"
 ],
-"slidesgo.com": [
-"div[id^=\"article_ads\"]"
-],
 "iplogger.org": [
 "div[id^=\"bsa-zone_\"]"
 ],
@@ -32497,6 +32514,11 @@
 "hakibavuong.com": [
 "#player_dev"
 ],
+"freethesaurus.com": [
+"#qk1",
+"#qk2",
+"#qk5"
+],
 "newseveryday.com": [
 "#vplayer_large"
 ],
@@ -33083,6 +33105,9 @@
 ".pickwrap",
 ".ad",
 ".ad_gam"
+],
+"onefootball.com": [
+"section[class^=\"XpaTaboolaPlaceholder_\"]"
 ],
 "nanjpride.blog.jp": [
 "div[class^=\"article-outer\"] > div.recommend:has(> div.ninja-recommend-block)"
@@ -51853,6 +51878,10 @@
 "main_frame": true,
 "popup": true
 },
+"07421283.xyz": {
+"main_frame": true,
+"popup": true
+},
 "076f66b2.live": {
 "main_frame": true,
 "popup": true
@@ -52270,6 +52299,14 @@
 "popup": true
 },
 "814272c4.xyz": {
+"main_frame": true,
+"popup": true
+},
+"83409127.xyz": {
+"main_frame": true,
+"popup": true
+},
+"83761158.xyz": {
 "main_frame": true,
 "popup": true
 },
