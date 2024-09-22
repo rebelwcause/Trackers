@@ -14,7 +14,6 @@
 "&gdpr",
 "&hittype=pageview&",
 "&l=datalayer&cx=c",
-"&mi_ecmp=",
 "&sadbl=1",
 "&t=pageview&",
 "-120-600.",
@@ -3864,7 +3863,6 @@
 "_460x60.",
 "_468-60.",
 "_468-60_",
-"_468_60-",
 "_468_60.",
 "_468_60_",
 "_468_80.",
@@ -4271,6 +4269,8 @@
 "api.odysee.com/locale/get",
 "api.phnx.click/js/article-stat-",
 "api.phoenix-widget.com/c?wid=",
+"api.qub.ca/anonymous-id/lib",
+"api.qub.ca/collector-service/",
 "api.remanga.org/api/logging/",
 "api.reverso.net/stats/",
 "api.solvvy.com/v1/pixels/track",
@@ -4318,6 +4318,7 @@
 "apple.com/mw/v1/reportanalytics",
 "appliedsemantics.com/images/x.gif",
 "appmifile.com/webfile/globalweb/stat/",
+"appront.net/click.js",
 "apps.bazaarvoice.com/analytics/",
 "appsolutions.com/hitme?",
 "appspot.com/analytics/",
@@ -7485,6 +7486,7 @@
 "terabox.fun/api/analytics",
 "termsfeed.com/track/",
 "terra.com/js/metrics/",
+"tetori-colorme.com/share/js/tracking.js",
 "tetori.link/share/js/tracking.js",
 "thanks.viewfr.com/webroot/ads/adsterra/",
 "the-group.net/aether/",
@@ -11910,6 +11912,11 @@
 "#market-banner",
 ".shared-global_footer-cross_sell_component__root"
 ],
+"vpforums.org": [
+"#master1",
+"td[align=\"center\"][style=\"padding: 0px;\"]",
+".ipsSideBlock.clearfix:has-text(Affiliates)"
+],
 "defenseworld.net": [
 "#mb-bar",
 "[href^=\"https://www.marketbeat.com/scripts/redirect.aspx\"]"
@@ -12444,7 +12451,8 @@
 "#payserver"
 ],
 "forums.golfwrx.com": [
-"#pb-slot-top"
+"#pb-slot-top",
+"ol.cTopicList > li.ipsDataItem:not([data-rowid])"
 ],
 "demap.info": [
 "#pcad"
@@ -16275,10 +16283,14 @@
 ],
 "pixiv.net": [
 ".ad-container",
+".ad-footer",
 ".ad-frame-container",
 ".ad-mobile-anchor",
 "div[id^=\"adsdk-\"]",
 "div[style=\"font-size: 0px;\"] a[target=\"premium_noads\"]",
+"div[style=\"height: 540px; opacity: 1;\"]",
+"iframe[height=\"300\"][name=\"responsive\"]",
+"iframe[height=\"520\"][name=\"expandedFooter\"]",
 "iframe[width=\"300\"][height=\"250\"]"
 ],
 "punchng.com": [
@@ -16449,6 +16461,7 @@
 ".header-zone__banner",
 "[class*=\"ad-slot\"]",
 "[href=\"javascript:void(0);\"]",
+"a[href^=\"https://servedbyadbutler.com/\"]",
 "mm-collectors"
 ],
 "freepressjournal.in": [
@@ -18807,7 +18820,8 @@
 ".code-block"
 ],
 "maxblizz.com": [
-".ai_widget"
+".ai_widget",
+".block-widget"
 ],
 "roadaheadonline.co.za": [
 ".ai_widget",
@@ -23172,8 +23186,8 @@
 "pbs.org": [
 ".footer__sub",
 ".home__logo-pond",
-".production-and-funding",
-".sidebar__logo-pond"
+".sidebar__logo-pond",
+".production-and-funding:has(.sponsor-info-link)"
 ],
 "satbeams.com": [
 ".footer_banner"
@@ -31758,6 +31772,9 @@
 "troyhunt.com": [
 ".sidebar-featured:has(a[href^=\"https://pluralsight.pxf.io/\"])"
 ],
+"bitcointalk.org": [
+".signature:has(a[href]:not([href*=\"bitcointalk.org\"]))"
+],
 "rustlabs.com": [
 ".sub-info-block:has(#banner)"
 ],
@@ -33029,6 +33046,10 @@
 ".banner--sticky",
 ".banner"
 ],
+"bilibili.com": [
+".feed-card:has(a[href*=\"cm.bilibili.com\"][data-target-url*=\"gaoneng.bilibili.com\"])",
+".is-rcmd:has(a[href*=\"cm.bilibili.com\"][data-target-url]:not([data-target-url*=\".bilibili.com/\"]))"
+],
 "nicovideo.jp": [
 ".Ads728x90WebPcFooter",
 ".Ads"
@@ -33782,8 +33803,6 @@
 "div[data-contentexchange-widget]",
 "div[data-dfp-id]",
 "div[data-id-advertdfpconf]",
-"div[data-native-ad]",
-"div[data-native_ad]",
 "div[id^=\"ad-div-\"]",
 "div[id^=\"ad-position-\"]",
 "div[id^=\"ad_position_\"]",
@@ -33830,16 +33849,10 @@
 "[onclick*=\"content.ad/\"]",
 ".OUTBRAIN[data-widget-id^=\"FMS_REELD_\"]",
 ".ob-p.ob-dynamic-rec-container",
-"a[data-obtrack^=\"http://paid.outbrain.com/network/redir?\"]",
 "a[data-oburl^=\"https://paid.outbrain.com/network/redir?\"]",
 "a[data-redirect^=\"https://paid.outbrain.com/network/redir?\"]",
-"a[data-url^=\"http://paid.outbrain.com/network/redir?\"] + .author",
-"a[data-widget-outbrain-redirect^=\"http://paid.outbrain.com/network/redir?\"]",
-"a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"]",
-"a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source",
 "a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"]",
 "a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source",
-"a[target=\"_blank\"][onmousedown=\"this.href^='http://paid.outbrain.com/network/redir?\"]",
 ".nya-slot[style]",
 "amp-embed[type=\"taboola\"]",
 "div[id^=\"taboola-stream-\"]",
@@ -33860,6 +33873,12 @@
 "div.proper-ad-unit",
 "div.rs_ad_block",
 "div.header-ad-container",
+"a[data-obtrack^=\"http://paid.outbrain.com/network/redir?\"]",
+"a[data-url^=\"http://paid.outbrain.com/network/redir?\"] + .author",
+"a[data-widget-outbrain-redirect^=\"http://paid.outbrain.com/network/redir?\"]",
+"a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"]",
+"a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source",
+"a[target=\"_blank\"][onmousedown=\"this.href^='http://paid.outbrain.com/network/redir?\"]",
 "div[style*=\"box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: \"]",
 "div[class^=\"ads__index__adWrapper-\"]",
 "section#headerAd",
@@ -33984,13 +34003,11 @@
 "#AdColumn",
 "#AdContainerTop",
 "#AdContent",
-"#AdContent_0_0_pnlDiv",
 "#AdDisclaimer",
 "#AdHeader",
 "#AdLayer1",
 "#AdLayer2",
 "#AdMiddle",
-"#AdPanel",
 "#AdPopUp",
 "#AdRectangleBanner",
 "#AdSense1",
@@ -33998,15 +34015,6 @@
 "#AdSense3",
 "#AdSenseDiv",
 "#AdServer",
-"#AdServer_Banner_1",
-"#AdServer_Banner_2",
-"#AdServer_Banner_3",
-"#AdServer_Banner_4",
-"#AdServer_Banner_5",
-"#AdServer_Banner_6",
-"#AdServer_Banner_7",
-"#AdServer_Banner_8",
-"#AdServer_Banner_9",
 "#AdSkyscraper",
 "#AdSlot_megabanner",
 "#AdSpaceLeaderboard",
@@ -34020,7 +34028,6 @@
 "#Ad_Block",
 "#Ad_TopLeaderboard",
 "#Adbanner",
-"#Adcode",
 "#Adlabel",
 "#AdsBannerTop",
 "#AdsBillboard",
@@ -34060,7 +34067,6 @@
 "#AdvHead",
 "#AdvHeader",
 "#Adv_Footer",
-"#Advert1",
 "#AdvertMid1",
 "#AdvertMid2",
 "#AdvertPanel",
@@ -34113,7 +34119,6 @@
 "#HeaderAdsBlock",
 "#HeroAd",
 "#HomeAd1",
-"#HouseAd",
 "#IFrameAd",
 "#IFrameAd1",
 "#IK-ad-area",
@@ -34138,7 +34143,6 @@
 "#Mpu_Top",
 "#MyAdsId3",
 "#NR-Ads",
-"#NavAD",
 "#OAS2",
 "#OASMiddleAd",
 "#OASRightAd",
@@ -34183,7 +34187,6 @@
 "#above-comments-ad",
 "#above-fold-ad",
 "#above-footer-ads",
-"#above-the-fold-ad",
 "#aboveAd",
 "#aboveNodeAds",
 "#above_button_ad",
@@ -47397,7 +47400,6 @@
 ".inf-onclickvideo-container",
 ".add-box-side",
 ".add-box-top",
-".brave-overlay",
 "#ezmob_footer",
 ".rec-sponsored",
 ".rec_article_footer",
@@ -49714,9 +49716,6 @@
 "powernationtv.com",
 "worldsurfleague.com"
 ],
-"div[data-native_ad]": [
-"cookinglight.com"
-],
 "div[id^=\"ad_position_\"]": [
 "googleads.g.doubleclick.net"
 ],
@@ -51777,6 +51776,9 @@
 "/468x60.": {
 "script": false
 },
+"_468_60-": {
+"script": false
+},
 "&fp_sid=pop": {
 "popup": true,
 "tp": true
@@ -51922,6 +51924,10 @@
 "main_frame": true,
 "popup": true
 },
+"10614305.xyz": {
+"main_frame": true,
+"popup": true
+},
 "10753990.xyz": {
 "main_frame": true,
 "popup": true
@@ -51966,6 +51972,10 @@
 "main_frame": true,
 "popup": true
 },
+"19199675.xyz": {
+"main_frame": true,
+"popup": true
+},
 "19706903.xyz": {
 "main_frame": true,
 "popup": true
@@ -52007,6 +52017,10 @@
 "popup": true
 },
 "23879858.xyz": {
+"main_frame": true,
+"popup": true
+},
+"23907453.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -53225,6 +53239,9 @@
 "/wp-admin/admin-ajax.php?action=adblockvisitor": {
 "tp": false
 },
+"&mi_ecmp=": {
+"image": true
+},
 ".acemlna.com/lt.php?": {
 "image": true
 },
@@ -54079,6 +54096,9 @@
 "image": true
 },
 "/adservice.": {},
+"/skipad.png": {
+"image": true
+},
 "investing.com/js/n/ad-blocker-popup": {
 "script": true
 },
