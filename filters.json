@@ -8,13 +8,13 @@
 "%2fopen.aspx%3f",
 "&action=js_stats&",
 "&ev=pageview&",
-"&event=view&",
 "&eventtype=datadealimpression&",
 "&eventtype=impression&",
 "&gdpr",
 "&hittype=pageview&",
 "&l=datalayer&cx=c",
-"&sadbl=1",
+"&sadbl=1&abtg=",
+"&sadbl=1&chu=",
 "&t=pageview&",
 "-120-600.",
 "-120_600_",
@@ -1979,6 +1979,7 @@
 "/js/counter.js?",
 "/js/dart.js",
 "/js/fb_tracking.js",
+"/js/ga_event_",
 "/js/hbx.js",
 "/js/logger?",
 "/js/nr-analytics.js",
@@ -6127,6 +6128,7 @@
 "lnk.to/~/tr/",
 "load.tm.all3dp.com/rqlevydw.js",
 "location3.com/analytics/",
+"logbase.io/metrics",
 "lolwot.com/b5xaqzsgvmtm.js",
 "lookawoman.com/t/",
 "lookup-domain.com",
@@ -6164,6 +6166,7 @@
 "mail.proton.me/api/data/v1/stats",
 "mail.qq.com/cgi-bin/getinvestigate?",
 "maillist-manage.com/wa/actionlogger?",
+"majorgeeks.com/mg/slide/mg-slide.js",
 "mall.tv/bundles/analytics?",
 "mallorcamagazin.com/sfcounter",
 "mamieastuce.com//",
@@ -7061,6 +7064,7 @@
 "service-cmp.com",
 "service.geico.com/insite/js/mbox2.js",
 "service.smscoin.com/js/sendpic.js",
+"services.meteored.com/web/usr/v1/check/",
 "services.noticiasaominuto.com/site/track?",
 "services.rome2rio.com/api/json/loganalyticsevent",
 "services.rome2rio.com/api/json/logcorewebvital",
@@ -14149,7 +14153,8 @@
 ".lg\\:min-h-\\[290px\\]",
 ".text-center.italic",
 ".top-0.justify-center",
-".top-10"
+".top-10",
+"#primis-player"
 ],
 "newspointapp.com": [
 ".Ad_wrapper",
@@ -21867,6 +21872,9 @@
 ".code-block",
 ".wpb_wrapper > p"
 ],
+"nexdrive.fun": [
+".code-block"
+],
 "notalwaysright.com": [
 ".code-block"
 ],
@@ -22901,6 +22909,10 @@
 ".top-0.sticky > div",
 ".zad",
 "section.mt-4 > div"
+],
+"executivegov.com": [
+".execu-target",
+".execu-widget"
 ],
 "metric-conversions.org": [
 ".exists"
@@ -29174,6 +29186,9 @@
 "[class*=\"__adspot-title-container\"]",
 "[class*=\"__adv-block\"]"
 ],
+"gamezop.com": [
+"[class*=\"_ad_container\"]"
+],
 "bitcoinist.com": [
 "[class*=\"clickout-\"]"
 ],
@@ -32790,6 +32805,9 @@
 ],
 "baeldung.com": [
 ".aelzmn"
+],
+"sentry.io": [
+".loading-message > p:last-child"
 ],
 "tioeroge.blogspot.com": [
 ".popSc"
@@ -47577,6 +47595,8 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+".ck-cookie-w",
+".gdpr_cookie_popup",
 "#aviso-cookies",
 ".glue-cookie-notification-bar",
 ".amdb-lgpd-consent",
@@ -49968,6 +49988,9 @@
 "/ad.min.js": {
 "script": true
 },
+"/ad/ad_common.js": {
+"script": true
+},
 "/ad/dfp/": {
 "script": true
 },
@@ -50002,9 +50025,6 @@
 "image": true
 },
 "/ad_bottom.js": {
-"script": true
-},
-"/ad_common.js": {
 "script": true
 },
 "/ad_counter.aspx": {
@@ -50351,9 +50371,6 @@
 "script": true
 },
 "/adv-socialbar-scroll.js": {
-"script": true
-},
-"/adv_teasers.js": {
 "script": true
 },
 "/adv_vert.js": {
@@ -50831,6 +50848,9 @@
 "script": true
 },
 "/jquery.openxtag.js": {
+"script": true
+},
+"/js/ad_common.js": {
 "script": true
 },
 "/js/advrotator.js": {
@@ -52072,6 +52092,10 @@
 "main_frame": true,
 "popup": true
 },
+"32472254.xyz": {
+"main_frame": true,
+"popup": true
+},
 "33848102.xyz": {
 "main_frame": true,
 "popup": true
@@ -52405,6 +52429,10 @@
 "popup": true
 },
 "98383163.xyz": {
+"main_frame": true,
+"popup": true
+},
+"98853171.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -54982,9 +55010,6 @@
 ],
 "rebelwcause.github": [
 "/spy9"
-],
-"&pcid=": [
-"&rid="
 ],
 ".com/watch.": [
 ".js?key="
