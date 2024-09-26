@@ -311,6 +311,7 @@
 ".sendibm1.com/mk/",
 ".sharecounter.",
 ".shop/gd/",
+".shop/tsk/",
 ".simplicitycrm.com/rd/",
 ".skimlinks.js",
 ".starbucks.com/a/",
@@ -4405,6 +4406,7 @@
 "azureedge.net/javascripts/tracking.",
 "azureedge.net/track",
 "azurewebsites.net/api/views?",
+"azurewebsites.net/pixel?",
 "azurewebsites.net/telemetryapi",
 "azurewebsites.net/trackview/",
 "b.marfeelcache.com/statics/marfeel/gardac-sync.js",
@@ -6015,6 +6017,7 @@
 "kodik.info/stats|",
 "kohls.com/mtfndb/",
 "kohls.com/test_rum_nv?",
+"kojima.net/excludes/kpc/js/kjm_gtm.js",
 "kommersant.uk/banner_stats",
 "kompass.com/getadvertisements",
 "kompass.com/logadvertisements",
@@ -6880,6 +6883,7 @@
 "recart.com/tracking/",
 "receive-sms-online.info/img/banner_",
 "receive.shamimomo.net/dream/dream.cgi",
+"receptions.smart-bdash.com/receptions/action/click",
 "recipefy.net/analytics.js",
 "recipefy.net/rssfeed.php",
 "recobell.io/rest/logs",
@@ -15632,6 +15636,9 @@
 "scholarlykitchen.sspnet.org": [
 ".ad"
 ],
+"scworld.com": [
+".ad"
+],
 "segmentnext.com": [
 ".ad"
 ],
@@ -20786,8 +20793,7 @@
 ],
 "blackhatworld.com": [
 ".bhw-advertise-link",
-".bhw-banners",
-".link--external.link > .bbImage"
+".bhw-banners"
 ],
 "viva.co.nz": [
 ".big-banner",
@@ -25199,6 +25205,9 @@
 "instavideosave.net": [
 ".min-h-\\[280px\\]"
 ],
+"businesstimes.com.sg": [
+".min-h-\\[90px\\]"
+],
 "insiderintelligence.com": [
 ".min-h-top-banner"
 ],
@@ -29386,6 +29395,9 @@
 "dannydutch.com": [
 "[data-hook=\"HtmlComponent\"]"
 ],
+"hackster.io": [
+"[data-hypernova-key=\"ModularAd\"]"
+],
 "clevelandclinic.org": [
 "[data-identity*=\"billboard-ad\"]",
 "[data-identity=\"leaderboard-ad\"]"
@@ -29773,6 +29785,9 @@
 ],
 "wplocker.com": [
 "[href^=\"//namecheap.pxf.io/\"]"
+],
+"vikingfile.com": [
+"[href^=\"/fast-download/\"]"
 ],
 "pooletown.co.uk": [
 "[href^=\"http://redirect.viglink.com\"]",
@@ -31987,6 +32002,7 @@
 "div[id^=\"COMMENTSLDRB\"]",
 "div[id^=\"LeadAd-\"]",
 "div[id^=\"darla-ad\"]",
+"div[id^=\"defaultWFPAD\"]",
 "div[id^=\"gemini-item-\"]",
 "div[style*=\"/ads/\"]",
 "li[data-test-locator=\"stream-related-ad-item\"]"
@@ -47595,6 +47611,7 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+".cookiePolicy-Modal",
 ".ck-cookie-w",
 ".gdpr_cookie_popup",
 "#aviso-cookies",
@@ -49138,6 +49155,12 @@
 ],
 "#ad-wrapper": [
 "ufoevidence.org"
+],
+"#adContainer": [
+"honkakuha.success-games.net"
+],
+"#adWrapper": [
+"honkakuha.success-games.net"
 ],
 "#ad_link": [
 "drc1bk94f7rq8.cloudfront.net"
@@ -51968,6 +51991,10 @@
 "main_frame": true,
 "popup": true
 },
+"14202444.xyz": {
+"main_frame": true,
+"popup": true
+},
 "15272973.xyz": {
 "main_frame": true,
 "popup": true
@@ -52021,6 +52048,10 @@
 "popup": true
 },
 "21274758.xyz": {
+"main_frame": true,
+"popup": true
+},
+"22117898.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -54110,6 +54141,9 @@
 },
 "vvvvid.it": {
 "ping": true
+},
+"korewaeroi.com/fukugan_": {
+"sub_frame": true
 },
 "naver.com/postview.nhn?": {
 "image": true
