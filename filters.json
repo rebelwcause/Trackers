@@ -3617,6 +3617,7 @@
 "/wp-monero-miner.js",
 "/wp-monero-miner.min.js",
 "/wp-power-stats.js",
+"/wp-rocket/assets/js/lcp-beacon.",
 "/wp-sentry-browser.min.js",
 "/wp-slimstat.js",
 "/wp-slimstat.min.js",
@@ -4228,6 +4229,7 @@
 "androidfilehost.com/libs/otf/stats.otf.php?",
 "androidpolice.com/an-strpixel.png",
 "androidpolice.com/pixel.png?",
+"anilibria.top/api/v1/ads/",
 "animeland.tv/zenny/",
 "animember.net/js/access.js",
 "anisearch.com/amazon",
@@ -4421,6 +4423,7 @@
 "backend.verbolia.com/content/js/velw.min.js",
 "backendmarket.youdao.com/collect/",
 "bahamaslocal.com/img/banners/",
+"baitoru.com/pu/js/2017/adobe_send_tracking.js",
 "bamgrid.com/analytics/",
 "bamgrid.com/telemetry",
 "bandcamp.com/api/tracker/",
@@ -10351,6 +10354,10 @@
 "#cookieConsentUR99472",
 ".nrd-general-d-box"
 ],
+"unblock-it.com": [
+"#cookieConsentUR99472",
+".nrd-general-d-box"
+],
 "uproxy2.biz": [
 "#cookieConsentUR99472",
 ".nrd-general-d-box"
@@ -11168,7 +11175,8 @@
 "realestate.com.au": [
 "#headerLeaderBoardSlot",
 ".header-leaderboard",
-".header-leaderboard-portal"
+".header-leaderboard-portal",
+".media-viewer__sidebar"
 ],
 "forums.androidcentral.com": [
 "#header_leaderboard",
@@ -11560,6 +11568,9 @@
 "#l_sk1",
 ".fa_box_m",
 ".hero_banner1"
+],
+"inc42.com": [
+"#large_leaderboard_desktop-0"
 ],
 "elfaro.net": [
 "#layout-ad-header",
@@ -22036,6 +22047,9 @@
 "zerohanger.com": [
 ".code-block"
 ],
+"ziperto.com": [
+".code-block"
+],
 "storytohear.com": [
 ".code-block > center p"
 ],
@@ -22568,6 +22582,9 @@
 ],
 "soccer24.com": [
 ".detailLeaderboard"
+],
+"giphy.com": [
+".device-desktop"
 ],
 "floridapolitics.com": [
 ".dfad"
@@ -47692,7 +47709,6 @@
 ".cookie-police-bar",
 "#cookiesck",
 "#spicookiebanner",
-"#cm-cookie-policy",
 ".cookie-bg",
 ".thb-cookie-bar",
 ".kvkkpop",
@@ -49133,6 +49149,7 @@
 ".wrapper--cookies-disclaimer",
 ".wrapperCookies",
 ".wsa-cookielaw",
+"#cm-cookie-policy",
 "#idxrcookies",
 ".cookie-wrapper",
 ".contao-cookiebar",
@@ -50172,6 +50189,9 @@
 "script": true
 },
 "/adpopup.js": {
+"script": true
+},
+"/adrecover-new.js": {
 "script": true
 },
 "/adrecover.js": {
@@ -52239,6 +52259,10 @@
 "main_frame": true,
 "popup": true
 },
+"55766925.xyz": {
+"main_frame": true,
+"popup": true
+},
 "55cc9d.xyz": {
 "main_frame": true,
 "popup": true
@@ -52324,6 +52348,10 @@
 "popup": true
 },
 "72716408.xyz": {
+"main_frame": true,
+"popup": true
+},
+"73503921.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -56059,6 +56087,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"baitoru.com/": [
+"/adobe_send_tracking.js"
 ],
 "assets.rfdcontent.com/": [
 "/analytics/"
