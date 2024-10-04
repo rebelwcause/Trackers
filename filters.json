@@ -1424,6 +1424,7 @@
 "/dmu2panalytics/ajax_call.php?",
 "/dnscheck.js",
 "/dnschecker.js",
+"/dnx-event-collector/",
 "/doctracking.js",
 "/dolwebanalytics.js",
 "/dom-event-tracker.min.js",
@@ -3743,6 +3744,9 @@
 "61medya.net/wp-content/plugins/burst-statistics/",
 "634.tv/statics/api/js/trans/logger.js",
 "65spy7rgcu.com",
+"6pm.com/err.cgi?",
+"6pm.com/onload.cgi?",
+"6pm.com/track.cgi?",
 "7gra.us/path-tracker-js/",
 "99widgets.com/counters/",
 "9gag.com/event/",
@@ -4366,6 +4370,7 @@
 "assets.adsttc.com/insights/tracker.js",
 "assets.alicdn.com/g/alilog/aplus_plugin_xwj/index.js",
 "assets.apollo.io/micro/website-tracker/",
+"assets.bwbx.io/s3/foundation/event-recorder-client/1.0/event-recorder-client.min.js",
 "assets.htvapps.com/lumiere/fallback/analytics.js",
 "assets.moneymade.io/js/fp.min.js",
 "assets.presearch.com/backgrounds/",
@@ -6091,6 +6096,7 @@
 "libero.it/cgi-bin/cdcountersp.cgi?",
 "libero.it/cgi-bin/twit?",
 "libero.it/search/abin/ajaxtrace?",
+"liberty.schip.io/liberty-metrics/",
 "libhunt.com/api/ahoy/event",
 "libs.platform.californiatimes.com/meteringjs/",
 "licensing.bitmovin.com/impression",
@@ -6169,6 +6175,7 @@
 "mail.qq.com/cgi-bin/getinvestigate?",
 "maillist-manage.com/wa/actionlogger?",
 "majorgeeks.com/mg/slide/mg-slide.js",
+"makeship.com/ingest/static/recorder-v2.js",
 "mall.tv/bundles/analytics?",
 "mallorcamagazin.com/sfcounter",
 "mamieastuce.com//",
@@ -6836,6 +6843,7 @@
 "racebets.com/media.php?",
 "rackcdn.com/gate.js",
 "rackcdn.com/stf.js",
+"radar.cloudflare.com/api/analytics",
 "radioreference.com/i/p4/tp/smportalbanner.gif",
 "radiotime.com/report.ashx?",
 "radiotime.com/reports/",
@@ -9049,6 +9057,10 @@
 ],
 "lingojam.com": [
 "#adsense-area-label"
+],
+"digitimes.com": [
+"#adspace",
+".square-ad"
 ],
 "byjus.com": [
 "#adtech-related-links-container",
@@ -15079,8 +15091,6 @@
 ],
 "arstechnica.com": [
 ".ad",
-".ars-component-buy-box",
-".instream-wrap",
 ".ad_crown",
 ".ad_fullwidth",
 ".ad_xrail",
@@ -18101,6 +18111,9 @@
 ".advertisement"
 ],
 "controleng.com": [
+".advertisement"
+],
+"curiosmos.com": [
 ".advertisement"
 ],
 "dw.com": [
@@ -32884,6 +32897,9 @@
 "mustar.meitetsu.co.jp": [
 "body[style=\"opacity: 0;\"]:style(opacity: 1 !important;)"
 ],
+"yonder.fr": [
+"#ab-message"
+],
 "phoronix.com": [
 "div[dir=\"auto\"][style]"
 ],
@@ -47665,6 +47681,7 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+"#consent-banner-main",
 ".luxar_disclaimer_container",
 ".cookiePolicy-Modal",
 ".ck-cookie-w",
@@ -49350,6 +49367,9 @@
 ".ad-icon": [
 "transparencyreport.google.com"
 ],
+".ad-padding": [
+"letroso.com"
+],
 ".ad-root": [
 "hulu.com"
 ],
@@ -49599,6 +49619,9 @@
 ".block-ad": [
 "popporn.com"
 ],
+".body-top-ads": [
+"rspro.xyz"
+],
 ".bottom_ad": [
 "shanjinji.com"
 ],
@@ -49610,6 +49633,9 @@
 ],
 ".c-ad": [
 "stuff.tv"
+],
+".c-ads": [
+"rspro.xyz"
 ],
 ".container-ads": [
 "fontspace.com",
@@ -52316,6 +52342,10 @@
 "main_frame": true,
 "popup": true
 },
+"59644010.xyz": {
+"main_frame": true,
+"popup": true
+},
 "5ab2f817.xyz": {
 "main_frame": true,
 "popup": true
@@ -52417,6 +52447,10 @@
 "popup": true
 },
 "78b78ff8.xyz": {
+"main_frame": true,
+"popup": true
+},
+"79180284.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -53155,6 +53189,9 @@
 "/adobe-analytics-": {},
 "/analytics.prod.": {},
 "/analytics/event": {},
+"/api/front/v2/observability": {
+"ping": true
+},
 "/api/ping?": {
 "xmlhttprequest": false
 },
@@ -54496,6 +54533,9 @@
 "msg.video.qiyi.com": {
 "image": true
 },
+"cl.melonbooks.co.jp": {
+"image": true
+},
 "click.contact.kamalaharris.com": {
 "image": true
 },
@@ -55236,6 +55276,9 @@
 ],
 "prewarcar.com/": [
 "-banners/"
+],
+"rspro.xyz/wp-content/uploads/": [
+"/redotpay.webp"
 ],
 "saabsunited.com/wp-content/uploads/": [
 "banner"
@@ -56127,6 +56170,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"makeship.com/ingest/": [
+"?compression="
 ],
 "baitoru.com/": [
 "/adobe_send_tracking.js"
