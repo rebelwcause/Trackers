@@ -4060,9 +4060,7 @@
 "a2z.com/sping?",
 "aawsat.com/pageview/",
 "ab.chatgpt.com/v1/rgstr",
-"abcnews.com/assets/dtci/js/abcnews_visitorid.js",
 "abcnews.com/assets/js/adcalloverride.js",
-"abebooks.com/timer.gif?",
 "abema-tv.com/v1/stats/",
 "about.me/track?",
 "aboutmyarea.co.uk/images/imgstore/",
@@ -5531,6 +5529,7 @@
 "getpocket.com/web-utilities/public/static/te.js",
 "gets.faz.net/z.aspx",
 "gettapeads.com/stat/",
+"gg.asuracomic.net/api/views/collect",
 "ggsel.com/js/download/analytics.js",
 "ghacks.net/statics/px.gif",
 "gianteagle.com/webevents/",
@@ -7880,6 +7879,8 @@
 "wazzup.me/libs/track.js",
 "wccftech.com/cnt7vfdvvwa3.js",
 "wct-1.com/wct.js",
+"wealthfront.com/event",
+"wealthfront.com/track_next?p=",
 "weather.ca/counter.gif?",
 "web-g-p.com/info/js/cookie.js",
 "web-g-p.com/info/log/",
@@ -7967,7 +7968,7 @@
 "wn.com/count.js",
 "wnyc.org/analytics/",
 "wolfram.com/common/javascript/analytics.js",
-"wolfram.com/common/javascript/wal/",
+"wolfram.com/common/javascript/wal/latest/walload.js",
 "wondershare.com/trk",
 "wondershare.com/wsid/com/static/utils/track.js",
 "woopic.com/magic/o_vr.js",
@@ -8865,6 +8866,11 @@
 "free-icon-rainbow.com": [
 "#ad_responsive"
 ],
+"hulkshare.com": [
+"#ad_user_banner_2",
+".nhsBotBan",
+"a.nhsIndexPromoteBlock"
+],
 "coinarbitragebot.com": [
 "#adathm",
 "#botfix",
@@ -9196,6 +9202,13 @@
 "#anchorcontainer",
 ".adbox",
 ".sky"
+],
+"slashdot.org": [
+"#announcement",
+"#cloud",
+"#slashdot_deals",
+".article-nel-12935",
+".deals-wrapper"
 ],
 "ancient-origins.net": [
 "#ao-article-outbrain",
@@ -10241,12 +10254,6 @@
 "#taboola-mid-article-thumbnails",
 "ul > li:has(> div[id^=\"taboola-mid-home-stream\"])"
 ],
-"slashdot.org": [
-"#cloud",
-"#slashdot_deals",
-".article-nel-12935",
-".deals-wrapper"
-],
 "globalconstructionreview.com": [
 "#cm-jobs-block-inner"
 ],
@@ -10777,7 +10784,8 @@
 "#engineering-centers-sidebar",
 "#geekwork",
 "#sponsors",
-"#startup-resources-sidebar"
+"#startup-resources-sidebar",
+".type-sponsor_post.teaser"
 ],
 "wral.com": [
 "#exco",
@@ -11943,6 +11951,7 @@
 ".superbanner",
 ".viafoura-standalone-mpu",
 "div[id^=\"taboola-\"]",
+"#mantis-recommender-top-placeholder",
 "#ovp-primis",
 "#taboola-mid-article-thumbnails-outstream",
 "[data-tb-non-consent]"
@@ -15296,7 +15305,8 @@
 ],
 "dpreview.com": [
 ".ad",
-".connatixWrapper"
+".connatixWrapper",
+".videoWrapper"
 ],
 "dynamicwallpaper.club": [
 ".ad"
@@ -20547,6 +20557,12 @@
 "admonsters.com": [
 ".banner-wrap"
 ],
+"benzinga.com": [
+".banner-wrapper",
+".raptive-ad-placement",
+"div[class^=\"GoogleAdBlock_\"]",
+".video-player-wrapper"
+],
 "primewire.link": [
 ".banner-wrapper",
 "a[href^=\"https://url.rw/\"]"
@@ -21848,7 +21864,8 @@
 "fandomwire.com": [
 ".code-block",
 ".customad",
-"[style^=\"min-height: 320px\"]"
+"[style^=\"min-height: 320px\"]",
+"div:has(> [data-openweb-ad])"
 ],
 "firstcuriosity.com": [
 ".code-block"
@@ -24257,7 +24274,8 @@
 ".inner"
 ],
 "technologynetworks.com": [
-".inner_content_olp_on_site_landing_page"
+".inner_content_olp_on_site_landing_page",
+".featuredVendors"
 ],
 "inquirer.com": [
 ".inno-ad",
@@ -25219,6 +25237,9 @@
 ".popup-dialog",
 ".win"
 ],
+"earth911.com": [
+".mg-sidebar"
+],
 "citizen.digital": [
 ".mid-article-ad"
 ],
@@ -25644,6 +25665,9 @@
 ".trfkye8nxr",
 ".xtfaoba0u1"
 ],
+"jayski.com": [
+".nascar-ad-container"
+],
 "nascar.com": [
 ".nascar-ad-container"
 ],
@@ -25681,9 +25705,6 @@
 "moddb.com": [
 ".nextmediaboxtop",
 ".supporter"
-],
-"hulkshare.com": [
-".nhsBotBan"
 ],
 "afterdawn.com": [
 ".ni_box"
@@ -26691,6 +26712,10 @@
 "gonintendo.com": [
 ".pt-5"
 ],
+"steamladder.com": [
+".pt-large",
+".salad"
+],
 "1980-games.com": [
 ".pub"
 ],
@@ -26776,11 +26801,6 @@
 ],
 "rappler.com": [
 ".rappler-ad-container"
-],
-"benzinga.com": [
-".raptive-ad-placement",
-"div[class^=\"GoogleAdBlock_\"]",
-".video-player-wrapper"
 ],
 "atlantablackstar.com": [
 ".raptive-ddm-header"
@@ -26991,9 +27011,6 @@
 ],
 "nodejs.libhunt.com": [
 ".saashub-ad"
-],
-"steamladder.com": [
-".salad"
 ],
 "salife.com.au": [
 ".salife-slot"
@@ -32951,15 +32968,6 @@
 ".vspl__gtap-notification-content",
 ".vspl__gtap-notification-overlay"
 ],
-"movieweb.com": [
-".video"
-],
-"screenrant.com": [
-".video"
-],
-"thegamer.com": [
-".video"
-],
 "vip.idlixofficialx.com": [
 ".ac0c1cd-wrapper",
 ".ac0c1cd-blackout"
@@ -33261,6 +33269,10 @@
 "#SpvLink",
 ".gad",
 "div[style^=\"font-family:Gill Sans;\"][style*=\"font-size:12px;\"][style*=\"line-height:12px;\"]"
+],
+"news.livedoor.com": [
+".adsW",
+"#yadsOverlayUnit"
 ],
 "nlab.itmedia.co.jp": [
 "div[id^=\"logly-lift-\"]",
@@ -52089,6 +52101,10 @@
 "main_frame": true,
 "popup": true
 },
+"11778562.xyz": {
+"main_frame": true,
+"popup": true
+},
 "11c7a3.xyz": {
 "main_frame": true,
 "popup": true
@@ -52242,6 +52258,10 @@
 "popup": true
 },
 "33848102.xyz": {
+"main_frame": true,
+"popup": true
+},
+"36833185.xyz": {
 "main_frame": true,
 "popup": true
 },
