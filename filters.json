@@ -512,7 +512,6 @@
 "/ab_track.js",
 "/abc.gif?",
 "/ac_cookiesvalidation/",
-"/acc/acctag.js",
 "/accept-cookie.",
 "/acceptcookies.",
 "/access.php?referrer=",
@@ -521,6 +520,7 @@
 "/accesstracking/",
 "/acclog.cgi?",
 "/acclog.js",
+"/acctag.js",
 "/acecounter/",
 "/acecounter_",
 "/acounter.php?",
@@ -5224,7 +5224,6 @@
 "emea.flow.microsoft.com/providers/internal.telemetry",
 "emol.com/bt/ping",
 "emoneyspace.com/b.php",
-"emperilchilies.top",
 "en2.elvenar.com/game/tracking",
 "endorsal.io/check/",
 "enetres.net/statisticsv1/",
@@ -7838,7 +7837,6 @@
 "vpnrice.com/a/p.js",
 "vrbo.com/edap/elo/v1/event/beacon",
 "vrbo.com/serp/api/metrics",
-"vriddhipardee.top",
 "vrixon.com/adsdk/",
 "vs4.com/impr.php",
 "vsco.co/api/cantor/track",
@@ -8958,9 +8956,6 @@
 "craigclassifiedads.com": [
 "#ads"
 ],
-"dekhobd.com": [
-"#ads"
-],
 "duckduckgo.com": [
 "#ads",
 ".highlight_sponsored",
@@ -9066,6 +9061,10 @@
 ],
 "lingojam.com": [
 "#adsense-area-label"
+],
+"194.233.68.230": [
+"#adsimgxatass",
+".indositusxxi-floatbanner"
 ],
 "digitimes.com": [
 "#adspace",
@@ -10425,10 +10424,6 @@
 "#cubewrapid",
 ".center-add"
 ],
-"wolfstream.tv": [
-"#customAnnouncement",
-".cover2"
-],
 "timesofindia.indiatimes.com": [
 "#custom_ad_wrapper_0",
 ".ATF_mobile_ads",
@@ -10830,8 +10825,7 @@
 "#feature-ad-holder"
 ],
 "perezhilton.com": [
-"#feature-spot",
-"[href^=\"https://www.mytrue10.com/\"]"
+"#feature-spot"
 ],
 "fandom.com": [
 "#featured-video__player-container",
@@ -11189,6 +11183,13 @@
 "govevents.com": [
 "#header-display",
 ".display"
+],
+"nagpurtoday.in": [
+"#header-sidebar",
+"#secondary aside.widget_custom_html",
+".entry-content > div[style*=\"max-width\"]",
+".shrcladv",
+"[class^=\"sgpb-\"]"
 ],
 "looperman.com": [
 "#header-top",
@@ -14366,11 +14367,6 @@
 ".Top300x600",
 ".fast-grid-ad"
 ],
-"freebitz.xyz": [
-".BannerContainer",
-".BannerContainerScrapper",
-".BannerMain"
-],
 "dashfight.com": [
 ".BannerPlayware_block__up1Ra"
 ],
@@ -14466,6 +14462,9 @@
 ".adBlock--center-column",
 ".adBlock--right-column",
 ".large-horizontal-banner"
+],
+"plumbers.nz": [
+".FBJoinbox"
 ],
 "askapache.com": [
 ".GAD"
@@ -14637,10 +14636,6 @@
 "newscientist.com": [
 ".Outbrain",
 ".mpu"
-],
-"outlook.advantis.ai": [
-".Outlook_discoverItem__RORc6",
-".swiper-initialized.swiper"
 ],
 "govtech.com": [
 ".Page-billboard"
@@ -20221,9 +20216,6 @@
 "pulsesports.ug": [
 ".banner"
 ],
-"reversephonesearch.com.au": [
-".banner"
-],
 "rotherhamadvertiser.co.uk": [
 ".banner",
 "[data-type=\"AdRowBillboard\"]",
@@ -20921,17 +20913,17 @@
 ".billboard-overlay",
 ".exco-video__container",
 ".nyp-s2n-wrapper",
-".recirc",
 ".widget_nypost_dfp_ad_widget",
 ".widget_nypost_vivid_concerts_widget",
 ".widget_text.no-mobile.box",
-".billboard-ad"
+".billboard-ad",
+".recirc"
 ],
 "pagesix.com": [
 ".billboard-overlay",
-".recirc",
 ".nyp-video-player",
-".billboard-ad"
+".billboard-ad",
+".recirc"
 ],
 "electronicproducts.com": [
 ".billboard-wrap"
@@ -22319,6 +22311,9 @@
 ".key-suppliers",
 ".mpu",
 ".mpu-300x250"
+],
+"wolfstream.tv": [
+".cover2"
 ],
 "coinpaprika.com": [
 ".cp-table__row--ad-row",
@@ -27813,6 +27808,9 @@
 ".sw-banner",
 ".youtube_article_ad"
 ],
+"outlook.advantis.ai": [
+".swiper-initialized.swiper"
+],
 "top100token.com": [
 ".swiper_div.right-pad"
 ],
@@ -29431,7 +29429,8 @@
 "shoprite.com": [
 "[class^=\"CitrusBannerXContainer\"]",
 "div[class*=\"Row--\"]:has(img[src*=\"/PROMOTED-TAG_\"])",
-"div[class^=\"ColListing\"]:has(div[data-testid^=\"Sponsored\"])"
+"div[class^=\"ColListing\"]:has(div[data-testid^=\"Sponsored\"])",
+"div[class^=\"Row\"]:has(div[data-component] a[data-testid] picture source[media=\"(min-width: 1024px)\"] + img[class*=\"ImageTextButtonImage\"][src*=\".jpg\"])"
 ],
 "uploader.link": [
 "[class^=\"ads\"]"
@@ -29446,6 +29445,9 @@
 ],
 "hancinema.net": [
 "[class^=\"wmls_\"]"
+],
+"enostech.com": [
+"[class^=\"wp-image-41\"]"
 ],
 "torlock.com": [
 "[class^=\"wrn\"]",
@@ -30400,12 +30402,10 @@
 "a[class^=\"banner_photo_\"]"
 ],
 "pinterest.ca": [
-"a[href*=\"&epik=\"]",
-"div[data-test-id=\"pin\"]:has(div[title^=\"Promoted\"])"
+"a[href*=\"&epik=\"]"
 ],
 "pinterest.com": [
-"a[href*=\"&epik=\"]",
-"div[data-test-id=\"pin\"]:has(div[title^=\"Promoted\"])"
+"a[href*=\"&epik=\"]"
 ],
 "imgpile.com": [
 "a[href*=\"&utm_campaign=\"]"
@@ -30715,6 +30715,9 @@
 "a[rel^=\"sponsored\"]",
 "div[data-ad=\"true\"]"
 ],
+"colombotimes.lk": [
+"a[target=\"_blank\"] img:not([src*=\"app.jpg\"])"
+],
 "classicstoday.com": [
 "a[target=\"_blank\"][rel=\"noopener\"] > img"
 ],
@@ -30743,9 +30746,6 @@
 "a[title=\"Free money easy\"]"
 ],
 "ntvid.online": [
-"a[title=\"Free money easy\"]"
-],
-"oceanplay.xyz": [
 "a[title=\"Free money easy\"]"
 ],
 "plushd.bio": [
@@ -31562,6 +31562,9 @@
 "backgrounds.wetransfer.net": [
 "we-wallpaper"
 ],
+"autoscout24.*": [
+"img[referrerpolicy=\"unsafe-url\"]"
+],
 "douglas.*": [
 ".criteo-product-carousel",
 ".swiper-slide:has(button[data-testid=\"sponsored-button\"])",
@@ -31781,6 +31784,9 @@
 "bws.com.au": [
 ".card-list-item:has(.productTile.is-Sponsored)"
 ],
+"truecar.com": [
+".card:has([href*=\"marketplace&sponsored\"])"
+],
 "doordash.com": [
 ".carousel-virtual-wrapper:has([href*=\"collection_type=sponsored_brand\"])",
 ".ccdtLs:has([data-testid=\"sponsored:Sponsored\"])",
@@ -31850,6 +31856,9 @@
 ],
 "safeway.com": [
 ".master-product-carousel:has([data-carousel-driven=\"sponsored-products\"])"
+],
+"nysun.com": [
+".mr-\\[-50vw\\]"
 ],
 "myntra.com": [
 ".product-base:has(.product-waterMark)"
@@ -33017,6 +33026,9 @@
 "h1:style(margin-top:20px !important;)",
 "main[role=\"main\"]:style(margin-top:30px !important;)"
 ],
+"dekhobd.com": [
+"#ads"
+],
 "bitchute.com": [
 ".row.justify-center:has-text(Advertisement)"
 ],
@@ -33080,6 +33092,9 @@
 ],
 "coinspeaker.com": [
 ".aside-banner"
+],
+"reversephonesearch.com.au": [
+".banner"
 ],
 "bordermail.com.au": [
 "#billboard-container",
@@ -52180,6 +52195,10 @@
 "main_frame": true,
 "popup": true
 },
+"20382207.xyz": {
+"main_frame": true,
+"popup": true
+},
 "20519a.xyz": {
 "main_frame": true,
 "popup": true
@@ -52341,6 +52360,10 @@
 "popup": true
 },
 "49333767.xyz": {
+"main_frame": true,
+"popup": true
+},
+"49766251.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -52553,6 +52576,10 @@
 "popup": true
 },
 "84631949.xyz": {
+"main_frame": true,
+"popup": true
+},
+"86124673.xyz": {
 "main_frame": true,
 "popup": true
 },
