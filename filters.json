@@ -14399,6 +14399,9 @@
 "thesouthafrican.com": [
 ".Advertisement__AdsContainer-sc-4s7fst-0"
 ],
+"bbcearth.com": [
+".Advertisement_container__K7Jcq"
+],
 "phoenixnewtimes.com": [
 ".AirBillboard",
 ".AirLeaderboardMediumRectanglesComboInlineContent",
@@ -14493,7 +14496,9 @@
 ".Cheat__top-ad",
 ".Footer__coupons-wrapper",
 ".Sizer",
+".ad-container",
 ".mobiledoc-sizer",
+".tdb-ads-block",
 ".Cheat__out-of-page-ads"
 ],
 "tutiempo.net": [
@@ -27342,6 +27347,9 @@
 ],
 "siliconrepublic.com": [
 ".show-for-medium-up"
+],
+"spacenews.com": [
+".show-street-dialog"
 ],
 "winx-club-hentai.com": [
 ".shr34"
@@ -52650,6 +52658,10 @@
 "main_frame": true,
 "popup": true
 },
+"65894140.xyz": {
+"main_frame": true,
+"popup": true
+},
 "68646f.xyz": {
 "main_frame": true,
 "popup": true
@@ -52831,6 +52843,10 @@
 "popup": true
 },
 "98383163.xyz": {
+"main_frame": true,
+"popup": true
+},
+"98738797.xyz": {
 "main_frame": true,
 "popup": true
 },
