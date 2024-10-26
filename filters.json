@@ -6340,6 +6340,8 @@
 "moviefone.com/ping?",
 "moviehaxx.pro/js/bootstrap-native.min.js",
 "moviehaxx.pro/js/xeditable.min.js",
+"moviekhhd.biz/ads/",
+"moviekhhd.biz/images/downloadads",
 "movieweb.com/strpixel.png",
 "mowplayer.com/media/statistics/",
 "mozilla.org/media/js/firefox_new_pixel.",
@@ -6602,6 +6604,7 @@
 "organiccdn.io/assets/sdk/monitor.unit-sdk.js",
 "organicfruitapps.com/analytics",
 "oshkosh.com/0f3091f3/init.js",
+"otg.mblycdn.com/bundles/cmp.js",
 "ottogroup.media/ogm.nitro.",
 "ouo.io/js/pop.",
 "ouo.press/js/pop.",
@@ -8184,6 +8187,10 @@
 ],
 "boredbro.com": [
 "#AdBox728"
+],
+"moviekhhd.biz": [
+"#Ads",
+"a[alt=\"Sponsor Ads\"]"
 ],
 "webcarstory.com": [
 "#Ads"
@@ -13742,7 +13749,8 @@
 "#top-banner"
 ],
 "thedailywtf.com": [
-"#top-banner"
+"#top-banner",
+".article-body > div:has-text([Advertisement])"
 ],
 "theportugalnews.com": [
 "#top-banner",
@@ -23017,6 +23025,9 @@
 "ubereats.com": [
 ".dw.ec"
 ],
+"kirastream.my.id": [
+".dwnLink"
+],
 "dmarge.com": [
 ".dx-ad-wrapper",
 ".post-infinite-ads"
@@ -29848,9 +29859,7 @@
 "[height=\"90\"]"
 ],
 "1001tracklists.com": [
-"[height=\"90\"]",
-"[target=\"_blank\"][rel=\"noopener noreferrer\"]",
-"a[onclick]"
+"[height=\"90\"]"
 ],
 "airplaydirect.com": [
 "[height=\"90\"]",
@@ -52509,6 +52518,10 @@
 "main_frame": true,
 "popup": true
 },
+"33862684.xyz": {
+"main_frame": true,
+"popup": true
+},
 "34475780.xyz": {
 "main_frame": true,
 "popup": true
@@ -53208,10 +53221,6 @@
 "img-load.com": {
 "main_frame": true,
 "popup": true
-},
-"adexc.net": {
-"popup": true,
-"tp": true
 },
 "adnanny.com": {
 "popup": true,
@@ -54901,6 +54910,12 @@
 "script": true
 },
 "msg.video.qiyi.com": {
+"image": true
+},
+"surveys.zendesk.com/subscription/watermark.gif": {
+"image": true
+},
+"surveys.zendesk.com%2fsubscription%2fwatermark.gif": {
 "image": true
 },
 "cl.melonbooks.co.jp": {
