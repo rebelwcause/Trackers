@@ -4885,6 +4885,7 @@
 "common.doosanmagazine.com/recivelogs.php",
 "commons.dw.com/tracking/smarttagjwplayerplugin.js",
 "community.theta360.guide/assets/google-universal-analytics-v4",
+"compare-static.climate-data.org/tag.js",
 "compendiumblog.com/sp.js",
 "competitoor.com/analytics/",
 "complydog.com",
@@ -4940,6 +4941,7 @@
 "copyrightcontent.org/e/",
 "corriere.it/apw.js",
 "corvetteblogger.com/images/banners/",
+"corvidae.ai/pixel.min.js",
 "couchsurfing.com/becn7fqx/init.js",
 "coupang.com/np/abtest/logging/",
 "coursehero.com/v1/data-tracking",
@@ -5609,6 +5611,7 @@
 "graphicdesignforums.co.uk/banners/",
 "greatandhra.com/images/landing/",
 "groove.so/unlocker.js",
+"groupbycloud.com/gb-tracker-client-5.min.js",
 "groupon.com/analytic/",
 "groupon.com/javascripts/common/affiliate_widget/",
 "groupon.it/tracky|",
@@ -11708,6 +11711,11 @@
 "#kknbnpcv",
 "#right-bottom-camp"
 ],
+"karryon.com.au": [
+"#ko-ads-takeover",
+".ads-wrap",
+".ko-ads-wrapper"
+],
 "kvraudio.com": [
 "#kvr300600",
 ".kvrblockdynamic"
@@ -17627,6 +17635,9 @@
 ],
 "spambox.xyz": [
 ".ads-four"
+],
+"bluewin.ch": [
+".ads-group"
 ],
 "fintech.tv": [
 ".ads-img"
@@ -52682,6 +52693,10 @@
 "main_frame": true,
 "popup": true
 },
+"59768910.xyz": {
+"main_frame": true,
+"popup": true
+},
 "5ab2f817.xyz": {
 "main_frame": true,
 "popup": true
@@ -56337,6 +56352,12 @@
 ],
 "yelp.": [
 "/sit_rep"
+],
+"zalando-lounge.": [
+"/api/tracking/"
+],
+"zalando-prive.": [
+"/api/tracking/"
 ],
 "://www.vinted.": [
 "/relay/events"
