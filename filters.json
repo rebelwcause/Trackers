@@ -772,6 +772,7 @@
 "/anonymous_user_guid.gif?",
 "/antanalysis.min.js",
 "/ap.lijit.com/",
+"/apc/trans.gif?",
 "/api-analytics.",
 "/api-insights/log?",
 "/api/0/stats",
@@ -795,6 +796,7 @@
 "/api/stat?",
 "/api/track?guid",
 "/api/trk?",
+"/api/v1/endpointtracker",
 "/api/v1/firehose?_",
 "/api/v1/metrics",
 "/api/v1/reportdata/",
@@ -1487,7 +1489,6 @@
 "/emtj_tracker.js",
 "/emtj_tracker.min.js",
 "/endpoint/stats.php?",
-"/endpointtracker/allendpoints?",
 "/engagement/trackeventasync",
 "/ent_counter?",
 "/entry_stats?",
@@ -4289,6 +4290,7 @@
 "api.solvvy.com/v1/pixels/track",
 "api.streamelements.com/science/",
 "api.teester.com/data/collect",
+"api.tsc.ca/tracking/v1/events/",
 "api.userstyles.org/tic/stats",
 "api.watcher.guru/ads/trackclickout",
 "api.wral.com/witness/v1/measurement",
@@ -4925,6 +4927,7 @@
 "contx.net/collect.js",
 "contx.net/ingest/res/i/collect",
 "contx.net/ingest/res/i/tag/trk",
+"convert2mp3.club/dr/",
 "cookie-script.com",
 "cookiefirst.com",
 "cookiehub.net",
@@ -7917,6 +7920,7 @@
 "webbificio.com/wm.asp?",
 "webcamsbabe.com/js/s.js",
 "webcamtests.com/myshowroom/view.php?",
+"webcare.byside.com/agent/usert_agent.php",
 "webeyo.com/ipinfo",
 "webgames.io/imp/",
 "webmd.com/static/v/c?",
@@ -8410,6 +8414,7 @@
 "fortune.com": [
 "#Leaderboard0",
 ".homepage:has(> div[id^=\"InStream\"])",
+".jzcxNo",
 "[class]:has(> #Leaderboard0)"
 ],
 "naturalnews.com": [
@@ -8478,26 +8483,26 @@
 "puzzle-aquarium.com": [
 "#Skyscraper",
 "#btIn",
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
 ],
 "puzzle-minesweeper.com": [
 "#Skyscraper",
 "#btIn",
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
 ],
 "puzzle-nonograms.com": [
 "#Skyscraper",
 "#btIn",
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
 ],
 "puzzle-skyscrapers.com": [
 "#Skyscraper",
 "#btIn",
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
 ],
 "roblox.com": [
 "#Skyscraper-Abp-Left",
@@ -8658,6 +8663,10 @@
 ],
 "getmodsapk.com": [
 "#ad-container"
+],
+"astrolis.com": [
+"#ad-daily",
+"#in-house-ad-daily"
 ],
 "retrostic.com": [
 "#ad-header"
@@ -12506,10 +12515,12 @@
 ],
 "comicbook.com": [
 "#omni-skybox-plus-top",
+".code-block",
 ".mobile",
 ".oas",
 "[id^=\"native-plus-\"]",
 ".embedVideoContainer",
+".wp-block-savage-platform-primis-video",
 ".popculture-embed"
 ],
 "livestreamfails.com": [
@@ -12888,7 +12899,6 @@
 ".ad_leaderboard_wrap",
 ".ad_tag",
 ".bigbox_top_ad-wrap",
-".footer",
 ".partners__container",
 "#sPost_Layout_Default_0_0_19_0_0_2_1_0_0"
 ],
@@ -13437,6 +13447,26 @@
 "medicinehatnews.com": [
 "#stickyleaderboard",
 ".top"
+],
+"news18.com": [
+"#stkad",
+".Had262x218",
+".NAT_add",
+".ad300x250",
+".adbox",
+".add_section",
+".article_mad",
+".desktopad",
+".desktopadh",
+".desktopflex",
+".mc-ad",
+"div[style*=\"min-height\"][style*=\"background\"]",
+"div[style*=\"min-height: 250px\"]",
+"div[style*=\"min-height:250px\"]",
+"div[style*=\"width: 300px\"]",
+"div[style*=\"width:300px\"]",
+".topAdd",
+"div[style*=\"min-height: 527px\"]"
 ],
 "zoomtventertainment.com": [
 "#stky",
@@ -14595,6 +14625,10 @@
 ".pov_recirc__ad",
 ".stickyFooter"
 ],
+"games.mashable.com": [
+".DisplayAd__container___lyvUfeBN",
+".RightRail__displayAdRight___PjhV3mIW"
+],
 "games.washingtonpost.com": [
 ".DisplayAd__container___lyvUfeBN",
 ".HomeCategory__ads___aFdrmx_3",
@@ -14744,24 +14778,6 @@
 "ahaan.co.uk": [
 ".MuiSnackbar-anchorOriginBottomCenter",
 "[href^=\"https://go.nordvpn.net/\"]"
-],
-"news18.com": [
-".NAT_add",
-".adbox",
-".add_section",
-".article_mad",
-".closestickybtn",
-".pwa_add",
-".sponswrp",
-".topAdd",
-"div[style*=\"min-height\"][style*=\"background\"]",
-"div[style*=\"min-height\"][style*=\"justify-content:center;\"]",
-"div[style*=\"min-height: 250px\"]",
-"div[style*=\"min-height: 527px\"]",
-"div[style*=\"min-height:250px\"]",
-"div[style*=\"min-height:527px\"]",
-"div[style*=\"width: 300px\"]",
-"div[style*=\"width:300px\"]"
 ],
 "business-standard.com": [
 ".Nws_banner_Hp",
@@ -16767,7 +16783,9 @@
 ],
 "india.com": [
 ".ad5",
+".ads-in-content",
 ".iwplhdbanner-wrap",
+".top-ads-expend",
 ".top-horizontal-banner"
 ],
 "cricketcountry.com": [
@@ -17134,6 +17152,14 @@
 ".adcontainer",
 ".topbanners"
 ],
+"videogameschronicle.com": [
+".adcontainer",
+".advert",
+".adwrapper",
+".vgc-productsblock",
+"div[id^=\"ad__billboard_\"]",
+"div[id^=\"ad__hugebreak\"]"
+],
 "worldhistory.org": [
 ".adcontainer"
 ],
@@ -17467,6 +17493,9 @@
 ".ads",
 ".code-block"
 ],
+"medicalxpress.com": [
+".ads"
+],
 "mega4upload.com": [
 ".ads"
 ],
@@ -17784,6 +17813,10 @@
 ],
 "miamitodaynews.com": [
 ".adtext"
+],
+"gcaptain.com": [
+".adthrive",
+".leaderboard"
 ],
 "mp1st.com": [
 ".adthrive"
@@ -18184,13 +18217,6 @@
 ],
 "trucksplanet.com": [
 ".advert"
-],
-"videogameschronicle.com": [
-".advert",
-".adwrapper",
-".vgc-productsblock",
-"div[id^=\"ad__billboard_\"]",
-"div[id^=\"ad__hugebreak\"]"
 ],
 "wattonandswaffhamtimes.co.uk": [
 ".advert"
@@ -18985,7 +19011,8 @@
 ".code-block"
 ],
 "thebeaverton.com": [
-".ai-viewport-1"
+".ai-viewport-1",
+".code-block"
 ],
 "thisisanfield.com": [
 ".ai-viewport-1"
@@ -19056,7 +19083,8 @@
 ".ai_widget"
 ],
 "windowslatest.com": [
-".ai_widget"
+".ai_widget",
+".code-block"
 ],
 "petitchef.com": [
 ".akcelo-wrapper"
@@ -19266,7 +19294,8 @@
 ".ap",
 ".apb",
 ".featured__apb",
-".m1_largeMPU"
+".m1_largeMPU",
+"[data-m1-ad-label]"
 ],
 "chargedretail.co.uk": [
 ".apPluginContainer"
@@ -21798,7 +21827,8 @@
 ".videocontentmobile"
 ],
 "carbuzz.com": [
-".cb-video-ad-block"
+".cb-video-ad-block",
+".video"
 ],
 "supercheats.com": [
 ".cboth_sm"
@@ -22663,6 +22693,10 @@
 ],
 "pokebattler.com": [
 ".curse-ad"
+],
+"indiabusinessjournal.com": [
+".cus-ad-img",
+".pt--20"
 ],
 "dexscreener.com": [
 ".custom-1hol5du",
@@ -25372,6 +25406,10 @@
 "augustman.com": [
 ".masthead-container"
 ],
+"buzzheavier.com": [
+".max-w-\\[60rem\\] > p.mt-5.text-center.text-lg",
+"[onclick=\"downloadAd()\"]"
+],
 "spin.com": [
 ".max-w-\\[970px\\]",
 ".promo-lead",
@@ -25909,6 +25947,9 @@
 ],
 "blabbermouth.net": [
 ".news-single-ads"
+],
+"newskarnataka.com": [
+".newsk-target"
 ],
 "moddb.com": [
 ".nextmediaboxtop",
@@ -29116,6 +29157,9 @@
 "[height=\"90\"]",
 "img[alt=\"banner ad\"]"
 ],
+"theyucatantimes.com": [
+".widget_media_image"
+],
 "ubuntu101.co.za": [
 ".widget_media_image"
 ],
@@ -30302,9 +30346,6 @@
 ],
 "grabcad.com": [
 "[ng-if=\"model.asense\"]"
-],
-"buzzheavier.com": [
-"[onclick=\"downloadAd()\"]"
 ],
 "tld-list.com": [
 "[rel*=\"sponsored\"]",
@@ -31819,130 +31860,6 @@
 "li[class*=\"_card\"]:has(a[href^=\"https://yabs.yandex.ru/count/\"])",
 "li[class*=\"_card\"]:has(a[href^=\"https://yandex.com/search/_crpd/\"])"
 ],
-"puzzle-battleships.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-binairo.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-bridges.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-chess.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-dominosa.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-futoshiki.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-galaxies.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-heyawake.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-hitori.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-jigsaw-sudoku.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-kakurasu.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-kakuro.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-killer-sudoku.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-light-up.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-lits.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-loop.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-masyu.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-norinori.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-nurikabe.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-pipes.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-shakashaka.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-shikaku.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-shingoki.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-slant.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-star-battle.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-stitches.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-sudoku.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-tapa.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-tents.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-thermometers.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
-"puzzle-words.com": [
-"#Skyscraper:has(> #bannerSide)",
-"#btIn:has(> #bannerTop)"
-],
 "luxa.org": [
 ".MuiContainer-root:has(> ins.adsbygoogle)"
 ],
@@ -32024,6 +31941,67 @@
 ],
 "1tamilmv.tax": [
 ".ipsWidget:has([href*=\"RajbetImage\"])"
+],
+"yahoo.com": [
+".leading-3:has-text(Advertisement)",
+"li[class=\"first\"]:has([data-ylk*=\"affiliate_link\"])",
+"#Horizon-ad",
+"#Lead-0-Ad-Proxy",
+"#adsStream",
+"#defaultLREC",
+"#sda-Horizon",
+"#sda-Horizon-viewer",
+"#sda-LDRB",
+"#sda-LDRB-iframe",
+"#sda-LDRB2",
+"#sda-LREC",
+"#sda-LREC-iframe",
+"#sda-LREC2",
+"#sda-LREC2-iframe",
+"#sda-LREC3",
+"#sda-LREC3-iframe",
+"#sda-LREC4",
+"#sda-MAST",
+"#sda-MON",
+"#sda-WFPAD",
+"#sda-WFPAD-1",
+"#sda-WFPAD-iframe",
+"#sda-wrapper-COMMENTSLDRB",
+"#viewer-LDRB",
+"#viewer-LREC2",
+"#viewer-LREC2-iframe",
+".Feedback",
+".ads",
+".caas-da",
+".darla",
+".darla-container",
+".darla-lrec-ad",
+".darla_ad",
+".ds_promo_ymobile",
+".gemini-ad",
+".gemini-ad-feedback",
+".item-beacon",
+".mx-\\[-50vw\\]",
+".ntk-ad-item",
+".searchCenterBottomAds",
+".searchCenterTopAds",
+".sys_shopleguide",
+".top-\\[92px\\]",
+".viewer-sda-container",
+"[data-content=\"Advertisement\"]",
+"[data-wf-beacons]",
+"a[data-test-id=\"large-image-ad\"]",
+"div[class*=\"ads-\"]",
+"div[class*=\"gemini-ad\"]",
+"div[data-beacon] > div[class*=\"streamBoxShadow\"]",
+"div[id*=\"ComboAd\"]",
+"div[id^=\"COMMENTSLDRB\"]",
+"div[id^=\"LeadAd-\"]",
+"div[id^=\"darla-ad\"]",
+"div[id^=\"defaultWFPAD\"]",
+"div[id^=\"gemini-item-\"]",
+"div[style*=\"/ads/\"]",
+"li[data-test-locator=\"stream-related-ad-item\"]"
 ],
 "content.dictionary.com": [
 ".lp-code:has(> [class$=\"Ad\"])"
@@ -32303,6 +32281,130 @@
 ".js_sr_persuation_msg",
 ".sr-motivate-messages"
 ],
+"puzzle-battleships.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-binairo.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-bridges.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-chess.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-dominosa.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-futoshiki.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-galaxies.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-heyawake.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-hitori.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-jigsaw-sudoku.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-kakurasu.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-kakuro.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-killer-sudoku.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-light-up.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-lits.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-loop.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-masyu.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-norinori.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-nurikabe.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-pipes.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-shakashaka.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-shikaku.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-shingoki.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-slant.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-star-battle.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-stitches.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-sudoku.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-tapa.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-tents.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-thermometers.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
+"puzzle-words.com": [
+"div[id]:has(> #bannerSide)",
+"div[id]:has(> #bannerTop)"
+],
 "truthsocial.com": [
 "div[item=\"[object Object]\"]:has(path[d=\"M17 7l-10 10\"])",
 "div[item=\"[object Object]\"]:has(path[d=\"M9.83333 1.83398H16.5M16.5 1.83398V8.50065M16.5 1.83398L9.83333 8.50065L6.5 5.16732L1.5 10.1673\"])"
@@ -32319,64 +32421,6 @@
 "autotrader.co.uk": [
 "li:has(section[data-testid=\"trader-seller-listing\"] > span[data-testid=\"FEATURED_LISTING\"])",
 "li:has(section[data-testid=\"trader-seller-listing\"] > span[data-testid=\"PROMOTED_LISTING\"])"
-],
-"yahoo.com": [
-"li[class=\"first\"]:has([data-ylk*=\"affiliate_link\"])",
-"#Horizon-ad",
-"#Lead-0-Ad-Proxy",
-"#adsStream",
-"#defaultLREC",
-"#sda-Horizon",
-"#sda-Horizon-viewer",
-"#sda-LDRB",
-"#sda-LDRB-iframe",
-"#sda-LDRB2",
-"#sda-LREC",
-"#sda-LREC-iframe",
-"#sda-LREC2",
-"#sda-LREC2-iframe",
-"#sda-LREC3",
-"#sda-LREC3-iframe",
-"#sda-LREC4",
-"#sda-MAST",
-"#sda-MON",
-"#sda-WFPAD",
-"#sda-WFPAD-1",
-"#sda-WFPAD-iframe",
-"#sda-wrapper-COMMENTSLDRB",
-"#viewer-LDRB",
-"#viewer-LREC2",
-"#viewer-LREC2-iframe",
-".Feedback",
-".ads",
-".caas-da",
-".darla",
-".darla-container",
-".darla-lrec-ad",
-".darla_ad",
-".ds_promo_ymobile",
-".gemini-ad",
-".gemini-ad-feedback",
-".item-beacon",
-".ntk-ad-item",
-".searchCenterBottomAds",
-".searchCenterTopAds",
-".sys_shopleguide",
-".viewer-sda-container",
-"[data-content=\"Advertisement\"]",
-"[data-wf-beacons]",
-"a[data-test-id=\"large-image-ad\"]",
-"div[class*=\"ads-\"]",
-"div[class*=\"gemini-ad\"]",
-"div[data-beacon] > div[class*=\"streamBoxShadow\"]",
-"div[id*=\"ComboAd\"]",
-"div[id^=\"COMMENTSLDRB\"]",
-"div[id^=\"LeadAd-\"]",
-"div[id^=\"darla-ad\"]",
-"div[id^=\"defaultWFPAD\"]",
-"div[id^=\"gemini-item-\"]",
-"div[style*=\"/ads/\"]",
-"li[data-test-locator=\"stream-related-ad-item\"]"
 ],
 "hwbusters.com": [
 "section.widget:has(> div[data-hwbus-trackbid])"
@@ -33244,9 +33288,6 @@
 ],
 "dekhobd.com": [
 "#ads"
-],
-"nexdrive.fun": [
-".code-block"
 ],
 "bitchute.com": [
 ".row.justify-center:has-text(Advertisement)"
@@ -56576,6 +56617,12 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"flowgpt.com/": [
+"/track|"
+],
+"awswaf.com/": [
+"/telemetry|"
 ],
 "dartington.co.uk/": [
 "/weltpixel_ga4/js/weltpixel_ga4_gtm.js"
