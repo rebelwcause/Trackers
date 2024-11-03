@@ -6,6 +6,7 @@
 "%2fgtm.js",
 "%2fo.gif&",
 "%2fopen.aspx%3f",
+"%2frw%2fbeacon_",
 "&action=js_stats&",
 "&ev=pageview&",
 "&eventtype=datadealimpression&",
@@ -2769,6 +2770,7 @@
 "/rum/events",
 "/run/perf",
 "/ruxitagentjs_",
+"/rw/beacon_",
 "/rwtag.gif?",
 "/rwtag.js",
 "/s-pcjs.php",
@@ -4190,7 +4192,6 @@
 "altervista.org/stats/",
 "alwayslucky.com/platform/webvitals",
 "amazon.com/1/aiv-web-player/1/oe",
-"amazon.com/1/batch/1/op/",
 "amazon.com/empty.gif?",
 "amazon.com/follow/log-metrics",
 "amazonaws.com/?wsid=",
@@ -4249,6 +4250,7 @@
 "any.gs/visitscript/",
 "anycent.com/analytics/",
 "anyclip.com/getuids?",
+"anyclip.com/v1/events",
 "anyclip.com/v1/lre-events?",
 "anyelse.com/stat",
 "aolcdn.com/js/mg2.js",
@@ -4485,7 +4487,6 @@
 "bescore.com/load?",
 "bestblackhatforum.com/images/my_compas/",
 "bestbuy.com/~assets/bby/_js/ext/bbydyn/dyn_digital_gvp.js",
-"bestbuy.com/~assets/bby/_js/ext/optmzly/",
 "bestlittlesites.com/plugins/advertising/getad/",
 "bestpornsites.tv/i/js/extra/metrics.js",
 "bestunfollow.com",
@@ -5026,6 +5027,7 @@
 "data-cdn.theatlantic.com/email.gif",
 "data-platform.squarecloudservices.com/v1/batch",
 "data.biliintl.com/log",
+"data.cheatography.com/banana.js",
 "data.clickocean.io/actions/",
 "data.liba.com/_.gif",
 "data.qvc.com/cm?tid",
@@ -6165,6 +6167,7 @@
 "lottoelite.com/banners/",
 "low-ya.com/duplicate-ga-cookie",
 "lowes.com/gauge/",
+"lowes.com/pharos/api/webtelemetry?",
 "lowescdn.com/gauge/",
 "lpt-crm.online/track",
 "ltkcdn.net/ltkrev.js",
@@ -6984,6 +6987,7 @@
 "rokt.com/v1/events",
 "rokt.com/v2/metrics",
 "rome.api.flipkart.com/api/1/fdp",
+"romspacks.com/sfe123.js",
 "roomvo.com/services/event/",
 "rou.video/js/yd.js",
 "route.com/collect",
@@ -10418,12 +10422,12 @@
 ],
 "kotaku.com": [
 "#commerce-inset-wrapper",
-".japmJB",
 ".sc-6zn1bq-0",
-"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]",
 "[class] > div:has(> [is=\"bulbs-dfp\"])",
+"[class]:has(> .related-stories-inset-video)",
 ".taboola-container",
-".related-stories-inset-video"
+".related-stories-inset-video",
+".japmJB"
 ],
 "qz.com": [
 "#commerce-inset-wrapper",
@@ -11758,6 +11762,12 @@
 "inc42.com": [
 "#large_leaderboard_desktop-0"
 ],
+"flaticon.com": [
+"#layer_coupon",
+".bn-space-gads",
+".container > section[data-term].soul-a.soul-p-nsba",
+"li[id^=\"bn-icon-list\"]"
+],
 "elfaro.net": [
 "#layout-ad-header",
 "div[id^=\"content-ad-body\"]"
@@ -12082,8 +12092,7 @@
 ],
 "lowes.com": [
 "#lws_hp_recommendations_belowimage_1",
-".lws_pdp_recommendations_southdeep",
-".lws_pdp_recommendations_sponsored"
+".lws_pdp_recommendations_southdeep"
 ],
 "hackerbot.net": [
 "#madiv",
@@ -16344,8 +16353,7 @@
 ".ad-container"
 ],
 "electrek.co": [
-".ad-container",
-"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]"
+".ad-container"
 ],
 "engineeringnews.co.za": [
 ".ad-container"
@@ -16434,6 +16442,7 @@
 "gfinityesports.com": [
 ".ad-container",
 ".ecommerceUnit",
+".manifold-takeover",
 ".mediavine_sidebar-atf_wrapper"
 ],
 "globalspec.com": [
@@ -17756,6 +17765,11 @@
 "allevents.in": [
 ".ads_place_right",
 ".advt-text"
+],
+"psypost.org": [
+".ads_shortcode",
+".fuse-slot-mini-scroller",
+".jeg_midbar"
 ],
 "skyve.io": [
 ".ads_space"
@@ -20119,16 +20133,15 @@
 ],
 "gizmodo.com": [
 ".banner",
-".japmJB",
 ".lg\\:min-h-\\[300px\\]",
 ".min-h-\\[1000px\\]",
 ".min-h-\\[250px\\]",
-".min-h-\\[350px\\]",
 ".od-wrapper",
 ".widget_keleops-ad",
+".related-stories-inset-video",
+".min-h-\\[350px\\]",
 "[class] > div:has(> [is=\"bulbs-dfp\"])",
-".taboola-container",
-".related-stories-inset-video"
+".japmJB"
 ],
 "glasgowworld.com": [
 ".banner",
@@ -21079,6 +21092,7 @@
 ".mb-11",
 ".story-products-wrapper",
 ".wccf_video_tag",
+"[rel=\"sponsored\"]",
 "[href^=\"https://cutt.ly/\"]"
 ],
 "businessinsider.in": [
@@ -21269,6 +21283,7 @@
 ],
 "newsweek.com": [
 ".block-ibtmedia-dfp",
+".right-rail-ads",
 "#right1ad"
 ],
 "endocrineweb.com": [
@@ -21283,10 +21298,10 @@
 "theonion.com": [
 ".block-visibility-hide-medium-screen",
 ".dfp",
-".japmJB",
 "[class] > div:has(> [is=\"bulbs-dfp\"])",
 ".taboola-container",
-".related-stories-inset-video"
+".related-stories-inset-video",
+".japmJB"
 ],
 "macmusic.org": [
 ".block440Adv"
@@ -22489,10 +22504,6 @@
 "redditsave.com": [
 ".container > center"
 ],
-"flaticon.com": [
-".container > section[data-term].soul-a.soul-p-nsba",
-"li[id^=\"bn-icon-list\"]"
-],
 "mangakakalot.com": [
 ".container-chapter-reader > div"
 ],
@@ -22732,9 +22743,11 @@
 ],
 "dexscreener.com": [
 ".custom-1hol5du",
+".custom-1ii6w9",
+".custom-1l0hqwu",
 ".custom-97cj9d",
-".custom-hmb3rb",
-".custom-torcf3"
+".custom-torcf3",
+".chakra-link:has-text(Advertise)"
 ],
 "slidehunter.com": [
 ".custom-ad-text",
@@ -22927,10 +22940,10 @@
 ".htlad-middle_rectangle",
 ".htlad-sidebar_rectangle",
 ".htlad-top_rectangle",
-".japmJB",
 ".vertical-ad-spacer",
 "[class] > div:has(> [is=\"bulbs-dfp\"])",
-".related-stories-inset-video"
+".related-stories-inset-video",
+".japmJB"
 ],
 "infosecurity-magazine.com": [
 ".dfp"
@@ -23885,6 +23898,10 @@
 "geo-fs.com": [
 ".geofs-adbanner"
 ],
+"getcomics.org": [
+".getco-content",
+".getco-content_2"
+],
 "flickr.com": [
 ".getty-search-view",
 ".getty-widget-view",
@@ -24028,7 +24045,9 @@
 "thenewdaily.com.au": [
 ".h-\\[100px\\]",
 ".h-home-ad-height-stop",
+".min-h-\\[100px\\]",
 ".min-h-\\[280px\\]",
+".border-grey-300:has(> [data-ad-id])",
 ".md\\:h-\\[250px\\]"
 ],
 "nextchessmove.com": [
@@ -24252,6 +24271,9 @@
 ".header-billboard",
 ".mosaic-banner",
 ".style_k8mr7b-o_O-style_1ts1q2h"
+],
+"historiccity.com": [
+".header-block-1"
 ],
 "kveller.com": [
 ".header-bottom"
@@ -24697,33 +24719,6 @@
 "ticketmaster.com": [
 ".jTNWic",
 ".jUIMbR"
-],
-"deadspin.com": [
-".japmJB",
-"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]",
-"section:has(a[href^=\"https://theinventory.com\"])",
-".related-stories-inset-video"
-],
-"jalopnik.com": [
-".japmJB",
-"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]",
-"[class] > div:has(> [is=\"bulbs-dfp\"])",
-".related-stories-inset-video"
-],
-"theroot.com": [
-".japmJB",
-"[class] > div:has(> [is=\"bulbs-dfp\"])",
-".taboola-container",
-".related-stories-inset-video"
-],
-"thetakeout.com": [
-".japmJB",
-"a[href^=\"https://www.amazon.\"][href*=\"tag=\"]",
-".related-stories-inset-video",
-".before-ad"
-],
-"psypost.org": [
-".jeg_midbar"
 ],
 "sabcnews.com": [
 ".jeg_topbar"
@@ -28158,6 +28153,9 @@
 ".td-a-rec",
 ".tdi_63"
 ],
+"schengen.news": [
+".td-a-ad"
+],
 "antiguanewsroom.com": [
 ".td-a-rec",
 ".td-ss-main-sidebar",
@@ -29959,7 +29957,13 @@
 "[height=\"90\"]"
 ],
 "1001tracklists.com": [
-"[height=\"90\"]"
+"[height=\"90\"]",
+".modal",
+"#overlay",
+"[target=\"_blank\"][rel^=\"noopener noreferrer\"]:has(> img[src^=\"/images/artworks/\"])",
+"div[style^=\"text-align: center; margin-bottom: 10px;\"]:has(a img[src^=\"/images/artworks/\"])",
+"div[id]:has(> [data-freestar-ad])",
+"#left > div:not(div[id=\"artworkLeft\"][class=\"c bgArt\"], div[class=\"fTab\"], div[class=\"aMenu\"], [id=\"lSt\"].border)"
 ],
 "airplaydirect.com": [
 "[height=\"90\"]",
@@ -31891,11 +31895,24 @@
 ".pdp-block__product-ads"
 ],
 "pricespy.*": [
-".AdPlacementMarginTop-sc-0-3",
-".AdPlacementMarginTop-sc-15ga2eg-3",
-".AdPlacementWrapper-sc-0-3",
-".StyledAdPlacementWrapper-sc-0-5",
-".StyledAdWrapper-sc-0-1"
+".outsider-ads",
+".pjra-w-\\[970px\\]",
+"div[class^=\"AdPlacement\"]"
+],
+"pv-magazine.*": [
+"#home-top-rectangle-wrap-1",
+"#home-top-rectangle-wrap-2",
+"#home-top-rectangle-wrap-3"
+],
+"pv-magazine-usa.com": [
+"#home-top-rectangle-wrap-1",
+"#home-top-rectangle-wrap-2",
+"#home-top-rectangle-wrap-3"
+],
+"pv-magazine-australia.com": [
+"#home-top-rectangle-wrap-1",
+"#home-top-rectangle-wrap-2",
+"#home-top-rectangle-wrap-3"
 ],
 "walmart.*": [
 "[data-testid=\"carousel-ad\"]"
@@ -32234,6 +32251,19 @@
 "popularmechanics.com": [
 "[class] > :has(> #article-marketplace-horizontal)",
 "[class] > :has(> #gpt-ad-vertical-bottom)"
+],
+"jalopnik.com": [
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
+"[class]:has(> .related-stories-inset-video)",
+".related-stories-inset-video",
+".japmJB"
+],
+"theroot.com": [
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
+"[class]:has(> .related-stories-inset-video)",
+".taboola-container",
+".related-stories-inset-video",
+".japmJB"
 ],
 "skyscanner.com": [
 "[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
@@ -33309,6 +33339,18 @@
 "thebetterindia.com": [
 ".vspl__gtap-notification-content",
 ".vspl__gtap-notification-overlay"
+],
+"deadspin.com": [
+".related-stories-inset-video",
+".japmJB"
+],
+"thetakeout.com": [
+".related-stories-inset-video",
+".before-ad",
+".japmJB"
+],
+"datanodes.to": [
+"div.p-8.items-center.justify-center"
 ],
 "vip.idlixofficialx.com": [
 ".ac0c1cd-wrapper",
@@ -43695,6 +43737,8 @@
 ".box-advertisement",
 ".box-advertising",
 ".box-adverts",
+".box-bannerads",
+".box-bannerads-leaderboard-fallback",
 ".box-entry-ad",
 ".box-fixed-ads",
 ".box-footer-ad",
@@ -51169,6 +51213,9 @@
 "/exonb/": {
 "script": true
 },
+"/exonob/": {
+"script": true
+},
 "/exports/tour/": {
 "tp": true
 },
@@ -53735,7 +53782,6 @@
 "image": true
 },
 "/matomo/": {},
-"/metrics/metrics": {},
 "/mixpanel.": {},
 "/optiextension.dll?": {
 "script": true
