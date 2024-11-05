@@ -2442,6 +2442,7 @@
 "/performance-metrics.js",
 "/performance.fcgi?",
 "/performance/metrics",
+"/performance_tracking.min.js",
 "/performancemetrics?",
 "/perimeterx/px.",
 "/permutiveidgenerator.js",
@@ -3762,7 +3763,6 @@
 "9gag.com/track/",
 "://a.ads.",
 "://a02342.",
-"://a869.",
 "://ad-api-",
 "://ad1.",
 "://ads2.",
@@ -5022,6 +5022,7 @@
 "danawa.com/logger/",
 "darkreader.org/data/top-backers.json",
 "darkreader.org/elements/backers-",
+"darkreader.org/elements/statistics.js",
 "dashboard.iproyal.com/img/b/",
 "dashboard.nowdialogue.com/api/events/",
 "data-cdn.theatlantic.com/email.gif",
@@ -5408,6 +5409,7 @@
 "forethought.ai/workflow/tracking-event",
 "formstack.com/forms/analytics.php",
 "formula1.com/api/track",
+"forocoches.com/image/nada.gif",
 "fortune.com/comscore-json/",
 "forum.ixbt.com/liveinternet.gif",
 "forum.miata.net/sp/",
@@ -7135,7 +7137,6 @@
 "shareit.com/affiliate.html",
 "sharesies.com/v1/identify",
 "sharesies.com/v1/track",
-"shauladubhe.com",
 "shavetape.cash/stat/",
 "shazam.com/services/metrics/",
 "shemsfm.net/ar/setstats/",
@@ -8904,10 +8905,6 @@
 "all-nettools.com": [
 "#ad_global_below_navbar"
 ],
-"britsabroad.com": [
-"#ad_global_below_navbar",
-".bannerBox"
-],
 "filesharingtalk.com": [
 "#ad_global_below_navbar",
 "div[style=\"background-color: white; border-width: 2px; border-style: dashed; border-color: white;\"]"
@@ -9241,10 +9238,6 @@
 "thebugle.co.za": [
 "#adz",
 ".sponsors"
-],
-"apkonline.net": [
-"#adzz",
-"#ja-container-prev-0"
 ],
 "hindustantimes.com": [
 "#affiliate-shop-now",
@@ -11468,9 +11461,6 @@
 "#promo-outer",
 ".bsaStickyLeaderboard"
 ],
-"downloadsafer.com": [
-"#homebannerbottom"
-],
 "nutritioninsight.com": [
 "#horizontalblk",
 "#verticlblks",
@@ -13640,9 +13630,6 @@
 ".three90RightBarBanner",
 "div[id^=\"GFG_AD_\"]"
 ],
-"thesurvivalistblog.net": [
-"#text-16"
-],
 "cleantechnica.com": [
 "#text-165",
 "#zox-top-head-wrap"
@@ -13891,9 +13878,6 @@
 ".promoted-provider",
 ".slot_wrapper",
 "[data-testid=\"media-sheet__attr-banner\"]"
-],
-"tf2-servers.com": [
-"#topadspot"
 ],
 "absolutelyrics.com": [
 "#topbanner"
@@ -15911,10 +15895,6 @@
 "smartcompany.com.au": [
 ".ad"
 ],
-"smsfi.com": [
-".ad",
-".google_ad_home_page_100percent"
-],
 "softpedia.com": [
 ".ad"
 ],
@@ -16519,9 +16499,6 @@
 ".ad-container"
 ],
 "msnbc.com": [
-".ad-container"
-],
-"my9nj.com": [
 ".ad-container"
 ],
 "nbcnews.com": [
@@ -17758,9 +17735,6 @@
 ],
 "mediapost.com": [
 ".ads_inline_640"
-],
-"glanceoflife.com": [
-".ads_margin"
 ],
 "allevents.in": [
 ".ads_place_right",
@@ -19087,7 +19061,11 @@
 ".listWidget > .promotedAppListing",
 ".ains-apkm_outbrain_ad",
 ".ezo_ad",
-"div[id^=\"adtester-container-\"]"
+"div[id^=\"adtester-container-\"]",
+".advertisement-text",
+".ains",
+".gooWidget:style(opacity: 0 !important; visibility: collapse !important;)",
+".google-ad-leaderboard:style(opacity: 0 !important;)"
 ],
 "askpython.com": [
 ".ai_widget",
@@ -20925,9 +20903,6 @@
 "pamplinmedia.com": [
 ".bannergroup"
 ],
-"radiolumiere.org": [
-".bannergroup"
-],
 "rapidtvnews.com": [
 ".bannergroup",
 ".banners"
@@ -22008,9 +21983,6 @@
 "100percentfedup.com": [
 ".code-block"
 ],
-"180gadgets.com": [
-".code-block"
-],
 "247media.com.ng": [
 ".code-block",
 ".widget_media_image"
@@ -22805,10 +22777,6 @@
 ".s-ou-wrap",
 "[href=\"https://try.flare.io/bleeping-computer/\"]",
 "[href^=\"https://www.bleepingcomputer.com/go/\"]"
-],
-"mangamiso.net": [
-".d-flex-row",
-".extraHeight"
 ],
 "freesteam.io": [
 ".d-lg-block"
@@ -23615,10 +23583,6 @@
 ],
 "freepresskashmir.news": [
 ".fpkdonate"
-],
-"theiphoneappreview.com": [
-".frame",
-".widget_links"
 ],
 "mathgames.com": [
 ".frame-container",
@@ -27255,9 +27219,7 @@
 "cults3d.com": [
 ".robots-nocontent",
 ".zone",
-"div[data-zone-bsa]",
-".grid--guttered:has(a[href^=\"https://bit.ly/\"])",
-".grid--guttered:has(a[href^=\"https://revo.ink/\"])"
+"div[data-zone-bsa]"
 ],
 "boxrox.com": [
 ".rolling-mrt"
@@ -29120,9 +29082,6 @@
 "cozyberries.com": [
 ".widget_media_image"
 ],
-"crickhabari.com": [
-".widget_media_image"
-],
 "developer-tech.com": [
 ".widget_media_image",
 "[width=\"728\"]"
@@ -29266,9 +29225,6 @@
 ".widget_text",
 "[class*=\"clickout-\"]"
 ],
-"lostintechnology.com": [
-".widget_text"
-],
 "carpeludum.com": [
 ".widget_widget_catchevolution_adwidget"
 ],
@@ -29317,9 +29273,6 @@
 ],
 "strangesounds.org": [
 ".wp-image-281312"
-],
-"hack-sat.com": [
-".wp-image-31131"
 ],
 "rvguide.com": [
 ".wp-image-3611"
@@ -30351,6 +30304,10 @@
 "ratemycourses.io": [
 "[href^=\"https://www.essaypal.ai\"]"
 ],
+"crackwatcher.com": [
+"[href^=\"https://www.kinguin.net\"]",
+"[style=\"background:none !important;\"]:has([href^=\"https://www.kinguin.net\"])"
+],
 "weberblog.net": [
 "[href^=\"https://www.neox-networks.com/\"]"
 ],
@@ -30408,9 +30365,6 @@
 ],
 "wallpaperaccess.com": [
 "[src=\"/continue.png\"]"
-],
-"brmangas.com": [
-"[src=\"https://manjiroinflu.com/streams.php\"]"
 ],
 "webcamtests.com": [
 "[src^=\"/MyShowroom/view.php?medium=\"]"
@@ -30502,10 +30456,6 @@
 "iframe[style*=\"z-index: 2147483647\"]"
 ],
 "putlockers.li": [
-"[style*=\"width: 100% !important;\"]",
-"iframe[style*=\"z-index: 2147483647\"]"
-],
-"sflix.se": [
 "[style*=\"width: 100% !important;\"]",
 "iframe[style*=\"z-index: 2147483647\"]"
 ],
@@ -31459,9 +31409,6 @@
 ],
 "memedroid.com": [
 "div[id^=\"freestar-ad-\"]"
-],
-"cinesprint.com": [
-"div[id^=\"googleads_\"]"
 ],
 "gamepix.com": [
 "div[id^=\"gpx-banner\"]"
@@ -33059,9 +33006,6 @@
 "bar-planb.com": [
 "#player_dev"
 ],
-"hakibavuong.com": [
-"#player_dev"
-],
 "freethesaurus.com": [
 "#qk1",
 "#qk2",
@@ -33088,6 +33032,9 @@
 ],
 "lifehacker.com.au": [
 ".brightcove-video-container"
+],
+"cartoonbrew.com": [
+".cb-ad"
 ],
 "techwalla.com": [
 ".component-article-section-jwplayer-wrapper"
@@ -33340,6 +33287,9 @@
 ".vspl__gtap-notification-content",
 ".vspl__gtap-notification-overlay"
 ],
+"hakibavuong.com": [
+"#player_dev"
+],
 "deadspin.com": [
 ".related-stories-inset-video",
 ".japmJB"
@@ -33394,6 +33344,15 @@
 ],
 "dekhobd.com": [
 "#ads"
+],
+"smsfi.com": [
+".ad"
+],
+"my9nj.com": [
+".ad-container"
+],
+"180gadgets.com": [
+".code-block"
 ],
 "bitchute.com": [
 ".row.justify-center:has-text(Advertisement)"
@@ -35213,6 +35172,7 @@
 "#adMeld",
 "#adMessage",
 "#adMid2",
+"#adModal",
 "#adMpu",
 "#adMpuBottom",
 "#adOuter",
@@ -53877,6 +53837,9 @@
 "/webtracking/": {
 "main_frame": false,
 "sub_frame": false
+},
+"://a869.": {
+"image": false
 },
 "://fathom.": {},
 "://matomo.": {},
