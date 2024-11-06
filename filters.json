@@ -4027,7 +4027,6 @@
 "_popunder_",
 "_popupunder.",
 "_prebid.js",
-"_prebid8.",
 "_pushads.",
 "_rectangle_ads.",
 "_reporting_ads.",
@@ -4710,6 +4709,7 @@
 "cdn.staticmember.com/wtp/common/scripts/google-tagmanager-min.js",
 "cdn.streambeast.io/angular.js",
 "cdn.tebilisim.com/analytics.js",
+"cdn.thenewsbox.net/m/impression",
 "cdn.trackcollect.com/metrics/",
 "cdn.trustcommander.net/privacy",
 "cdn.userdatatrust.com",
@@ -10541,7 +10541,8 @@
 ".css-c54t2t:has(> .adWrapper) + hr"
 ],
 "boots.com": [
-"#criteoSpContainer"
+"#criteoSpContainer",
+".oct-listers-hits__item:has(.oct-teaser__listerCriteoAds)"
 ],
 "lordz.io": [
 "#crossPromotion",
@@ -14916,6 +14917,13 @@
 ".ehgtMe.sc-ed3f1eaf-1",
 ".hYrQwu"
 ],
+"multimovies.bond": [
+".SH-Ads",
+"[href=\"https://telegram.me/multilootdeals\"]"
+],
+"toonstream.co": [
+".SH-Ads"
+],
 "dictionary.com": [
 ".SZjJlj7dd7R6mDTODwIT",
 ".TeixwVbjB8cchva8bDlg",
@@ -16867,6 +16875,7 @@
 ".x100.bg-gray100",
 "[data-block-type=\"ad\"]",
 "div[class^=\"ad-module-\"]",
+".scrl-block > .scrl-block-inner:has(.ad-module--ad--16cf1)",
 ".ar16-9",
 "#modals",
 "body:style(overflow: auto !important;)"
@@ -27219,6 +27228,11 @@
 "cults3d.com": [
 ".robots-nocontent",
 ".zone",
+"a.tbox-thumb[href^=\"https://jlc3dp.com/\"]",
+"a.tbox-thumb[href^=\"https://shrsl.com/\"]",
+"a.tbox-thumb[href^=\"https://us.store.flsun3d.com/\"]",
+"a.tbox-thumb[href^=\"https://www.kickstarter.com/\"]",
+"a.tbox-thumb[href^=\"https://www.sunlu.com/\"]",
 "div[data-zone-bsa]"
 ],
 "boxrox.com": [
@@ -32152,6 +32166,9 @@
 ".product-item:has(.sponsored-label)",
 ".sponsored-slider-wrapper"
 ],
+"decisiondeskhq.com": [
+".publirAds"
+],
 "ksl.com": [
 ".queue:has(.sponsored)"
 ],
@@ -32236,12 +32253,14 @@
 ".EvBR",
 ".IZSg-mod-banner",
 ".J8jg:has(.J8jg-provider-ad-badge)",
+".YnaR",
 ".ev1_-results-list > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".ev1_-results-list > div > div > div > div[data-resultid$=\"-sponsored\"]",
 ".gCCN-ad-card",
 ".nqHv-pres-three:has(div.nqHv-logo-ad-wrapper)",
 ".resultsList > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".resultsList > div > div > div > div[data-resultid$=\"-sponsored\"]",
+".zZcm-pres-three",
 "div.PzK0-pres-default",
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 "div[class*=\"-adInner\"]",
@@ -33229,12 +33248,14 @@
 ".EvBR",
 ".IZSg-mod-banner",
 ".J8jg:has(.J8jg-provider-ad-badge)",
+".YnaR",
 ".ev1_-results-list > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".ev1_-results-list > div > div > div > div[data-resultid$=\"-sponsored\"]",
 ".gCCN-ad-card",
 ".nqHv-pres-three:has(div.nqHv-logo-ad-wrapper)",
 ".resultsList > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".resultsList > div > div > div > div[data-resultid$=\"-sponsored\"]",
+".zZcm-pres-three",
 "div.PzK0-pres-default",
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 "div[class*=\"-adInner\"]",
@@ -33245,12 +33266,14 @@
 ".EvBR",
 ".IZSg-mod-banner",
 ".J8jg:has(.J8jg-provider-ad-badge)",
+".YnaR",
 ".ev1_-results-list > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".ev1_-results-list > div > div > div > div[data-resultid$=\"-sponsored\"]",
 ".gCCN-ad-card",
 ".nqHv-pres-three:has(div.nqHv-logo-ad-wrapper)",
 ".resultsList > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".resultsList > div > div > div > div[data-resultid$=\"-sponsored\"]",
+".zZcm-pres-three",
 "div.PzK0-pres-default",
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 "div[class*=\"-adInner\"]",
