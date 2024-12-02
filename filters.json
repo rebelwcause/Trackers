@@ -4083,6 +4083,7 @@
 "acast.com/api/stats",
 "accesswire.com/img.ashx",
 "accor.com/g/collect?",
+"account.protonvpn.com/api/data/v1/metrics",
 "accuterm.com/data/stat.js",
 "ace.segye.com/?cookie",
 "ace.segye.com/?uid=",
@@ -5200,6 +5201,7 @@
 "duolingo.com/2017-06-30/tracking-status",
 "duplichecker.com/csds/",
 "dus.trivago.com/tracking",
+"dutchie.com/telemetry|",
 "dx.com/affiliate/",
 "dxb.to/logger/",
 "dxlive.com/js/dtrace.js",
@@ -5226,9 +5228,11 @@
 "ebay.com/gh/collectbehaviorinfo?",
 "ebay.com/op/t.do?event",
 "ebay.com/scl/js/scandalloader.js",
-"ebayadservices.com/marketingtracking/",
-"ebayrtm.com/rtm?rtmit",
+"ebaystatic.com/cr/v/c01/c54e60e1-996e-4a53-a314-f44a6b151b40.min.js",
+"ebaystatic.com/cr/v/c01/nh24082119176031f8a0afcb42d.js",
+"ebaystatic.com/cr/v/c01/ubt241024192c097b9ddc0a81e0a.js",
 "ebaystatic.com/js/v/in/roverlv.js",
+"ebaystatic.com/rs/c/scandal/",
 "ebaystatic.com/rs/v/10341xh50yz21mhhydueu4m5wad.js",
 "ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js",
 "ebaystatic.com/rs/v/klminxoj1uyzvo0p0qu4nhpg0qo.js",
@@ -5501,6 +5505,7 @@
 "gaijin.net/tag?",
 "gainings.biz/counter.php?",
 "galada.it/omnitag/",
+"gamecopyworld.com/aa/",
 "gamecopyworld.com/ddd/",
 "gamecopyworld.com/js/pp.js",
 "gamecopyworld.eu/ddd/",
@@ -6125,7 +6130,6 @@
 "legacy.com/globalscripts/tracking/",
 "legalmonster.com",
 "legitonlinejobs.com/images/",
-"legitscript.com/seals/",
 "lego.com/api/dl-event-ingest",
 "leipziger-stadtplan.com/t.gif",
 "lendingtree.com/analytics/",
@@ -7051,6 +7055,7 @@
 "s.pinimg.com/ct/core.js",
 "s.pixfs.net/js/pixlogger.min.js",
 "s.pixfs.net/visitor.pixplug.in/",
+"s.smallpdf.com/static/track-js-",
 "s.yimg.com/dy/readmo-pixel.js",
 "s1.daumcdn.net/svc/original/u03/cssjs/useragent",
 "s3.amazonaws.com/cdx-radar",
@@ -7801,6 +7806,7 @@
 "um.viuapi.io/loggingservice/",
 "umirs.com/counters/",
 "umnico.com/tracker/",
+"umschool.net/_jts/api/s/track",
 "unibet.com/orval/tracking/lastclick.min.js",
 "unifyintent.com/analytics/",
 "unite.nike.com/auth/unite_session_cookies/",
@@ -9449,27 +9455,27 @@
 ],
 "brisbanetimes.com.au": [
 "#articlePartnerStories",
-"._2gSkZ",
 "._34z61",
-"[class] > :has(> .adWrapper)"
+"[class] > [class]:has(> [data-testid=\"ad\"])",
+"._2gSkZ"
 ],
 "smh.com.au": [
 "#articlePartnerStories",
-"._2gSkZ",
 "._34z61",
-"[class] > :has(> .adWrapper)"
+"[class] > [class]:has(> [data-testid=\"ad\"])",
+"._2gSkZ"
 ],
 "theage.com.au": [
 "#articlePartnerStories",
-"._2gSkZ",
 "._34z61",
-"[class] > :has(> .adWrapper)"
+"[class] > [class]:has(> [data-testid=\"ad\"])",
+"._2gSkZ"
 ],
 "watoday.com.au": [
 "#articlePartnerStories",
-"._2gSkZ",
 "._34z61",
-"[class] > :has(> .adWrapper)"
+"[class] > [class]:has(> [data-testid=\"ad\"])",
+"._2gSkZ"
 ],
 "thehindu.com": [
 "#articledivrec",
@@ -10544,6 +10550,7 @@
 ".native",
 ".rectangle",
 ".rectangle-large",
+"[class^=\"PromoButton\"]",
 "div[class^=\"AdvertisingSlot_\"]",
 "div[class^=\"SponsoredPost_\"]",
 ".mixed-unit-ac"
@@ -11099,6 +11106,17 @@
 "div[style^=\"margin-bottom: 10px;\"]",
 "div[style^=\"min-height: 360px;\"]"
 ],
+"cnx-software.com": [
+"#fixeddbar",
+".gradian",
+"[href*=\"banner\"]",
+"[href*=\"bit.ly/\"]",
+"[href=\"https://www.youyeetoo.com/\"]",
+"[href^=\"https://url2.cnx-software.com/\"]",
+"[href^=\"https://www.aliexpress.com/\"]",
+"[href^=\"https://www.armdesigner.com/\"]",
+".widget_text.widget:has([href*=\"?utm\"])"
+],
 "topsporter.net": [
 "#fl-ai-widget-placement"
 ],
@@ -11120,9 +11138,7 @@
 "#float-sb-right",
 "#nfloat-sb-right",
 "#the-app > .mb",
-".nad_only_desktop",
-".sinad_only_desktop",
-".sinad_only_mobile"
+".nad_only_desktop"
 ],
 "editpad.org": [
 "#floorad-wrapper",
@@ -11816,7 +11832,8 @@
 ".vip-banner"
 ],
 "ceoexpress.com": [
-"#kalamazooDiv"
+"#kalamazooDiv",
+".widgetContentIfrWrapperAd"
 ],
 "msguides.com": [
 "#kknbnpcv",
@@ -12347,10 +12364,10 @@
 ".kcdphh",
 ".teads",
 ".teads:has(.third-party-ad)",
+"[class] > :has(> [data-mpu])",
+"[class]:has(> [data-fluid-zoneid])",
 "[class]:has(> [data-mpu])",
-".sc-kAeStu.bkIZsH",
-".cEUUwk",
-"article > div[class^=\"sc-\"]:has(> div[class^=\"sc-\"] > div[data-ad-unit-path])"
+".hUXbOs"
 ],
 "spin.ph": [
 "#mrec3"
@@ -12657,20 +12674,16 @@
 "#overlay"
 ],
 "megacloud.tv": [
-"#overlay-center",
-"#ssdfsfd"
+"#overlay-center"
 ],
 "mzzcloud.life": [
 "#overlay-container"
 ],
 "rabbitstream.net": [
-"#overlay-container",
-"#ssdfsfd"
+"#overlay-container"
 ],
 "mp4upload.com": [
-"#overlayads",
-"#ssdfsfd",
-"#safsf"
+"#overlayads"
 ],
 "drivevideo.xyz": [
 "#overlays"
@@ -12755,9 +12768,9 @@
 "#top-banner-wrapper",
 "[data-mpu1]",
 ".teads:has(.third-party-ad)",
+"[class] > :has(> [data-mpu])",
 "[class]:has(> [data-mpu])",
-"#taboola-mid-article-thumbnails-iii",
-"article > div[class^=\"sc-\"]:has(> div[class^=\"sc-\"] > div[data-ad-unit-path])"
+"#taboola-mid-article-thumbnails-iii"
 ],
 "kingsleague.pro": [
 "#partnersGrid"
@@ -13558,6 +13571,17 @@
 "ktbs.com": [
 "#sticky-anchor"
 ],
+"the-independent.com": [
+"#stickyFooterRoot",
+"#top-banner-wrapper",
+".teads:has(.third-party-ad)",
+"[class] > :has(> [data-mpu])",
+"[class]:has(> [data-mpu])",
+"#taboola-mid-article-thumbnails-ii",
+"#taboola-mid-article-thumbnails-iii",
+"[data-mpu1]",
+"#partners"
+],
 "afr.com": [
 "#stickyLeaderboard"
 ],
@@ -13927,14 +13951,6 @@
 ".ppp-inner-banner",
 ".pub",
 ".sticky-pub"
-],
-"the-independent.com": [
-"#top-banner-wrapper",
-"#taboola-mid-article-thumbnails-ii",
-"#taboola-mid-article-thumbnails-iii",
-"#partners",
-"#stickyFooterRoot",
-"[data-mpu1]"
 ],
 "missingremote.com": [
 "#top-bar"
@@ -15035,9 +15051,7 @@
 "[href=\"https://telegram.me/multilootdeals\"]"
 ],
 "toonstream.co": [
-".SH-Ads",
-"#ssdfsfd",
-"#safsf"
+".SH-Ads"
 ],
 "dictionary.com": [
 ".SZjJlj7dd7R6mDTODwIT",
@@ -17927,9 +17941,7 @@
 ".pub"
 ],
 "webtor.io": [
-".adsense",
-"#ssdfsfd",
-"#safsf"
+".adsense"
 ],
 "temporary-phone-number.com": [
 ".adsense-top-728",
@@ -19270,8 +19282,6 @@
 ".dfskieurjkc23a",
 ".durs-bordered",
 "[href^=\"https://stARtgAMinG.net/\"]",
-"#ssdfsfd",
-"#safsf",
 ".bbj",
 "#iwkjdooqw"
 ],
@@ -19484,6 +19494,7 @@
 ],
 "insideevs.com": [
 ".apb",
+".m1-apb",
 ".minutely_video_wrap"
 ],
 "thetoyinsider.com": [
@@ -21282,6 +21293,10 @@
 ".bigsquare",
 ".square"
 ],
+"dev.to": [
+".billboard",
+".billboard[data-type-of=\"external\"]"
+],
 "hotstar.com": [
 ".billboard",
 "div[data-testid=\"bbtype-video\"]"
@@ -21343,9 +21358,6 @@
 ],
 "upgradedhome.com": [
 ".billboardSize"
-],
-"dev.to": [
-".billboard[data-type-of=\"external\"]"
 ],
 "techspot.com": [
 ".billboard_placeholder_min",
@@ -21472,6 +21484,10 @@
 ],
 "manhwaindo.id": [
 ".blox"
+],
+"waterworld.com": [
+".blueconic-recommendations",
+".gam-slot-builder"
 ],
 "bescore.com": [
 ".bn"
@@ -21624,8 +21640,7 @@
 ],
 "bing.com": [
 ".br-poleoffcarousel",
-".b_algo:has(.rms_img[src*=\"/th?id=OADD2.\"][src$=\"21.2\"])",
-".b_algo:has(.rms_img[src*=\"=AdsPlus\"])",
+".b_algo:has(p[class^=\"b_lineclamp2 b_algoSlug \"])",
 ".slide:has(.rtb_ad_caritem_mvtr)",
 "#bepfo.popup[style^=\"visibility: visible\"]",
 ".ad_sc",
@@ -23007,9 +23022,7 @@
 ".danbo-slot"
 ],
 "sportshub.stream": [
-".db783ekndd812sdz-ads",
-"#ssdfsfd",
-"#safsf"
+".db783ekndd812sdz-ads"
 ],
 "foobar2000.org": [
 ".db_link"
@@ -23180,9 +23193,7 @@
 ],
 "readcomiconline.li": [
 ".divCloseBut",
-"div[style*=\"width: 300px\"]",
-"#ssdfsfd",
-"#safsf"
+"div[style*=\"width: 300px\"]"
 ],
 "tigerdroppings.com": [
 ".divHLeaderFull",
@@ -23345,8 +23356,7 @@
 ".elementor-shortcode"
 ],
 "canyoublockit.com": [
-".elementor-widget-container > center > p",
-"#ssdfsfd"
+".elementor-widget-container > center > p"
 ],
 "autostraddle.com": [
 ".end-of-article-ads"
@@ -23985,8 +23995,7 @@
 ".gam-slot-builder"
 ],
 "komikindo.tv": [
-".gambar_pemanis",
-"#ssdfsfd"
+".gambar_pemanis"
 ],
 "pokernews.com": [
 ".gameCards",
@@ -24174,11 +24183,6 @@
 "leetcode.com": [
 ".group\\/ads",
 ".lc-ads__241X"
-],
-"cnx-software.com": [
-".gsadsad",
-".widget_custom_html",
-"[href*=\"bit.ly/\"]"
 ],
 "gulftoday.ae": [
 ".gt-ad-center"
@@ -25496,13 +25500,6 @@
 ".page-footer",
 ".slot-topNavigation"
 ],
-"rebelnews.com": [
-".lighter-gray-bg",
-".rn-article-ad",
-".rn-sidebar-ad",
-"[href^=\"https://rebelne.ws/\"]",
-"[href^=\"https://www.eventbrite.com/\"]"
-],
 "lilo.org": [
 ".lilo-ad-result"
 ],
@@ -25820,6 +25817,11 @@
 "breakingenergy.com": [
 ".modal-backdrop"
 ],
+"cleaner.com": [
+".modal__intent-container",
+".zone",
+".zone-sky"
+],
 "finextra.com": [
 ".module--sponsor",
 ".section--minitextad",
@@ -26024,9 +26026,7 @@
 ],
 "kickassanimes.io": [
 ".mt-6.rs",
-".rs",
-"#ssdfsfd",
-"#safsf"
+".rs"
 ],
 "thedrive.com": [
 ".mtc-header__desktop__article-prefill-container",
@@ -26069,9 +26069,7 @@
 ".mx-auto.d-block"
 ],
 "visortmo.com": [
-".mx-auto.thumbnail.book",
-"#ssdfsfd",
-"#safsf"
+".mx-auto.thumbnail.book"
 ],
 "theawesomer.com": [
 ".mxyptext"
@@ -26377,7 +26375,8 @@
 ".pane-vimn-coda-gpt-panes"
 ],
 "wunderground.com": [
-".pane-wu-fullscreenweather-ad-box-atf"
+".pane-wu-fullscreenweather-ad-box-atf",
+"AD-TRIPLE-BOX"
 ],
 "panarmenian.net": [
 ".panner_2",
@@ -26527,9 +26526,7 @@
 ".pindexhautctn"
 ],
 "hianime.to": [
-".pizza",
-"#ssdfsfd",
-"#safsf"
+".pizza"
 ],
 "carsized.com": [
 ".pl_header_ad"
@@ -27393,6 +27390,9 @@
 "championmastery.gg": [
 ".responsiveAd"
 ],
+"riderfans.com": [
+".restore.widget-content"
+],
 "myminifactory.com": [
 ".result-adv"
 ],
@@ -27499,8 +27499,6 @@
 ],
 "kickassanime.mx": [
 ".rs",
-"#ssdfsfd",
-"#safsf",
 "#upgrade_pop"
 ],
 "voxelmatters.com": [
@@ -27705,6 +27703,9 @@
 ".shop-window[data-impr-tracking=\"true\"]",
 ".topbox-cls-placeholder"
 ],
+"rebelnews.com": [
+".shopify-buy-frame"
+],
 "hypebeast.com": [
 ".shopping-break-container",
 ".sidebar-spotlights"
@@ -27816,9 +27817,6 @@
 ],
 "zenradio.com": [
 ".sidewall-ad-component"
-],
-"sifted.eu": [
-".sifted_advert_block"
 ],
 "wncv.com": [
 ".simple-image",
@@ -28363,8 +28361,7 @@
 "igg-games.com": [
 ".taxonomy-description",
 ".uk-panel.widget-text",
-"a[href][aria-label=\"\"], [width=\"300\"][height^=\"25\"], [width=\"660\"][height^=\"8\"], [width=\"660\"][height^=\"7\"]",
-"#ssdfsfd"
+"a[href][aria-label=\"\"], [width=\"300\"][height^=\"25\"], [width=\"660\"][height^=\"8\"], [width=\"660\"][height^=\"7\"]"
 ],
 "zenger.news": [
 ".tb_e2rr695",
@@ -29024,6 +29021,10 @@
 "thegamerstation.com": [
 ".universal-js-insert"
 ],
+"t.17track.net": [
+".up-deals",
+".up-deals-img"
+],
 "letterboxd.com": [
 ".upgrade-kicker"
 ],
@@ -29286,9 +29287,7 @@
 ],
 "manhuatop.org": [
 ".widget_custom_html",
-".widget_media_image",
-"#ssdfsfd",
-"#safsf"
+".widget_media_image"
 ],
 "mediachomp.com": [
 ".widget_custom_html"
@@ -29527,6 +29526,9 @@
 "gamingskool.com": [
 ".wp-block-group-is-layout-constrained"
 ],
+"independent.com": [
+".wp-block-group__inner-container"
+],
 "cryptofeeds.news": [
 ".wp-block-image",
 "[height=\"600\"]"
@@ -29639,6 +29641,9 @@
 "[class^=\"dmnc_features-ads-arc-ad-\"]",
 ".htlad-dfpPosition1_article",
 ".htlad-dfpTop"
+],
+"stopmandatoryvaccination.com": [
+".xoxo"
 ],
 "247mirror.com": [
 ".ya-slot"
@@ -29799,14 +29804,12 @@
 "cloutgist.com": [
 "[alt=\"AD DESCRIPTION\"]",
 "[href^=\"https://app.adjust.com/\"]",
-"img[fetchpriority]",
-"#safsf"
+"img[fetchpriority]"
 ],
 "codesnse.com": [
 "[alt=\"AD DESCRIPTION\"]",
 "[href^=\"https://app.adjust.com/\"]",
-"img[fetchpriority]",
-"#safsf"
+"img[fetchpriority]"
 ],
 "hubcloud.day": [
 "[alt=\"New-Banner\"]",
@@ -30729,8 +30732,7 @@
 ],
 "manhwadesu.bio": [
 "[style*=\"width: 100% !important;\"]",
-"iframe[style*=\"z-index: 2147483647\"]",
-"#ssdfsfd"
+"iframe[style*=\"z-index: 2147483647\"]"
 ],
 "miraculous.to": [
 "[style*=\"width: 100% !important;\"]",
@@ -30832,8 +30834,7 @@
 "[style=\"padding-bottom:10px;height:90px;\"]"
 ],
 "himovies.sx": [
-"[style=\"text-align: center; margin-bottom: 20px; margin-top: 20px;\"]",
-"#ssdfsfd"
+"[style=\"text-align: center; margin-bottom: 20px; margin-top: 20px;\"]"
 ],
 "kreationnext.com": [
 "[style=\"text-align:center\"]"
@@ -31289,8 +31290,6 @@
 ],
 "abysscdn.com": [
 "a[title=\"Free money easy\"]",
-"#ssdfsfd",
-"#safsf",
 "div[style*=\"z-index:100000\"]",
 ".playover",
 "#overlay"
@@ -31302,8 +31301,7 @@
 "a[title=\"Free money easy\"]"
 ],
 "hqq.tv": [
-"a[title=\"Free money easy\"]",
-"#ssdfsfd"
+"a[title=\"Free money easy\"]"
 ],
 "linris.xyz": [
 "a[title=\"Free money easy\"]"
@@ -31315,8 +31313,7 @@
 "a[title=\"Free money easy\"]"
 ],
 "netuplayer.top": [
-"a[title=\"Free money easy\"]",
-"#ssdfsfd"
+"a[title=\"Free money easy\"]"
 ],
 "ntvid.online": [
 "a[title=\"Free money easy\"]"
@@ -31913,9 +31910,7 @@
 ],
 "bollyflix.how": [
 "iframe[style*=\"z-index: 2147483646\"]",
-"iframe[style*=\"z-index: 2147483647\"]",
-"#ssdfsfd",
-"#safsf"
+"iframe[style*=\"z-index: 2147483647\"]"
 ],
 "f1technical.net": [
 "img[alt=\"Amazon\"]"
@@ -32137,1423 +32132,6 @@
 ],
 "backgrounds.wetransfer.net": [
 "we-wallpaper"
-],
-"1azayf9w.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"1hd.to": [
-"#ssdfsfd"
-],
-"1qwebplay.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"1stream.eu": [
-"#ssdfsfd",
-"#safsf"
-],
-"2024tv.ru": [
-"#ssdfsfd"
-],
-"2embed.me": [
-"#ssdfsfd"
-],
-"4kwebplay.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"4stream.watch": [
-"#ssdfsfd",
-"#safsf"
-],
-"81u6xl9d.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"8kwebplay.xyz": [
-"#ssdfsfd"
-],
-"9animetv.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"abolishstand.net": [
-"#ssdfsfd"
-],
-"actvid.rs": [
-"#ssdfsfd"
-],
-"akamaicdn.life": [
-"#ssdfsfd"
-],
-"aliezstream.pro": [
-"#ssdfsfd"
-],
-"animeflv.com.co": [
-"#ssdfsfd"
-],
-"animeflv.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"animeland.tv": [
-"#ssdfsfd",
-"#safsf"
-],
-"animepahe.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"animeunity.ch": [
-"#ssdfsfd"
-],
-"animeunity.com.co": [
-"#ssdfsfd"
-],
-"animeunity.me": [
-"#ssdfsfd"
-],
-"animeunity.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"aniwave.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"aniwavetv.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"anix.ac": [
-"#ssdfsfd",
-"#safsf"
-],
-"anix.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"anix.vc": [
-"#ssdfsfd",
-"#safsf"
-],
-"aniyae.net": [
-"#ssdfsfd"
-],
-"antenasport.online": [
-"#ssdfsfd"
-],
-"antennasports.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"antronio.cl": [
-"#ssdfsfd"
-],
-"aparttent.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"apl326.me": [
-"#ssdfsfd"
-],
-"apl332.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"apl337.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"apl351.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"arlive.shop": [
-"#ssdfsfd",
-"#safsf"
-],
-"attackertv.so": [
-"#ssdfsfd"
-],
-"awish.pro": [
-"#ssdfsfd"
-],
-"b4ucast.com": [
-"#ssdfsfd"
-],
-"b5yucast.com": [
-"#ssdfsfd"
-],
-"bansports.store": [
-"#ssdfsfd"
-],
-"bedsport.live": [
-"#ssdfsfd",
-"#safsf"
-],
-"bestsolaris.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"betterstream.cc": [
-"#ssdfsfd"
-],
-"bingsport.xyz": [
-"#ssdfsfd"
-],
-"bitcoinsport.pro": [
-"#ssdfsfd"
-],
-"bizz-streams2u.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"bolly4u.promo": [
-"#ssdfsfd",
-"#safsf"
-],
-"brookethoughi.com": [
-"#ssdfsfd"
-],
-"browncrossing.net": [
-"#ssdfsfd"
-],
-"brownheaven.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"buffstreams.ai": [
-"#ssdfsfd"
-],
-"buffstreams.app": [
-"#ssdfsfd",
-"#safsf"
-],
-"bunkrr.su": [
-"#ssdfsfd"
-],
-"c8365730d4.nl": [
-"#ssdfsfd",
-"#safsf"
-],
-"cdnplaypro.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"chapmanganato.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"choosingnothing.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"cinego.tv": [
-"#ssdfsfd"
-],
-"compensationcoincide.net": [
-"#ssdfsfd"
-],
-"cookiewebplay.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"cool-etv.net": [
-"#ssdfsfd"
-],
-"coolrea.link": [
-"#ssdfsfd",
-"#safsf"
-],
-"couchtuner.show": [
-"#ssdfsfd",
-"#safsf"
-],
-"cr7soccer.site": [
-"#ssdfsfd"
-],
-"crackstreams.app": [
-"#ssdfsfd",
-"#safsf"
-],
-"cricfree.live": [
-"#ssdfsfd",
-"#safsf"
-],
-"crichd.bi": [
-"#ssdfsfd",
-"#safsf"
-],
-"crichd.vip": [
-"#ssdfsfd"
-],
-"crichdplays.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"cricplay2.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"cricstream.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"crvsport.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"cuervotv.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"cuevana.biz": [
-"#ssdfsfd",
-"#safsf",
-"#mdl-ads"
-],
-"currentcruelty.net": [
-"#ssdfsfd"
-],
-"d0000d.com": [
-"#ssdfsfd"
-],
-"daddy-stream.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"daddylive.ru": [
-"#ssdfsfd"
-],
-"daddynews.online": [
-"#ssdfsfd"
-],
-"dailytechs.shop": [
-"#ssdfsfd"
-],
-"databasegdriveplayer.xyz": [
-"#ssdfsfd"
-],
-"datanodes.to": [
-"#ssdfsfd",
-"#safsf",
-"div.p-8.items-center.justify-center"
-],
-"designeroccasion.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"dlhd.so": [
-"#ssdfsfd",
-"#safsf"
-],
-"dlhd.sx": [
-"#ssdfsfd",
-"#safsf"
-],
-"dlions.pro": [
-"#ssdfsfd"
-],
-"doc.moplay.org": [
-"#ssdfsfd"
-],
-"dood.la": [
-"#ssdfsfd"
-],
-"dood.li": [
-"#ssdfsfd"
-],
-"dood.re": [
-"#ssdfsfd"
-],
-"dood.watch": [
-"#ssdfsfd"
-],
-"dood.wf": [
-"#ssdfsfd",
-"#safsf"
-],
-"dotmovies.guru": [
-"#ssdfsfd",
-"#safsf"
-],
-"dudestream.com": [
-"#ssdfsfd"
-],
-"dwish.pro": [
-"#ssdfsfd"
-],
-"dynamicsupply.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"edwardarriveoften.com": [
-"#ssdfsfd"
-],
-"elegantpelican.dev": [
-"#ssdfsfd"
-],
-"elixx.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"embed.meomeo.pw": [
-"#ssdfsfd"
-],
-"embed.su": [
-"#ssdfsfd"
-],
-"embedsports.me": [
-"#ssdfsfd"
-],
-"embedstreams.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"embtaku.pro": [
-"#ssdfsfd"
-],
-"emturbovid.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"euro2024direct.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"extremosports.club": [
-"#ssdfsfd",
-"#safsf"
-],
-"eyespeeled.click": [
-"#ssdfsfd"
-],
-"fastpic.org": [
-"#ssdfsfd"
-],
-"fastreams.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"fbstreams.pm": [
-"#ssdfsfd"
-],
-"file-zz40pd56-embed.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"filelions.top": [
-"#ssdfsfd"
-],
-"filemoon.nl": [
-"#ssdfsfd",
-"#safsf"
-],
-"filemoon.sx": [
-"#ssdfsfd"
-],
-"filemooon.top": [
-"#ssdfsfd"
-],
-"filmhost13.xyz": [
-"#ssdfsfd"
-],
-"fiveyardlab.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"flashsports.org": [
-"#ssdfsfd"
-],
-"flixhq.to": [
-"#ssdfsfd"
-],
-"flstv.online": [
-"#ssdfsfd",
-"#safsf"
-],
-"fmovies.co": [
-"#ssdfsfd"
-],
-"fmoviesz.la": [
-"#ssdfsfd",
-"#safsf"
-],
-"foostreamtv.xyz": [
-"#ssdfsfd"
-],
-"footballstreams.lol": [
-"#ssdfsfd",
-"#safsf"
-],
-"forex4news.info": [
-"#ssdfsfd",
-"#safsf"
-],
-"forgepattern.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"freekicksoccer.org": [
-"#ssdfsfd"
-],
-"freestreams-live.my": [
-"#ssdfsfd",
-"#safsf"
-],
-"fstream365.com": [
-"#ssdfsfd"
-],
-"fullassia.com": [
-"#ssdfsfd"
-],
-"fusevideo.io": [
-"#ssdfsfd"
-],
-"futbolandres.xyz": [
-"#ssdfsfd"
-],
-"gamehdlive.online": [
-"#ssdfsfd",
-"#safsf"
-],
-"gameshdlive.net": [
-"#ssdfsfd"
-],
-"gamovideo.com": [
-"#ssdfsfd"
-],
-"gbf7wrqapjg1js045ye8.com": [
-"#ssdfsfd"
-],
-"gdmirrorbot.nl": [
-"#ssdfsfd",
-"#safsf"
-],
-"generalpill.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"gettapeads.com": [
-"#ssdfsfd"
-],
-"givemereddit.eu": [
-"#ssdfsfd",
-"#safsf"
-],
-"gnicirp.com": [
-"#ssdfsfd"
-],
-"go-streamer.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"goca4u.com": [
-"#ssdfsfd"
-],
-"gocast.pro": [
-"#ssdfsfd"
-],
-"godzcast.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"godzlive.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"gogoanime2.org": [
-"#ssdfsfd",
-"#safsf"
-],
-"gogoanimes.fi": [
-"#ssdfsfd",
-"#safsf"
-],
-"gogoanimes.org": [
-"#ssdfsfd",
-"#safsf"
-],
-"golassiahub.com": [
-"#ssdfsfd"
-],
-"gomstream.info": [
-"#ssdfsfd"
-],
-"googlvideo.com": [
-"#ssdfsfd"
-],
-"goone.pro": [
-"#ssdfsfd"
-],
-"grostembed.online": [
-"#ssdfsfd"
-],
-"halftimer.shop": [
-"#ssdfsfd"
-],
-"hdcast123.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"hdfilme.my": [
-"#ssdfsfd",
-"#safsf"
-],
-"hdmovie2.chat": [
-"#ssdfsfd"
-],
-"hdtoday.cc": [
-"#ssdfsfd"
-],
-"hdtodayz.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"hexload.com": [
-"#ssdfsfd"
-],
-"hitomi.la": [
-"#ssdfsfd",
-"#safsf"
-],
-"hlsplayer.org": [
-"#ssdfsfd"
-],
-"hoca2.com": [
-"#ssdfsfd"
-],
-"hoca4u.com": [
-"#ssdfsfd"
-],
-"hocast4.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"ilovetoplay.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"jav.guru": [
-"#ssdfsfd",
-"#safsf"
-],
-"javclan.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"joyousplay.xyz": [
-"#ssdfsfd"
-],
-"jwplayerhls.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"kaas.ro": [
-"#ssdfsfd",
-"#safsf"
-],
-"kaas.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"kerapoxy.cc": [
-"#ssdfsfd",
-"#safsf"
-],
-"kwik.si": [
-"#ssdfsfd",
-"#safsf"
-],
-"lavents.la": [
-"#ssdfsfd"
-],
-"ldcstreaming.info": [
-"#ssdfsfd"
-],
-"leveling-solo.org": [
-"#ssdfsfd"
-],
-"lewblivehdplay.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"librarywhispering.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"linecrystal.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"linenstandard.net": [
-"#ssdfsfd"
-],
-"listeamed.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"live.esportivos.click": [
-"#ssdfsfd",
-"#safsf"
-],
-"live.esportivos.fun": [
-"#ssdfsfd",
-"#safsf"
-],
-"live.esportivos.one": [
-"#ssdfsfd",
-"#safsf"
-],
-"live.redditf.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"live9.pro": [
-"#ssdfsfd",
-"#safsf"
-],
-"livefootball24.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"livesports4u.pw": [
-"#ssdfsfd"
-],
-"livestreames.us": [
-"#ssdfsfd",
-"#safsf"
-],
-"lol-foot.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"lolcalhost.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"loriwithinfamily.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"luluvdo.com": [
-"#ssdfsfd"
-],
-"manhwatop.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"masa49.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"maxstream.org": [
-"#ssdfsfd",
-"#safsf"
-],
-"mcloud.bz": [
-"#ssdfsfd",
-"#safsf"
-],
-"megacdn.co": [
-"#ssdfsfd"
-],
-"megacloud.tube": [
-"#ssdfsfd"
-],
-"megaf.cc": [
-"#ssdfsfd",
-"#safsf"
-],
-"methstreams.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"mgeko.cc": [
-"#ssdfsfd",
-"#safsf"
-],
-"minoplres.xyz": [
-"#ssdfsfd"
-],
-"missav.com": [
-"#ssdfsfd"
-],
-"misshit.top": [
-"#ssdfsfd",
-"#safsf"
-],
-"mixdrop.ps": [
-"#ssdfsfd"
-],
-"mlbbox.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"movies2watch.tv": [
-"#ssdfsfd",
-"#safsf"
-],
-"movies4u.loan": [
-"#ssdfsfd"
-],
-"movies4us.co": [
-"#ssdfsfd",
-"#safsf"
-],
-"movies7.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"moviesapi.club": [
-"#ssdfsfd",
-"#safsf"
-],
-"moviesjoy.is": [
-"#ssdfsfd"
-],
-"multiembed.mov": [
-"#ssdfsfd"
-],
-"my.mail.ru": [
-"#ssdfsfd"
-],
-"myflixer.gs": [
-"#ssdfsfd",
-"#safsf"
-],
-"myflixerz.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"mylivestream.pro": [
-"#ssdfsfd",
-"#safsf"
-],
-"mystreamnetwork.site": [
-"#ssdfsfd"
-],
-"nativesurge.info": [
-"#ssdfsfd",
-"#safsf"
-],
-"nbadigestnow.com": [
-"#ssdfsfd"
-],
-"nbcssports.shop": [
-"#ssdfsfd"
-],
-"neko-sama.fr": [
-"#ssdfsfd"
-],
-"netu.ac": [
-"#ssdfsfd"
-],
-"newsdigestcap.com": [
-"#ssdfsfd"
-],
-"neymartv.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"nhentai.net": [
-"#ssdfsfd"
-],
-"niaomea.me": [
-"#ssdfsfd"
-],
-"nizarstream.com": [
-"#ssdfsfd"
-],
-"njav.tv": [
-"#ssdfsfd"
-],
-"nobodywalked.com": [
-"#ssdfsfd"
-],
-"ok.ru": [
-"#ssdfsfd"
-],
-"omeplay.com": [
-"#ssdfsfd"
-],
-"onhockey.tv": [
-"#ssdfsfd"
-],
-"pahe.ink": [
-"#ssdfsfd"
-],
-"paltrypaste.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"peakpx.com": [
-"#ssdfsfd"
-],
-"pladrac.net": [
-"#ssdfsfd"
-],
-"player-cdn.com": [
-"#ssdfsfd"
-],
-"player.mangafrenzy.net": [
-"#ssdfsfd"
-],
-"poop.run": [
-"#ssdfsfd",
-"#safsf"
-],
-"popcdn.day": [
-"#ssdfsfd",
-"#safsf"
-],
-"pornhub.com": [
-"#ssdfsfd",
-"#safsf",
-"div[id^=\"customSkin\"]",
-"div.container:style(margin-top: 0px !important)",
-"#singleFeedSection > .emptyBlockSpace",
-".sniperModeEngaged",
-"a[href*=\"?ats=\"]",
-"a[href^=\"https://ads.trafficjunky.net/\"]",
-"#pb_block",
-".realsex",
-"#js-abContainterMain",
-"#pb_template",
-".premiumPromoBanner"
-],
-"poscitechs.lol": [
-"#ssdfsfd",
-"#safsf"
-],
-"poscitechs.shop": [
-"#ssdfsfd",
-"#safsf"
-],
-"premiumembeding.cloud": [
-"#ssdfsfd"
-],
-"primasport.one": [
-"#ssdfsfd",
-"#safsf"
-],
-"primefoot.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"prmovies.pw": [
-"#ssdfsfd"
-],
-"processbigger.com": [
-"#ssdfsfd"
-],
-"qqwebplay.xyz": [
-"#ssdfsfd"
-],
-"quest4play.xyz": [
-"#ssdfsfd"
-],
-"rapid-cloud.co": [
-"#ssdfsfd",
-"#safsf"
-],
-"reddithd.lol": [
-"#ssdfsfd",
-"#safsf"
-],
-"redtube.com": [
-"#ssdfsfd",
-"#safsf",
-"#popsByTrafficJunky",
-"li:has(.adsbytrafficjunky)",
-"#paid_tabs_list"
-],
-"reliabletv.me": [
-"#ssdfsfd"
-],
-"rojadirecta1.site": [
-"#ssdfsfd"
-],
-"rollingwheel.store": [
-"#ssdfsfd"
-],
-"ronaldo7.pro": [
-"#ssdfsfd"
-],
-"roselife.site": [
-"#ssdfsfd"
-],
-"rule34hentai.net": [
-"#ssdfsfd"
-],
-"s2watch.link": [
-"#ssdfsfd",
-"#safsf"
-],
-"s3taku.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"serverf4.org": [
-"#ssdfsfd"
-],
-"sharonwhiledemocratic.com": [
-"#ssdfsfd"
-],
-"shazysport.pro": [
-"#ssdfsfd",
-"#safsf"
-],
-"shootv.in": [
-"#ssdfsfd"
-],
-"smartermuver.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"soccer100.shop": [
-"#ssdfsfd"
-],
-"socceronline.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"soccerstream100.co": [
-"#ssdfsfd"
-],
-"sons-stream.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"speci4leagle.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"sport-play.xyz": [
-"#ssdfsfd"
-],
-"sport7s01.com": [
-"#ssdfsfd"
-],
-"sportea.link": [
-"#ssdfsfd",
-"#safsf"
-],
-"sports-stream.click": [
-"#ssdfsfd",
-"#safsf"
-],
-"sportshub.fan": [
-"#ssdfsfd",
-"#safsf"
-],
-"sportsnest.co": [
-"#ssdfsfd",
-"#safsf"
-],
-"sportsonline.si": [
-"#ssdfsfd",
-"#safsf"
-],
-"sportsonline.so": [
-"#ssdfsfd"
-],
-"sportsurge.net": [
-"#ssdfsfd"
-],
-"sporttuna.online": [
-"#ssdfsfd",
-"#safsf"
-],
-"sporttuna.pro": [
-"#ssdfsfd"
-],
-"sporttuna.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"sporttuna.sx": [
-"#ssdfsfd"
-],
-"sportzonline.online": [
-"#ssdfsfd"
-],
-"steakguard.com": [
-"#ssdfsfd"
-],
-"storyy.shop": [
-"#ssdfsfd",
-"#safsf"
-],
-"strcloud.in": [
-"#ssdfsfd"
-],
-"stream.sportsspeed.site": [
-"#ssdfsfd"
-],
-"stream23.live": [
-"#ssdfsfd",
-"#safsf"
-],
-"streambtw.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"streambucket.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"streamcaster.live": [
-"#ssdfsfd"
-],
-"streameast.app": [
-"#ssdfsfd"
-],
-"streameast.gd": [
-"#ssdfsfd",
-"#safsf"
-],
-"streamexpert.pro": [
-"#ssdfsfd",
-"#safsf"
-],
-"streamhd247.info": [
-"#ssdfsfd"
-],
-"streamhub.to": [
-"#ssdfsfd"
-],
-"streamingon.org": [
-"#ssdfsfd"
-],
-"streamking.live": [
-"#ssdfsfd"
-],
-"streamruby.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"streamsoccer.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"streamtape.com": [
-"#ssdfsfd"
-],
-"streamvid.net": [
-"#ssdfsfd"
-],
-"streamwish.com": [
-"#ssdfsfd"
-],
-"streamwish.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"stronstream.shop": [
-"#ssdfsfd",
-"#safsf"
-],
-"stylisheleg4nt.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"subtitlecat.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"super-sports.shop": [
-"#ssdfsfd",
-"#safsf"
-],
-"swatchseries.is": [
-"#ssdfsfd"
-],
-"sxyprn.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"sxyprn.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"tapeadsenjoyer.com": [
-"#ssdfsfd"
-],
-"techclips.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"tennisonline.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"tharen.cfd": [
-"#ssdfsfd"
-],
-"thedaddy.to": [
-"#ssdfsfd",
-"#safsf"
-],
-"tikitakatv.net": [
-"#ssdfsfd"
-],
-"tntsports.site": [
-"#ssdfsfd"
-],
-"topembed.pw": [
-"#ssdfsfd",
-"#safsf"
-],
-"topstreams.info": [
-"#ssdfsfd",
-"#safsf"
-],
-"totalsportek.football": [
-"#ssdfsfd",
-"#safsf"
-],
-"tube.perverzija.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"tube8.com": [
-"#ssdfsfd",
-"#safsf",
-"main.row > aside.col-4 > div[class]",
-"input + div:has(.adsbytrafficjunky)"
-],
-"tutlehd4.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"tv1337.buzz": [
-"#ssdfsfd",
-"#safsf"
-],
-"tv247365.info": [
-"#ssdfsfd",
-"#safsf"
-],
-"tv247365.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"tvsportslive.fr": [
-"#ssdfsfd",
-"#safsf"
-],
-"ufckhabib.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"upstream.to": [
-"#ssdfsfd"
-],
-"uqload.to": [
-"#ssdfsfd"
-],
-"usgate.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"ustream.pro": [
-"#ssdfsfd"
-],
-"vacantseats.click": [
-"#ssdfsfd",
-"#safsf"
-],
-"valhallas.click": [
-"#ssdfsfd",
-"#safsf"
-],
-"venusembed.site": [
-"#ssdfsfd"
-],
-"viaplaysports.online": [
-"#ssdfsfd",
-"#safsf"
-],
-"vid142.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"vid2a41.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"vid2faf.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"vid41c.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"vidco.pro": [
-"#ssdfsfd",
-"#safsf"
-],
-"vidhideplus.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"vidlink.pro": [
-"#ssdfsfd"
-],
-"vidmoly.to": [
-"#ssdfsfd"
-],
-"vidplay.online": [
-"#ssdfsfd",
-"#safsf"
-],
-"vidsrc.me": [
-"#ssdfsfd"
-],
-"vidsrc.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"vidsrc.stream": [
-"#ssdfsfd"
-],
-"vidsrc.to": [
-"#ssdfsfd"
-],
-"vidsrc.top": [
-"#ssdfsfd",
-"#safsf"
-],
-"vidsrc.xyz": [
-"#ssdfsfd"
-],
-"vidstreaming.xyz": [
-"#ssdfsfd",
-"#safsf"
-],
-"viwlivehdplay.ru": [
-"#ssdfsfd",
-"#safsf"
-],
-"vixcloud.co": [
-"#ssdfsfd",
-"#safsf"
-],
-"vkprime.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"vkspeed.com": [
-"#ssdfsfd"
-],
-"vodstream.xyz": [
-"#ssdfsfd"
-],
-"voe.sx": [
-"#ssdfsfd"
-],
-"voodc.com": [
-"#ssdfsfd"
-],
-"vsichkifilmi.net": [
-"#ssdfsfd",
-"#safsf"
-],
-"vstream.store": [
-"#ssdfsfd",
-"#safsf"
-],
-"vvid30c.site": [
-"#ssdfsfd",
-"#safsf"
-],
-"whisperingauroras.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"wideiptv.top": [
-"#ssdfsfd",
-"#safsf"
-],
-"wikisport.best": [
-"#ssdfsfd"
-],
-"worldsports.me": [
-"#ssdfsfd",
-"#safsf"
-],
-"wwwstream.pro": [
-"#ssdfsfd",
-"#safsf"
-],
-"xgroovy.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"xhamster.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"xmegadrive.com": [
-"#ssdfsfd"
-],
-"xrivonet.info": [
-"#ssdfsfd"
-],
-"xsportbox.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"ydc1wes.me": [
-"#ssdfsfd"
-],
-"yourupload.com": [
-"#ssdfsfd"
-],
-"youtubevanced.com": [
-"#ssdfsfd"
-],
-"yugenanime.tv": [
-"#ssdfsfd",
-"#safsf"
-],
-"zinmanga.com": [
-"#ssdfsfd"
-],
-"zonatmo.com": [
-"#ssdfsfd",
-"#safsf"
-],
-"zoroxtv.to": [
-"#ssdfsfd"
-],
-"absentescape.net": [
-"#safsf"
-],
-"embedstream.me": [
-"#safsf"
-],
-"focus4ca.com": [
-"#safsf"
-],
-"mixdrop.si": [
-"#safsf"
-],
-"movies4u.food": [
-"#safsf"
-],
-"sflix.to": [
-"#safsf"
-],
-"streamhd247.pro": [
-"#safsf"
-],
-"zvision.link": [
-"#safsf"
 ],
 "autoscout24.*": [
 "img[referrerpolicy=\"unsafe-url\"]"
@@ -33925,7 +32503,8 @@
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 "div[class*=\"-ad-card\"]",
 "div[class*=\"-adInner\"]",
-"div[data-resultid]:has(a.IZSg-adlink)"
+"div[data-resultid]:has(a.IZSg-adlink)",
+"div[id^=\"inline-1-\"]"
 ],
 "tympanus.net": [
 "article:has(header:has(.ct-sponsored))"
@@ -35016,7 +33595,8 @@
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 "div[class*=\"-ad-card\"]",
 "div[class*=\"-adInner\"]",
-"div[data-resultid]:has(a.IZSg-adlink)"
+"div[data-resultid]:has(a.IZSg-adlink)",
+"div[id^=\"inline-1-\"]"
 ],
 "swoodoo.com": [
 "#resultWrapper > div > div > [role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
@@ -35035,7 +33615,8 @@
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 "div[class*=\"-ad-card\"]",
 "div[class*=\"-adInner\"]",
-"div[data-resultid]:has(a.IZSg-adlink)"
+"div[data-resultid]:has(a.IZSg-adlink)",
+"div[id^=\"inline-1-\"]"
 ],
 "anikore.jp": [
 "html[class^=\"loading\"]:style(visibility: visible !important;)"
@@ -35071,14 +33652,8 @@
 ".vspl__gtap-notification-content",
 ".vspl__gtap-notification-overlay"
 ],
-"gizmodo.com.au": [
-".brightcove-video-container"
-],
-"kotaku.com.au": [
-".brightcove-video-container"
-],
-"lifehacker.com.au": [
-".brightcove-video-container"
+"datanodes.to": [
+"div.p-8.items-center.justify-center"
 ],
 "vip.idlixofficialx.com": [
 ".ac0c1cd-wrapper",
@@ -35154,6 +33729,9 @@
 ],
 "bitchute.com": [
 ".row.justify-center:has-text(Advertisement)"
+],
+"cuevana.biz": [
+"#mdl-ads"
 ],
 "kcby.com": [
 ".sd-container"
@@ -35315,6 +33893,19 @@
 "#deskadmiddle",
 ".vjs-inplayer-container"
 ],
+"pornhub.com": [
+"div[id^=\"customSkin\"]",
+"div.container:style(margin-top: 0px !important)",
+"#singleFeedSection > .emptyBlockSpace",
+".sniperModeEngaged",
+"a[href*=\"?ats=\"]",
+"a[href^=\"https://ads.trafficjunky.net/\"]",
+"#pb_block",
+".realsex",
+"#js-abContainterMain",
+"#pb_template",
+".premiumPromoBanner"
+],
 "pornhubthbh7ap3u.onion": [
 ".realsex",
 "#js-abContainterMain",
@@ -35328,6 +33919,10 @@
 "#pb_template",
 ".e8-column"
 ],
+"tube8.com": [
+"main.row > aside.col-4 > div[class]",
+"input + div:has(.adsbytrafficjunky)"
+],
 "tube8.es": [
 "main.row > aside.col-4 > div[class]",
 "input + div:has(.adsbytrafficjunky)"
@@ -35335,6 +33930,11 @@
 "tube8.fr": [
 "main.row > aside.col-4 > div[class]",
 "input + div:has(.adsbytrafficjunky)"
+],
+"redtube.com": [
+"#popsByTrafficJunky",
+"li:has(.adsbytrafficjunky)",
+"#paid_tabs_list"
 ],
 "redtube.com.br": [
 "#popsByTrafficJunky",
@@ -36079,7 +34679,7 @@
 "[data-name=\"adaptiveConstructorAd\"]",
 "[data-rc-widget=\"data-rc-widget\"]",
 "[data-rc-widget]",
-"[data-revive-zoneid] > iframe",
+"[data-revive-zoneid]",
 "[data-role=\"tile-ads-module\"]",
 "[data-template-type=\"nativead\"]",
 "[data-testid=\"adBanner-wrapper\"]",
@@ -36177,7 +34777,6 @@
 "[aria-label=\"advertisement\"]",
 "[class^=\"adm-inline-article-ad\"]",
 "[data-component=\"ad-unit\"]",
-"[data-revive-zoneid]",
 "[data-test=\"vf-es-ad-wrapper\"]",
 "div[data-content=\"Advertisement\"]",
 "div.adsninja-ad-zone",
@@ -42020,7 +40619,9 @@
 ".ad-wrapper--sidebar",
 ".ad-wrapper-250",
 ".ad-wrapper-bg",
+".ad-wrapper-desktop",
 ".ad-wrapper-left",
+".ad-wrapper-mobile",
 ".ad-wrapper-mobile-atf",
 ".ad-wrapper-outer",
 ".ad-wrapper-solid",
@@ -49116,10 +47717,8 @@
 ".under_ads",
 ".underplayer__ad",
 ".uniAdBox",
-".uniAds",
 ".unionAd",
 ".unit-ad",
-".unspoken-adplace",
 ".upper-ad-box",
 ".upper-ad-space",
 ".upper_ad",
@@ -49236,16 +47835,10 @@
 ".wall-ads-right",
 ".wallAd",
 ".wall_ad",
-".wallad",
 ".wcAd",
 ".wcfAdLocation",
-".wd-adunit",
-".wdca_ad_item",
-".wdca_custom_ad",
-".wdt_ads",
 ".weatherad",
 ".web_ads",
-".webadvert-container",
 ".webpart-wrap-advert",
 ".website-ad-space",
 ".well-ad",
@@ -49297,22 +47890,13 @@
 ".widget-advert-970",
 ".widget-advertisement",
 ".widget-dfp",
-".widget-group-Ads",
-".widget-highlight-ads",
 ".widget-sponsor",
 ".widget-sponsor--container",
 ".widget-text-ad",
-".widget1-ad",
-".widget10-ad",
-".widget4-ad",
-".widget6-ad",
-".widget7-ad",
 ".widgetAD",
 ".widgetAds",
-".widgetContentIfrWrapperAd",
 ".widgetSponsors",
 ".widget_300x250_advertisement",
-".widget_abn_admanager_sidestealer",
 ".widget_ad",
 ".widget_ad-widget",
 ".widget_ad125",
@@ -49437,6 +48021,7 @@
 ".yahooad",
 ".yahooads",
 ".yan-sponsored",
+".ympb_target",
 ".zeus-ad",
 ".zeusAdWrapper",
 ".zeusAd__container",
@@ -49450,7 +48035,6 @@
 ".zox_ad_widget",
 ".zox_adv_widget",
 "AD-SLOT",
-"AD-TRIPLE-BOX",
 "DFP-AD",
 "a-ad",
 "ad-shield-ads",
@@ -49825,6 +48409,7 @@
 ".c-asurionBottomBanner",
 ".c-posts__ad",
 ".floating-preroll-ad",
+".header_banner_ad",
 ".homead",
 ".instoryAdBlock",
 ".instoryAdNoBlock",
@@ -51875,6 +50460,9 @@
 "ateadirect.com",
 "knowyourmobile.com",
 "nlk.org.np"
+],
+".m1-header-ad": [
+"insideevs.com"
 ],
 ".mainAd": [
 "tubefilter.com"
@@ -54574,10 +53162,6 @@
 "main_frame": true,
 "popup": true
 },
-"5afc476a.xyz": {
-"main_frame": true,
-"popup": true
-},
 "5cc3ac02.xyz": {
 "main_frame": true,
 "popup": true
@@ -56034,6 +54618,9 @@
 "://cl.melonbooks.co.jp/c/": {
 "image": true
 },
+"://click.revolut.com/q/": {
+"image": true
+},
 "img.promio-connect.com": {
 "image": true
 },
@@ -56161,9 +54748,6 @@
 },
 "disqus.com/event.js?": {
 "script": true
-},
-"ebayrtm.com/rtm?rtmcmd&a=img&": {
-"image": true
 },
 "epl.paypal-communication.com": {
 "script": true
@@ -56298,6 +54882,9 @@
 "image": true,
 "ping": true,
 "xmlhttprequest": true
+},
+"legitscript.com/seals/": {
+"script": true
 },
 "popup.laybuy.com": {
 "sub_frame": true,
@@ -57496,9 +56083,6 @@
 "cybernews.com/images/tools/": [
 "/banner/"
 ],
-"ebayrtm.com/rtm?rtmcmd": [
-"&enc="
-],
 "ebaystatic.com": [
 "/scandaljs-",
 "tracking/configuration.js",
@@ -58130,7 +56714,8 @@
 "/analytics/"
 ],
 "ebay.com": [
-"/customer_image_service?"
+"/customer_image_service?",
+"/madrona_loadscripts.js"
 ],
 "equirodi.": [
 "/addstat.php"
@@ -58500,9 +57085,6 @@
 ],
 "data.riotgames.com/collector/": [
 "/events"
-],
-"s.smallpdf.com/static/track-js-": [
-"-entrypoint.js"
 ],
 "api.strats.gg/internal/api/": [
 "/visits"
