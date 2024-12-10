@@ -615,7 +615,6 @@
 "/adtech;",
 "/adtracking.asmx",
 "/adtrk/tr.gif",
-"/adultdvdparadisecompopinsecound.js",
 "/adunit/track-view|",
 "/adunits/bcid?",
 "/adv.css?",
@@ -1425,7 +1424,6 @@
 "/dla_tracker.js",
 "/dlpageping?",
 "/dm.gif?",
-"/dm.tlo?id=",
 "/dmp/pixel.js",
 "/dmu2panalytics/ajax_call.php?",
 "/dnscheck.js",
@@ -4318,6 +4316,7 @@
 "apkmody.io/ads",
 "apkpure.com/api/v1/get-withdraw-count",
 "apl.roskomsvoboda.org/js/script.js",
+"apm.infoldgames.com/v1/log/sendtlog",
 "apnews.com/newrelic/newrelic.browser.prod.js",
 "app-bnkr.b-cdn.net/js/lv.js",
 "app.avada.io/scripttag/tracking/avada-track.min.js",
@@ -4398,6 +4397,7 @@
 "assets.bwbx.io/s3/foundation/event-recorder-client/1.0/event-recorder-client.min.js",
 "assets.htvapps.com/lumiere/fallback/analytics.js",
 "assets.moneymade.io/js/fp.min.js",
+"assets.papegames.com/libs/monitor.js",
 "assets.presearch.com/backgrounds/",
 "assets.sheetmusicplus.com",
 "assets.sky.com/js/thirdparty/sessioncam5-5.js",
@@ -4803,6 +4803,7 @@
 "click.email.rdaenthusiast.com/open.aspx",
 "click.mail.disneyplus.com/open.aspx",
 "click.xda-developers.com/api/pixel.gif",
+"clickdimensions.com/ts.js",
 "clickindia.com/cimem/ad-post-ajax.php?formname=browsinghistory",
 "clickiocdn.com/clickiotag_log/",
 "clickiocdn.com/consent/log/",
@@ -10503,6 +10504,7 @@
 ],
 "kotaku.com": [
 "#commerce-inset-wrapper",
+".js_related-stories-inset",
 ".sc-6zn1bq-0",
 "[class] > div:has(> [is=\"bulbs-dfp\"])",
 "[class]:has(> .related-stories-inset-video)",
@@ -10511,6 +10513,7 @@
 ],
 "qz.com": [
 "#commerce-inset-wrapper",
+".js_related-stories-inset",
 ".k3mqd"
 ],
 "blackbeltmag.com": [
@@ -10990,6 +10993,10 @@
 "rednationonline.ca": [
 "#dnn_BannerPane"
 ],
+"indiatvnews.com": [
+"#ds_default_anchor",
+".ad"
+],
 "unite-db.com": [
 "#ds_lb1",
 "#ds_lb2",
@@ -11028,6 +11035,11 @@
 "#sponsors",
 "#startup-resources-sidebar",
 ".type-sponsor_post.teaser"
+],
+"evoke.ie": [
+"#ev_desktop_mpu1",
+".evoke_billboard_single",
+".jw-player-video-widget"
 ],
 "wral.com": [
 "#exco",
@@ -11133,7 +11145,11 @@
 ],
 "cnx-software.com": [
 "#fixeddbar",
+"#text-10",
+"#text-26",
+"#text-27",
 ".gsonoff",
+".header-top",
 "[href*=\"aliexpress.com/item/\"]",
 "[href*=\"banner\"]",
 "[href*=\"bit.ly/\"]",
@@ -11143,6 +11159,7 @@
 "[href^=\"https://url2.cnx-software.com/\"]",
 "[href^=\"https://www.aliexpress.com/\"]",
 "[href^=\"https://www.armdesigner.com/\"]",
+"a[href^=\"https://rock.sh/\"]",
 "img[alt=\"ArmSoM CM5 - Raspberry Pi CM4 alternative with Rockchip RK3576 SoC\"]",
 "img[alt=\"Cincoze industrial GPU computers\"]",
 "img[alt=\"I-PI SMARC Intel Amston Lake devkit\"]",
@@ -11969,7 +11986,10 @@
 "bloomberg.com": [
 "#leaderboard",
 ".BaseAd_baseAd-dXBqvbLRJy0-",
+".content-cliff__ad",
+".content-cliff__ad-container",
 ".dvz-v0-ad",
+".leaderboard-wrapper",
 "[class^=\"FullWidthAd_\"]",
 "[data-component=\"in-body-ad\"]",
 "div[class^=\"media-ui-BaseAd\"]",
@@ -12827,6 +12847,10 @@
 "forums.golfwrx.com": [
 "#pb-slot-top",
 "ol.cTopicList > li.ipsDataItem:not([data-rowid])"
+],
+"genshin-impact-map.appsample.com": [
+"#pc-br-300x250-gim",
+"#pc-br1-float-gim"
 ],
 "demap.info": [
 "#pcad"
@@ -14810,7 +14834,8 @@
 ".MPU"
 ],
 "drudgereport.com": [
-".DR-AD-SPACE"
+".DR-AD-SPACE",
+"div[style^=\"height: 250px;\"]"
 ],
 "nationalworld.com": [
 ".Dailymotion__Inner-sc-gmjr3r-1",
@@ -15806,9 +15831,6 @@
 ".ad"
 ],
 "inc-aus.com": [
-".ad"
-],
-"indiatvnews.com": [
 ".ad"
 ],
 "infobyip.com": [
@@ -18327,6 +18349,9 @@
 "pinkun.com": [
 ".advert"
 ],
+"podtail.com": [
+".advert"
+],
 "proxcskiing.com": [
 ".advert"
 ],
@@ -19509,7 +19534,8 @@
 ".app-ad-placeholder"
 ],
 "classicfm.com": [
-".apple_music"
+".apple_music",
+".dac__mpu-card"
 ],
 "happymod.com": [
 ".appx",
@@ -21731,6 +21757,9 @@
 "functions-online.com": [
 ".box_wide"
 ],
+"kodinerds.net": [
+".boxesSidebarRight"
+],
 "retailgazette.co.uk": [
 ".boxzilla-overlay",
 ".boxzilla-popup-advert"
@@ -21753,7 +21782,7 @@
 "bing.com": [
 ".br-poleoffcarousel",
 ".slide:has(.rtb_ad_caritem_mvtr)",
-"li.b_algo:has([class=\"b_caption\"] > p.b_lineclamp2[class*=\"b_algo\"][class*=\"slug\"] > span.algoSlug_icon)",
+"li.b_algo:has(> [class=\"b_caption\"] > p.b_overflow2)",
 "#bepfo.popup[style^=\"visibility: visible\"]",
 ".ad_sc",
 ".b_ad",
@@ -22158,6 +22187,9 @@
 "whattomine.com": [
 ".centered-image-short"
 ],
+"ceo.ca": [
+".ceoBanner"
+],
 "top.gg": [
 ".chakra-stack.css-15xujv4",
 "[class*=\"__AdContainer-\"]"
@@ -22546,6 +22578,9 @@
 "small-screen.co.uk": [
 ".code-block",
 ".snackStickyParent"
+],
+"statisticsbyjim.com": [
+".code-block"
 ],
 "storypick.com": [
 ".code-block"
@@ -23122,6 +23157,22 @@
 "lindaikejisblog.com": [
 ".da"
 ],
+"capitalfm.com": [
+".dac__mpu-card"
+],
+"capitalxtra.com": [
+".dac__mpu-card"
+],
+"goldradio.com": [
+".dac__mpu-card"
+],
+"heart.co.uk": [
+".dac__mpu-card"
+],
+"smoothradio.com": [
+".dac__mpu-card",
+".download"
+],
 "smartprix.com": [
 ".dadow-box",
 "sm-dap"
@@ -23347,14 +23398,7 @@
 ".widget_execphp",
 "[href*=\"bit.ly/\"]"
 ],
-"capitalfm.com": [
-".download",
-".instream_item"
-],
 "radiox.co.uk": [
-".download"
-],
-"smoothradio.com": [
 ".download"
 ],
 "zeroupload.com": [
@@ -23522,6 +23566,7 @@
 ".exco",
 ".top-0.sticky > div",
 ".zad",
+"[data-pogo=\"top\"]",
 "section.mt-4 > div"
 ],
 "executivegov.com": [
@@ -25057,6 +25102,13 @@
 "[data-carousel-id=\"plp_sponsored_brand\"]",
 ".kib-carousel-item:has(.kib-product-sponsor)"
 ],
+"theroot.com": [
+".js_related-stories-inset",
+"[class] > div:has(> [is=\"bulbs-dfp\"])",
+"[class]:has(> .related-stories-inset-video)",
+".taboola-container",
+".japmJB"
+],
 "iobroker.net": [
 ".jss125",
 ".jss43"
@@ -26388,6 +26440,11 @@
 ],
 "decider.com": [
 ".nyp-video-player"
+],
+"france24.com": [
+".o-ad-container__label",
+".m-block-ad",
+"[data-tms-ad-container]"
 ],
 "drivencarguide.co.nz": [
 ".o-adunit",
@@ -28134,6 +28191,9 @@
 "ufile.io": [
 ".sponsor"
 ],
+"wralsportsfan.com": [
+".sponsor-label"
+],
 "jquery.com": [
 ".sponsor-line"
 ],
@@ -29383,6 +29443,9 @@
 "thestrongtraveller.com": [
 ".widget_block"
 ],
+"wiki-topia.com": [
+".widget_block"
+],
 "wplift.com": [
 ".widget_bsa"
 ],
@@ -29431,6 +29494,9 @@
 ".widget_custom_html"
 ],
 "mmoculture.com": [
+".widget_custom_html"
+],
+"monstersandcritics.com": [
 ".widget_custom_html"
 ],
 "nasaspaceflight.com": [
@@ -30258,6 +30324,9 @@
 "[data-testid=\"TopSlot\"]",
 "div[class^=\"AdContainer\"]",
 "div[class^=\"TopContainer-\"]"
+],
+"bleacherreport.com": [
+"[data-testid=\"ad\"]"
 ],
 "coles.com.au": [
 "[data-testid=\"ad\"]",
@@ -32617,12 +32686,6 @@
 "[class]:has(> .related-stories-inset-video)",
 ".japmJB"
 ],
-"theroot.com": [
-"[class] > div:has(> [is=\"bulbs-dfp\"])",
-"[class]:has(> .related-stories-inset-video)",
-".taboola-container",
-".japmJB"
-],
 "skyscanner.com": [
 "[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
 "div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
@@ -33512,6 +33575,9 @@
 "tvline.com": [
 "._video_ti56x_1"
 ],
+"techtimes.com": [
+".ad_wrapper_video"
+],
 "androidheadlines.com": [
 ".adthrive"
 ],
@@ -33694,7 +33760,7 @@
 ],
 "www.youtube.com": [
 ".ytp-featured-product",
-"tp-yt-paper-dialog.ytd-popup-container:-has-text(/Become a member|How are your|How interested|Live TV|Wish videos|background play|better TV|cable box|cable reimagined|hidden fees|of YouTube TV|on YouTube TV|unlimited DVR|with YouTube TV|without the ads|try this feature/)"
+"tp-yt-paper-dialog.ytd-popup-container:has-text(/Become a member|Free trial|How are your|How interested|Live TV|Wish videos|background play|better TV|cable box|cable reimagined|hidden fees|of YouTube TV|on YouTube TV|unlimited DVR|with YouTube TV|without the ads|try this feature|Terms apply/)"
 ],
 "m.youtube.com": [
 "lazy-list > ad-slot-renderer",
@@ -34001,10 +34067,6 @@
 ],
 "7news.com.au": [
 ".ad-no-notice"
-],
-"france24.com": [
-".m-block-ad",
-"[data-tms-ad-container]"
 ],
 "techpowerup.com": [
 "body:not([data-template]) a[rel*=\"nofollow\"][target=\"_blank\"][href$=\"er/images/gmchjhj.png\"]",
@@ -34917,6 +34979,7 @@
 "span[data-ez-ph-id]",
 "span[id^=\"ezoic-pub-ad-placeholder-\"]",
 "topadblock",
+"#target.pk-page-ready #pk-status-message",
 "[class^=\"tile-picker__CitrusBannerContainer-sc-\"]",
 "ins.adsbygoogle[data-ad-client]",
 "ins.adsbygoogle[data-ad-slot]",
@@ -40204,13 +40267,8 @@
 ".ad-horizontal-large",
 ".ad-horizontal-top",
 ".ad-horizontal-top-wrapper",
-".ad-house-btac",
-".ad-housepromo-d-wrapper",
 ".ad-hoverable",
 ".ad-hpto",
-".ad-href1",
-".ad-href2",
-".ad-iab-txt",
 ".ad-icon",
 ".ad-identifier",
 ".ad-iframe",
@@ -44460,7 +44518,6 @@
 ".companion_ad",
 ".complex-ad",
 ".component-ar-horizontal-bar-ad",
-".component-header-sticky-ad",
 ".components-Ad-___Ad__ad",
 ".con_ads",
 ".connatix",
@@ -44515,13 +44572,10 @@
 ".content-advertisment",
 ".content-bottom-ad",
 ".content-bottom-mpu",
-".content-cliff__ad",
-".content-cliff__ad-container",
 ".content-contentad",
 ".content-footer-ad",
 ".content-footer-ad-block",
 ".content-header-ad",
-".content-item-ad-top",
 ".content-kuss-ads",
 ".content-leaderboard-ad",
 ".content-leaderboard-ads",
@@ -44566,21 +44620,16 @@
 ".contentad-superbanner-2",
 ".contentad-top",
 ".contentad2",
-".contentad300x250",
-".contentad_right_col",
 ".contentadarticle",
-".contentadfloatl",
 ".contentadleft",
 ".contentads1",
 ".contentads2",
 ".contentbox_ad",
 ".contentleftad",
-".contents-ads-bottom-left",
 ".contest_ad",
 ".context-ads",
 ".contextualAds",
 ".contextual_ad_unit",
-".coreAdsPlacer",
 ".cornerad",
 ".cpmstarHeadline",
 ".cpmstarText",
@@ -44617,12 +44666,10 @@
 ".customized_ad_module",
 ".cwAdvert",
 ".cxAdvertisement",
-".d1-top-ad",
 ".d3-c-adblock",
 ".d3-o-adv-block",
 ".da-custom-ad-box",
 ".dac__banner__wrapper",
-".dac__mpu-card",
 ".daily-adlabel",
 ".dart-ad",
 ".dart-ad-content",
@@ -44639,9 +44686,6 @@
 ".dartadvert",
 ".dartiframe",
 ".dc-ad",
-".dc-banner",
-".dc-half-banner",
-".dc-widget-adv-125",
 ".dcmads",
 ".dd-ad",
 ".dd-ad-container",
@@ -46491,7 +46535,6 @@
 ".overlay-ads",
 ".overlay-box-ad",
 ".overlay_ad",
-".ox-holder",
 ".p-ad",
 ".p-ad-block",
 ".p-ad-dfp-banner",
@@ -46507,10 +46550,6 @@
 ".p_topad",
 ".package_adBox",
 ".padAdvx",
-".padded-ad",
-".paddingBotAd",
-".pads2",
-".pads_bulk_widget",
 ".padvertlabel",
 ".page-ad",
 ".page-ads",
@@ -46519,7 +46558,6 @@
 ".page-bottom-fixed-ads",
 ".page-box-ad",
 ".page-break-ad",
-".page-content__advert",
 ".page-footer-ad",
 ".page-header-ad",
 ".page-header_ad",
@@ -46567,7 +46605,7 @@
 ".pc-ad",
 ".pcads_widget",
 ".pd-ads-mpu",
-".pdpads_desktop",
+".pdpads",
 ".penci-ad-box",
 ".penci-ad-image",
 ".penci-ad_box",
@@ -48247,7 +48285,6 @@
 ".RC-AD-BOX-MIDDLE",
 ".RC-AD-BOX-TOP",
 ".RC-AD-TOP-BANNER",
-".js_related-stories-inset",
 ".index-module_adBeforeContent__UYZT",
 ".interstory_first_mobile",
 ".interstory_second_mobile",
@@ -48586,6 +48623,7 @@
 ".bvp-ad",
 ".c-asurionBottomBanner",
 ".c-posts__ad",
+".dac__mpu-card",
 ".floating-preroll-ad",
 ".header_banner_ad",
 ".homead",
@@ -48593,6 +48631,7 @@
 ".instoryAdNoBlock",
 ".js-ad-placement",
 ".js_ad-sticky-footer",
+".js_related-stories-inset",
 ".js_modal_exit_intent",
 ".lastAdSlot",
 ".latestStoriesAd",
@@ -50666,9 +50705,6 @@
 ".node-ad": [
 "dogva.com"
 ],
-".o-ad-container": [
-"france24.com"
-],
 ".page_ad": [
 "rottentomatoes.com"
 ],
@@ -51195,9 +51231,6 @@
 "/adriver.": {
 "script": false
 },
-"/adriver_": {
-"object": false
-},
 "/ads-250.": {
 "image": true
 },
@@ -51334,9 +51367,6 @@
 "/adsbanner/": {
 "image": true
 },
-"/adsbox.": {
-"script": false
-},
 "/adscontroller.js": {
 "script": true
 },
@@ -51397,6 +51427,9 @@
 "script": true
 },
 "/adtrack.": {},
+"/adultdvdparadisecompopinsecound.js": {
+"script": true
+},
 "/adutil.js": {
 "script": true
 },
@@ -51810,8 +51843,7 @@
 "script": true
 },
 "/gpt.js": {
-"script": true,
-"xmlhttprequest": true
+"script": true
 },
 "/gpt_ads-public.js": {
 "script": true
@@ -51819,7 +51851,6 @@
 "/gunosyadssdkv2.js": {
 "script": true
 },
-"/homepage_ads/": {},
 "/house-ads/": {
 "image": true
 },
@@ -51931,7 +51962,9 @@
 "/link?z=": {
 "sub_frame": true
 },
-"/livejasmin.": {},
+"/livejasmin.": {
+"xmlhttprequest": false
+},
 "/maven/am.js": {
 "script": true
 },
@@ -52419,7 +52452,9 @@
 "/video_ads.": {
 "script": true
 },
-"/videoad.": {},
+"/videoad.": {
+"xmlhttprequest": false
+},
 "/videoad/": {
 "script": true
 },
@@ -52816,7 +52851,6 @@
 "/adblockdetector/": {
 "script": true
 },
-"/adbuddy.": {},
 "/ads-blocking-detector.": {
 "script": true
 },
@@ -55562,6 +55596,9 @@
 "msg.video.qiyi.com": {
 "image": true
 },
+"elink.clickdimensions.com": {
+"image": true
+},
 "surveys.zendesk.com/subscription/watermark.gif": {
 "image": true
 },
@@ -57227,6 +57264,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"cdn.jsdelivr.net/npm/@snowplow/javascript-tracker@": [
+"/dist/sp.min.js"
 ],
 "titanprod.narvar.com/": [
 "/track|"
