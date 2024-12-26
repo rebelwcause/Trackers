@@ -23,7 +23,6 @@
 "-120x600.",
 "-120x600_",
 "-160-600.",
-"-160x600-",
 "-160x600.",
 "-160x600_",
 "-300-250.",
@@ -67,10 +66,8 @@
 "-988x60.",
 "-ad-300x600-",
 "-ad-458x80.",
-"-ad-bottom-",
 "-ad-right.",
 "-ad-sidebar.",
-"-ad-unit.",
 "-ad-util.",
 "-ad.jpg.pagespeed.",
 "-adblocker-detection/",
@@ -112,7 +109,6 @@
 "-page-peel/",
 "-pcmmodule-taboola-",
 "-pcre-js-gen.herokuapp.com/tracking-event|",
-"-peel-ads-",
 "-popexit.",
 "-popunder.",
 "-prebid/",
@@ -244,6 +240,7 @@
 ".gif?log=",
 ".gif?stat=open",
 ".goodwell18.com/track/",
+".hilton.com/subscription/watermark.gif?",
 ".hit.stat24.",
 ".hootsuite.com/trk?",
 ".html?clicktag=",
@@ -316,6 +313,7 @@
 ".starbucks.com/a/",
 ".stats?action=",
 ".svc/?tracking_id=",
+".telekom-dienste.de/common/1x1_transparent.png",
 ".theatlantic.com/email.gif?",
 ".top/cuid/?",
 ".v4.analytics.",
@@ -3800,7 +3798,6 @@
 "=468x60_",
 "=468x80_",
 "=728x90/",
-"=half-page-ad&",
 "?[aqb]&ndh=1&t=",
 "?ab=1&zoneid=",
 "?action=event&",
@@ -4234,7 +4231,6 @@
 "americanlookout.com/29-we/",
 "amiunique.org/analytics.js",
 "amnesty.org/collect/",
-"amnioteunteem.click",
 "ampproject.org/preconnect.gif",
 "analdin.com/de/player/html.php",
 "analdin.com/js/analytics.js",
@@ -4348,7 +4344,6 @@
 "apple.com/metrics/",
 "apple.com/mw/v1/reportanalytics",
 "appliedsemantics.com/images/x.gif",
-"applifysolutions.net",
 "appmifile.com/webfile/globalweb/stat/",
 "appront.net/click.js",
 "apps.bazaarvoice.com/analytics/",
@@ -4435,6 +4430,9 @@
 "axm.am/am.ads.js",
 "azerforum.com/analytics",
 "azlyrics.com/local/anew.js",
+"azure.com/api/clientlog|",
+"azure.com/api/extensiontelemetry|",
+"azure.com/api/metric|",
 "azureedge.net/adtags/",
 "azureedge.net/javascripts/tracking.",
 "azureedge.net/track",
@@ -4518,6 +4516,7 @@
 "bigsquidrc.com/wp-content/themes/bsrc2/js/adzones.js",
 "bigw.com.au/api/event/",
 "bigw.com.au/events/",
+"bigwarp.io/js/big.js",
 "bilder-a.akamaihd.net/ip/js/ipdvdc/dbav.js",
 "bilibili.com/x/frontend/finger/fpfmc?",
 "bilibilicomics.com/twirp/log.",
@@ -4609,6 +4608,8 @@
 "brudirect.com/images/banners/",
 "btguard.com/images/",
 "btrace.video.qq.com/kvcollect",
+"btvnovinite.bg/js/bg/shared/js/bweb-gpt.js",
+"btvnovinite.bg/js/bg/shared/js/bweb.js",
 "bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg",
 "build.com/2ztkihy4/init.js",
 "builder.io/api/v1/track",
@@ -4765,6 +4766,7 @@
 "chaport.com/api/public/v1/stats/",
 "chargebee.com/api/internal/track_info_error",
 "chasingcars.com.au/ads/",
+"chat.deepseek.com/api/v0/events",
 "chatfuel.com/cf-analytics/",
 "chatgpt.com/ces/v1/t",
 "chatroll.com/t.gif",
@@ -4799,6 +4801,7 @@
 "clarin.com/detail/googleanalyticsandgoogletagmanagerutil.js",
 "clarksvilleonline.com/cols/",
 "classdojo.com/logs/",
+"claude.ai/sentry",
 "cleantalk.org/pixel/",
 "clerk.io/static/clerk.js",
 "click.email.rdaenthusiast.com/open.aspx",
@@ -4815,7 +4818,6 @@
 "clinch.co/a_js/client_pixels/",
 "clipkit.co/clipkit_assets/beacon-",
 "clipsyndicate.com/cs_api/cliplog?",
-"clkromtor.com",
 "cloudapp.net/l/",
 "cloudbet.com/ad/",
 "cloudconvert.com/js/ga.js",
@@ -4881,6 +4883,7 @@
 "cmp.pubtech.ai",
 "cmp.redge.media",
 "cmp.setupcmp.com",
+"cms.static.btv.bg/microsites/btvnovinite/js/ga360.js",
 "cn.ntdtv.com/assets/themes/ntd/js/article_ads.js",
 "cnetcontent.com/log?",
 "cnevids.com/metrics/",
@@ -5860,6 +5863,7 @@
 "imobie.com/js/analytics.js",
 "impdesk.com/smartpix/",
 "impel.io/releases/analytics/",
+"impressivetimes.com/wp-content/uploads/2024/07/primary-plus-advt.jpg",
 "imsdb.pw/cdn-cgi/trace",
 "imsdb.pw/player/ip.php",
 "in.com/common/script_catch.js",
@@ -6002,6 +6006,7 @@
 "jockey.com/scripts/omt-base.js",
 "joggo.run/api/events",
 "join.megaphonetv.com",
+"join.protonvpn.com/api/data/v1/metrics",
 "joinrs.com#%#//scriptlet('set-local-storage-item', 'tracking_events', '$remove$')",
 "joka.it/inquiero/isapi/csf.dll?",
 "jooble.org/spa-metrics",
@@ -6097,6 +6102,7 @@
 "kraken.com/analytics",
 "kraken.com/js/sift.min.js",
 "kroger.com/clickstream/",
+"kstrk.com",
 "ktla.com/cvbtpurj/init.js",
 "kudoslabs.gg/track/",
 "kunduz.com/kunduzlytics.min.js",
@@ -6199,7 +6205,6 @@
 "livinglanguage.com/js/view.analytics.",
 "lmtonline.com/413gkwmt/init.js",
 "lnk.to/~/tr/",
-"load.tm.all3dp.com/rqlevydw.js",
 "location3.com/analytics/",
 "logbase.io/metrics",
 "lolwot.com/b5xaqzsgvmtm.js",
@@ -6479,6 +6484,7 @@
 "namnak.com/act/stats.json",
 "namnak.com/ga.js",
 "nanopress.it/lab.js",
+"nanostatistics.net/api/event",
 "narkive.com/ajax/telemv2?",
 "nate.com/stat/",
 "nativetimes.com/images/banners/",
@@ -6507,7 +6513,6 @@
 "neighbourly.co.nz/event-tracking",
 "neon-lab.com/neonbctracker.js",
 "nestle.com/staticlocal/analytics.js",
-"nestorscymlin.shop",
 "net-parade.it/tracker/",
 "netclick.io/pixel/",
 "netdna-ssl.com/tracker/",
@@ -6747,6 +6752,7 @@
 "piccy.info/c?",
 "pico.tools/metrics/",
 "picrew.me/vol/ads/",
+"pie.org/g/collect?",
 "pijper.io/visits/",
 "pikbest.com/?m=stats&",
 "pimpandhost.com/mikakoki/",
@@ -6871,7 +6877,6 @@
 "pushly.com/pushly-event-tracker",
 "pushpro.io/api/logging/",
 "pushsquare.com/blank.gif",
-"putlocker.vip/sab_",
 "puutarha.net/ffsw-pushcrew.js",
 "puutarha.net/statb.asp",
 "puzzle-slant.com/images/ad/",
@@ -7116,6 +7121,7 @@
 "scoot.co.uk/delivery.php",
 "scout.salesloft.com/r?tid=",
 "screen13.com/publishers/",
+"screenrant.com/strpixel.png",
 "screensaversplanet.com/js/analytics.js",
 "scribd.com/api/v1/events",
 "scribd.com/log/",
@@ -7229,7 +7235,6 @@
 "simon.com/46scnlxs/init.js",
 "simplelogin.io/p/api/event",
 "sinst.fwdcdn.com/img/newimg/liveinternet.gif",
-"sionwops.click",
 "sirporno.xxx/js/analytics.js",
 "sitebooster.com/sb/wix/p?",
 "sitefinity.com/collect/",
@@ -7793,6 +7798,7 @@
 "tyler-brown.com/api/stats?",
 "typepad.com/t/stats?",
 "typicalstudent.org",
+"ua.financialexpress.com/api/capture",
 "uadblocker.com/pixel1.php?",
 "uapi.production-public.tubi.io/datascience/logging",
 "ubeat.tv/api/v1/sda/",
@@ -7849,6 +7855,7 @@
 "uq.force.com/auraanalytics",
 "uraaka.com/analytics/",
 "uriports.com/reports/",
+"urlscan.io/stats",
 "us-central1-affilimate.cloudfunctions.net/tracking_",
 "useblackbox.io/telemetry",
 "usercentrics.eu",
@@ -7927,6 +7934,7 @@
 "virtuoussoftware.com/tracker/",
 "visa.com/logging/logevent",
 "vissle.me/track/",
+"visualmirage.co",
 "vivociti.com/images/",
 "vizcloud.co/ping/",
 "vkcache.com/js/amung_counter.js",
@@ -7937,6 +7945,7 @@
 "vnecdn.net/videolog?",
 "vo.msecnd.net/api/beyablejsv2.js",
 "vobium.com/images/banners/",
+"vodtw.xyz/zepto-",
 "volleybox.net/media/js/analytics/",
 "voodc.com/avurc",
 "voonik.com/analytics.min.js",
@@ -8370,7 +8379,6 @@
 "div.text-\\[\\#5b616e\\]",
 "div[class^=\"ad_\"]",
 "div[data-test=\"ad-slot-visible\"]",
-".ads",
 "#__next > .fixed",
 "#hpAdVideo",
 ".ad-blocker-popup",
@@ -8578,6 +8586,11 @@
 "#Purch_D_R_0_1",
 ".Purch_Y_C_0_1-container",
 ".ad-desktop\\:block"
+],
+"randomwordgenerator.com": [
+"#RWG_Bottom_Banner_Desktop_970px",
+"#RWG_Sidebar_Banner_Desktop_970px",
+"#RWG_Under_Video_Player"
 ],
 "edn.com": [
 "#SideBarWrap",
@@ -8901,7 +8914,8 @@
 "#anw"
 ],
 "wordhippo.com": [
-"#ad1"
+"#ad1",
+"#sgwDesktopBottomDiv"
 ],
 "wordreference.com": [
 "#ad1",
@@ -10284,7 +10298,8 @@
 ".css-oeful5",
 ".e1xxpj0j1.css-4vtjtj",
 ".g-paid",
-"[data-testid=\"StandardAd\"]"
+"[data-testid=\"StandardAd\"]",
+"[class]:has(> [id=\"ad-top\"])"
 ],
 "streetinsider.com": [
 "#bottom_ad_fixed",
@@ -11059,13 +11074,6 @@
 ".evoke_billboard_single",
 ".jw-player-video-widget"
 ],
-"wral.com": [
-"#exco",
-".ad",
-".ad-container",
-".promotion",
-".vw3Klj"
-],
 "csstats.gg": [
 "#faceit-banner",
 ".banner",
@@ -11174,7 +11182,6 @@
 "[href*=\"url2.cnx-software.com/\"]",
 "[href*=\"url3.cnx-software.com/\"]",
 "[href=\"https://www.youyeetoo.com/\"]",
-"[href^=\"https://url2.cnx-software.com/\"]",
 "[href^=\"https://www.aliexpress.com/\"]",
 "[href^=\"https://www.armdesigner.com/\"]",
 "a[href^=\"https://rock.sh/\"]",
@@ -11885,6 +11892,8 @@
 ".ad-slot-dynamic",
 ".ad-slot-header__wrapper",
 ".ad-slot__ad-wrapper",
+".featured-product__card",
+".product-offer-card-container_related-products",
 ".stack__ads",
 ".zone__ads",
 "[data-zone-label=\"Paid Partner Content\"]",
@@ -12942,6 +12951,9 @@
 ".new-adv",
 ".side-adv-block-blog-open"
 ],
+"ducky.bio": [
+"#popupOverlay"
+],
 "quickmeme.com": [
 "#post[style=\"display: block;min-height: 290px; padding:0px;\"]"
 ],
@@ -13026,6 +13038,16 @@
 ".IMGgi",
 ".main-content-unit-wrapper",
 ".temp-unit"
+],
+"coincarp.com": [
+"#random_sponsored",
+".customspon",
+".interact-mobileBox",
+".sp-down",
+".spo-btn",
+".sponsored-td",
+"a[href^=\"https://bcgame.sk/\"]",
+".border-bottom:has-text(Sponsored)"
 ],
 "rawstory.com": [
 "#rawstory_front_2_container",
@@ -13602,12 +13624,6 @@
 "hiphopkit.com": [
 "#sponsored-sidebar"
 ],
-"homedepot.com": [
-"#sponsored-standard-banner-nucleus",
-"[id*=\"sponsored\"]",
-".browse-search__pod:has([id^=\"plp_pod_sponsored\"])",
-"section[id^=\"browse-search-pods-\"] > div.browse-search__pod:has(div.product-sponsored)"
-],
 "philstar.com": [
 "#sponsored_posts"
 ],
@@ -14016,6 +14032,7 @@
 "coingecko.com": [
 "#top-announcement-header",
 ".sponsored-v2",
+"[data-ads-target=\"banner\"]",
 "[data-controller=\"button-ads\"]",
 "[data-target=\"ads.banner\"]"
 ],
@@ -14975,6 +14992,17 @@
 ".styles_backdrop__8uFQ4",
 "div[style=\"margin-bottom: 10px; display: flex;\"]"
 ],
+"genius.com": [
+".InreadContainer-sc-b078f8b1-0",
+".Leaderboard-sc-78e1105d-0",
+".SectionLeaderboard-sc-dbc68f4-0",
+".cujBpY",
+"[class^=\"InnerSectionAd__\"]",
+"[class^=\"InreadContainer__\"]",
+"div[class^=\"DfpAd__Container-\"]",
+"div[class^=\"LeaderboardOrMarquee__\"]",
+"div[class^=\"SidebarAd_\"]"
+],
 "doodle.com": [
 ".JupiterLayout__left-placement-container",
 ".JupiterLayout__right-placement-container",
@@ -15318,6 +15346,9 @@
 ".picwrap"
 ],
 "mallorcasunshineradio.com": [
+".a-single"
+],
+"newsindiatimes.com": [
 ".a-single"
 ],
 "runwaygirlnetwork.com": [
@@ -16249,7 +16280,8 @@
 ".content-card-footer",
 ".cy-storyblock",
 ".shop-with-us__container",
-".widget_block"
+".widget_block",
+".lead-container"
 ],
 "vancouversun.com": [
 ".ad",
@@ -16340,6 +16372,13 @@
 "wqad.com": [
 ".ad"
 ],
+"wral.com": [
+".ad",
+".ad-container",
+".promotion",
+".vw3Klj",
+"#exco"
+],
 "wrif.com": [
 ".ad"
 ],
@@ -16418,6 +16457,8 @@
 ".feed-shared-update-v2:has(a[aria-label*=\"Promo\"])",
 ".feed-shared-update-v2:has(a[aria-label*=\"Anzeige\"])",
 ".feed-shared-update-v2:has-text(Promoted)",
+"div.feed-shared-update-v2:has(span.update-components-actor__description:has-text(Promoted))",
+".msg-conversation-listitem__link:has-text(Sponsored)",
 ".feed-shared-update-v2:has(a[aria-label*=\"Patrocinado\"])",
 ".feed-shared-update-v2:has(a[aria-label*=\"Propagov\u00e1no\"])",
 ".feed-shared-update-v2:has(a[aria-label*=\"Gepromoot\"])",
@@ -17181,6 +17222,12 @@
 "coloradotimesrecorder.com": [
 ".adSidebar"
 ],
+"golfdigest.com": [
+".adSlot",
+".leaderboard-container",
+".midslot",
+".o-ArticleRecirc"
+],
 "drive.com.au": [
 ".adSpacing_drive-ad-spacing__HdaBg",
 ".gam-ad",
@@ -17578,6 +17625,10 @@
 ],
 "brickset.com": [
 ".admin.buy"
+],
+"adn.com": [
+".adn-adwrap",
+".arcad-feature"
 ],
 "web-dev-qa-db-fra.com": [
 ".adn-ar"
@@ -19780,9 +19831,6 @@
 "springfieldnewssun.com": [
 ".arc_ad"
 ],
-"adn.com": [
-".arcad-feature"
-],
 "businessoffashion.com": [
 ".arcad-feature"
 ],
@@ -21465,8 +21513,7 @@
 ".square"
 ],
 "dev.to": [
-".billboard",
-".billboard[data-type-of=\"external\"]"
+".billboard"
 ],
 "hotstar.com": [
 ".billboard",
@@ -21815,14 +21862,6 @@
 "bing.com": [
 ".br-poleoffcarousel",
 ".slide:has(.rtb_ad_caritem_mvtr)",
-"li.b_algo:has(a[aria-label=\"Amazon\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"Best Buy\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"Booking.com\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"Trip.com\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"Tripadvisor\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"Walmart\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"eBay\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
-"li.b_algo:has(a[aria-label=\"eDreams\"] .rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"])",
 "#bepfo.popup[style^=\"visibility: visible\"]",
 ".ad_sc",
 ".b_ad",
@@ -23065,14 +23104,6 @@
 "filerio.in": [
 ".ctl25"
 ],
-"genius.com": [
-".cujBpY",
-"[class^=\"InnerSectionAd__\"]",
-"[class^=\"InreadContainer__\"]",
-"div[class^=\"DfpAd__Container-\"]",
-"div[class^=\"LeaderboardOrMarquee__\"]",
-"div[class^=\"SidebarAd_\"]"
-],
 "speedrun.com": [
 ".curse"
 ],
@@ -23130,10 +23161,6 @@
 ],
 "f150lightningforum.com": [
 ".customizedBox"
-],
-"coincarp.com": [
-".customspon",
-".interact-mobileBox"
 ],
 "citywire.com": [
 ".cw-top-advert"
@@ -23964,7 +23991,8 @@
 ".for-desktop",
 ".insert",
 ".insert-label",
-".item-insert"
+".item-insert",
+".insert-blocker"
 ],
 "purexbox.com": [
 ".for-desktop",
@@ -24099,11 +24127,20 @@
 "draxe.com": [
 ".g"
 ],
+"gadgetbuzz.net": [
+".g"
+],
 "hamodia.com": [
 ".g",
 ".oiomainlisting"
 ],
+"illustrationmaster.com": [
+".g"
+],
 "jacksonvillefreepress.com": [
+".g"
+],
+"marionmugshots.com": [
 ".g"
 ],
 "marshallradio.net": [
@@ -24138,10 +24175,6 @@
 ],
 "womensagenda.com.au": [
 ".g"
-],
-"marionmugshots.com": [
-".g-1",
-".g-3"
 ],
 "dailyjournalonline.com": [
 ".g-dyn"
@@ -25585,10 +25618,6 @@
 "forum.audiogon.com": [
 ".leaderboard-container"
 ],
-"golfdigest.com": [
-".leaderboard-container",
-".o-ArticleRecirc"
-],
 "news957.com": [
 ".leaderboard-container"
 ],
@@ -26262,10 +26291,6 @@
 "cryptoticker.io": [
 ".mso-cls-wrapper"
 ],
-"kickassanimes.io": [
-".mt-6.rs",
-".rs"
-],
 "thedrive.com": [
 ".mtc-header__desktop__article-prefill-container",
 ".mtc-prefill-container-injected",
@@ -26780,6 +26805,9 @@
 ],
 "yopmail.net": [
 ".pindexhautctn"
+],
+"9animetv.to": [
+".pizza"
 ],
 "hianime.to": [
 ".pizza"
@@ -27608,6 +27636,11 @@
 ".recs-feed-item--ad",
 ".tonefuze"
 ],
+"twz.com": [
+".recurrent-inline-leaderboard",
+".mtc-header__desktop__home-prefill-container",
+".mtc-header__desktop__article-prefill-container"
+],
 "redferret.net": [
 ".redfads"
 ],
@@ -27756,6 +27789,9 @@
 "kickassanime.mx": [
 ".rs",
 "#upgrade_pop"
+],
+"kickassanimes.io": [
+".rs"
 ],
 "voxelmatters.com": [
 ".rss-ads-orizontal"
@@ -29258,6 +29294,9 @@
 ],
 "theroar.com.au": [
 ".u-d-block",
+"div[style=\"margin: 0px auto; text-align: center; height: 280px; max-height: 280px; overflow: hidden;\"]",
+"div[style=\"min-height:260px;max-height:260px;overflow:hidden;\"]",
+".pm-video-player__container-outermost",
 ".fuse-slot",
 ".pm-ad-unit"
 ],
@@ -30133,6 +30172,9 @@
 "[aria-label^=\"Sponsored\"]",
 "[data-product-id]:has(.flag_label--sponsored)"
 ],
+"impressivetimes.com": [
+"[class$=\"-ads\"]"
+],
 "economictimes.indiatimes.com": [
 "[class*=\"-ad-\"]"
 ],
@@ -30814,6 +30856,9 @@
 "yumyumnews.com": [
 "[href^=\"https://click.linksynergy.com/\"]"
 ],
+"parametric-architecture.com": [
+"[href^=\"https://enscape3d.com/\"]"
+],
 "limetorrents.ninjaproxy1.com": [
 "[href^=\"https://gamestoday.org/\"]"
 ],
@@ -30923,6 +30968,11 @@
 "cars.com": [
 "[id$=\"-sponsored\"]",
 "#branded-canvas-click-wrapper:has(> #native-ad-html)"
+],
+"homedepot.com": [
+"[id*=\"sponsored\"]",
+".browse-search__pod:has([id^=\"plp_pod_sponsored\"])",
+"section[id^=\"browse-search-pods-\"] > div.browse-search__pod:has(div.product-sponsored)"
 ],
 "producebluebook.com": [
 "[id^=\"BBS\"]"
@@ -32758,14 +32808,6 @@
 "[class]:has(> .related-stories-inset-video)",
 ".japmJB"
 ],
-"skyscanner.com": [
-"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
-"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
-"div:has(> a[data-testid=\"inline-brand-banner\"])",
-"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
-],
 "svgrepo.com": [
 "[class^=\"style_native\"]:has([href*=\"buysellads.com\"])"
 ],
@@ -32812,12 +32854,6 @@
 ],
 "creepypasta.com": [
 "center:has(+ #ad-container-1)"
-],
-"skyscanner.net": [
-"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
-"div:has(> a[data-testid=\"inline-brand-banner\"])",
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
 ],
 "flightradar24.com": [
 "div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)",
@@ -33423,180 +33459,464 @@
 "div[class=\"uitk-spacing uitk-spacing-margin-blockstart-three\"]:has(a[href^=\"https://pagead2.googlesyndication.com/\"])"
 ],
 "skyscanner.ae": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.at": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.ca": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.ch": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.id": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.il": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.in": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.kr": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.nz": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.th": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.co.za": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
+],
+"skyscanner.com": [
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.au": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.br": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.eg": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.hk": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.mx": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.my": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.ph": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.sa": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.sg": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.tr": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.tw": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.ua": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.com.vn": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.cz": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.de": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.dk": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.es": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.fi": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.fr": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.gg": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.hu": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.ie": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.it": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.jp": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
+],
+"skyscanner.net": [
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.nl": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.no": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.pk": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.pl": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.pt": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.qa": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.ro": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skyscanner.se": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "tianxun.com": [
-"div[aria-label=\"Sponsored\"]",
-"div[class^=\"ItineraryInlinePlusWrapper_container\"]"
+"[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])",
+"div > a:has(div[class^=\"DefaultBanner_sponsorshipRow\"])",
+"div:has(> a[data-testid=\"inline-brand-banner\"])",
+"div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
+"div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "gunsandammo.com": [
 "#VideoPlayerDivIframe",
@@ -33821,6 +34141,7 @@
 ],
 "youtube.com": [
 "#masthead-ad",
+"#mealbar-promo-renderer",
 "#player-ads",
 "#shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)",
 ".YtdShortsSuggestedActionStaticHostContainer",
@@ -33930,6 +34251,9 @@
 ],
 "mustar.meitetsu.co.jp": [
 "body[style=\"opacity: 0;\"]:style(opacity: 1 !important;)"
+],
+"thedarkblues.co.uk": [
+".add_slot_header"
 ],
 "yonder.fr": [
 "#ab-message"
@@ -34081,6 +34405,9 @@
 "huffingtonpost.es": [
 "[data-adtype]"
 ],
+"aipebel.com": [
+".popSc"
+],
 "texastribune.org": [
 ".js-ad-unit"
 ],
@@ -34096,10 +34423,6 @@
 ],
 "deadspin.com": [
 ".japmJB"
-],
-"twz.com": [
-".mtc-header__desktop__home-prefill-container",
-".mtc-header__desktop__article-prefill-container"
 ],
 "slate.com": [
 ".slate-ad"
@@ -34988,7 +35311,6 @@
 "[data-m-ad-id]",
 "[data-mobile-ad-id]",
 "[data-name=\"adaptiveConstructorAd\"]",
-"[data-rc-widget=\"data-rc-widget\"]",
 "[data-rc-widget]",
 "[data-revive-zoneid]",
 "[data-role=\"tile-ads-module\"]",
@@ -35069,19 +35391,18 @@
 "[class^=\"s2nPlayer\"]",
 ".pizza-x.pizza",
 ".pizza-y.pizza",
-"[data-taboola-options]",
 ".grid > .container > #aside-promotion",
 ".partner-loading-shown.partner-label",
 "div[id*=\"MarketGid\"]",
 "div[id*=\"ScriptRoot\"]",
 "[onclick*=\"content.ad/\"]",
-".OUTBRAIN[data-widget-id^=\"FMS_REELD_\"]",
 ".ob-p.ob-dynamic-rec-container",
 "a[data-oburl^=\"https://paid.outbrain.com/network/redir?\"]",
 "a[data-redirect^=\"https://paid.outbrain.com/network/redir?\"]",
 "a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"]",
 "a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source",
 ".nya-slot[style]",
+"[data-taboola-options]",
 "amp-embed[type=\"taboola\"]",
 "div[id^=\"taboola-stream-\"]",
 "div[id^=\"zergnet-widget\"]",
@@ -35099,6 +35420,9 @@
 "[data-advadstrackid]:not([style$=\"left: -10000px !important; top: -1000px !important;\"]):not(.adsbygoogle)",
 "[data-adblockkey]:not([style$=\"left: -10000px !important; top: -1000px !important;\"]):not(html):not(.adsbygoogle)",
 ".ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_empire):not(#detect):not(.adsbox)",
+".ad-slot:not(.adsbox):not(.adsbygoogle)",
+".sidebar-ad:not(.adsbygoogle)",
+".Ad-Container:not(.adsbygoogle)",
 "div.adsninja-ad-zone",
 "div.bgr-ad-leaderboard",
 "div.adsHeight300x250",
@@ -48441,111 +48765,6 @@
 ".video--container--aniview",
 ".vidible-wrapper",
 ".wps-player-wrap",
-"#around-the-web",
-"#g-outbrain",
-"#js-outbrain-module",
-"#js-outbrain-relateds",
-"#outbrain",
-"#outbrain-id",
-"#outbrain-section",
-"#outbrain1",
-"#outbrainWidget",
-"#outbrain_widget_0",
-".ArticleFooter-outbrain",
-".ArticleOutbrainLocal",
-".OUTBRAIN",
-".Outbrain",
-".article_OutbrainContent",
-".box-outbrain",
-".c2_outbrain",
-".component-outbrain",
-".ob-smartfeed-wrapper",
-".outbrain",
-".outbrain-ads",
-".outbrain-bloc",
-".outbrain-content",
-".outbrain-group",
-".outbrain-module",
-".outbrain-placeholder",
-".outbrain-recommended",
-".outbrain-reserved-space",
-".outbrain-single-bottom",
-".outbrain-widget",
-".outbrain-wrap",
-".outbrain-wrapper",
-".outbrain-wrapper-container",
-".outbrain-wrapper-outer",
-".outbrainWidget",
-".outbrain__main",
-".outbrain_container",
-".outbrain_skybox",
-".outbrainbox",
-".sics-component__outbrain",
-".sidebar-outbrain",
-".voc-ob-wrapper",
-".widget_outbrain",
-".widget_outbrain_widget",
-"#block-taboolablock",
-"#js-Taboola-Container-0",
-"#moduleTaboolaRightRail",
-"#original_taboola",
-"#possible_taboola",
-"#taboola",
-"#taboola-above-homepage-thumbnails",
-"#taboola-below-article-thumbnails",
-"#taboola-below-article-thumbnails-2",
-"#taboola-below-article-thumbnails-mg",
-"#taboola-below-disco-board",
-"#taboola-below-homepage-thumbnails-2",
-"#taboola-below-homepage-thumbnails-3",
-"#taboola-below-main-column",
-"#taboola-belowarticle",
-"#taboola-bottom",
-"#taboola-bottom-main-column",
-"#taboola-div",
-"#taboola-homepage-thumbnails",
-"#taboola-homepage-thumbnails-desktop",
-"#taboola-horizontal-toolbar",
-"#taboola-in-feed-thumbnails",
-"#taboola-mid-main-column-thumbnails",
-"#taboola-native-right-rail-thumbnails",
-"#taboola-right-rail",
-"#taboola-right-rail-text-right",
-"#taboola-right-rail-thumbnails",
-"#taboola-right-rail-thumbnails-2nd",
-"#taboola-text-2-columns-mix",
-"#taboola-vid-container",
-"#taboola-widget-wrapper",
-"#taboola_bottom",
-"#taboola_side",
-"#taboola_wrapper",
-".divider-taboola",
-".js-taboola",
-".m-article-taboola",
-".mc-column-Taboola",
-".slottaboola",
-".taboola",
-".taboola-banner",
-".taboola-bottom-adunit",
-".taboola-container",
-".taboola-frame",
-".taboola-inbetweener",
-".taboola-like-block",
-".taboola-module",
-".taboola-recommends",
-".taboola-sidebar",
-".taboola-sidebar-container",
-".taboola-skip-wrapper",
-".taboola-thumbnails-container",
-".taboola-vertical",
-".taboola-wrapper",
-".taboolaDiv",
-".taboola_module",
-".taboolaloader",
-".trc-first-recommendation",
-".trc-spotlight-first-recommendation",
-".trc_excludable",
-".trc_spotlight_item",
 ".BeOpWidget",
 ".default_rc_theme",
 ".inf-onclickvideo-adbox",
@@ -48608,62 +48827,167 @@
 ".container-content__container-relatedlinks",
 "#pubexchange_below_content",
 ".pubexchange_module",
+"#around-the-web",
+"#g-outbrain",
 "#js-outbrain-ads-module",
+"#js-outbrain-module",
+"#js-outbrain-relateds",
+"#outbrain",
+"#outbrain-id",
+"#outbrain-section",
 "#outbrain-wrapper",
+"#outbrain1",
 "#outbrainAdWrapper",
+"#outbrainWidget",
+"#outbrain_widget_0",
+".ArticleFooter-outbrain",
+".ArticleOutbrainLocal",
+".OUTBRAIN",
+".Outbrain",
 ".adv_outbrain",
+".article_OutbrainContent",
+".box-outbrain",
+".c2_outbrain",
+".component-outbrain",
 ".js-outbrain-container",
 ".mid-outbrain",
+".ob-smartfeed-wrapper",
 ".ob-widget-header",
 ".outBrainWrapper",
+".outbrain",
 ".outbrain-ad-slot",
 ".outbrain-ad-units",
+".outbrain-ads",
 ".outbrain-bg",
+".outbrain-bloc",
+".outbrain-content",
+".outbrain-group",
+".outbrain-module",
+".outbrain-placeholder",
+".outbrain-recommended",
+".outbrain-reserved-space",
+".outbrain-single-bottom",
+".outbrain-widget",
+".outbrain-wrap",
+".outbrain-wrapper",
+".outbrain-wrapper-container",
+".outbrain-wrapper-outer",
 ".outbrainAdHeight",
+".outbrainWidget",
+".outbrain__main",
+".outbrain_container",
+".outbrain_skybox",
 ".outbrainad",
+".outbrainbox",
 ".promoted-outbrain",
 ".responsive-ad-outbrain",
+".sics-component__outbrain",
+".sidebar-outbrain",
 ".single__outbrain",
+".voc-ob-wrapper",
+".widget_outbrain",
+".widget_outbrain_widget",
 "#block-boxes-taboola",
+"#block-taboolablock",
 "#component-taboola-below-article-feed",
 "#component-taboola-below-article-feed-2",
 "#component-taboola-below-homepage-feed",
+"#js-Taboola-Container-0",
+"#moduleTaboolaRightRail",
+"#original_taboola",
+"#possible_taboola",
+"#taboola",
+"#taboola-above-homepage-thumbnails",
 "#taboola-ad",
 "#taboola-adverts",
 "#taboola-below",
 "#taboola-below-article-1",
+"#taboola-below-article-thumbnails",
+"#taboola-below-article-thumbnails-2",
 "#taboola-below-article-thumbnails-express",
+"#taboola-below-article-thumbnails-mg",
 "#taboola-below-article-thumbnails-photo",
 "#taboola-below-article-thumbnails-v2",
+"#taboola-below-disco-board",
 "#taboola-below-forum-thumbnails",
+"#taboola-below-homepage-thumbnails-2",
+"#taboola-below-homepage-thumbnails-3",
+"#taboola-below-main-column",
+"#taboola-belowarticle",
+"#taboola-bottom",
+"#taboola-bottom-main-column",
+"#taboola-div",
+"#taboola-homepage-thumbnails",
+"#taboola-homepage-thumbnails-desktop",
+"#taboola-horizontal-toolbar",
+"#taboola-in-feed-thumbnails",
 "#taboola-mid-article-thumbnails",
 "#taboola-mid-article-thumbnails-ii",
+"#taboola-mid-main-column-thumbnails",
 "#taboola-mobile-article-thumbnails",
+"#taboola-native-right-rail-thumbnails",
 "#taboola-placeholder",
+"#taboola-right-rail",
 "#taboola-right-rail-express",
+"#taboola-right-rail-text-right",
+"#taboola-right-rail-thumbnails",
+"#taboola-right-rail-thumbnails-2nd",
+"#taboola-text-2-columns-mix",
+"#taboola-vid-container",
+"#taboola-widget-wrapper",
+"#taboola_bottom",
 "#taboola_responsive_wrapper",
+"#taboola_side",
+"#taboola_wrapper",
 ".article-taboola",
+".divider-taboola",
 ".grid__module-sizer_name_taboola",
+".js-taboola",
+".m-article-taboola",
+".mc-column-Taboola",
+".slottaboola",
+".taboola",
 ".taboola-above-article",
 ".taboola-above-article-thumbnails",
 ".taboola-ad",
+".taboola-banner",
 ".taboola-block",
+".taboola-bottom-adunit",
+".taboola-container",
+".taboola-frame",
 ".taboola-general",
 ".taboola-in-plug-wrap",
+".taboola-inbetweener",
 ".taboola-item",
+".taboola-like-block",
+".taboola-module",
+".taboola-recommends",
+".taboola-sidebar",
+".taboola-sidebar-container",
+".taboola-skip-wrapper",
+".taboola-thumbnails-container",
+".taboola-vertical",
 ".taboola-widget",
+".taboola-wrapper",
 ".taboolaArticle",
+".taboolaDiv",
 ".taboolaHeight",
 ".taboola__container",
 ".taboola_blk",
 ".taboola_body_ad",
 ".taboola_container",
 ".taboola_lhs",
+".taboola_module",
+".taboolaloader",
 ".trb_taboola",
+".trc-first-recommendation",
+".trc-spotlight-first-recommendation",
+".trc_excludable",
 ".trc_rbox",
 ".trc_rbox_border_elm",
 ".trc_rbox_div",
 ".trc_related_container",
+".trc_spotlight_item",
 ".van_taboola",
 ".widget_taboola",
 ".ZERGNET",
@@ -48730,7 +49054,6 @@
 ".sponsored-headlines",
 ".video-ad",
 ".widget-videoad",
-".pbs__player",
 "#taboola-below-article",
 "#floorboard_block",
 "#Q39hhYQopC-top",
@@ -50405,6 +50728,7 @@
 "newegg.com"
 ],
 ".ad-content": [
+"encuentra24.com",
 "flat-ads.com",
 "job.inshokuten.com"
 ],
@@ -50541,6 +50865,9 @@
 ],
 ".adcenter": [
 "mediance.com"
+],
+".adhide": [
+"indiatimes.com"
 ],
 ".adlink": [
 "kingsinteriors.co.uk"
@@ -51036,11 +51363,9 @@
 "div#topAd": [
 "tubefilter.com"
 ],
-".pbs__player": [
-"mm-watch.com",
-"player.ex.co",
-"theautopian.com",
-"usatoday.com"
+"div.adsninja-ad-zone": [
+"screenrant.com",
+"xda-developers.com"
 ],
 ".jw-wrapper > div[style=\"opacity: 0; visibility: hidden; overflow: hidden; display: block; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;\"]": [
 "abysscdn.com",
@@ -51243,9 +51568,6 @@
 },
 "/adchoice.png": {
 "image": true
-},
-"/adconfig.js": {
-"script": true
 },
 "/adcount.js": {
 "script": true
@@ -51525,9 +51847,6 @@
 "script": true
 },
 "/adv-scroll.": {
-"script": true
-},
-"/adv-socialbar-scroll.js": {
 "script": true
 },
 "/adv_vert.js": {
@@ -52242,9 +52561,6 @@
 "/plugins/ultimate-popunder/": {
 "stylesheet": false
 },
-"/plugins/wp125/": {
-"stylesheet": false
-},
 "/pop_8/pop_8_": {
 "script": true
 },
@@ -52945,6 +53261,10 @@
 "script": true,
 "stylesheet": true
 },
+"-160x600-": {
+"image": true,
+"sub_frame": true
+},
 "-300x250-": {
 "xmlhttprequest": false
 },
@@ -52987,6 +53307,9 @@
 "main_frame": true
 },
 "gamdom.com/?utm_source=": {
+"main_frame": true
+},
+"stake.mba/?c=": {
 "main_frame": true
 },
 "a2zapk.com": {
@@ -53267,10 +53590,6 @@
 "main_frame": true,
 "popup": true
 },
-"28d591da.xyz": {
-"main_frame": true,
-"popup": true
-},
 "295c.site": {
 "main_frame": true,
 "popup": true
@@ -53324,10 +53643,6 @@
 "popup": true
 },
 "38941752.xyz": {
-"main_frame": true,
-"popup": true
-},
-"3a2e.site": {
 "main_frame": true,
 "popup": true
 },
@@ -54659,6 +54974,9 @@
 "image": true
 },
 ".klclick.com/": {
+"image": true
+},
+".lassuranceretraite.fr/mk/op/": {
 "image": true
 },
 ".mail.odysee.com/o/": {
@@ -56336,9 +56654,6 @@
 "online.": [
 "/promoredirect?key="
 ],
-"?zoneid=": [
-"&ab=1"
-],
 "/affiliate/referral.asp?site=": [
 "&aff_id="
 ],
@@ -56448,6 +56763,10 @@
 ],
 "prewarcar.com/": [
 "-banners/"
+],
+"putlocker.": [
+"/banner/static/",
+"/sab_"
 ],
 "rspro.xyz/wp-content/uploads/": [
 "/redotpay.webp"
@@ -57118,6 +57437,9 @@
 "/garecord",
 "/impressionrecord"
 ],
+"vivaldi.": [
+"/rep/rep.js"
+],
 "www.ebay.": [
 "/gh/dfpsvc?"
 ],
@@ -57228,6 +57550,9 @@
 ],
 "dek-d.com": [
 "/analytic.js"
+],
+"vidlink.pro/api/": [
+"cash"
 ],
 "drakecomic.": [
 "/wp-content/themes/mangareader/script.js"
@@ -57353,6 +57678,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"azure.com": [
+"/api/telemetry|"
 ],
 "voicendata.com/static/js/": [
 "_gtag_publisher.js"
@@ -58070,9 +58398,6 @@
 ],
 "peach-static.ebu.io/pipe-": [
 ".min.js"
-],
-"vivaldi.": [
-"/rep/rep.js"
 ],
 "massdrop.com/": [
 "/pixelrb?"
