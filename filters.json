@@ -5214,6 +5214,8 @@
 "dxb.to/logger/",
 "dxlive.com/js/dtrace.js",
 "dz7cp6bdqjjn5.cloudfront.net/q/s/stats/init.min.js",
+"dzen.ru#%#//scriptlet('json-prune', 'ssrdata.exportresponse.feeddata.adpixelsdata')",
+"dzen.ru#%#//scriptlet('json-prune', 'ssrdata.exportresponse.feeddata.adpixelslink')",
 "e-tailwebstores.com/accounts/default1/banners/",
 "e.ebidtech.com/cv/",
 "e.pcloud.com/trackopen",
@@ -5381,6 +5383,7 @@
 "feeds.ibt.com/track.gif",
 "fembed.com/api/ping/",
 "fembedta.com/pub?",
+"feross.org/views",
 "figma.com/api/figment-proxy/",
 "figma.com/api/web_logger/",
 "fileboom.me/images/i/",
@@ -8277,6 +8280,10 @@
 ".recent-stocks-sibling",
 ".top-ban-wrapper"
 ],
+"thetvdb.com": [
+"#ATF",
+"#Bottom"
+],
 "seafoodsource.com": [
 "#Ad1-300x250",
 "#Ad2-300x250",
@@ -9300,7 +9307,9 @@
 "#adtech-top-banner-container"
 ],
 "dict.leo.org": [
-"#adv-drectangle1"
+"#adv-drectangle1",
+"#adv-drectangle2",
+"#adv-sitebar"
 ],
 "leo.org": [
 "#adv-wbanner"
@@ -12106,6 +12115,7 @@
 "bbc.com": [
 "#leaderboard-aside-content",
 "#mpu-side-aside-content",
+"[data-component=\"ad-slot\"]",
 "section[data-e2e=\"advertisement\"]",
 "#sticky-mpu:has(.dotcom-ad-inner)",
 "li[class*=\"-ListItem\"]:has(div.dotcom-ad)",
@@ -15883,6 +15893,9 @@
 "hoodline.com": [
 ".ad"
 ],
+"huckmag.com": [
+".ad"
+],
 "inc-aus.com": [
 ".ad"
 ],
@@ -19250,7 +19263,8 @@
 ".ah-box"
 ],
 "piokok.com": [
-".ah-box"
+".ah-box",
+".kaksgon"
 ],
 "pixwox.com": [
 ".ah-box"
@@ -24506,7 +24520,9 @@
 "tetris.com": [
 ".hAxContainer",
 ".vAxContainer-L",
-".vAxContainer-R"
+".vAxContainer-R",
+"[style*=\"min-width: 300px;\"]",
+"[style*=\"min-width: 728px;\"]"
 ],
 "opoyi.com": [
 ".hLYYlN"
@@ -25892,6 +25908,9 @@
 "div[id*=\"-promo-lead-\"]",
 "div[id*=\"-promo-mrec-\"]"
 ],
+"poe2db.tw": [
+".mb-1 > [href^=\"/s/tl3\"]"
+],
 "racgp.org.au": [
 ".mb-1.small"
 ],
@@ -26537,7 +26556,8 @@
 "drivencarguide.co.nz": [
 ".o-adunit",
 ".tw-bg-gray-200",
-".tw-min-h-\\[18\\.75rem\\]"
+".tw-min-h-\\[18\\.75rem\\]",
+"[data-test-ui=\"outbrain-suggestions\"]"
 ],
 "lawandcrime.com": [
 ".o-promo-unit",
@@ -32834,10 +32854,11 @@
 ".zZcm-pres-three",
 "div.PzK0-pres-default",
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
+"div[class$=\"-adWrapper\"]",
 "div[class*=\"-ad-card\"]",
 "div[class*=\"-adInner\"]",
 "div[data-resultid]:has(a.IZSg-adlink)",
-"div[id^=\"inline-1-\"]"
+"div[id^=\"inline-\"]"
 ],
 "tympanus.net": [
 "article:has(header:has(.ct-sponsored))"
@@ -34045,6 +34066,24 @@
 "picrew.me": [
 ".play-Imagemaker_Footer"
 ],
+"baseball-reference.com": [
+".primis"
+],
+"basketball-reference.com": [
+".primis"
+],
+"fbref.com": [
+".primis"
+],
+"hockey-reference.com": [
+".primis"
+],
+"pro-football-reference.com": [
+".primis"
+],
+"sports-reference.com": [
+".primis"
+],
 "kidspot.com.au": [
 ".secondary-video"
 ],
@@ -34215,10 +34254,11 @@
 ".zZcm-pres-three",
 "div.PzK0-pres-default",
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
+"div[class$=\"-adWrapper\"]",
 "div[class*=\"-ad-card\"]",
 "div[class*=\"-adInner\"]",
 "div[data-resultid]:has(a.IZSg-adlink)",
-"div[id^=\"inline-1-\"]"
+"div[id^=\"inline-\"]"
 ],
 "swoodoo.com": [
 "#resultWrapper > div > div > [role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
@@ -34235,10 +34275,11 @@
 ".zZcm-pres-three",
 "div.PzK0-pres-default",
 "div.YTRJ[role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
+"div[class$=\"-adWrapper\"]",
 "div[class*=\"-ad-card\"]",
 "div[class*=\"-adInner\"]",
 "div[data-resultid]:has(a.IZSg-adlink)",
-"div[id^=\"inline-1-\"]"
+"div[id^=\"inline-\"]"
 ],
 "anikore.jp": [
 "html[class^=\"loading\"]:style(visibility: visible !important;)"
@@ -49059,6 +49100,7 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+"#cookieContent",
 ".avia-cookie-consent-wrap",
 ".lgcookieslaw-banner",
 ".muniweb-cookies",
@@ -53266,7 +53308,7 @@
 "sub_frame": true
 },
 "-300x250-": {
-"xmlhttprequest": false
+"image": true
 },
 "-468x80-": {
 "image": true
@@ -56681,6 +56723,9 @@
 "/f10ac63cd7",
 "/secure.js"
 ],
+"d11h0pey8cu31p.cloudfront.net/": [
+"/an.js"
+],
 "1337x.": [
 "/images/x28.jpg",
 "/images/x2x8.jpg",
@@ -57206,6 +57251,9 @@
 ],
 "wallkit.net": [
 "/user/event"
+],
+"web.valiuz.com": [
+"/tag.js"
 ],
 "webvoo.com": [
 "/logtodb."
