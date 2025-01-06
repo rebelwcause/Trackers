@@ -1972,7 +1972,6 @@
 "/jquery.trackstar.js",
 "/jquerycookieguard.",
 "/js-sdk-event.min.js",
-"/js.ad-drop.",
 "/js/_analytics.js",
 "/js/ad_insight/",
 "/js/admiral-",
@@ -3137,6 +3136,7 @@
 "/talpa-analytics-pro/",
 "/tardisrocinante/vitals.js",
 "/tatari-shopify/tracker-snippet-latest.min.js",
+"/tbl_nw_web_logs?",
 "/tc_analytics.js",
 "/tc_analytics.min.js",
 "/tc_imp.gif?",
@@ -3659,6 +3659,7 @@
 "/wtid.js",
 "/wtinit.js",
 "/wtrack?event=",
+"/wup?cid=",
 "/wutime-adblocktracker/",
 "/wwwcount.cgi?",
 "/wxhawkeye.js",
@@ -4294,6 +4295,7 @@
 "api.qub.ca/collector-service/",
 "api.remanga.org/api/logging/",
 "api.reverso.net/stats/",
+"api.rplay.live/ping",
 "api.samsungfind.com/log-collector",
 "api.solvvy.com/v1/pixels/track",
 "api.streamelements.com/science/",
@@ -4425,6 +4427,7 @@
 "avivid.likr.tw/api/ring_only_tracking.min.js",
 "avvenire.it/content/js/track.es5.min.js?",
 "awe.sm/conversions/",
+"aws.amazon.com/csds/collector/",
 "awsapprunner.com/api/frontend/client/metrics",
 "axept.io",
 "axm.am/am.ads.js",
@@ -4481,6 +4484,7 @@
 "bearblog.dev/hit/",
 "beaumontenterprise.com/413gkwmt/init.js",
 "beauties-of-ukraine.com/export.js",
+"beautypie.com/analytics/",
 "beforeitsnews.com//",
 "beforeitsnews.com/core/ajax/counter/count.php",
 "beforeitsnews.com/img/banner_",
@@ -4605,6 +4609,7 @@
 "brownsshoes.com/iz/2tcs0qig/init.js",
 "browse-privately.net/event/",
 "browserflow.app/proxy/api/event",
+"browserling.com/api/stats-browsing",
 "brudirect.com/images/banners/",
 "btguard.com/images/",
 "btrace.video.qq.com/kvcollect",
@@ -5324,6 +5329,7 @@
 "exchangerates.org.uk/images/200x200_currency.gif",
 "excite.ie/?click_in=",
 "excnn.com/templates/anime/sexybookmark/js/popup.js",
+"execute-api.us-east-1.amazonaws.com/prod/appmonitors/",
 "exitintel.com/log/",
 "expatexchange.com/banner/",
 "expedia.com/api/datacapture/track",
@@ -6476,6 +6482,7 @@
 "mysociety.org/track/",
 "myspace.com/beacon/",
 "myunique.info/wp-includes/js/pop.js",
+"myvidster.com/ads/",
 "myvidster.com/js/myv_ad_camp2.php",
 "mzbcdn.net/mngr/mtm.js",
 "n.tooplay.com/s?v_unique=",
@@ -6592,6 +6599,7 @@
 "npa.thetimes.com/stats",
 "nrl.com/siteassets/sponsorship/",
 "nsandi.com/sites/all/themes/nsandi/js/webtrends_multitrack.js",
+"nslookup.io/pl.js",
 "ntunhs.net/js/tracker.js",
 "ntvid.online/cdn-cgi/trace",
 "nu2.nu/gfx/sponsor/",
@@ -6991,6 +6999,7 @@
 "redditsave.com/api/event",
 "redfin.com/rift?",
 "redgifs.com/v2/metrics/",
+"redirect.prod.experiment.routing.cloudfront.aws.a2z.com/x.png",
 "redirector.yarbot.host/jwplayer/ping.gif",
 "redtram.com/px/",
 "reelgood.com/v3.0/checkip",
@@ -8248,6 +8257,7 @@
 "zoiper.com#%#//scriptlet('remove-class', 'track-click', 'a')",
 "zona.plus/ajax/visit-stats",
 "zonastat.com/installer.html?param=",
+"zoneadsl.com/api/get-ip",
 "zooplus.io/static/js/tracking-min.js",
 "zoosk.com/cs/tp.png?",
 "zoyaporn.com/js/jquery.iframetracker.js",
@@ -8878,7 +8888,8 @@
 "#ad-snigel-1",
 "#ad-snigel-2",
 "#ad-snigel-3",
-"#ad-snigel-4"
+"#ad-snigel-4",
+"a[rel^=\"sponsored\"]"
 ],
 "wordplays.com": [
 "#ad-sticky"
@@ -9132,6 +9143,9 @@
 ".rightblockAd",
 ".storyPage_storyblockAd__r4wwE"
 ],
+"oisd.nl": [
+"#adguardbnnr"
+],
 "seowebstat.com": [
 "#adhead-block"
 ],
@@ -9322,6 +9336,9 @@
 ".hayden-widget",
 ".hayden-widget_top_1"
 ],
+"agma.io": [
+"#advertDialog1"
+],
 "radioonline.fm": [
 "#advertise_center"
 ],
@@ -9346,6 +9363,9 @@
 "thebugle.co.za": [
 "#adz",
 ".sponsors"
+],
+"emojiterra.com": [
+"#adz-header"
 ],
 "hindustantimes.com": [
 "#affiliate-shop-now",
@@ -10237,6 +10257,14 @@
 ".shriresume-logo",
 "[href*=\"bit.ly/\"]"
 ],
+"bmwblog.com": [
+"#bmwbl-mobileArticleLeaderboardBeforeFirstParagraph",
+".bmwbl-after-content",
+".sticky-ad-widget-container",
+"[class*=\"bmwbl-300x250\"]",
+"[class*=\"bmwbl-300x600\"]",
+".bmwbl-video-in-content"
+],
 "smbc-comics.com": [
 "#boardleader",
 "#comicright > div[style]"
@@ -10890,6 +10918,9 @@
 "#di-ai-left",
 "#di-ai-right",
 "#di-ai-right-big"
+],
+"lust-goddess.com": [
+"#dialog-partner"
 ],
 "tmo.report": [
 "#directad"
@@ -13125,6 +13156,9 @@
 ".unacedemy-wrapper",
 "[class*=\"-ad-slot\"]"
 ],
+"calcudoku.org": [
+"#right_td"
+],
 "box-core.net": [
 "#rrec",
 "#tlbrd",
@@ -14425,8 +14459,10 @@
 ],
 "the-express.com": [
 "#web-strip-banner",
+".fr-container",
 ".superbanner",
 "[data-tb-non-consent]",
+"#ovp-primis",
 ".stn-video-container"
 ],
 "sportscardforum.com": [
@@ -14599,7 +14635,8 @@
 "[class*=\"_BodyAd_\"]"
 ],
 "thingiverse.com": [
-".AdBanner__adBanner--GpB5d"
+".AdBanner__adBanner--GpB5d",
+".item-card-container:has-text(Advertisement)"
 ],
 "tvnz.co.nz": [
 ".AdOnPause",
@@ -15100,13 +15137,6 @@
 ".apnews_article_midarticle_1",
 ".apnews_article_midarticle_2",
 ".apnews_article_midarticle_3"
-],
-"quora.com": [
-".PageContentsLayout___StyledBox-d2uxks-0 > .q-box > .q-sticky > .qu-pb--medium",
-".dom_annotate_ad_image_ad",
-".dom_annotate_ad_promoted_answer",
-".dom_annotate_ad_text_ad",
-".spacing_log_question_page_ad"
 ],
 "ask.com": [
 ".PartialKelkooResults"
@@ -15829,6 +15859,9 @@
 "flightglobal.com": [
 ".ad",
 ".adp"
+],
+"flowermanga.net": [
+".ad"
 ],
 "fox6now.com": [
 ".ad",
@@ -17118,6 +17151,9 @@
 ".ad1",
 ".colombia"
 ],
+"urih.com": [
+".ad193"
+],
 "india.com": [
 ".ad5",
 ".ads-in-content",
@@ -17363,6 +17399,9 @@
 "a.logo-link[target=\"_blank\"]",
 ".up:has(.ddg-logo-link)",
 ".up:has(.h-logo-link)"
+],
+"dolldivine.com": [
+".adbox"
 ],
 "interglot.com": [
 ".adbox",
@@ -17978,6 +18017,10 @@
 "radaris.com": [
 ".ads_160_600",
 ".adsense-responsive-bottom"
+],
+"jpeg-optimizer.com": [
+".ads_A1_warp",
+".ads_A2_warp"
 ],
 "metro.co.uk": [
 ".ads__index__adWrapper--cz7QL",
@@ -23369,7 +23412,8 @@
 ".htlad-top_rectangle"
 ],
 "gazette.com": [
-".dfp-ad"
+".dfp-ad",
+".tnt-section-sponsored"
 ],
 "vox.com": [
 ".dfp-ad--connatix",
@@ -23483,6 +23527,14 @@
 "globalgovernancenews.com": [
 ".dlopiqu",
 ".widget_media_image"
+],
+"quora.com": [
+".dom_annotate_ad_image_ad",
+".dom_annotate_ad_promoted_answer",
+".dom_annotate_ad_text_ad",
+".q-sticky[style*=\"box-sizing: border-box; position: sticky;\"]",
+".spacing_log_question_page_ad",
+".PageContentsLayout___StyledBox-d2uxks-0 > .q-box > .q-sticky > .qu-pb--medium"
 ],
 "domaingang.com": [
 ".domai-target",
@@ -23688,7 +23740,8 @@
 "iframe[src]"
 ],
 "textcompare.org": [
-".ez-sidebar-wall"
+".ez-sidebar-wall",
+".mui-19wbou7"
 ],
 "futuregaming.io": [
 ".ez-video-wrap"
@@ -25279,7 +25332,8 @@
 ".kg-blockquote-alt"
 ],
 "linuxhandbook.com": [
-".kg-bookmark-card"
+".kg-bookmark-card",
+"a[href^=\"https://www.warp.dev\"]"
 ],
 "toptenz.net": [
 ".kgbwvoqfwag"
@@ -26760,6 +26814,9 @@
 ".pbl"
 ],
 "culturanimation.com": [
+".pbl"
+],
+"motoratrium.com": [
 ".pbl"
 ],
 "nombresmolones.com": [
@@ -29940,6 +29997,9 @@
 "theregister.com": [
 ".wptl"
 ],
+"fontawesome.com": [
+".wrap-ad"
+],
 "warezload.net": [
 ".wrapper > center > center > [href]"
 ],
@@ -30485,7 +30545,6 @@
 "div[data-testid=\"boosted-product-recommendations\"]",
 ".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 ".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
-"a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)",
 "div > div:has([data-testid=\"banner-spr-label\"])"
 ],
 "manomano.de": [
@@ -30493,7 +30552,6 @@
 "div[data-testid=\"boosted-product-recommendations\"]",
 ".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 ".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
-"a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)",
 "div > div:has([data-testid=\"banner-spr-label\"])"
 ],
 "manomano.es": [
@@ -30501,7 +30559,6 @@
 "div[data-testid=\"boosted-product-recommendations\"]",
 ".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 ".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
-"a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)",
 "div > div:has([data-testid=\"banner-spr-label\"])"
 ],
 "manomano.fr": [
@@ -30509,7 +30566,6 @@
 "div[data-testid=\"boosted-product-recommendations\"]",
 ".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 ".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
-"a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)",
 "div > div:has([data-testid=\"banner-spr-label\"])"
 ],
 "manomano.it": [
@@ -30517,7 +30573,6 @@
 "div[data-testid=\"boosted-product-recommendations\"]",
 ".Ssfiu-:has([data-testid=\"popoverTriggersponsoredLabel\"])",
 ".hrHZYT:has([data-testid=\"popoverTriggersponsoredLabel\"])",
-"a[href^=\"/\"][href*=\"?product_id=\"]:has(.ur6iYv)",
 "div > div:has([data-testid=\"banner-spr-label\"])"
 ],
 "thesportsrush.com": [
@@ -31428,6 +31483,9 @@
 ],
 "tpb.party": [
 "a[href=\"https://mysurferprotector.com/\"]"
+],
+"smalldev.tools": [
+"a[href=\"https://sendit.arcana.network\"]"
 ],
 "techporn.ph": [
 "a[href][target*=\"blank\"]"
@@ -32515,6 +32573,9 @@
 ],
 "lazada.*": [
 ".pdp-block__product-ads"
+],
+"manomano.*": [
+"a[href^=\"/\"][href*=\"?product_id=\"]:has(svg)"
 ],
 "pv-magazine.*": [
 "#home-top-rectangle-wrap-1",
@@ -33982,6 +34043,10 @@
 "#qk2",
 "#qk5"
 ],
+"wideopencountry.com": [
+"#sv-video-container",
+"#video-header"
+],
 "newseveryday.com": [
 "#vplayer_large"
 ],
@@ -34037,6 +34102,7 @@
 ".gb-sponsored-wrapper"
 ],
 "gamesradar.com": [
+".in-article",
 ".jwplayer__widthsetter",
 ".vid-present"
 ],
@@ -34130,6 +34196,9 @@
 ".wrapper-connatixElements",
 ".wrapper-connatixPlayspace"
 ],
+"global.espreso.tv": [
+".ym-video--wrapper"
+],
 "ukrinform.de": [
 "[style^=\"min-height: 280px;\"]"
 ],
@@ -34163,6 +34232,7 @@
 "mail.yahoo.com": [
 "#slot_LREC",
 "[data-test-id=\"gam-iframe\"]",
+"[data-test-id=\"leaderboard-ad-mobile\"]",
 "[data-test-id^=\"pencil-ad\"]",
 "[data-test-id^=\"taboola-ad-\"]",
 "[rel=\"noreferrer\"][data-test-id][href^=\"https://beap.gemini.yahoo.com/mbclk?\"]",
@@ -34713,6 +34783,12 @@
 ".pickwrap",
 ".ad",
 ".ad_gam"
+],
+"game8.jp": [
+".track_mario",
+"div[id^=\"g8-ad-placement\"]",
+".l-billboard_container",
+".l-jack__top_container"
 ],
 "geinoukame.com": [
 ".ninja-recommend-block + br",
@@ -35340,6 +35416,7 @@
 "[data-adbridg-ad-class]",
 "[data-adshim]",
 "[data-advadstrackid]",
+"[data-asg-ins]",
 "[data-block-type=\"ad\"]",
 "[data-css-class=\"dfp-inarticle\"]",
 "[data-d-ad-id]",
@@ -35425,6 +35502,7 @@
 "#slashboxes > .deals-rail",
 ".scroll-fixable.rail-right > .deals-rail",
 ".click-track.partner",
+".click-track.shop-window-affiliate",
 ".gnt_em_vp_c[data-g-s=\"vp_dk\"]",
 ".gnt_tb.gnt_tbb",
 ".gnt_tbr.gnt_tb",
@@ -35455,6 +35533,8 @@
 "[data-component=\"ad-unit\"]",
 "[data-test=\"vf-es-ad-wrapper\"]",
 "div[data-content=\"Advertisement\"]",
+"[id^=\"div-gpt-ad\"]:not([style^=\"width: 1px; height: 1px; position: absolute; left: -10000px; top: -\"]):not([style=\"pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; position: fixed; bottom: 0px;\"])",
+"div[id^=\"div-gpt-\"]:not([style^=\"width: 1px; height: 1px; position: absolute; left: -10000px; top: -\"]):not([style=\"pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; position: fixed; bottom: 0px;\"])",
 "[data-ad-width]:not([style$=\"left: -10000px !important; top: -1000px !important;\"]):not(.adsbygoogle)",
 "[data-ad-module]:not([style$=\"left: -10000px !important; top: -1000px !important;\"]):not(.adsbygoogle)",
 "[data-ad-manager-id]:not([style$=\"left: -10000px !important; top: -1000px !important;\"]):not(.adsbygoogle)",
@@ -49100,6 +49180,7 @@
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
 ".google-2ad",
+"#fluct-pc-sticky-ad",
 "#cookieContent",
 ".avia-cookie-consent-wrap",
 ".lgcookieslaw-banner",
@@ -50656,6 +50737,9 @@
 "#ad-wrapper": [
 "ufoevidence.org"
 ],
+"#ad_banner": [
+"mediafire.com"
+],
 "#ad_link": [
 "drc1bk94f7rq8.cloudfront.net"
 ],
@@ -50848,7 +50932,8 @@
 "macys.com"
 ],
 ".ad_banner": [
-"clien.net"
+"clien.net",
+"mediafire.com"
 ],
 ".ad_block": [
 "sozai-good.com"
@@ -52619,7 +52704,7 @@
 "script": true
 },
 "/popup-domination/": {
-"stylesheet": false
+"script": true
 },
 "/popup2.js": {
 "script": true
@@ -52977,11 +53062,10 @@
 "stylesheet": true
 },
 "/wp-content/plugins/wp-super-popup-pro/": {
-"script": true,
-"stylesheet": true
+"script": true
 },
 "/wp-content/plugins/wp-super-popup/": {
-"stylesheet": false
+"script": true
 },
 "/wp-popup-scheduler/": {
 "script": true,
@@ -53392,819 +53476,7 @@
 "tp": true,
 "xmlhttprequest": true
 },
-"00701059.xyz": {
-"main_frame": true,
-"popup": true
-},
-"00771944.xyz": {
-"main_frame": true,
-"popup": true
-},
-"00857731.xyz": {
-"main_frame": true,
-"popup": true
-},
-"01045395.xyz": {
-"main_frame": true,
-"popup": true
-},
-"02777e.site": {
-"main_frame": true,
-"popup": true
-},
-"03180d2d.live": {
-"main_frame": true,
-"popup": true
-},
-"0395d1.xyz": {
-"main_frame": true,
-"popup": true
-},
-"04424170.xyz": {
-"main_frame": true,
-"popup": true
-},
-"05420795.xyz": {
-"main_frame": true,
-"popup": true
-},
-"05751c.site": {
-"main_frame": true,
-"popup": true
-},
-"072551.xyz": {
-"main_frame": true,
-"popup": true
-},
-"07421283.xyz": {
-"main_frame": true,
-"popup": true
-},
-"076f66b2.live": {
-"main_frame": true,
-"popup": true
-},
 "07c225f3.online": {
-"main_frame": true,
-"popup": true
-},
-"07e197.site": {
-"main_frame": true,
-"popup": true
-},
-"08f8f073.xyz": {
-"main_frame": true,
-"popup": true
-},
-"09745951.xyz": {
-"main_frame": true,
-"popup": true
-},
-"09bd5a69.xyz": {
-"main_frame": true,
-"popup": true
-},
-"0ae00c7c.xyz": {
-"main_frame": true,
-"popup": true
-},
-"0c0b6e3f.xyz": {
-"main_frame": true,
-"popup": true
-},
-"0d785fd7.xyz": {
-"main_frame": true,
-"popup": true
-},
-"10523745.xyz": {
-"main_frame": true,
-"popup": true
-},
-"10614305.xyz": {
-"main_frame": true,
-"popup": true
-},
-"10753990.xyz": {
-"main_frame": true,
-"popup": true
-},
-"11152646.xyz": {
-"main_frame": true,
-"popup": true
-},
-"1116c5.xyz": {
-"main_frame": true,
-"popup": true
-},
-"11778562.xyz": {
-"main_frame": true,
-"popup": true
-},
-"11c7a3.xyz": {
-"main_frame": true,
-"popup": true
-},
-"1350c3.xyz": {
-"main_frame": true,
-"popup": true
-},
-"14202444.xyz": {
-"main_frame": true,
-"popup": true
-},
-"15223102.xyz": {
-"main_frame": true,
-"popup": true
-},
-"15272973.xyz": {
-"main_frame": true,
-"popup": true
-},
-"156fd4.xyz": {
-"main_frame": true,
-"popup": true
-},
-"15752525.xyz": {
-"main_frame": true,
-"popup": true
-},
-"16327739.xyz": {
-"main_frame": true,
-"popup": true
-},
-"164de830.live": {
-"main_frame": true,
-"popup": true
-},
-"16972675.xyz": {
-"main_frame": true,
-"popup": true
-},
-"17022993.xyz": {
-"main_frame": true,
-"popup": true
-},
-"19009143.xyz": {
-"main_frame": true,
-"popup": true
-},
-"19199675.xyz": {
-"main_frame": true,
-"popup": true
-},
-"19706903.xyz": {
-"main_frame": true,
-"popup": true
-},
-"1a1fb6.xyz": {
-"main_frame": true,
-"popup": true
-},
-"1c52e1e2.live": {
-"main_frame": true,
-"popup": true
-},
-"1dd6e9ba.xyz": {
-"main_frame": true,
-"popup": true
-},
-"1f6a725b.xyz": {
-"main_frame": true,
-"popup": true
-},
-"20382207.xyz": {
-"main_frame": true,
-"popup": true
-},
-"20519a.xyz": {
-"main_frame": true,
-"popup": true
-},
-"20729617.xyz": {
-"main_frame": true,
-"popup": true
-},
-"21274758.xyz": {
-"main_frame": true,
-"popup": true
-},
-"22117898.xyz": {
-"main_frame": true,
-"popup": true
-},
-"224cc86d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz": {
-"main_frame": true,
-"popup": true
-},
-"22dd31.xyz": {
-"main_frame": true,
-"popup": true
-},
-"23879858.xyz": {
-"main_frame": true,
-"popup": true
-},
-"23907453.xyz": {
-"main_frame": true,
-"popup": true
-},
-"24052107.live": {
-"main_frame": true,
-"popup": true
-},
-"24837724.xyz": {
-"main_frame": true,
-"popup": true
-},
-"258104d2.live": {
-"main_frame": true,
-"popup": true
-},
-"285b0b37.xyz": {
-"main_frame": true,
-"popup": true
-},
-"28d287b9.xyz": {
-"main_frame": true,
-"popup": true
-},
-"295c.site": {
-"main_frame": true,
-"popup": true
-},
-"2aeabdd4-3280-4f03-bc92-1890494f28be.xyz": {
-"main_frame": true,
-"popup": true
-},
-"2d8bc293.xyz": {
-"main_frame": true,
-"popup": true
-},
-"2d979880.xyz": {
-"main_frame": true,
-"popup": true
-},
-"2edef809.xyz": {
-"main_frame": true,
-"popup": true
-},
-"30937261.xyz": {
-"main_frame": true,
-"popup": true
-},
-"32472254.xyz": {
-"main_frame": true,
-"popup": true
-},
-"33848102.xyz": {
-"main_frame": true,
-"popup": true
-},
-"33862684.xyz": {
-"main_frame": true,
-"popup": true
-},
-"34475780.xyz": {
-"main_frame": true,
-"popup": true
-},
-"36833185.xyz": {
-"main_frame": true,
-"popup": true
-},
-"37066957.xyz": {
-"main_frame": true,
-"popup": true
-},
-"38835571.xyz": {
-"main_frame": true,
-"popup": true
-},
-"38941752.xyz": {
-"main_frame": true,
-"popup": true
-},
-"3a55f02d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"3ffa255f.xyz": {
-"main_frame": true,
-"popup": true
-},
-"40451343.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4126fe80.xyz": {
-"main_frame": true,
-"popup": true
-},
-"420db600.xyz": {
-"main_frame": true,
-"popup": true
-},
-"42869755.xyz": {
-"main_frame": true,
-"popup": true
-},
-"45496fee.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4602306b.xyz": {
-"main_frame": true,
-"popup": true
-},
-"46276192.xyz": {
-"main_frame": true,
-"popup": true
-},
-"466c4d0f.xyz": {
-"main_frame": true,
-"popup": true
-},
-"47296536.xyz": {
-"main_frame": true,
-"popup": true
-},
-"47415889.xyz": {
-"main_frame": true,
-"popup": true
-},
-"48304789.xyz": {
-"main_frame": true,
-"popup": true
-},
-"485728.xyz": {
-"main_frame": true,
-"popup": true
-},
-"48a16802.site": {
-"main_frame": true,
-"popup": true
-},
-"48d8e4d6.xyz": {
-"main_frame": true,
-"popup": true
-},
-"49333767.xyz": {
-"main_frame": true,
-"popup": true
-},
-"49706204.xyz": {
-"main_frame": true,
-"popup": true
-},
-"49766251.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4aae8f.site": {
-"main_frame": true,
-"popup": true
-},
-"4afa45f1.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4e04f7.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4e55.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4e68.xyz": {
-"main_frame": true,
-"popup": true
-},
-"4fb60fd0.xyz": {
-"main_frame": true,
-"popup": true
-},
-"54019033.xyz": {
-"main_frame": true,
-"popup": true
-},
-"54199287.xyz": {
-"main_frame": true,
-"popup": true
-},
-"54eeeadb.xyz": {
-"main_frame": true,
-"popup": true
-},
-"55766925.xyz": {
-"main_frame": true,
-"popup": true
-},
-"55cc9d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"56514411.xyz": {
-"main_frame": true,
-"popup": true
-},
-"58e0.site": {
-"main_frame": true,
-"popup": true
-},
-"59644010.xyz": {
-"main_frame": true,
-"popup": true
-},
-"59768910.xyz": {
-"main_frame": true,
-"popup": true
-},
-"5cc3ac02.xyz": {
-"main_frame": true,
-"popup": true
-},
-"5fd6bc.xyz": {
-"main_frame": true,
-"popup": true
-},
-"60571086.xyz": {
-"main_frame": true,
-"popup": true
-},
-"605efe.xyz": {
-"main_frame": true,
-"popup": true
-},
-"634369.xyz": {
-"main_frame": true,
-"popup": true
-},
-"6471e7f7.xyz": {
-"main_frame": true,
-"popup": true
-},
-"65035033.xyz": {
-"main_frame": true,
-"popup": true
-},
-"656f1ba3.xyz": {
-"main_frame": true,
-"popup": true
-},
-"657475b7-0095-478d-90d4-96ce440604f9.online": {
-"main_frame": true,
-"popup": true
-},
-"65894140.xyz": {
-"main_frame": true,
-"popup": true
-},
-"68646f.xyz": {
-"main_frame": true,
-"popup": true
-},
-"691f42ad.xyz": {
-"main_frame": true,
-"popup": true
-},
-"6a6672.xyz": {
-"main_frame": true,
-"popup": true
-},
-"70b927c8.live": {
-"main_frame": true,
-"popup": true
-},
-"72075223.xyz": {
-"main_frame": true,
-"popup": true
-},
-"72356275.xyz": {
-"main_frame": true,
-"popup": true
-},
-"72560514.xyz": {
-"main_frame": true,
-"popup": true
-},
-"72716408.xyz": {
-"main_frame": true,
-"popup": true
-},
-"72888710.xyz": {
-"main_frame": true,
-"popup": true
-},
-"73503921.xyz": {
-"main_frame": true,
-"popup": true
-},
-"74142961.xyz": {
-"main_frame": true,
-"popup": true
-},
-"75690049.xyz": {
-"main_frame": true,
-"popup": true
-},
-"7608d5.xyz": {
-"main_frame": true,
-"popup": true
-},
-"77886044.xyz": {
-"main_frame": true,
-"popup": true
-},
-"7841ffda.xyz": {
-"main_frame": true,
-"popup": true
-},
-"78847798.xyz": {
-"main_frame": true,
-"popup": true
-},
-"78b78ff8.xyz": {
-"main_frame": true,
-"popup": true
-},
-"79180284.xyz": {
-"main_frame": true,
-"popup": true
-},
-"7ca989e1.xyz": {
-"main_frame": true,
-"popup": true
-},
-"7e60f1f9.xyz": {
-"main_frame": true,
-"popup": true
-},
-"7e809ed7-e553-4e29-acb1-4e3c0e986562.site": {
-"main_frame": true,
-"popup": true
-},
-"7fc8.site": {
-"main_frame": true,
-"popup": true
-},
-"80133082.xyz": {
-"main_frame": true,
-"popup": true
-},
-"814272c4.xyz": {
-"main_frame": true,
-"popup": true
-},
-"83409127.xyz": {
-"main_frame": true,
-"popup": true
-},
-"83761158.xyz": {
-"main_frame": true,
-"popup": true
-},
-"83887336.xyz": {
-"main_frame": true,
-"popup": true
-},
-"84631949.xyz": {
-"main_frame": true,
-"popup": true
-},
-"86124673.xyz": {
-"main_frame": true,
-"popup": true
-},
-"88129513.xyz": {
-"main_frame": true,
-"popup": true
-},
-"88545539.xyz": {
-"main_frame": true,
-"popup": true
-},
-"89263907.xyz": {
-"main_frame": true,
-"popup": true
-},
-"89407765.xyz": {
-"main_frame": true,
-"popup": true
-},
-"89871256.xyz": {
-"main_frame": true,
-"popup": true
-},
-"8acc5c.site": {
-"main_frame": true,
-"popup": true
-},
-"8b71e197.xyz": {
-"main_frame": true,
-"popup": true
-},
-"8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online": {
-"main_frame": true,
-"popup": true
-},
-"8eef59a5.live": {
-"main_frame": true,
-"popup": true
-},
-"91301246.xyz": {
-"main_frame": true,
-"popup": true
-},
-"92790388.xyz": {
-"main_frame": true,
-"popup": true
-},
-"9354ee72.xyz": {
-"main_frame": true,
-"popup": true
-},
-"94597672.xyz": {
-"main_frame": true,
-"popup": true
-},
-"97496b9d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"977878.xyz": {
-"main_frame": true,
-"popup": true
-},
-"97b448.xyz": {
-"main_frame": true,
-"popup": true
-},
-"98140548.xyz": {
-"main_frame": true,
-"popup": true
-},
-"9814b49f.xyz": {
-"main_frame": true,
-"popup": true
-},
-"98383163.xyz": {
-"main_frame": true,
-"popup": true
-},
-"98738797.xyz": {
-"main_frame": true,
-"popup": true
-},
-"98853171.xyz": {
-"main_frame": true,
-"popup": true
-},
-"9bc639da.xyz": {
-"main_frame": true,
-"popup": true
-},
-"a49ebd.xyz": {
-"main_frame": true,
-"popup": true
-},
-"a5d2d040.xyz": {
-"main_frame": true,
-"popup": true
-},
-"a67d12.xyz": {
-"main_frame": true,
-"popup": true
-},
-"a8b68645.xyz": {
-"main_frame": true,
-"popup": true
-},
-"a908a849.xyz": {
-"main_frame": true,
-"popup": true
-},
-"acf705ad.xyz": {
-"main_frame": true,
-"popup": true
-},
-"af6937a2.live": {
-"main_frame": true,
-"popup": true
-},
-"b0eb63.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b0f2f18e.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b211.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b2bf222e.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b395bfcd.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b51475b8.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b59c.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b70456bf.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online": {
-"main_frame": true,
-"popup": true
-},
-"b82978.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b903c2.xyz": {
-"main_frame": true,
-"popup": true
-},
-"b9f25b.site": {
-"main_frame": true,
-"popup": true
-},
-"ba0bf98c.xyz": {
-"main_frame": true,
-"popup": true
-},
-"bc0ca74b.live": {
-"main_frame": true,
-"popup": true
-},
-"bc98ad.xyz": {
-"main_frame": true,
-"popup": true
-},
-"bcbe.site": {
-"main_frame": true,
-"popup": true
-},
-"bd5a57.xyz": {
-"main_frame": true,
-"popup": true
-},
-"c2a0076d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"c31133f7.xyz": {
-"main_frame": true,
-"popup": true
-},
-"c76d1a1b.live": {
-"main_frame": true,
-"popup": true
-},
-"ca3d.site": {
-"main_frame": true,
-"popup": true
-},
-"ca9246.xyz": {
-"main_frame": true,
-"popup": true
-},
-"caa2c4.xyz": {
-"main_frame": true,
-"popup": true
-},
-"cd57296e.xyz": {
-"main_frame": true,
-"popup": true
-},
-"ce357c.xyz": {
-"main_frame": true,
-"popup": true
-},
-"ce56df44.xyz": {
-"main_frame": true,
-"popup": true
-},
-"cf959857.live": {
-"main_frame": true,
-"popup": true
-},
-"cfb98a.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -54213,114 +53485,6 @@
 "popup": true
 },
 "css-load.com": {
-"main_frame": true,
-"popup": true
-},
-"d23d450d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"d477275c.xyz": {
-"main_frame": true,
-"popup": true
-},
-"d84bc26d.site": {
-"main_frame": true,
-"popup": true
-},
-"d8b0a5.xyz": {
-"main_frame": true,
-"popup": true
-},
-"d980ed.xyz": {
-"main_frame": true,
-"popup": true
-},
-"da28c69e.xyz": {
-"main_frame": true,
-"popup": true
-},
-"dcad1d97.xyz": {
-"main_frame": true,
-"popup": true
-},
-"dd2270.xyz": {
-"main_frame": true,
-"popup": true
-},
-"de214f.xyz": {
-"main_frame": true,
-"popup": true
-},
-"e076.xyz": {
-"main_frame": true,
-"popup": true
-},
-"e75d10b9.live": {
-"main_frame": true,
-"popup": true
-},
-"e8e2063b.xyz": {
-"main_frame": true,
-"popup": true
-},
-"ea6c0ac4.xyz": {
-"main_frame": true,
-"popup": true
-},
-"ec44.site": {
-"main_frame": true,
-"popup": true
-},
-"f2f8.xyz": {
-"main_frame": true,
-"popup": true
-},
-"f33d11b5.xyz": {
-"main_frame": true,
-"popup": true
-},
-"f417a726.xyz": {
-"main_frame": true,
-"popup": true
-},
-"f4c9a0fb.xyz": {
-"main_frame": true,
-"popup": true
-},
-"f54cd504.xyz": {
-"main_frame": true,
-"popup": true
-},
-"f6176563.site": {
-"main_frame": true,
-"popup": true
-},
-"f6b458fd.xyz": {
-"main_frame": true,
-"popup": true
-},
-"f700fa18.live": {
-"main_frame": true,
-"popup": true
-},
-"f816e81d.xyz": {
-"main_frame": true,
-"popup": true
-},
-"fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz": {
-"main_frame": true,
-"popup": true
-},
-"fbfec2.xyz": {
-"main_frame": true,
-"popup": true
-},
-"fe30a5b4.xyz": {
-"main_frame": true,
-"popup": true
-},
-"fe9dc503.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -55277,9 +54441,6 @@
 "image": true
 },
 "://cl.melonbooks.co.jp/c/": {
-"image": true
-},
-"://click.revolut.com/q/": {
 "image": true
 },
 "img.promio-connect.com": {
