@@ -868,6 +868,7 @@
 "/aztracker.js",
 "/b.banners.impress.",
 "/b.gif?",
+"/b.rnc?",
 "/b/s/beacon",
 "/b/ss/ueglobaldev/",
 "/b/ss/wdgdolad",
@@ -4193,6 +4194,7 @@
 "altervista.org/stats/",
 "alwayslucky.com/platform/webvitals",
 "amazon.com/1/aiv-web-player/1/oe",
+"amazon.com/ax/claim/log|",
 "amazon.com/e/xsp/imp?",
 "amazon.com/empty.gif?",
 "amazon.com/follow/log-metrics",
@@ -4235,6 +4237,7 @@
 "ampproject.org/preconnect.gif",
 "analdin.com/de/player/html.php",
 "analdin.com/js/analytics.js",
+"analytics-fe.digital-cloud.medallia.ca/api/web/events|",
 "ancestry.com/core.js",
 "ancestrycdn.com/tao/at/",
 "ancestrycdn.com/webui-unifiedtracking/",
@@ -5918,6 +5921,7 @@
 "informer.com/ajax/article_log.php",
 "infosniper.net/locate-ip-on-map.php",
 "infotor.net/button.php",
+"infra-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev/custom-metric",
 "infusionsoft.app/app/webtracking/",
 "infusionsoft.com/app/webtracking/gettrackingcode",
 "ingesteer.services-prod.nsvcs.net/rum_collection|",
@@ -12305,6 +12309,8 @@
 ],
 "lightnovelcave.com": [
 "#lnvidcontainer",
+".vnad",
+".vnad-in",
 "[data-mobid]"
 ],
 "wormate.io": [
@@ -33116,6 +33122,9 @@
 ],
 "streeteasy.com": [
 "li.searchCardList--listItem:has(.jsSponsoredListingCard)"
+],
+"foodlion.com": [
+"li:has([aria-label=\"Sponsored Ad\"])"
 ],
 "autotrader.co.uk": [
 "li:has(section[data-testid=\"trader-seller-listing\"] > span[data-testid=\"FEATURED_LISTING\"])",
@@ -56918,9 +56927,6 @@
 "/cdp/usage/clickstream",
 "/reportevent",
 "/gp/sponsored-products/logging"
-],
-"tubitv.com/": [
-"sendbeacon="
 ],
 "ebay.com/blueberry/": [
 "/ads/identity/pixelurls"
