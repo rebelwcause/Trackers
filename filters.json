@@ -278,7 +278,6 @@
 "/1.gif?",
 "/120-600-",
 "/120-600.",
-"/120_600/",
 "/120_600_",
 "/120x600-",
 "/120x600.",
@@ -6064,7 +6063,7 @@
 "insiderdata360online.com/service/platform.js",
 "instadp.com/track",
 "instagram.com/ajax/bz",
-"instagram.com/ajax/qm/?__",
+"instagram.com/ajax/qm/?",
 "instagram.com/api/v1/injected_story_units/",
 "instagram.com/logging/",
 "instagram.com/logging_client_events",
@@ -6233,6 +6232,7 @@
 "kimonix.com/analytics/",
 "kinguin.net/affiliatepluswidget/",
 "kinja.com/api/analytics/",
+"kio.ac/analytics/",
 "kissanimes.net/zenny/",
 "kissasians.org/banners/",
 "kisscartoon.sh/api/pop.php",
@@ -6830,6 +6830,7 @@
 "observerbd.com/ad/",
 "ocnk.net/include/access.php",
 "oct8ne.com/visitor/",
+"octaneai.com/api/v1/beacon",
 "octopart.com/kdrqnl15/init.js",
 "oculus.com/ajax/bz?",
 "odrama.net/images/clicktoplay.jpg",
@@ -8560,6 +8561,7 @@
 "xxf.mobi/hit",
 "xxxbunker.com/ajax/guestlog",
 "xxxbunker.com/ajax/viewlog",
+"y.aram.zone/pageview",
 "yachtingnetwork.it/stat/",
 "yahoo-static.remarkety.com/yahoowebtracking/",
 "yahoo.net/pixel.gif",
@@ -10951,6 +10953,9 @@
 "#buy-tickets",
 ".amazon"
 ],
+"furaffinity.net": [
+"#c-videoAd--outer"
+],
 "digminecraft.com": [
 "#c1069c34",
 ".bccace1b",
@@ -12209,6 +12214,10 @@
 ],
 "krdo.com": [
 "#hp_promobox"
+],
+"drugdiscoverynews.com": [
+"#hs-web-interactives-bottom-anchor",
+".vert-unit"
 ],
 "blog.hubspot.com": [
 "#hs_cos_wrapper_blog_post_sticky_cta"
@@ -14671,6 +14680,9 @@
 "returnyoutubedislike.com": [
 "#top-donors"
 ],
+"savingcountrymusic.com": [
+"#top-goog"
+],
 "capetownmagazine.com": [
 "#top-leader-wrapper"
 ],
@@ -14685,6 +14697,12 @@
 "vodacomsoccer.com": [
 "#top-leaderboard",
 ".widget-ad-block"
+],
+"softexia.com": [
+"#top-line",
+".a1g2023w",
+".head-discount",
+".offer"
 ],
 "gamepur.com": [
 "#top-sticky-sidebar-wrapper",
@@ -15192,7 +15210,7 @@
 ],
 "thingiverse.com": [
 ".AdBanner__adBanner--GpB5d",
-".item-card-container:has-text(Advertisement)"
+".item-card-container:has-text(/^Ad$/)"
 ],
 "ratemyprofessors.com": [
 ".AdNoBid__AdContainer-sc-7ofdbw-0",
@@ -16744,7 +16762,8 @@
 ".ad"
 ],
 "nejm.org": [
-".ad"
+".ad",
+".nejm_jobs"
 ],
 "neowin.net": [
 ".ad"
@@ -16775,6 +16794,9 @@
 ".ad"
 ],
 "patheos.com": [
+".ad"
+],
+"pharmaceutical-journal.com": [
 ".ad"
 ],
 "picmix.com": [
@@ -18635,7 +18657,8 @@
 ],
 "straitstimes.com": [
 ".ads",
-".leaderboard"
+".leaderboard",
+".overlayWhite"
 ],
 "teamblind.com": [
 ".ads"
@@ -24892,6 +24915,10 @@
 ".footer_rm_sponsors_container",
 ".head_sponsors"
 ],
+"vax-before-travel.com": [
+".footerboard",
+".leaderboard"
+],
 "ocado.com": [
 ".fops-item--advert",
 ".supplierBanner"
@@ -25226,6 +25253,12 @@
 ],
 "rotowire.com": [
 ".gdcg-oplist"
+],
+"clinicaltrialsarena.com": [
+".gdm-company-profile-unit",
+".gdm-pi-recommended-reports",
+".gms-b2b-marketing",
+".sponsored"
 ],
 "just-food.com": [
 ".gdm-company-profile-unit",
@@ -27530,9 +27563,6 @@
 ],
 "gaultmillau.lu": [
 ".off-brand"
-],
-"softexia.com": [
-".offer"
 ],
 "magnoliastatelive.com": [
 ".one_by_one_group"
