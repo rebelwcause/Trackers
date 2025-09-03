@@ -1502,6 +1502,7 @@
 "/fingerprint2.min.js",
 "/fingerprint3.js",
 "/fingerprint3.min.js",
+"/fingerprintjs2/fpt2.js",
 "/firebase-performance-compat.js",
 "/firebase-performance-standalone.js",
 "/firestats/js/fs.js.php",
@@ -2624,6 +2625,7 @@
 "/render-ad.php?ad_id=",
 "/render-sidebar-ad.php?ad_id=",
 "/rendertimingpixel.",
+"/replay?ddsource=",
 "/report_ga_events/",
 "/report_visit.php",
 "/reportdata/nm.gif?",
@@ -4313,6 +4315,8 @@
 "asistanaliz.com/api/hit/",
 "askanydifference.com/beardeddragon/gilamonster.js",
 "aspencore.com/syndication/v3/partnered-content/",
+"asset.d5techs.com/script/track.min.js",
+"asset.d5techs.com/script/utm.min.js",
 "assets-prod.sumo.prod.webservices.mozgcp.net/static/gtm-snippet.",
 "assets.adsttc.com/insights/form-funnel.min.js",
 "assets.adsttc.com/insights/tracker.js",
@@ -4724,6 +4728,7 @@
 "cdn.reverso.net/ramjs/",
 "cdn.reverso.net/rumjs/",
 "cdn.sourcesync.io/open-pixel/source-pixel.js",
+"cdn.sphlabs.com/suid/",
 "cdn.stamped.io/cdn/images/pixel.png",
 "cdn.statically.io/gh/opcdn/analytics/main/script.js",
 "cdn.staticmember.com/wtp/common/scripts/google-tagmanager-min.js",
@@ -5458,7 +5463,6 @@
 "fbot.me/error",
 "fbot.me/events/",
 "fc.lc/customtheme/img/ref",
-"fc2.com/counter_img.php?",
 "featureflags.grubhub.com/v1/events",
 "feed.informer.com/fdstats",
 "feedbackws.icloud.com/reportstats",
@@ -5502,6 +5506,7 @@
 "fiveyardlab.com/z-",
 "flagr.worldstarhiphop.com/api/v1/evaluation",
 "flaticon.com/_ga?",
+"fleshlight.com/api/collect",
 "flex.msn.com/mstag/",
 "flexclip.com/templates/fujie/js/analytics.js",
 "flipboard.com/api/v2/reporting",
@@ -5872,6 +5877,8 @@
 "homeschoolmath.net/a/",
 "homestore.com/srv/",
 "honeycomb.io/1/events/",
+"hopper.com#%#//scriptlet('set-local-storage-item', 'ld:$anonuserid', '$remove$')",
+"hopper.com/api/v0/tracking/event",
 "horizonsunlimited.com/alogos/",
 "horizont.net/stats/",
 "hortidaily.com/b/",
@@ -7531,6 +7538,7 @@
 "simplelogin.io/custom.js",
 "simplelogin.io/p/api/event",
 "sinst.fwdcdn.com/img/newimg/liveinternet.gif",
+"siriusxmstore.com/api/collect",
 "sirporno.xxx/js/analytics.js",
 "sitebooster.com/sb/wix/p?",
 "sitefinity.com/collect/",
@@ -7556,6 +7564,7 @@
 "slashdot.org/country.js",
 "slashdot.org/images/js.gif",
 "sleeknotestaticcontent.sleeknote.com/production/package-tracker.js",
+"slgnt.eu/frontend/api/track",
 "sli-spark.com/b.png",
 "slickdeals.net/ajax/stats/",
 "slideshare.net/frontend_tracking/",
@@ -7636,6 +7645,7 @@
 "sportskeeda.com/service-workers/helpers/google-analytics",
 "sportsmansguide.com/scripts/vendor/at_",
 "sportsseoul.com/news/site_log/",
+"spotidownloader.com/ad-test.html",
 "spotify.com/ads/",
 "spotifycdn.com/cdn/js/retargeting-pixels.",
 "spotpass.com/api/log",
@@ -7906,6 +7916,7 @@
 "tatrck.com",
 "tbao684tryo.com",
 "tcloudbase.com/access?",
+"teamtailor.com/pageview",
 "teamviewer.com/api/log/",
 "tech426.com/pub/",
 "techcrunch.com#%#//scriptlet('set-local-storage-item', 'criteo_fast_bid', '$remove$')",
@@ -7943,6 +7954,7 @@
 "terabox.com/statistics",
 "terabox.fun/api/analytics",
 "termsfeed.com/track/",
+"terrific.live/shopify-analytics-sdk.min.js",
 "tetori-colorme.com/share/js/tracking.js",
 "tetori.link/share/js/tracking.js",
 "thanks.viewfr.com/webroot/ads/adsterra/",
@@ -8133,6 +8145,8 @@
 "tunein.com/api/v1/log/",
 "turb.cc/fd1/img/promo/",
 "turbobit.net/ajax/fdlogger/",
+"turbobit.net/fd1/js/brinpopup.js",
+"turbobit.net/js/analytics/",
 "turbobit.net/pus/",
 "turbovpn.com/api/mms/analytics/v1/events|",
 "turkmenportal.com/images/uploads/banners/",
@@ -8188,6 +8202,7 @@
 "umirs.com/counters/",
 "umnico.com/tracker/",
 "umschool.net/_jts/api/s/track",
+"underwriting.allclassical.org/player-banners/",
 "unibet.com/orval/tracking/lastclick.min.js",
 "unifyintent.com/analytics/",
 "unite.nike.com/auth/unite_session_cookies/",
@@ -8219,7 +8234,6 @@
 "uriports.com/reports/",
 "urlscan.io/stats",
 "us-central1-affilimate.cloudfunctions.net/tracking_",
-"usa.asset.d5techs.com/script/track.min.js",
 "useblackbox.io/telemetry",
 "usercentrics.eu",
 "userscript.zone/s.js",
@@ -8612,6 +8626,7 @@
 "ytconvert.me/pop.js",
 "ytmp3.cc/js/inner.js",
 "ytmp3.plus/ba",
+"yupp.ai/api/log-event",
 "zalo.me/v3/w/_zaf.gif",
 "zapcdn.space/zapret.js",
 "zappos.com/api/frontend/client/metrics|",
@@ -9289,6 +9304,12 @@
 "#ad-rails",
 ".cool-slot"
 ],
+"realitytvshrine.com": [
+"#ad-sidebar-1",
+"#ad-sidebar-2",
+"#ad-sidebar-3",
+"#ad-sidebar-4"
+],
 "thedailymash.co.uk": [
 "#ad-sidebar-1",
 "#ad-sidebar-2",
@@ -9760,6 +9781,9 @@
 ".hayden-inpost_top",
 ".hayden-widget",
 ".hayden-widget_top_1"
+],
+"player.allclassical.org": [
+"#advert"
 ],
 "agma.io": [
 "#advertDialog1"
@@ -14353,16 +14377,6 @@
 "arenaev.com": [
 "#subHeader"
 ],
-"gsmarena.com": [
-"#subHeader2",
-".adv",
-".pt-10",
-"div[style*=\"padding-bottom: 24px;\"]",
-"div[style=\"margin-left: -10px; margin-top: 30px; height: 145px;\"]",
-"#subHeader3:has([href=\"deals.php3\"])",
-"#subHeader:has(> #topAdv)",
-".justify-center:has(.ad-c-label)"
-],
 "ebaumsworld.com": [
 "#subheader_atf_wrapper",
 ".divider",
@@ -17148,6 +17162,7 @@
 ".ad-banner",
 "article[data-is-sponsored]",
 "iframe[title=\"Advertisement\"]",
+"iframe[title=\"advertisement\"]",
 "li[data-is-sponsored=\"true\"]",
 ".feed-shared-update-v2:has(a[aria-label*=\"Promo\"])",
 ".feed-shared-update-v2:has(a[aria-label*=\"Anzeige\"])",
@@ -18302,7 +18317,8 @@
 ".add-placeholder",
 ".ads-box-300x250::before",
 ".ads-placeholder-internal",
-".first-ad"
+".first-ad",
+"[class^=\"ads-box\"]"
 ],
 "moneycontrol.com": [
 ".add-spot",
@@ -18981,6 +18997,14 @@
 ".adv",
 ".code-block",
 ".g"
+],
+"gsmarena.com": [
+".adv",
+"div[style=\"margin-left: -10px; margin-top: 30px; height: 145px;\"]",
+"#subHeader3:has([href=\"deals.php3\"])",
+"#subHeader3:has-text(daily deals)",
+"#subHeader:has(> #topAdv)",
+".justify-center:has(.ad-c-label)"
 ],
 "gulfnews.com": [
 ".adv"
@@ -20367,7 +20391,8 @@
 ".apb",
 ".featured__apb",
 ".m1_largeMPU",
-"[data-m1-ad-label]"
+"[data-m1-ad-label]",
+".outstream_partner"
 ],
 "chargedretail.co.uk": [
 ".apPluginContainer"
@@ -21636,6 +21661,9 @@
 "div[data-ads-params]"
 ],
 "pharmatimes.com": [
+".banner"
+],
+"photofilters.com": [
 ".banner"
 ],
 "portsmouth.co.uk": [
@@ -24074,6 +24102,9 @@
 ".custom-popup",
 "div[class^=\"ad_space_\"]"
 ],
+"publichealthpolicyjournal.com": [
+".custom-slider"
+],
 "total-croatia-news.com": [
 ".custombanner"
 ],
@@ -24217,6 +24248,10 @@
 ],
 "buzzfeednews.com": [
 ".desktop-sticky-ad_desktopStickyAdWrapper__a_tyF"
+],
+"golflink.com": [
+".desktop-top-fixed-ad",
+".ui-advertisement"
 ],
 "hanime.tv": [
 ".desktop.htvad"
@@ -30185,9 +30220,6 @@
 "savefrom.net": [
 ".tz-quality-link"
 ],
-"golflink.com": [
-".ui-advertisement"
-],
 "m.rugbynetwork.net": [
 ".ui-footer-fixed"
 ],
@@ -30212,6 +30244,9 @@
 "maltatoday.com.mt": [
 ".underlay_container",
 ".underlay_spacer"
+],
+"allclassical.org": [
+".underwriting-container"
 ],
 "inquinte.ca": [
 ".unit-block"
@@ -31365,6 +31400,7 @@
 ],
 "argos.co.uk": [
 "[data-testid=\"citrus_products-carousel\"]",
+"[data-testid=\"monetisation-product-carousel\"]",
 "[class^=\"styles__LazyHydrateCard\"]:has([class*=\"ProductCardstyles__FlyoutBadge\"])",
 "[class^=\"styles__LazyHydrateCard-sc\"]:has([class*=\"SponsoredBadge\"])"
 ],
@@ -33413,6 +33449,9 @@
 "lazada.*": [
 ".pdp-block__product-ads"
 ],
+"leroymerlin.*": [
+"li[data-product-list-id*=\"sponsored\"]"
+],
 "lidl.*": [
 "div[data-type=\"sponsored\"]"
 ],
@@ -33865,6 +33904,9 @@
 ],
 "farfetch.com": [
 "[data-testid=\"featured\"]:has([data-ffref*=\"sponsoredBy\"])"
+],
+"linuxcommandlibrary.com": [
+"[href^=\"/\"]:has([src*=\".webp\"])"
 ],
 "tympanus.net": [
 "article:has(header:has(.ct-sponsored))"
@@ -46838,6 +46880,7 @@
 ".hp-adsection",
 ".htl-ad",
 ".htl-ad-placeholder",
+".htlad-GL_Adhesion",
 ".html-advertisement",
 ".hyperAd",
 ".iAdserver",
@@ -49802,6 +49845,7 @@
 ".td-a-rec-id-custom_ad_5",
 "#Q39hhYQopC-top",
 "#Q39hhYQopC-middle",
+".wtm-cookies",
 ".cookieadmin_cookie_modal",
 ".cookieadmin_law_container",
 ".cookie-confirmation-banner",
@@ -55049,6 +55093,12 @@
 "main_frame": false,
 "sub_frame": false
 },
+"/~shared/do/api/plausible/?id=": {
+"xmlhttprequest": true
+},
+"/~shared/do/~/click/?": {
+"image": true
+},
 "://a869.": {
 "image": false
 },
@@ -57760,6 +57810,9 @@
 ],
 "flocdn.com": [
 "/dpl/"
+],
+"form.typeform.com/forms/": [
+"/insights/"
 ],
 "forms.aweber.com": [
 "/displays.htm?id="
