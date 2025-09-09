@@ -52350,6 +52350,50 @@
 ]
 },
 "url_type_patterns": {
+"://load.gtm.": {
+"script": true,
+"tp": false
+},
+"://load.analytics.": {
+"script": true,
+"tp": false
+},
+"://load.metrics.": {
+"script": true,
+"tp": false
+},
+"://load.ssgtm.": {
+"script": true,
+"tp": false
+},
+"://load.ss.": {
+"script": true,
+"tp": false
+},
+"://load.sst.": {
+"script": true,
+"tp": false
+},
+"://load.server.": {
+"script": true,
+"tp": false
+},
+"://load.serverside.": {
+"script": true,
+"tp": false
+},
+"://load.stape.": {
+"script": true,
+"tp": false
+},
+"://load.track.": {
+"script": true,
+"tp": false
+},
+"://load.tracking.": {
+"script": true,
+"tp": false
+},
 "rebelwcause.github.io/ab_test/spy1": {
 "image": true,
 "script": true
@@ -57455,39 +57499,6 @@
 }
 },
 "url_wc_patterns": {
-"://load.gtm.": [
-".js?"
-],
-"://load.analytics.": [
-".js?"
-],
-"://load.metrics.": [
-".js?"
-],
-"://load.ssgtm.": [
-".js?"
-],
-"://load.ss.": [
-".js?"
-],
-"://load.sst.": [
-".js?"
-],
-"://load.server.": [
-".js?"
-],
-"://load.serverside.": [
-".js?"
-],
-"://load.stape.": [
-".js?"
-],
-"://load.track.": [
-".js?"
-],
-"://load.tracking.": [
-".js?"
-],
 "rebelwcause.github.io": [
 "_test/spy7"
 ],
