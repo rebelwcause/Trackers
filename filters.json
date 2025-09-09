@@ -8599,7 +8599,7 @@
 "wsup.ai/ai/api/stats/",
 "wumii.com/images/pixel.png",
 "wurking.global.ssl.fastly.net/ingestly-ingest/",
-"www-backend.strinova.com/api/common/uid|",
+"www-backend.strinova.com/api/common/uid",
 "www-direct.autoguide.com/eventstream",
 "www-direct.motorcycle.com/eventstream",
 "www-direct.upgradedhome.com/eventstream",
@@ -17718,6 +17718,8 @@
 ],
 "sportskeeda.com": [
 ".ad-container",
+".sk-promotional-banner",
+".sk-ads-taboola-container",
 "#video-player-container--",
 ".vidazoo-player-container",
 ".primis-container"
@@ -24233,16 +24235,6 @@
 ],
 "vogue.com.au": [
 ".dYmYok"
-],
-"androidauthority.com": [
-".d_um",
-"[data-ad-type]",
-".d_3i:has-text(Latest deals)",
-".e_4j:has-text(See all deals)",
-"div[class]:has(> .pw-incontent)",
-"div[class]:has(> [data-ad-type=\"leaderboard_atf\"])",
-"main > div:last-child > div:has(> div:only-child:empty)",
-"aside > div > div > div > div > div:has(> div:only-child:empty)"
 ],
 "counter.dev": [
 ".da"
@@ -31410,6 +31402,14 @@
 "[data-ad-data*=\"ad_link\"]",
 ".service-result:has([data-promoted-badge])"
 ],
+"androidauthority.com": [
+"[data-ad-type]",
+"[class] > [class] > [class]:has(div[data-ad-type=\"leaderboard_atf\"])",
+"div[class]:has(> .pw-incontent)",
+"div[class]:has(> [data-ad-type=\"leaderboard_atf\"])",
+"main > div:last-child > div:has(> div:only-child:empty)",
+"aside > div > div > div > div > div:has(> div:only-child:empty)"
+],
 "kingmods.net": [
 "[data-ad-wrapper-slot]"
 ],
@@ -33014,7 +33014,10 @@
 "diskingdom.com": [
 "div[id=\"diski-\"]"
 ],
-"namu.wiki": [
+"en.namu.wiki": [
+"div[id][class]:empty"
+],
+"ja.namu.wiki": [
 "div[id][class]:empty"
 ],
 "thewire.in": [
@@ -52121,6 +52124,9 @@
 ".sponsor_post": [
 "geekwire.com"
 ],
+".sponsored-article": [
+"techradar.com"
+],
 ".sponsoredItem": [
 "zdnet.com"
 ],
@@ -55094,6 +55100,9 @@
 "/partner/transparent_pixel-": {
 "image": true
 },
+"/piano-analytics-": {
+"script": true
+},
 "/piwik-": {},
 "/piwik.": {
 "image": true,
@@ -56043,6 +56052,14 @@
 },
 "wo-cloud.com": {
 "ping": true
+},
+"wsimg.com/signals/": {
+"script": true,
+"tp": true
+},
+"wsimg.com/traffic-assets/": {
+"script": true,
+"tp": true
 },
 "click.taobao.com": {
 "script": true
@@ -57438,6 +57455,39 @@
 }
 },
 "url_wc_patterns": {
+"://load.gtm.": [
+".js?"
+],
+"://load.analytics.": [
+".js?"
+],
+"://load.metrics.": [
+".js?"
+],
+"://load.ssgtm.": [
+".js?"
+],
+"://load.ss.": [
+".js?"
+],
+"://load.sst.": [
+".js?"
+],
+"://load.server.": [
+".js?"
+],
+"://load.serverside.": [
+".js?"
+],
+"://load.stape.": [
+".js?"
+],
+"://load.track.": [
+".js?"
+],
+"://load.tracking.": [
+".js?"
+],
 "rebelwcause.github.io": [
 "_test/spy7"
 ],
@@ -58647,6 +58697,9 @@
 ],
 "://top.": [
 "/count/cnt.php?"
+],
+"hawk.techradar.com/js/": [
+"/analytics-library-entry-getcustomtrackingid.js"
 ],
 "teraboxcdn.com/general-conf/fk/dfxaf3-": [
 ".js"
