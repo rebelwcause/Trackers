@@ -5951,6 +5951,7 @@
 "hindustantimes.com/res/images/one-pixel.png",
 "hisense.com/ta.js",
 "hitleap.com/assets/banner",
+"hitslog.com",
 "hittracker.org/count.php",
 "hittracker.org/counter.php",
 "hktvmall.com/_ui/desktop/common/js/uianalytics/",
@@ -6685,6 +6686,7 @@
 "meteored.com/cmp/web/events/analytic/",
 "metomic.io",
 "metric.cryptofans.asia/scripts/track_conversion.js",
+"metricode.com",
 "metro.co.uk/base/rta/",
 "metro.co.uk/cvx/client/sync/fpc?",
 "metro.co.uk/wp-content/themes/metro-parent/dist/components/measurement.min.js",
@@ -8494,6 +8496,7 @@
 "urlbrief.com",
 "urlscan.io/stats",
 "us-central1-affilimate.cloudfunctions.net/tracking_",
+"usa.cc",
 "usatoday.com/gcdn/ads/",
 "useblackbox.io/telemetry",
 "usercentrics.eu",
@@ -18996,6 +18999,11 @@
 "onlinerekenmachine.com": [
 ".ads"
 ],
+"onlymyhealth.com": [
+".ads",
+".gutterBanner",
+"[class*=\"_omh_banner_\"]"
+],
 "ozbargain.com.au": [
 ".ads"
 ],
@@ -19039,6 +19047,10 @@
 ],
 "tellerreport.com": [
 ".ads"
+],
+"thedailyjagran.com": [
+".ads",
+".w-full:has(> .container > .webAds)"
 ],
 "thenews.com.pk": [
 ".ads"
@@ -25934,6 +25946,7 @@
 "target.com": [
 ".h-position-fixed-bottom",
 "[data-test=\"featuredProducts\"]",
+"[data-test=\"recommended_products_placement_adaptpdp_sponsored_items\"]",
 "[data-test=\"sponsored-text\"]",
 "div[class^=\"styles__PubAd\"]"
 ],
