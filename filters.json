@@ -4064,6 +4064,7 @@
 "alarmsportsnetwork.com",
 "alaskaair.com/alxmt4ma/init.js",
 "alawar.com/gcounter_alawar.js",
+"alby.net/tracking-service/",
 "alex.leonard.ie/misc-images/transparent.png",
 "alfemminile.com/logpix.php",
 "algolia.io/1/events?",
@@ -4872,6 +4873,7 @@
 "clerk.io/static/clerk.js",
 "click.official.infomaniak.com%2fo%2f",
 "click.xda-developers.com/api/pixel.gif",
+"clickaider.com",
 "clickblitzo.com",
 "clickdimensions.com/ts.js",
 "clickindia.com/cimem/ad-post-ajax.php?formname=browsinghistory",
@@ -7522,8 +7524,6 @@
 "ruslab.net/a/p.js",
 "russian.rt.com/nbc/|",
 "russianfood.com/js/informb_stat.core.js",
-"s.axon.ai/pixel.js",
-"s.axon.ai/s/pixel.js",
 "s.cdin.me/i.php",
 "s.click.aliexpress.com/af_pixel.htm",
 "s.ensonhaber.com/assets/js/lib/esh-tag-v5.js",
@@ -8091,6 +8091,7 @@
 "t.oned.io/onedio-longvisit.img?_t=",
 "t.oned.io/onedio-visit.img?_t=",
 "t.yesware.com",
+"t1.daumcdn.net/adfit/static/ad.min.js",
 "t2.profityi.com/api/visit/",
 "t21.press/counter.php",
 "t3.chat/api/event",
@@ -19647,6 +19648,9 @@
 "wymondhamandattleboroughmercury.co.uk": [
 ".advert"
 ],
+"ess-news.com": [
+".advert-block__container"
+],
 "saucemagazine.com": [
 ".advert-elem",
 ".advert-elem-1"
@@ -27123,6 +27127,9 @@
 ],
 "lookbook.nu": [
 ".leaderboard_container"
+],
+"snbforums.com": [
+".leaderboard_snbad"
 ],
 "rottentomatoes.com": [
 ".leaderboard_wrapper",
@@ -52859,9 +52866,6 @@
 "/ad.html?": {
 "xmlhttprequest": false
 },
-"/ad.min.js": {
-"script": true
-},
 "/ad/ad_common.js": {
 "script": true
 },
@@ -54931,6 +54935,10 @@
 "tp": true,
 "xmlhttprequest": true
 },
+"01045395.xyz": {
+"main_frame": true,
+"popup": true
+},
 "07c225f3.online": {
 "main_frame": true,
 "popup": true
@@ -54940,6 +54948,10 @@
 "popup": true
 },
 "10523745.xyz": {
+"main_frame": true,
+"popup": true
+},
+"15752525.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -54979,7 +54991,19 @@
 "main_frame": true,
 "popup": true
 },
+"49333767.xyz": {
+"main_frame": true,
+"popup": true
+},
 "4afa45f1.xyz": {
+"main_frame": true,
+"popup": true
+},
+"54019033.xyz": {
+"main_frame": true,
+"popup": true
+},
+"56514411.xyz": {
 "main_frame": true,
 "popup": true
 },
@@ -54987,7 +55011,15 @@
 "main_frame": true,
 "popup": true
 },
+"89871256.xyz": {
+"main_frame": true,
+"popup": true
+},
 "9354ee72.xyz": {
+"main_frame": true,
+"popup": true
+},
+"98383163.xyz": {
 "main_frame": true,
 "popup": true
 },
