@@ -4313,6 +4313,7 @@
 "at.cbsi.com/lib/api/client-info",
 "atcdn.co.uk/frostbite/",
 "atoplay.com/js/rtads.js",
+"att.com/scripts/adobe/prod/marketing.min.js",
 "att.com/ssaf/ssafc/v1/controllerdata",
 "atv-ps.amazon.com/swift/page/xrayvod?deviceid=",
 "auctionzip.com/ektvxkq2/init.js",
@@ -6468,6 +6469,7 @@
 "netu.ac/cdn-cgi/trace",
 "netuplayer.top/cdn-cgi/trace",
 "netusia.xyz/cdn-cgi/trace",
+"neuron.cbssports.cloud/client.js?platform=tracking-manager",
 "newagebd.net/assets/img/ads/",
 "newegg.com/amber3/tracking",
 "newegg.com/gfplib.js",
@@ -20513,7 +20515,9 @@
 "[style*=\"height:300px\"]"
 ],
 "kingmods.net": [
-"[data-ad-wrapper-slot]"
+".banner-ad",
+"[data-ad-wrapper-slot]",
+"[x-data=\"nativeAd\"]"
 ],
 "kingsfoodmarkets.com": [
 ".master-product-carousel:has([data-carousel-api*=\"search/sponsored-carousel\"])",
@@ -55595,9 +55599,6 @@
 "adglidepro.com": {
 "main_frame": true
 },
-"adk2.co": {
-"tp": true
-},
 "admo.tv": {
 "tp": true
 },
@@ -55929,9 +55930,6 @@
 "tp": true
 },
 "caramel.press": {
-"tp": true
-},
-"casino-zilla.com": {
 "tp": true
 },
 "casinobonusdeals.io": {
@@ -56678,9 +56676,6 @@
 },
 "go.toutapp.com": {
 "image": true
-},
-"go2linktrack.com": {
-"main_frame": true
 },
 "graph.org/file/": {
 "tp": true
@@ -57795,9 +57790,6 @@
 "simpleanalytics.com": {
 "tp": true
 },
-"singaporetradingchallengetracker1.com": {
-"main_frame": true
-},
 "singlegirlsfinder.com": {
 "main_frame": true
 },
@@ -57923,9 +57915,6 @@
 "tp": true
 },
 "swiftypecdn.com/te.js": {
-"tp": true
-},
-"switchadhub.com": {
 "tp": true
 },
 "sync.amperwave.net/api/get/magnite/auid=": {
