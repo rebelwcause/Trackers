@@ -5880,6 +5880,7 @@
 "instagram.com/paid_ads/",
 "installiq.com/pixels/",
 "instant-gaming.com/affgames/",
+"instant.one/a/tk",
 "instructables.com/counter",
 "interest.co.nz/core/modules/statistics/statistics.php",
 "interestingengineering.com/partial/connatix_desktop.html",
@@ -10479,6 +10480,7 @@
 ],
 "bestbuy.com": [
 "#sponsored-carousel-na",
+".atwa-ninja-carousel:has(div[data-testid=\"sponsored-sbb\"])",
 ".atwb-display-ad",
 ".display-ad-wrapper",
 ".generic-morpher:has(.spns-label)",
@@ -21386,7 +21388,7 @@
 ".feed-shared-update-v2:has(a[aria-label*=\"\ud504\ub85c\ubaa8\uc158\"])",
 ".feed-shared-update-v2:has-text(Promoted)",
 ".msg-conversation-listitem__link:has-text(Sponsored)",
-"[componentkey*=\"_expandedurn:li:sponsoredContentV2\"]",
+"[componentkey*=\"urn:li:sponsoredContentV2\"]",
 "article[data-is-sponsored]",
 "div.feed-shared-update-v2:has(span.update-components-actor__description:has-text(Promoted))",
 "iframe[componentkey$=\"_ad\"]",
@@ -25727,6 +25729,10 @@
 ],
 "pinchofyum.com": [
 ".adthrive_header_ad"
+],
+"ping0.cc": [
+"#websites-wrap:has([rel$=\"sponsored\"])",
+".aditems"
 ],
 "pinkun.com": [
 ".advert"
@@ -43197,6 +43203,7 @@
 ".adLargeRec",
 ".adLargeRect",
 ".adLat",
+".adLayer",
 ".adLeader",
 ".adLeaderBoard_container",
 ".adLeaderForum",
@@ -54181,6 +54188,9 @@
 "/partners/ads/": {
 "image": true
 },
+"/pay/collect": {
+"xmlhttprequest": true
+},
 "/pbjsandwichdirecta9-": {
 "script": true
 },
@@ -56271,12 +56281,6 @@
 "ct.sendgrid.net": {
 "image": true
 },
-"ctrk.klclick2.com%2fo%2f": {
-"image": true
-},
-"ctrk.klclick2.com/o/": {
-"image": true
-},
 "dadi.technology": {
 "tp": true
 },
@@ -56943,9 +56947,6 @@
 "leadgainz.com": {
 "main_frame": true
 },
-"leadshurriedlysoak.com": {
-"main_frame": true
-},
 "learn-cpp.org/static/img/banners/cfk/": {
 "image": true
 },
@@ -57051,9 +57052,6 @@
 },
 "lowfuelmotorsport.com/assets/img/partners/": {
 "image": true
-},
-"lust-burning.rest": {
-"main_frame": true
 },
 "lustre.ai": {
 "script": true,
@@ -57259,9 +57257,6 @@
 "netnaija.com/s/": {
 "script": true
 },
-"netrefer.co": {
-"main_frame": true
-},
 "netreviews.eu/index.php?action=act_access&": {
 "tp": true
 },
@@ -57309,9 +57304,6 @@
 },
 "noterium.com": {
 "tp": true
-},
-"nothingfairnessdemonstrate.com": {
-"main_frame": true
 },
 "notices.rei.com": {
 "image": true
@@ -57452,9 +57444,6 @@
 },
 "polymail.io/v2/z": {
 "image": true
-},
-"populationstring.com": {
-"main_frame": true
 },
 "popup.laybuy.com": {
 "sub_frame": true,
@@ -57601,9 +57590,6 @@
 "script": false,
 "tp": false
 },
-"recommended-twice.com": {
-"main_frame": true
-},
 "redbee.serverside.ai": {
 "image": true
 },
@@ -57729,9 +57715,6 @@
 },
 "sciencefocus.com/pricecomparison/": {
 "sub_frame": true
-},
-"score-feed.com": {
-"main_frame": true
 },
 "screen13.com": {
 "image": true
