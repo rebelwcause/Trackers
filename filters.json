@@ -35931,7 +35931,6 @@
 "a[data-href^=\"http://ads.trafficjunky.net/\"]",
 "a[data-oburl^=\"https://paid.outbrain.com/network/redir?\"]",
 "a[data-redirect^=\"https://paid.outbrain.com/network/redir?\"]",
-"a[data-url^=\"https://vulpix.bet/?ref=\"]",
 "a[id][href=\"https://chpadblock.com/\"][rel^=\"noopener noreferrer\"]",
 "a[onclick^=\"window.location.replace('https://random-affiliate.atimaze.com/\"]",
 "a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"]",
@@ -57543,9 +57542,6 @@
 "image": true
 },
 "rfr-69.com": {
-"tp": true
-},
-"rightmoveanalytics.co.uk": {
 "tp": true
 },
 "rocketmedia24.com": {
