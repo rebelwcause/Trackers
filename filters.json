@@ -5019,6 +5019,7 @@
 "data.cheatography.com/banana.js",
 "data.clickocean.io/actions/",
 "data.gov.in/ogdp-stats-",
+"data.joongna.com/log/",
 "data.liba.com/_.gif",
 "data.product.lastpass.com/data/ptm.gif/",
 "data.qvc.com/cm?tid",
@@ -8626,11 +8627,8 @@
 ".ad-container"
 ],
 "9to5linux.com": [
-".ai_widget",
-".block-widget",
-".widget:has([href$=\".php\"])",
-".widget_custom_html",
-".widget_media_image"
+"#text-21",
+".block-widget"
 ],
 "9to5mac.com": [
 ".ad-container",
@@ -9821,6 +9819,11 @@
 "asianwiki.com": [
 ".ad"
 ],
+"asiaone.com": [
+".ao-ads",
+".ao-article-video-wrapper",
+".dfp-tag-wrapper"
+],
 "ask.com": [
 ".PartialKelkooResults"
 ],
@@ -10912,7 +10915,9 @@
 ".s-ou-wrap",
 "[href*=\"https://www.bleepingcomputer.com/mgo/\"]",
 "[href=\"https://try.flare.io/bleeping-computer/\"]",
+"[href^=\"https://www.adaptivesecurity.com/\"]",
 "[href^=\"https://www.bleepingcomputer.com/go/\"]",
+"[href^=\"https://www.threatlocker.com/\"]",
 "[src*=\"https://www.bleepstatic.com/c/t/threatlocker/\"]"
 ],
 "blenderartists.org": [
@@ -12311,8 +12316,7 @@
 ".code-block"
 ],
 "chromewebstore.google.com": [
-"[aria-describedby=\"promo-header\"]:has-text(Switch to Chrome)",
-"[aria-labelledby=\"promo-header\"]"
+"[jscontroller=\"o2G9me\"]> :has([data-is-touch-wrapper=\"true\"])"
 ],
 "chron.com": [
 "#modals",
@@ -13009,6 +13013,7 @@
 ".spot"
 ],
 "consequence.net": [
+".ad-min-height-600",
 ".leaderboard-sticky",
 ".video_container"
 ],
@@ -20431,7 +20436,9 @@
 ],
 "justwatch.com": [
 ".buybox-promotion-row",
+".buybox_international_offers_row__header__icons:has([rel=\"nofollow sponsored noopener\"])",
 ".free-trial__container",
+".offer-container:has(.offer__footnote)",
 ".offer-container:has(.promotion-row_container)",
 ".promoted-buybox"
 ],
@@ -30546,7 +30553,9 @@
 ".header-html-inner"
 ],
 "tampafp.com": [
-"._ning_outer"
+"._ning_outer",
+".sticky-inside-pad",
+".tampa-widget"
 ],
 "tandfonline.com": [
 "#pbgrd-skyscraper",
@@ -53068,6 +53077,9 @@
 "/advadsv3/": {
 "script": true,
 "stylesheet": true
+},
+"/advanced-ads/public/assets/js/advanced.min.js": {
+"script": true
 },
 "/advbanner.frontend.js": {
 "script": true
