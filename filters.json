@@ -3607,6 +3607,7 @@
 "/wp-content/plugins/thirstyaffiliates-pro/js/app/tap-gct.js",
 "/wp-content/plugins/useful-banner-manager/",
 "/wp-content/plugins/woocommerce-google-analytics-integration/",
+"/wp-content/plugins/wp-analytify-pro/",
 "/wp-content/plugins/wp-click-track/js/ajax.js",
 "/wp-content/plugins/wp-clickmap/clickmap.js",
 "/wp-content/plugins/wp-gdpr-compliance/",
@@ -6916,7 +6917,6 @@
 "polarbyte.com/scripts/latest/reach/pb-reach.iife.min.js",
 "polarbyte.com/scripts/latest/survey/pb-survey.iife.min.js",
 "politico.com/resource/assets/js.min/video-tracking.",
-"polytoria.com/ads/",
 "pons.com/assets/javascripts/modules-min/ad-utilities_",
 "pons.com/assets/javascripts/modules-min/idm-ads_",
 "popai.pro/dfxaf3-sg.js",
@@ -8255,7 +8255,6 @@
 "wheregoes.com/api/event",
 "whistleout.com.au/track",
 "whitepages.com/api/log-",
-"whitepages.com/static/dist/amplitudesetup.js",
 "whitepages.com/static/dist/setupgaconfig.js",
 "whooshkaa.com/identify",
 "whooshkaa.com/listen/track",
@@ -9370,7 +9369,8 @@
 ".ad3"
 ],
 "alltechnerd.com": [
-".code-block"
+".code-block",
+".wp-block-foxiz-elements-affiliate-product"
 ],
 "allthatsinteresting.com": [
 ".footer-banner",
@@ -13837,6 +13837,7 @@
 ".ad"
 ],
 "cyberscore.live": [
+".modal-form-wrapper",
 ".partner-rb",
 ".partner-rb-full-page",
 ".wrapper-partner-rb"
@@ -17929,8 +17930,7 @@
 "gelbooru.com": [
 ".footerAd2",
 ".headerAd",
-"[style^=\"width: 728px;\"]",
-"a[href^=\"//tsyndicate.com/\"]"
+"[style^=\"width: 728px;\"]"
 ],
 "gematsu.com": [
 ".adcontainer",
@@ -19650,6 +19650,9 @@
 "#custom_html-74"
 ],
 "idropnews.com": [
+".floatfixAd",
+".ga-banner",
+".post_sponsorship",
 ".related-posts",
 ".side-title-wrap"
 ],
@@ -25506,6 +25509,7 @@
 ],
 "opensubtitles.org": [
 "#watch_online",
+".msg > div > fieldset:has(> [style=\"text-align:center;\"])",
 "a[target=\"_blank\"][href^=\"https://www.amazon.com/gp/search\"]",
 "tr[style]:has([src*=\"php\"])"
 ],
@@ -25797,6 +25801,9 @@
 ],
 "passedoutphotos.com": [
 ".leaderboard"
+],
+"passiveincomemd.com": [
+".passi-pimdcon-ad-placement"
 ],
 "pastebin.com": [
 ".content > [style^=\"padding-bottom:\"]",
@@ -26551,9 +26558,6 @@
 "polygon.com": [
 "[class]:has(> [data-concert])",
 "[data-concert]"
-],
-"polytoria.com": [
-"[href^=\"/report/ad/\"]"
 ],
 "pons.com": [
 "#pons-ad-footer",
@@ -31109,6 +31113,9 @@
 "techlife.com": [
 "#text-5"
 ],
+"techloy.com": [
+"#announcement-bar-root"
+],
 "techmaniachd.pl": [
 "#sidebar-right-1 > #HTML6"
 ],
@@ -32492,6 +32499,7 @@
 ".is-exco-player",
 ".is-fallback-player",
 ".m-balloon-header",
+".m-detail--feature-spacer",
 ".m-in-content-ad-row",
 ".m-video-unit"
 ],
@@ -52606,6 +52614,9 @@
 ".ca/ads/": {
 "xmlhttprequest": false
 },
+".cc/process.js?id=": {
+"tp": true
+},
 ".click/cuid/?": {
 "tp": true
 },
@@ -56356,6 +56367,9 @@
 "ads.planetwin365affiliate.com": {
 "tp": true
 },
+"ads01.com": {
+"tp": true
+},
 "adsensedetective.com": {
 "tp": true
 },
@@ -58386,9 +58400,6 @@
 "rfr-69.com": {
 "tp": true
 },
-"rightmoveanalytics.co.uk": {
-"tp": true
-},
 "rocketmedia24.com": {
 "tp": true
 },
@@ -58867,9 +58878,6 @@
 "trkpostback.com": {
 "main_frame": true
 },
-"truenat.bid": {
-"tp": true
-},
 "truepeoplesearch.com/search/widgets?": {
 "xmlhttprequest": true
 },
@@ -59048,9 +59056,6 @@
 "ping": true
 },
 "wordmonetize.com": {
-"tp": true
-},
-"worldlogger.com": {
 "tp": true
 },
 "wowtcgloot.com/share/?d=": {
