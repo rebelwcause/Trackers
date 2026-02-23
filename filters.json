@@ -410,6 +410,7 @@
 "/_/trace/trace/",
 "/__analytics-start?url=",
 "/__cookie_js.php",
+"/__core/metrics.js",
 "/__imp_apg__/",
 "/__rmn.gif?",
 "/__ssobj/core.js",
@@ -1646,6 +1647,7 @@
 "/gd-cookie.js",
 "/gd-cookie2.js",
 "/gd_tracker_events.js",
+"/gdm-user-insights.js",
 "/gdpr-cookie-min.",
 "/gdpr.js",
 "/gemius.3.15.js",
@@ -5259,6 +5261,9 @@
 "eapi.pcloud.com/loganalyticsevent",
 "earn-bitcoins.net/banner_",
 "earthly.dev/blog/assets/js/analytics.js",
+"easeus.com/default/js/adsystem/",
+"easeus.com/default/js/marketing.js",
+"easeus.com/default/js/sensorsdata/",
 "easydmp.net/collect_",
 "easydmp.net/etag.",
 "easydmp.net/get_delivery_data.",
@@ -5689,7 +5694,6 @@
 "go.com/capmon/getde/?",
 "go.fap18.net/ftt2/js.php",
 "go.masterclass-piano.com/v1/track_capi?",
-"go.nutraingredients.com/pd.js",
 "go.techtarget.com/clicktrack-r/",
 "go5.link/js/pageviews.js",
 "goaffpro.com/track",
@@ -6551,7 +6555,6 @@
 "myaccount.exeterfinance.com/scripts/app/google_analytics.js",
 "myanimelist.net/c/i/images/event/",
 "myanimelist.net/static/logging.html",
-"mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-",
 "mybrowseraddon.com/ads/core.js",
 "myeongbeauty.com/ads/",
 "myfinance.com/widget/",
@@ -7737,6 +7740,8 @@
 "t3.chat/js/xt/script.js",
 "taadd.com/files/js/site_skin.js",
 "tag.flvcdn.net/lytag.js",
+"tags.news.com.au/prod/",
+"tags.newscgp.com/prod/ncg/",
 "tagsd.com/newserving/tracking_id.php",
 "tahoe.com/imp",
 "taiwanplus.com/api/video/startvideo",
@@ -8456,6 +8461,7 @@
 "zkcdn.net/ados.js",
 "zmescience.com/o5ate4zbho8.js",
 "zmovies.cc/e3cf74305b.php",
+"zocdoc.com/metrics/",
 "zona.plus/ajax/visit-stats",
 "zonastat.com/installer.html?param=",
 "zooplus.io/static/js/tracking-min.js",
@@ -9742,6 +9748,9 @@
 ".apnews_article_midarticle_3",
 ".leaderboard-container"
 ],
+"app.carta.com": [
+".StyledTile-sc-1doyn4i.clcUHf"
+],
 "appatic.com": [
 "#HTML2"
 ],
@@ -10768,7 +10777,8 @@
 "[class^=\"sponsoredProdBoxGridArea\"]",
 "[id^=\"atwb-ninja-carousel\"]",
 "div.x-productListItem:has([class^=\"sponsoredProduct\"])",
-"div[data-automation^=\"criteo-sponsored-products-carousel-\"]"
+"div[data-automation^=\"criteo-sponsored-products-carousel-\"]",
+"section[data-automation=\"dynamic-content-featured-sku-list-home_fsl_sponsored\"]"
 ],
 "bestbuy.com": [
 "#sponsored-carousel-na",
@@ -20798,6 +20808,9 @@
 ".masthead",
 ".pauseroll-adv-container"
 ],
+"kanaloco.jp": [
+".tab_wrap:has(> #recomm_tab1)"
+],
 "kanobu.ru": [
 "a[href^=\"https://www.liveinternet.ru/click\"]"
 ],
@@ -22342,6 +22355,7 @@
 "macys.com": [
 "#sponsored-items-container",
 ".media-component-siteMonetization",
+".plp-page-row:has(.monetization-brand-label)",
 ".siteMonetization",
 ".sortable-grid-sponsored-items",
 ".sortablegrid-product.featured-item",
@@ -23254,6 +23268,9 @@
 ".lg\\:block",
 "a[href*=\"//bit.ly/\"]",
 "div[style=\"width: 300px; height: 250px;\"]"
+],
+"missav78.top": [
+".streamer-container2"
 ],
 "missingremote.com": [
 "#top-bar"
@@ -29323,6 +29340,9 @@
 "img[width=\"300\"]"
 ],
 "semafor.com": [
+"._adHeaderMargin_psyvh_111",
+"._adMargin_psyvh_211",
+"._homeMiddleAd_x95p9_29",
 "div[class^=\"styles_ad\"]"
 ],
 "semiconductor-today.com": [
@@ -29672,6 +29692,7 @@
 "#cloud",
 "#floating-content",
 "#main-nav-badge-link",
+"#mdb-sticky",
 "#slashdot_deals",
 ".ad-blocked-newsletter",
 ".adwrap",
@@ -30018,6 +30039,7 @@
 "sourceforge.net": [
 "#banner-sterling",
 "#floating-content",
+"#mdb-sticky",
 ".projects > .trunc-eligible",
 ".sterling",
 "a[data-label^=\"avast\"]"
@@ -33897,6 +33919,7 @@
 ],
 "ulta.com": [
 ".CriteoProductRail",
+".swiper-slide:has(.pal-c-ProductCardFooter__sponsored)",
 "li.ProductListingResults__productCard:has(.pal-c-ProductCardFooter__sponsored)"
 ],
 "ultimate-guitar.com": [
@@ -39473,6 +39496,7 @@
 "#cookieInfoBanner",
 "#cookieInfoBar",
 "#cookieInfoBox",
+"#cookieInfoContent",
 "#cookieInfoDiv",
 "#cookieInfoMsgWrapper",
 "#cookieInfoWrapper",
@@ -56047,6 +56071,9 @@
 "1win.com": {
 "ping": true
 },
+"200summit.com": {
+"tp": true
+},
 "20382207.xyz": {
 "main_frame": true
 },
@@ -56383,9 +56410,6 @@
 },
 "aa.agkn.com": {
 "image": true
-},
-"aamsitecertifier.com": {
-"tp": true
 },
 "aax-eu-dub.amazon.com": {
 "script": true
@@ -56955,6 +56979,9 @@
 "coinimp.net": {
 "tp": true
 },
+"coinwebmining.com": {
+"tp": true
+},
 "colorsealprosper.co": {
 "main_frame": true
 },
@@ -57104,9 +57131,6 @@
 },
 "demdex.net/event?d_src=": {
 "image": true
-},
-"demowebcode.online": {
-"main_frame": true
 },
 "designtaxi.com/small-dt.php": {
 "sub_frame": true
@@ -57483,9 +57507,6 @@
 "image": true
 },
 "gvl-dev.setupcmp.com": {
-"tp": true
-},
-"hashcoin.co": {
 "tp": true
 },
 "heg-cp.com/upm/": {
@@ -58457,6 +58478,9 @@
 "rfr-69.com": {
 "tp": true
 },
+"rightmoveanalytics.co.uk": {
+"tp": true
+},
 "rocketmedia24.com": {
 "tp": true
 },
@@ -58590,6 +58614,9 @@
 "senzapudore.it": {
 "tp": true
 },
+"service-cmp.com": {
+"tp": true
+},
 "sexemulator.tube-sexs.com": {
 "main_frame": true
 },
@@ -58683,6 +58710,9 @@
 },
 "squaremouth.com/affiliates/": {
 "tp": true
+},
+"srvqck5.com": {
+"main_frame": true
 },
 "ssl-images-amazon.com/images/s/apesafeframe/ape/sf/": {
 "script": true,
@@ -59173,9 +59203,6 @@
 "tp": true
 },
 "youramigo.com": {
-"tp": true
-},
-"yu987.com": {
 "tp": true
 },
 "ywxi.net": {
@@ -60331,6 +60358,9 @@
 ],
 "duckduckgo.com/": [
 "/reportanalytics"
+],
+"easeus.com/proxydirectory/": [
+"/pageinfo"
 ],
 "ebay.": [
 "/beacon/"
