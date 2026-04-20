@@ -616,6 +616,7 @@
 "/analytics-library.js",
 "/analytics-minimal-v4.js",
 "/analytics-minimal.js",
+"/analytics-module-api/v1/analytics?",
 "/analytics-ping.js",
 "/analytics-prod.js",
 "/analytics-reporter/",
@@ -856,6 +857,7 @@
 "/bineos.min.js",
 "/bing-bat.js",
 "/bingimpression?",
+"/bitmovinplayer-advertising-ima.js",
 "/bitrix/spread.php?",
 "/bizo.js",
 "/bk-coretag.js",
@@ -4676,6 +4678,7 @@
 "byteoversea.com/monitor_browser/",
 "byteoversea.com/monitor_web/",
 "bzpics.com/jslib/st.js?",
+"bzrcdn.openai.com/sdk/oaiq.min.js",
 "c-date.at/sites/c-date.ch/modules/tracking",
 "c-date.com/pixel/",
 "c.woopic.com/tools/pdb.min.js",
@@ -4799,7 +4802,6 @@
 "cdn.tds.bid/bid.js",
 "cdn.tebilisim.com/analytics.js",
 "cdn.thenewsbox.net/m/impression",
-"cdn.thrad.ai/ptag.min.js",
 "cdn.trackcollect.com/metrics/",
 "cdn.trustcommander.net/privacy",
 "cdn.ustatik.com/vendor/metrica/watch.js",
@@ -5157,6 +5159,7 @@
 "dbrand.com/cvg/log?",
 "dbrand.com/cvg/static/pixels/",
 "dbrand.com/cvg/track?",
+"dce-frontoffice.imggaming.com/api/v2/event/",
 "dcinside.com/_js/click_log.js",
 "dditscdn.com/?a=",
 "dditscdn.com/log/",
@@ -5299,6 +5302,7 @@
 "duckduckgo.com/t.js?q=",
 "duckduckgo.com/t/",
 "duckduckgo.com/y.js?ifu=",
+"ducttapeai.com/api/tracking/event",
 "dud.allarknow.online/stat",
 "dugout.co/das2.js",
 "dumbingofage.com/?feed-stats-post-id=",
@@ -5522,6 +5526,7 @@
 "filecrypt.cc/surething.php",
 "filecrypt.co/0pixel.php",
 "filecrypt.co/meh.php",
+"fileditchfiles.me/api/plausible",
 "filehippo.com/best-recommended-apps",
 "filehippo.com/revamp.js",
 "files.im/images/bbnr/",
@@ -6583,6 +6588,7 @@
 "mollusk.apis.ign.com/metrics/",
 "monetarygoldgroup.com/_ub/",
 "moneycontrol.com/news/services/get_comscore_pageview/",
+"moneywise.com/scottie/api/cdp/v1/event",
 "monipla.com/launch.js",
 "monitor.lifemiles.com/collect",
 "monster-strike.com/assets/scripts/tracking.js",
@@ -7305,6 +7311,7 @@
 "ruslab.net/a/p.js",
 "russian.rt.com/nbc/",
 "russianfood.com/js/informb_stat.core.js",
+"s-cdn.anthropic.com/s.js",
 "s.cdin.me/i.php",
 "s.click.aliexpress.com/af_pixel.htm",
 "s.ensonhaber.com/assets/js/lib/esh-tag-v5.js",
@@ -7714,6 +7721,7 @@
 "static.narrativ.com/tags/narrativ-pub.",
 "static.prd.datawars.io/static/promo/",
 "static.read.tools/stats.min.js",
+"static.rebelboost.com/tracking/",
 "static.searchiq.co/t/pxl.gif",
 "static.shop-apotheke.com/media/js/shopmonitor3.js",
 "static.shopmy.us/affiliates/sms_aff_clicktrack.js",
@@ -8042,6 +8050,7 @@
 "townwork.net/api/lettice/collect/",
 "toyokeizai.net/op/analytics.js",
 "toyota.com/analytics/",
+"tpead.net/stat/",
 "tr.indeed.com/m/basecamp/analytics.js",
 "tra.scds.pmdstatic.net/advertising-core/",
 "tra.scds.pmdstatic.net/sourcepoint/",
@@ -8093,6 +8102,7 @@
 "trvl-px.com/trvl-px/",
 "trwl1.com/ascripts/gcrt.js",
 "try.elevenlabs.io/pr/js",
+"trygravity.ai/ack?",
 "tsmate.com/api/metrics",
 "tsphone.biz/pixelvoleur.jpg?",
 "tubedupe.com/js/td_track.js",
@@ -8484,6 +8494,7 @@
 "www-direct.motorcycle.com/eventstream",
 "www-direct.upgradedhome.com/eventstream",
 "www-idm.com/wp-content/uploads/2022/02/bitcoin.png",
+"www.history.com/editorial/vendor/",
 "wzzm13.com/taboola_",
 "x.t-idr.com/api/v1/identify",
 "xboxservices.com/xboxcomfd/experimentation?",
@@ -9578,6 +9589,7 @@
 "div[style=\"min-height:280px\"]"
 ],
 "alternet.org": [
+"#alternet_dt_incontent",
 "#leaderboard-placeholder",
 ".sidebar_sticky_container",
 "[id^=\"story_page_incontent_\"]"
@@ -9898,6 +9910,9 @@
 ],
 "apkpure.net": [
 ".aipure-button"
+],
+"apkrabi.io": [
+".ads12"
 ],
 "apksum.com": [
 ".ad-left"
@@ -10268,7 +10283,8 @@
 ".az-header-ads-container"
 ],
 "audacy.com": [
-".component--google-ad-manager"
+".component--google-ad-manager",
+".topbarplaceholder"
 ],
 "audi-sport.net": [
 ".samBannerUnit",
@@ -10568,6 +10584,12 @@
 "azuremagazine.com": [
 ".hero__metadata-left-rail",
 "div[class$=\"azoa\"]"
+],
+"b-m.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"b-m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
 ],
 "b.kyodo.co.jp": [
 ".banner-area-entry + h3.category-title"
@@ -12286,7 +12308,8 @@
 "#branded-canvas-click-wrapper:has(> #native-ad-html)",
 ".vehicle-card.inventory-ad",
 "[aria-label=\"Listings\"] li:has(card-gallery[card-link*=\"?attribution_type\"])",
-"[id$=\"-sponsored\"]"
+"[id$=\"-sponsored\"]",
+"li[data-phx-id]:has([phx-value-source=\"sponsored_trending_search_card\"])"
 ],
 "carsales.com.au": [
 ".page-header"
@@ -14631,7 +14654,8 @@
 ],
 "deepai.org": [
 "#primis-ads",
-".ctx-ad-container"
+".ctx-ad-container",
+".ctx-content-container"
 ],
 "deeplol.gg": [
 "#center_content_bottom_ad_box",
@@ -16444,20 +16468,56 @@
 ".gmr-bannerpopup"
 ],
 "facebook.com": [
+"#stream_pagelet [id^=\"hyperfeed_story_id_\"]:has(span._4dcu)",
+"#stream_pagelet div[id^=\"hyperfeed_story_id_\"]:has(a.uiStreamSponsoredLink)",
+"#stream_pagelet div[id^=\"hyperfeed_story_id_\"]:if(h6:has-text(People You May Know))",
+"#watch_feed div:not([class]) > div:not([class]) div[class] [class] > a[href*=\"utm_source=facebook\"] span[class] > span[class][style*=\"-webkit-line-clamp\"]:has-text(\u5e83\u544a):upward(div:not([class]) > div:not([class])):style(height: 0 !important; overflow: hidden !important;)",
+"#watch_feed div:not([class]) > div:not([class]) div[class] span[class] > a span[aria-labelledby]:has(> span[style=\"display: flex;\"] > span[class]:has-text(/^S$/)):has(> span[style=\"display: flex;\"] > span[class]:has-text(/^p$/)):has(> span[style=\"display: flex;\"] > span[class]:has-text(/^d$/)):upward(div:not([class]) > div:not([class])):style(height: 0 !important; overflow: hidden !important;)",
+"#watch_feed div:not([class]) > div:not([class]) div[class] span[class] > a[aria-label=\"\u5e83\u544a\"]:upward(div:not([class]) > div:not([class])):style(height: 0 !important; overflow: hidden !important;)",
 ".RectangleAd",
 "._6y8t:has(a[href=\"/ads/about/?entry_product=ad_preferences\"])",
+".ego_column:if(a[href^=\"/campaign/landing\"])",
+".ego_section:has(a.adsCategoryTitleLink)",
+".ego_section:has(a[href*=\"campaign_id\"])",
+".ego_section:if(a[href^=\"/ad_campaign\"])",
+".userContentWrapper:has(a[href*=\"/ads/\"]):not(:has(a[href*=\"/ads/preferences\"]))",
+".userContentWrapper>div div>span>span:has-text(/^Suggested Post$/)",
+":matches-path(/^\\/(\\?[a-z]+=\\w+)?$/) div[aria-posinset] :is(h3, h4) span > a[href]:not([href^=\"/groups/\"]):not([href*=\"section_header_type\"]):matches-attr(href=\"/__cft__\\[0\\]=[-\\w]{290,}/\"):upward(div[aria-posinset]):style(height: 0 !important; overflow: hidden !important;)",
+":matches-path(/search/) div[role=\"article\"] span > a[href]:not([href^=\"/groups/\"]):not([href*=\"section_header_type\"]):matches-attr(href=\"/__cft__\\[0\\]=[-\\w]{265,}/\"):upward([role=\"article\"]):style(height: 0 !important; overflow: hidden !important;)",
 "a[ajaxify*=\"&eid=\"] + a[href^=\"https://l.facebook.com/l.php?u=\"]",
 "a[aria-label=\"Advertiser link\"]",
 "a[aria-label=\"Advertiser\"]",
 "article[data-ft*=\"\\\"ei\\\":\\\"\"]",
+"div[aria-describedby]:not([aria-posinset]) :is(h3, h4) span > a[href]:not([href^=\"/groups/\"]):not([href*=\"section_header_type\"]):matches-attr(href=\"/__cft__\\[0\\]=[-\\w]{290,}/\"):upward(div[aria-describedby]):style(height: 0 !important; overflow: hidden !important;)",
+"div[id^=\"hyperfeed_story_id_\"]:has(div > span:has(abbr .timestampContent):matches-css(display: none))",
+"div[id^=hyperfeed_story_id_]:has(span[data-ft=\"{\\\"tn\\\":\\\"j\\\"}\"])",
+"div[role=\"complementary\"] div:not([class]):not([id]) > span:not([class]):not([id]):not([aria-labelledby])",
 "div[style=\"max-width: 390px; min-width: 190px;\"]:has(a[href^=\"/ads/\"])"
 ],
 "facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"#stream_pagelet [id^=\"hyperfeed_story_id_\"]:has(span._4dcu)",
+"#stream_pagelet div[id^=\"hyperfeed_story_id_\"]:has(a.uiStreamSponsoredLink)",
+"#stream_pagelet div[id^=\"hyperfeed_story_id_\"]:if(h6:has-text(People You May Know))",
+"#watch_feed div:not([class]) > div:not([class]) div[class] [class] > a[href*=\"utm_source=facebook\"] span[class] > span[class][style*=\"-webkit-line-clamp\"]:has-text(\u5e83\u544a):upward(div:not([class]) > div:not([class])):style(height: 0 !important; overflow: hidden !important;)",
+"#watch_feed div:not([class]) > div:not([class]) div[class] span[class] > a span[aria-labelledby]:has(> span[style=\"display: flex;\"] > span[class]:has-text(/^S$/)):has(> span[style=\"display: flex;\"] > span[class]:has-text(/^p$/)):has(> span[style=\"display: flex;\"] > span[class]:has-text(/^d$/)):upward(div:not([class]) > div:not([class])):style(height: 0 !important; overflow: hidden !important;)",
+"#watch_feed div:not([class]) > div:not([class]) div[class] span[class] > a[aria-label=\"\u5e83\u544a\"]:upward(div:not([class]) > div:not([class])):style(height: 0 !important; overflow: hidden !important;)",
 "._6y8t:has(a[href=\"/ads/about/?entry_product=ad_preferences\"])",
+".ego_column:if(a[href^=\"/campaign/landing\"])",
+".ego_section:has(a.adsCategoryTitleLink)",
+".ego_section:has(a[href*=\"campaign_id\"])",
+".ego_section:if(a[href^=\"/ad_campaign\"])",
+".userContentWrapper:has(a[href*=\"/ads/\"]):not(:has(a[href*=\"/ads/preferences\"]))",
+".userContentWrapper>div div>span>span:has-text(/^Suggested Post$/)",
+":matches-path(/^\\/(\\?[a-z]+=\\w+)?$/) div[aria-posinset] :is(h3, h4) span > a[href]:not([href^=\"/groups/\"]):not([href*=\"section_header_type\"]):matches-attr(href=\"/__cft__\\[0\\]=[-\\w]{290,}/\"):upward(div[aria-posinset]):style(height: 0 !important; overflow: hidden !important;)",
+":matches-path(/search/) div[role=\"article\"] span > a[href]:not([href^=\"/groups/\"]):not([href*=\"section_header_type\"]):matches-attr(href=\"/__cft__\\[0\\]=[-\\w]{265,}/\"):upward([role=\"article\"]):style(height: 0 !important; overflow: hidden !important;)",
 "a[ajaxify*=\"&eid=\"] + a[href^=\"https://l.facebook.com/l.php?u=\"]",
 "a[aria-label=\"Advertiser link\"]",
 "a[aria-label=\"Advertiser\"]",
 "article[data-ft*=\"\\\"ei\\\":\\\"\"]",
+"div[aria-describedby]:not([aria-posinset]) :is(h3, h4) span > a[href]:not([href^=\"/groups/\"]):not([href*=\"section_header_type\"]):matches-attr(href=\"/__cft__\\[0\\]=[-\\w]{290,}/\"):upward(div[aria-describedby]):style(height: 0 !important; overflow: hidden !important;)",
+"div[id^=\"hyperfeed_story_id_\"]:has(div > span:has(abbr .timestampContent):matches-css(display: none))",
+"div[id^=hyperfeed_story_id_]:has(span[data-ft=\"{\\\"tn\\\":\\\"j\\\"}\"])",
+"div[role=\"complementary\"] div:not([class]):not([id]) > span:not([class]):not([id]):not([aria-labelledby])",
 "div[style=\"max-width: 390px; min-width: 190px;\"]:has(a[href^=\"/ads/\"])"
 ],
 "faceitanalyser.com": [
@@ -16613,6 +16673,7 @@
 "#leaderboard-content"
 ],
 "faroutmagazine.co.uk": [
+".GRVPrimisVideo",
 ".amp-next-page-separator",
 ".carpet-border",
 ".widget_grv_mpu_widget",
@@ -20668,6 +20729,15 @@
 "ipfighter.com": [
 ".promotion_promotion__08xl_"
 ],
+"iphone.beta.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"iphone.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"iphone.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
 "iphoneincanada.ca": [
 ".cls-video-container-9GFn3u0f"
 ],
@@ -22174,6 +22244,9 @@
 "liga.net": [
 ".ad"
 ],
+"lightnovelpub.org": [
+"[href*=\"heave.gg\"]"
+],
 "lightnovelworld.co": [
 "div[data-mobid]"
 ],
@@ -22620,11 +22693,20 @@
 ".h113",
 ".header-block"
 ],
+"m.beta.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
 "m.economictimes.com": [
 ".adContainer",
 ".ads",
 ".bannerwrapper",
 "[class=\"wdt-taboola\"]"
+],
+"m.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
 ],
 "m.famousfix.com": [
 ".ad"
@@ -23737,6 +23819,12 @@
 "mobiforge.com": [
 "a > img[alt=\"Ad\"]"
 ],
+"mobile.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"mobile.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
 "mobilenapps.com": [
 "#vplayer_large"
 ],
@@ -24218,6 +24306,15 @@
 ],
 "mtgrocks.com": [
 ".htl-inarticle-ad"
+],
+"mtouch.beta.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"mtouch.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"mtouch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
 ],
 "mugshots.com": [
 ".ads"
@@ -28399,6 +28496,9 @@
 "readfreecomics.com": [
 ".c-top-sidebar"
 ],
+"readfrom.net": [
+"#content > article.shortstory"
+],
 "readgaming.co": [
 ".advertisement",
 ".mpu"
@@ -30191,7 +30291,10 @@
 "#announcement",
 "#bolt-coding-bar",
 "#mon-sticky-div",
+"#mongo-stick-div",
+"#perplexity-coding-bar",
 "#slashdot_deals",
+"#vibe-code",
 ".ad-blocked-newsletter",
 ".banner-wrapper",
 ".deals-wrapper"
@@ -30538,6 +30641,8 @@
 "sourceforge.net": [
 "#bolt-coding-bar",
 "#mon-sticky-obj",
+"#mongo-stick-div",
+"#perplexity-coding-bar",
 ".sterling"
 ],
 "southernliving.com": [
@@ -32868,7 +32973,8 @@
 "thepost.co.nz": [
 ".ad-container",
 ".header-ads-block",
-".horizontal-ad-slot"
+".horizontal-ad-slot",
+".md\\:z-\\[var\\(--header-z-index-global\\)\\]"
 ],
 "thepostemail.com": [
 ".amp-wp-b194b9a",
@@ -33755,6 +33861,18 @@
 ],
 "totemtattoo.com": [
 "[href*=\"bit.ly/\"]"
+],
+"touch.beta.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"touch.beta.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"touch.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"touch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
 ],
 "touchdownwire.usatoday.com": [
 "#ad--home-well-wrapper"
@@ -35622,6 +35740,10 @@
 "web-dev-qa-db-fra.com": [
 ".adn-ar"
 ],
+"web.facebook.com": [
+"#seo_pivots ~ div > div[style^=\"max-width\"] > div[class] > div[style^=\"max-width\"]:has(a[href^=\"/ads/about/?\"])",
+":matches-path(/marketplace/item) a[attributionsrc^=\"/privacy_sandbox/\"]:is([aria-label$=\" anunciante\"][aria-label*=\" d\"],[aria-label=\"Lien de l\u2019annonceur\"],[aria-label$=\"autan pengiklan\"],[aria-label=\"Adverteerderskakel\"],[aria-label=\"Link sa nag-advertise\"],[aria-label=\"Link ogla\u0161iva\u010da\"],[aria-label=\"Odkaz od inzerenta\"],[aria-label=\"Link fra annonc\u00f8r\"],[aria-label=\"Werbelink\"],[aria-label=\"Link ng advertiser\"],[aria-label=\"Link dell'inserzionista\"],[aria-label=\"Veza ogla\u0161iva\u010da\"],[aria-label=\"Manisautilirijimut kasurvik\"],[aria-label=\"Kiunganishi cha mtangazaji\"],[aria-label=\"Lyen konpayi ki f\u00e8 piblisite a\"],[aria-label=\"Rekl\u0101mdev\u0113ja saite\"],[aria-label=\"Reklamuotojo nuoroda\"],[aria-label=\"Hirdet\u0151 hivatkoz\u00e1sa\"],[aria-label=\"Link tar-reklamatur\"],[aria-label=\"Adverteerderslink\"],[aria-label=\"Annons\u00f8rlenke\"],[aria-label=\"Link reklamodawcy\"],[aria-label=\"Link promotor\"],[aria-label=\"Lidhja e reklamuesit\"],[aria-label=\"Odkaz na inzerenta\"],[aria-label=\"Povezava ogla\u0161evalca\"],[aria-label=\"Mainostajan linkki\"],[aria-label=\"Annons\u00f6rl\u00e4nk\"],[aria-label=\"Li\u00ean k\u1ebft c\u1ee7a nh\u00e0 qu\u1ea3ng c\u00e1o\"],[aria-label=\"Reklamveren ba\u011flant\u0131s\u0131\"],[aria-label=\"\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf\u03c2 \u03b4\u03b9\u03b1\u03c6\u03b7\u03bc\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5\"],[aria-label=\"\u0412\u0440\u044a\u0437\u043a\u0430 \u043d\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0434\u0430\u0442\u0435\u043b\"],[aria-label=\"\u041b\u0438\u043d\u043a \u043d\u0430 \u043e\u0433\u043b\u0430\u0441\u0443\u0432\u0430\u0447 \u043d\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u0438\"],[aria-label=\"\u0421\u0443\u0440\u0442\u0430\u043b\u0447\u043b\u0430\u0433\u0447\u0438\u0439\u043d \u0445\u043e\u043b\u0431\u043e\u043e\u0441\"],[aria-label=\"\u0421\u0441\u044b\u043b\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0434\u0430\u0442\u0435\u043b\u044f\"],[aria-label=\"\u0412\u0435\u0437\u0430 \u043e\u0433\u043b\u0430\u0448\u0438\u0432\u0430\u0447\u0430\"],[aria-label=\"\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0434\u0430\u0432\u0446\u044f\"],[aria-label=\"\u10e0\u10d4\u10d9\u10da\u10d0\u10db\u10d8\u10e1 \u10d2\u10d0\u10dc\u10db\u10d7\u10d0\u10d5\u10e1\u10d4\u10d1\u10da\u10d8\u10e1 \u10d1\u10db\u10e3\u10da\u10d8\"],[aria-label=\"\u05e7\u05d9\u05e9\u05d5\u05e8 \u05e9\u05dc \u05de\u05e4\u05e8\u05e1\u05dd\"],[aria-label=\"\ufe8e\ufbfe\u0688\ufeed\ufead\u0679\ufe8e\ufe8b\ufeaf\ufead \ufb8e\ufe8d \ufede\ufee8\ufb90\"],[aria-label=\"\ufead\ufe8e\ufe92\ufec3 \ufe8e\ufee0\ufee4\ufecc\ufee0\ufee7\"],[aria-label=\"\u091c\u093e\u0939\u093f\u0930\u093e\u0924\u0926\u093e\u0930 \u0932\u093f\u0902\u0915\"],[aria-label=\"\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928\u0926\u093e\u0924\u093e \u0926\u094d\u0935\u093e\u0930\u093e \u0932\u093f\u0902\u0915\"],[aria-label=\"\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09a6\u09be\u09a4\u09be \u09b2\u09bf\u0982\u0995\"],[aria-label=\"\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09a6\u09be\u09a4\u09be\u09b0 \u09b2\u09bf\u0999\u09cd\u0995\"],[aria-label=\"\u0a9c\u0abe\u0ab9\u0ac7\u0ab0\u0abe\u0aa4\u0a95\u0ab0\u0acd\u0aa4\u0abe \u0ab2\u0abf\u0a82\u0a95\"],[aria-label=\"\u0c05\u0c21\u0c4d\u0c35\u0c30\u0c4d\u0c1f\u0c2f\u0c3f\u0c1c\u0c30\u0c4d \u0c32\u0c3f\u0c02\u0c15\u0c4d\"],[aria-label=\"\u0d2a\u0d30\u0d38\u0d4d\u0d2f\u0d26\u0d3e\u0d24\u0d3e\u0d35\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d32\u0d3f\u0d19\u0d4d\u0d15\u0d4d\"],[aria-label=\"\u0dc0\u0dd9\u0dc5\u0db3 \u0db4\u0dca<200d>\u0dbb\u0da0\u0dcf\u0dbb\u0d9a \u0dc3\u0db6\u0dd0\u0db3\u0dd2\u0dba\"],[aria-label=\"\u0e25\u0e34\u0e07\u0e01\u0e4c\u0e1c\u0e39\u0e49\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\"],[aria-label=\"\uad11\uace0\uc8fc \ub9c1\ud06c\"],[aria-label^=\"\u5ee3\u544a\"][aria-label$=\"\u9023\u7d50\"],[aria-label=\"\u5e7f\u544a\u4e3b\u63d0\u4f9b\u7684\u94fe\u63a5\"],[aria-label=\"\u5e83\u544a\u4e3b\u306b\u3088\u308b\u30ea\u30f3\u30af\"])"
+],
 "web.telegram.org": [
 ".SponsoredMessage",
 "div.bubbles > div.scrollable > div.bubbles-inner > div.is-sponsored"
@@ -36088,8 +36210,7 @@
 ],
 "winaero.com": [
 "#custom_html-10",
-".site-content > div > p[style=\"margin: 22px\"]",
-".windia:not(.thank-you-adguard)"
+".site-content > div > p[style=\"margin: 22px\"]"
 ],
 "windinmyface.com": [
 ".placementInline",
@@ -36547,6 +36668,10 @@
 "www.autoblog.com": [
 ".exco-player-wrapper"
 ],
+"www.facebook.com": [
+"#seo_pivots ~ div > div[style^=\"max-width\"] > div[class] > div[style^=\"max-width\"]:has(a[href^=\"/ads/about/?\"])",
+":matches-path(/marketplace/item) a[attributionsrc^=\"/privacy_sandbox/\"]:is([aria-label$=\" anunciante\"][aria-label*=\" d\"],[aria-label=\"Lien de l\u2019annonceur\"],[aria-label$=\"autan pengiklan\"],[aria-label=\"Adverteerderskakel\"],[aria-label=\"Link sa nag-advertise\"],[aria-label=\"Link ogla\u0161iva\u010da\"],[aria-label=\"Odkaz od inzerenta\"],[aria-label=\"Link fra annonc\u00f8r\"],[aria-label=\"Werbelink\"],[aria-label=\"Link ng advertiser\"],[aria-label=\"Link dell'inserzionista\"],[aria-label=\"Veza ogla\u0161iva\u010da\"],[aria-label=\"Manisautilirijimut kasurvik\"],[aria-label=\"Kiunganishi cha mtangazaji\"],[aria-label=\"Lyen konpayi ki f\u00e8 piblisite a\"],[aria-label=\"Rekl\u0101mdev\u0113ja saite\"],[aria-label=\"Reklamuotojo nuoroda\"],[aria-label=\"Hirdet\u0151 hivatkoz\u00e1sa\"],[aria-label=\"Link tar-reklamatur\"],[aria-label=\"Adverteerderslink\"],[aria-label=\"Annons\u00f8rlenke\"],[aria-label=\"Link reklamodawcy\"],[aria-label=\"Link promotor\"],[aria-label=\"Lidhja e reklamuesit\"],[aria-label=\"Odkaz na inzerenta\"],[aria-label=\"Povezava ogla\u0161evalca\"],[aria-label=\"Mainostajan linkki\"],[aria-label=\"Annons\u00f6rl\u00e4nk\"],[aria-label=\"Li\u00ean k\u1ebft c\u1ee7a nh\u00e0 qu\u1ea3ng c\u00e1o\"],[aria-label=\"Reklamveren ba\u011flant\u0131s\u0131\"],[aria-label=\"\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf\u03c2 \u03b4\u03b9\u03b1\u03c6\u03b7\u03bc\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5\"],[aria-label=\"\u0412\u0440\u044a\u0437\u043a\u0430 \u043d\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0434\u0430\u0442\u0435\u043b\"],[aria-label=\"\u041b\u0438\u043d\u043a \u043d\u0430 \u043e\u0433\u043b\u0430\u0441\u0443\u0432\u0430\u0447 \u043d\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u0438\"],[aria-label=\"\u0421\u0443\u0440\u0442\u0430\u043b\u0447\u043b\u0430\u0433\u0447\u0438\u0439\u043d \u0445\u043e\u043b\u0431\u043e\u043e\u0441\"],[aria-label=\"\u0421\u0441\u044b\u043b\u043a\u0430 \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0434\u0430\u0442\u0435\u043b\u044f\"],[aria-label=\"\u0412\u0435\u0437\u0430 \u043e\u0433\u043b\u0430\u0448\u0438\u0432\u0430\u0447\u0430\"],[aria-label=\"\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0434\u0430\u0432\u0446\u044f\"],[aria-label=\"\u10e0\u10d4\u10d9\u10da\u10d0\u10db\u10d8\u10e1 \u10d2\u10d0\u10dc\u10db\u10d7\u10d0\u10d5\u10e1\u10d4\u10d1\u10da\u10d8\u10e1 \u10d1\u10db\u10e3\u10da\u10d8\"],[aria-label=\"\u05e7\u05d9\u05e9\u05d5\u05e8 \u05e9\u05dc \u05de\u05e4\u05e8\u05e1\u05dd\"],[aria-label=\"\ufe8e\ufbfe\u0688\ufeed\ufead\u0679\ufe8e\ufe8b\ufeaf\ufead \ufb8e\ufe8d \ufede\ufee8\ufb90\"],[aria-label=\"\ufead\ufe8e\ufe92\ufec3 \ufe8e\ufee0\ufee4\ufecc\ufee0\ufee7\"],[aria-label=\"\u091c\u093e\u0939\u093f\u0930\u093e\u0924\u0926\u093e\u0930 \u0932\u093f\u0902\u0915\"],[aria-label=\"\u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928\u0926\u093e\u0924\u093e \u0926\u094d\u0935\u093e\u0930\u093e \u0932\u093f\u0902\u0915\"],[aria-label=\"\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09a6\u09be\u09a4\u09be \u09b2\u09bf\u0982\u0995\"],[aria-label=\"\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09aa\u09a8\u09a6\u09be\u09a4\u09be\u09b0 \u09b2\u09bf\u0999\u09cd\u0995\"],[aria-label=\"\u0a9c\u0abe\u0ab9\u0ac7\u0ab0\u0abe\u0aa4\u0a95\u0ab0\u0acd\u0aa4\u0abe \u0ab2\u0abf\u0a82\u0a95\"],[aria-label=\"\u0c05\u0c21\u0c4d\u0c35\u0c30\u0c4d\u0c1f\u0c2f\u0c3f\u0c1c\u0c30\u0c4d \u0c32\u0c3f\u0c02\u0c15\u0c4d\"],[aria-label=\"\u0d2a\u0d30\u0d38\u0d4d\u0d2f\u0d26\u0d3e\u0d24\u0d3e\u0d35\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d32\u0d3f\u0d19\u0d4d\u0d15\u0d4d\"],[aria-label=\"\u0dc0\u0dd9\u0dc5\u0db3 \u0db4\u0dca<200d>\u0dbb\u0da0\u0dcf\u0dbb\u0d9a \u0dc3\u0db6\u0dd0\u0db3\u0dd2\u0dba\"],[aria-label=\"\u0e25\u0e34\u0e07\u0e01\u0e4c\u0e1c\u0e39\u0e49\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\"],[aria-label=\"\uad11\uace0\uc8fc \ub9c1\ud06c\"],[aria-label^=\"\u5ee3\u544a\"][aria-label$=\"\u9023\u7d50\"],[aria-label=\"\u5e7f\u544a\u4e3b\u63d0\u4f9b\u7684\u94fe\u63a5\"],[aria-label=\"\u5e83\u544a\u4e3b\u306b\u3088\u308b\u30ea\u30f3\u30af\"])"
+],
 "www.thestreet.com": [
 ".exco-player-wrapper"
 ],
@@ -36582,6 +36707,9 @@
 "wzzm13.com": [
 ".ad"
 ],
+"x.beta.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
 "x.com": [
 ".promoted-account",
 ".promotion",
@@ -36597,6 +36725,12 @@
 "div[data-testid=\"eventHero\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
 "div[data-testid=\"placementTracking\"]:has(div[data-testid$=\"-impression-pixel\"])",
 "div[data-testid=\"trend\"]:has(path[d$=\"10H8.996V8h7v7z\"])"
+],
+"x.facebook.com": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
+],
+"x.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": [
+"article:has(footer > div > div > a[href^=\"/friends/center/?fb_ref=\"])"
 ],
 "x1337x.eu": [
 "[href^=\"https://limeiptv.to\"]"
@@ -36852,7 +36986,8 @@
 "#media_image-2"
 ],
 "ynetnews.com": [
-".banner"
+".banner",
+".iframe-script"
 ],
 "yodobashi.com": [
 ".srcResultPromotionItem"
@@ -54480,6 +54615,9 @@
 "/api/video/stats/": {
 "xmlhttprequest": true
 },
+"/api/web/v1/tracker": {
+"ping": true
+},
 "/apopwin.js": {
 "script": true
 },
@@ -57120,6 +57258,9 @@
 "adglidepro.com": {
 "main_frame": true
 },
+"adimise.com": {
+"tp": true
+},
 "adnanny.com": {
 "tp": true
 },
@@ -57312,6 +57453,9 @@
 "bannersnack.net": {
 "tp": true
 },
+"basicflownetowork.co.in": {
+"main_frame": true
+},
 "bbmoe.com": {
 "main_frame": true
 },
@@ -57337,6 +57481,9 @@
 },
 "bestbuy.com/bf?": {
 "ping": true
+},
+"bestchainconnection.com": {
+"main_frame": true
 },
 "bestcontactform.com": {
 "image": false,
@@ -57727,6 +57874,9 @@
 "tp": true
 },
 "cookihq.com": {
+"tp": true
+},
+"counter-kostenlos.info": {
 "tp": true
 },
 "counter2.blog.livedoor.com": {
@@ -58575,9 +58725,6 @@
 "script": true,
 "tp": true
 },
-"lxkzcss.xyz": {
-"main_frame": true
-},
 "m.stripe.com": {
 "tp": true
 },
@@ -58586,9 +58733,6 @@
 },
 "machieved.com": {
 "tp": true
-},
-"magazinenews1.xyz": {
-"main_frame": true
 },
 "mail-count.matsui.co.jp": {
 "image": true
@@ -58667,9 +58811,6 @@
 },
 "materiel.net/r/": {
 "image": true
-},
-"maxidefender.xyz": {
-"main_frame": true
 },
 "mb4a.com": {
 "tp": true
@@ -58910,9 +59051,6 @@
 },
 "openedlog.smart-bdash.com/opened?aid=": {
 "image": true
-},
-"opengalaxyapps.monster": {
-"main_frame": true
 },
 "openlog.in": {
 "tp": true
@@ -59408,6 +59546,9 @@
 "sitepageflow.com": {
 "main_frame": true
 },
+"sitetagger.co.uk": {
+"tp": true
+},
 "sli-spark.com/b.png": {
 "tp": true
 },
@@ -59495,6 +59636,9 @@
 "sub_frame": true
 },
 "stattooz.com": {
+"tp": true
+},
+"stonecalcom.com": {
 "tp": true
 },
 "stripedcollar.net": {
@@ -59822,9 +59966,6 @@
 "uriports.com/reports/": {
 "tp": true
 },
-"usa.cc": {
-"tp": true
-},
 "usedownloads.com": {
 "main_frame": true
 },
@@ -59913,6 +60054,9 @@
 "tp": true
 },
 "webflowmetrics.com": {
+"tp": true
+},
+"webiqonline.com": {
 "tp": true
 },
 "webtutoriaux.com/services/compteur-visiteurs/index.php?": {
@@ -60969,6 +61113,10 @@
 "citi.com": [
 "/fp.js"
 ],
+"civitai.": [
+"/api/page-view",
+"/api/trpc/track.addview"
+],
 "cjs.ltwebstatic.com/unpkg/privacy-sdk@": [
 "/dist/privacy-sdk.umd.js"
 ],
@@ -61512,6 +61660,9 @@
 "hinata.me": [
 "/pageview"
 ],
+"hls-beacons-us.xumo.com/hlsstream/v": [
+"/beacon?"
+],
 "hltv.org/staticimg/": [
 "?ixlib="
 ],
@@ -61608,6 +61759,9 @@
 ],
 "img.sputnik.": [
 "/min/js/libs/ria.analytics.js"
+],
+"increase-rev": [
+".static-cloudflare.workers.dev"
 ],
 "infusionsoft.com": [
 "/gettrackingcode?"
