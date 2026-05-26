@@ -1758,6 +1758,7 @@
 "/histats.js",
 "/hit-counter.",
 "/hit-increment/",
+"/hit-track.php",
 "/hit.ashx?",
 "/hit.asp?",
 "/hit.aspx?",
@@ -3732,6 +3733,7 @@
 "1001tracklists.com/ajax/add_count.php",
 "1014042311.rsc.cdn77.org/log.gif",
 "1024tera.com/api/analytics?",
+"10haber.net/cu1m/",
 "120.132.57.41/pjk/pag/ys.php",
 "123movies.ai/sab_",
 "123rf.com/apicore-index/traffic_log",
@@ -4918,6 +4920,7 @@
 "clipsyndicate.com/cs_api/cliplog?",
 "cloudapp.net/l/",
 "cloudbet.com/ad/",
+"cloudconvert.com/build/assets/plausible-coqwx5kr.js",
 "cloudconvert.com/js/ga.js",
 "cloudfam.io/api/site_analytics.php",
 "cloudfilt.com/analyz.js",
@@ -5615,6 +5618,7 @@
 "fotka.com/ajax_action/adblock_stat",
 "fotka.com/out/counters.php",
 "fotomoto.com/analytics/",
+"four.pichive.online/analytics.php?",
 "foureyes.io/fe-init.js",
 "foursquare.com/v2/private/logactions",
 "foxsports.com.au/akam/",
@@ -5710,6 +5714,7 @@
 "gateway.boredpanda.com/event",
 "gateway.dev/log",
 "gateway.shein.com/events/",
+"gatherer.m.qq.com/event/",
 "gayfuckporn.tv/analytics.js",
 "gayfuckporn.tv/stats.gif",
 "gayguide.travel/scripts/images.js",
@@ -6465,6 +6470,7 @@
 "mall.tv/bundles/analytics?",
 "mallorca.com/user/data/advertisements/",
 "mallorcamagazin.com/sfcounter",
+"maltadaily.mt/api/ad-track",
 "mandrillapp.com/track/",
 "manga1001.top/gdh/dd.js",
 "manga18.me/usd2023/usd_frontend.js",
@@ -8015,6 +8021,8 @@
 "thedailybeast.com/static/js/thirdparty.",
 "thefreedictionary.com/_/tr.ashx?",
 "thefreesite.com/nov99bannov.gif",
+"thehackernews.com/ga/c",
+"thehackernews.com/ga4/c",
 "thehackernews.com/zscripts/",
 "thehill.com/6zcfgh4h/init.js",
 "thehour.com/413gkwmt/init.js",
@@ -9946,6 +9954,7 @@
 ".pov_recirc__ad"
 ],
 "apexcharts.com": [
+"#revealDemandbaseAwarenesAnimationContainer",
 ".featured-sponsor"
 ],
 "apkaward.com": [
@@ -16744,6 +16753,7 @@
 "fandom.com": [
 "#featured-video__player-container",
 ".aff-unit__wrapper",
+".fandom-ad-wrapper",
 ".marketplace",
 ".top_leaderboard-odyssey-wrapper"
 ],
@@ -16866,9 +16876,6 @@
 ],
 "fastweb.com": [
 ".a_cls_s"
-],
-"fategrandorder.info": [
-".sidebar_acr.side_inline"
 ],
 "favouriteus.uk": [
 "#adop_bfd"
@@ -17364,6 +17371,9 @@
 ],
 "folletosofertas.es": [
 ".anchor-wrapper"
+],
+"followstalker.com": [
+".sponsor-ad"
 ],
 "fonearena.com": [
 "#header-banner"
@@ -17974,6 +17984,7 @@
 ],
 "ft.com": [
 ".o-ads",
+".slot-wrapper",
 "pg-slot",
 "pg-slot.pg-slot[id]"
 ],
@@ -20890,6 +20901,7 @@
 "[class^=\"ad-notification\"]",
 "[class^=\"ad_ad-sticky_\"]",
 "[class^=\"outbrain_outbrain-wrapper\"]",
+"[data-ad-label=\"Advertisement\"]",
 "[id^=\"adNotification\"]",
 "body:style(overflow: auto !important)",
 "div.text-\\[\\#5b616e\\]",
@@ -22063,7 +22075,8 @@
 "#date-banner"
 ],
 "laist.com": [
-".AdModule-container"
+".AdModule-container",
+".Page-above"
 ],
 "lakeconews.com": [
 ".mod_ijoomlazone"
@@ -22437,6 +22450,7 @@
 "aside > center"
 ],
 "lgbtqnation.com": [
+".bg-gray-100",
 ".index-bottom-ad",
 ".single-bottom-ad"
 ],
@@ -22813,6 +22827,10 @@
 ".box--top-wide",
 ".floatingWrapper",
 ".topWrapper"
+],
+"localgovernmentlawyer.co.uk": [
+"#gk-mainbody-top",
+".mod-banners"
 ],
 "localjewishnews.com": [
 "div[class^=\"local-feed-banner-ads\"]"
@@ -23857,6 +23875,9 @@
 "middleeasteye.net": [
 ".region-before-navigation",
 ".sidebar-photo-extend"
+],
+"middleeastmonitor.com": [
+".lb24-base-list-ad"
 ],
 "middletownpress.com": [
 "#modals",
@@ -30059,6 +30080,7 @@
 ".page-container__left-native-ad-container",
 "[data-qa=\"AppBar-renderLayout-AdSlotContainer\"]",
 "[data-qa=\"ArticleContentRightSection-AdSlot\"]",
+"[data-qa=\"OutstreamAdSlot-Container\"]",
 "div[data-qa=\"AdSlot-Container\"]",
 "div[data-qa=\"AppBar-AdSlotContainer\"]",
 "div[data-qa=\"ArticleHeaderAdSlot-Placeholder\"]",
@@ -37818,6 +37840,7 @@
 ".cookie-panel:not(body):not(html)",
 ".cookie-policy:not(body):not(html)",
 ".cookie-popup:not(body):not(html)",
+".cookie-warning:not(body)",
 ".cookieBanner:not(body)",
 ".cookieBar:not(body):not(html)",
 ".cookieConsent:not(body):not(html)",
@@ -48762,7 +48785,6 @@
 ".cookie-tip",
 ".cookie-warn",
 ".cookie-warn-msg",
-".cookie-warning",
 ".cookie-wrapper",
 ".cookie123-popup",
 ".cookieAccept",
@@ -54445,9 +54467,6 @@
 "/ad_top.jpg": {
 "image": true
 },
-"/ad_top.js": {
-"script": true
-},
 "/adanalytics.js": {
 "script": true
 },
@@ -57596,6 +57615,9 @@
 "aax-us-iad.amazon.com": {
 "script": true
 },
+"aaxdetect.com": {
+"tp": true
+},
 "adblock-tester.com/banners/": {
 "tp": false
 },
@@ -57612,9 +57634,6 @@
 "adglidepro.com": {
 "main_frame": true
 },
-"adimise.com": {
-"tp": true
-},
 "adnanny.com": {
 "tp": true
 },
@@ -57626,6 +57645,9 @@
 },
 "adstreampro.com": {
 "main_frame": true
+},
+"adsync.tech": {
+"tp": true
 },
 "advertisoo.com": {
 "main_frame": true
@@ -57790,9 +57812,6 @@
 },
 "bestbuy.com/bf?": {
 "ping": true
-},
-"bestchainconnection.com": {
-"main_frame": true
 },
 "bestcontactform.com": {
 "image": false,
@@ -58299,9 +58318,6 @@
 "firecrux.com/track/": {
 "xmlhttprequest": true
 },
-"flaghit.com": {
-"tp": true
-},
 "flirt.com/landing/": {
 "tp": true
 },
@@ -58408,6 +58424,9 @@
 "gravito.net/cmp": {
 "script": true,
 "xmlhttprequest": true
+},
+"gtags.net": {
+"tp": true
 },
 "gubagoo.io/c/": {
 "image": true
@@ -58597,6 +58616,9 @@
 "km-sea.net": {
 "tp": true
 },
+"kokos.click": {
+"tp": true
+},
 "korewaeroi.com/fukugan_": {
 "sub_frame": true
 },
@@ -58665,6 +58687,9 @@
 "image": true
 },
 "livespacelivekeyrealclub.com": {
+"main_frame": true
+},
+"loaditfile.com": {
 "main_frame": true
 },
 "lorymo.online": {
@@ -59287,10 +59312,16 @@
 "image": true,
 "tp": true
 },
+"slikslik.com": {
+"tp": true
+},
 "smartzonessva.com": {
 "tp": true
 },
 "smileycentral.com": {
+"tp": true
+},
+"smileyhost.net": {
 "tp": true
 },
 "smrtmnk2.com": {
@@ -59442,9 +59473,6 @@
 "think.ing.com/ajax/ajax_cookie_consent": {
 "tp": false,
 "xmlhttprequest": true
-},
-"tjwsg.com": {
-"main_frame": true
 },
 "tongji.90dao.com": {
 "ping": true
@@ -59641,9 +59669,6 @@
 "tp": true
 },
 "webflowmetrics.com": {
-"tp": true
-},
-"webiqonline.com": {
 "tp": true
 },
 "webtutoriaux.com/services/compteur-visiteurs/index.php?": {
@@ -60714,6 +60739,9 @@
 "cnnx.io": [
 "/tracker.js",
 "/tracking.js"
+],
+"coinfomania.com/wp-json/coinfomania-extra/v": [
+"/track-view"
 ],
 "collections.mp.microsoft.com/": [
 "/collections/query"
