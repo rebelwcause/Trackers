@@ -5156,6 +5156,7 @@
 "dashboard.nowdialogue.com/api/events/",
 "dashichang.work/statistics/statistics.",
 "data-platform.squarecloudservices.com/v1/batch",
+"data.api.canalplus.com/event",
 "data.armexdef.uk/api/visit/",
 "data.biliintl.com/log",
 "data.cheatography.com/banana.js",
@@ -58160,9 +58161,6 @@
 "consent.trustarc.com": {
 "tp": true
 },
-"content-loader.com": {
-"main_frame": true
-},
 "content22.citi.eu": {
 "script": true
 },
@@ -59614,6 +59612,9 @@
 "tp": true
 },
 "uriports.com/reports/": {
+"tp": true
+},
+"usa.cc": {
 "tp": true
 },
 "usedownloads.com": {
@@ -62492,6 +62493,9 @@
 ],
 "zoiper.com/": [
 "/js/tracker.js"
+],
+"zoom.us/": [
+"/telemetry"
 ],
 "ztat.net/": [
 "/webtrekk.min.js"
