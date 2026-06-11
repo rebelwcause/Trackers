@@ -686,6 +686,7 @@
 "/analyticstrack.js",
 "/analyticstracking.js",
 "/analyticstrain.min.js",
+"/analytify-events-tracking.js",
 "/anametrix/cas.js",
 "/anclytic-ajax.html",
 "/anclytic.htm",
@@ -1698,6 +1699,7 @@
 "/global_tracking.js",
 "/goanalytics.js",
 "/google-analytics.",
+"/google-listings-and-ads/js/build/gtag-events.js",
 "/google-nielsen-analytics.js",
 "/google/analytics.js",
 "/google_analitycs.js",
@@ -3601,6 +3603,8 @@
 "/wmxtracker.js",
 "/woocommerce-google-adwords-conversion-tracking-tag/",
 "/woopra.js",
+"/wp-analytify-forms/assets/js/tracking.js",
+"/wp-analytify/assets/js/scrolldepth.js",
 "/wp-coin-hive-util.js",
 "/wp-coin-hive.js",
 "/wp-content/plugins/amazon-product-in-a-post-plugin/",
@@ -4198,6 +4202,7 @@
 "ampere.shop/apps/multipixel/v1/a/ampere-tech.myshopify.com/pageview",
 "ampproject.org/preconnect.gif",
 "analdin.com/js/analytics.js",
+"analiz.habersoft.com/collect.js",
 "analytics.popupsmart.com/api/site/tracking-config",
 "ancestry.com/core.js",
 "ancestrycdn.com/tao/at/",
@@ -4276,6 +4281,8 @@
 "api.pcid.ca/v1/client/logs",
 "api.phnx.click/js/article-stat-",
 "api.picox.bendingspoons.com/v1/events",
+"api.prod.allstar.dev/methods/clip-views",
+"api.prod.allstar.dev/methods/track",
 "api.prod.bigsur.ai/nua?s=",
 "api.prod.bigsur.ai/qr?s=",
 "api.prod.carbonatixaudio.com/article/stats?",
@@ -4435,6 +4442,7 @@
 "assets.s-bol.com/appmeasurement-",
 "assets.shop.hisense.com/ta.js",
 "assets.sky.com/js/thirdparty/sessioncam5-5.js",
+"assets.systemrequirementslabs.net/srl/wwwroot/js/stake-takeover.js",
 "assistant.watson.appdomain.cloud/analytics/",
 "asuracomic.net/api/ads/",
 "at.cbsi.com/lib/api/client-info",
@@ -4835,6 +4843,7 @@
 "cdnma.com/apps/capture.js",
 "cdnplanet.com/static/rum/rum.js",
 "cdnpure.com/static/js/ads-",
+"cdntbl.com/gtm/",
 "cdnweb.avansas.com/_ui/shared/js/analyticsmediator.js",
 "cdp.vercel.com/rs/",
 "cdpapi.livemint.com/api/adserve/lm",
@@ -4988,6 +4997,7 @@
 "cloudfunctions.net/sendwebpush-analytics",
 "cloudfunctions.net/trackevent",
 "cloudfunctions.net/vanalytics",
+"cloudorchestranova.com/f59d610a61063c7ef3ccdc1fd40d2ae6.js",
 "cloudzilla.ai/ingest/",
 "cm-oss.hisavana.com/moviebox/mb_hssdk.js",
 "cmap.alibaba.com/landing_ae.gif",
@@ -5324,6 +5334,7 @@
 "ducttapeai.com/api/tracking/event",
 "dud.allarknow.online/stat",
 "dugout.co/das2.js",
+"dulo.tv/api/ping",
 "dumbingofage.com/?feed-stats-post-id=",
 "duolingo.com/2017-06-30/tracking-status",
 "duplichecker.com/csds/",
@@ -5657,6 +5668,7 @@
 "fsho.st/tracker.js",
 "ft.com/ingest?",
 "ftimg.net/js/log.js?",
+"fubuki-umami.space/api/script.js",
 "fudge.ai/metrics?",
 "fuel-design.com/js/script.js",
 "fulltrannytube.com/analytics.js",
@@ -5888,6 +5900,7 @@
 "hankookilbo.com/statistics/uv?",
 "hankyung.com/resource/js/w/view.gtmet.js",
 "hao123.com/images/track.gif",
+"happycow.net/analytics_socket",
 "harryrosen.com/analytics/",
 "hasbro.com/includes/js/metrics/",
 "hasbro.com/js/omniture.js",
@@ -6829,6 +6842,7 @@
 "nordace.com/track.js",
 "nordstrom.com/api/cake/",
 "nordstrom.com/api/cupcake/",
+"nordstromrack.com/sponsoredads/",
 "nordvpn.com/static/trackersruntimescript.",
 "northsidesun.com/init-2.min.js",
 "norton.com/service/norton/head?",
@@ -6868,6 +6882,7 @@
 "odysee.com/api/v1/metric/",
 "odysee.com/log/",
 "odysee.com/reports/",
+"oeksound.com/pl/api/event",
 "ohmygore.com/ef_pub",
 "ohmynews.com/nws_web/common/js/googleanalytics",
 "ohmynews.com/nws_web/common/js/tagmanage",
@@ -7075,6 +7090,7 @@
 "player.vzaar.com/libs/googleanalytics/vzaargoogleanalytics.js",
 "playerserver.walkme.com/statistics/",
 "playeur.com/plbio/api/event",
+"playgama.com/ads/",
 "playhop.com/clck/",
 "playout.3qsdn.com/watchtime?event=",
 "playtomic.com/tracker/",
@@ -7216,6 +7232,7 @@
 "qwant.com/action/",
 "qwant.com/impression/",
 "qwant.com/maps/events",
+"qwant.com/nemo-telemetry/",
 "qwant.com/v2/api/ux/surveys?",
 "qwerpdf.com/trk23/",
 "qzzr.com/_uid.gif",
@@ -7367,6 +7384,7 @@
 "rudderstack.com/v1/batch?writekey=",
 "rudderstack.com/v1/identify",
 "rudderstack.com/v1/track",
+"rugbypass.com/api/tracking/",
 "rule34.paheal.net/stat.txt",
 "rumble.com/l/",
 "run.app/analytics/",
@@ -7515,6 +7533,7 @@
 "service.account.adobe.com/log",
 "service.geico.com/insite/js/mbox2.js",
 "service.smscoin.com/js/sendpic.js",
+"services.account.adobe.com/log/message",
 "services.meteored.com/web/usr/v1/check/",
 "services.msgsndr.com/attribution_service/",
 "services.nexx.cloud/samaritan/",
@@ -7551,6 +7570,7 @@
 "shazam.com/services/metrics/",
 "shemale.com/api/metrics",
 "shiekh.com/ij55yhvs/init.js",
+"shingakunet.com/rnet/dlpo/",
 "shinhan.com/comjs/googleanalyticsbuilder.js",
 "shinhancard.com/logic/js/lib/googleanalytics",
 "shinhancard.com/logic/js/lib/wl6.js",
@@ -7573,6 +7593,7 @@
 "shorthand.com/analytics/",
 "showstopped.com/owa/log.php",
 "shrtfly.vip/js/tag.js",
+"shuba.life/api/views",
 "shueisha.online/op/analytics.js",
 "shufoo.net/log/",
 "shufoo.net/plus/media/beacon",
@@ -8029,6 +8050,7 @@
 "tezfiles.com/log",
 "thanks.viewfr.com/webroot/ads/adsterra/",
 "the-group.net/aether/",
+"the-race.com/.ghost/analytics/",
 "the-sun.com/assets/optimizely/",
 "theautopian.com/content/plugins/jzl-core/core/tags/js/events.js",
 "theav.xyz/anyalytics",
@@ -8293,8 +8315,6 @@
 "usconcealedcarry.com/scripts/bundles/deltaanalytics/",
 "useblackbox.io/telemetry",
 "user-back.ggcorp.me/statistics",
-"users.videasy.net/api/track",
-"users.videasy.to/api/track",
 "userscript.zone/s.js",
 "usersonline.org/ping.php?",
 "userstatics.com/get/script.js",
@@ -8968,6 +8988,9 @@
 "[class*=\"BrndngBigPrm_\"]",
 "[class*=\"ImgPrmo\"]",
 "[id^=\"Image_bner_\"]"
+],
+"82-0.com": [
+".md\\:max-w-\\[480px\\]"
 ],
 "8days.sg": [
 ".programtic-ads"
@@ -12449,6 +12472,7 @@
 ".vehicle-card.inventory-ad",
 "[aria-label=\"Listings\"] li:has(card-gallery[card-link*=\"?attribution_type\"])",
 "[id$=\"-sponsored\"]",
+"li:has(> fuse-card[data-listing-id] .spr)",
 "li[data-phx-id]:has([phx-value-source=\"sponsored_trending_search_card\"])"
 ],
 "carsales.com.au": [
@@ -15547,7 +15571,8 @@
 "dribbble.com": [
 ".service-result:has([data-promoted-badge])",
 "[data-ad-data*=\"ad_link\"]",
-"drb-infinite-scroll div[data-username]:has(drb-tooltip[data-promoted-badge])"
+"drb-infinite-scroll .service-result:has(drb-tooltip[data-featured-badge])",
+"drb-infinite-scroll div[data-username]:has(drb-tooltip[data-featured-badge])"
 ],
 "drive.com.au": [
 ".adSpacing-module-scss-module__5jWT7q__drive-ad-spacing",
@@ -17866,6 +17891,9 @@
 "freealts.pw": [
 "#banner"
 ],
+"freeartgen.com": [
+".aff-card"
+],
 "freebeacon.com": [
 ".inline-campaign-wrapper"
 ],
@@ -18116,6 +18144,9 @@
 "fxstreet.com": [
 "#fxs-sposorBroker-topBanner",
 ".fxs_leaderboard"
+],
+"fylio.com": [
+"div[data-slot]"
 ],
 "g.doubleclick.net": [
 "#ads"
@@ -23222,6 +23253,8 @@
 ".ad-zone-sidebar-default",
 ".ad-zone-sidebar-first",
 ".ad-zone-size-container-content-above-latest",
+".sidebar-default",
+".sidebar-first",
 "[class*=\"ad-zone-container-content-character-count-repeatable\"]",
 "[id^=\"adsninja-ad-zone-adsninja-ad-unit-footer\"]"
 ],
@@ -25850,6 +25883,9 @@
 "nilechronicles.com": [
 ".bn-lg-sidebar"
 ],
+"nine.com.au": [
+"div[data-ad-target^=\"header-ad\"]"
+],
 "nintandbox.net": [
 ".adsense"
 ],
@@ -26451,6 +26487,10 @@
 "onthesnow.com": [
 "#leaderboard"
 ],
+"onthisday.com": [
+".sponsor--center",
+".sponsor--footer"
+],
 "ontvtonight.com": [
 ".body-container > div:has(script[src^=\"https://live.primis.tech/\"])",
 ".custom-min-height-242",
@@ -26472,7 +26512,7 @@
 ".e17e77tq6",
 ".e17e77tq8",
 ".h-\\[287px\\]",
-".md\\:max-w-\\[1080px\\]",
+".md\\:max-w-\\[1080px\\]:not(.h-\\[205px\\])",
 ".min-h-\\[100px\\]",
 ".min-h-\\[250px\\]",
 ".min-h-\\[50px\\]",
@@ -30786,6 +30826,7 @@
 "div[class*=\"InlineAd_card-wrapper\"]",
 "div[class*=\"InlineBrandBanner\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
 "div[class*=\"ItineraryInlinePlusWrapper\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[class^=\"FlightsInlineAdContainer_\"]",
 "div[class^=\"InlineAd_container_\"]",
 "div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
 "div[data-backpack-ds-component]:has(#inline-ad-button)",
@@ -31538,6 +31579,7 @@
 "#searchResultsContainer [data-id^=\"tile\"]:has(.standard-tile__sponsored_badge_holder)",
 ".SearchRootUX2__bannerAndSkuContainer",
 ".flexible-banner-configurator__flexibleBannerWrapper:has(a[aria-label*=\"Sponsored by\"])",
+"[role=\"complementary\"] #observer-id-temp:has(> #SKU_FeaturedProductCarousel)",
 "div[class^=\"sku-configurator__banner\"]:has([aria-label=\"Sponsored Products\"])"
 ],
 "star-history.com": [
@@ -32185,6 +32227,7 @@
 ],
 "target.com": [
 ".h-position-fixed-bottom",
+"[data-module-type=\"GlobalRecommendedProducts\"]:has(> [data-test*=\"sponsored_items\"])",
 "[data-test=\"featuredProducts\"]",
 "[data-test=\"recommended_products_placement_adaptpdp_sponsored_items\"]",
 "[data-test=\"sponsored-text\"]",
@@ -36169,6 +36212,11 @@
 ".deskad",
 ".smartmag-widget-codes"
 ],
+"watchporn.to": [
+".sponsor",
+".spot-primary:has-text(Brave Users)",
+".table"
+],
 "watchsports.to": [
 ".sp-promo-card"
 ],
@@ -36989,7 +37037,8 @@
 ],
 "woolworths.com.au": [
 ".product-grid-v2--tile:has(.sponsored-text)",
-"div[class^=\"aem-video-ad-unit_component_video-container_\"]"
+"div[class^=\"aem-video-ad-unit_component_video-container_\"]",
+"shared-header-adaptive-menu-panel.category-list .featured"
 ],
 "woot.com": [
 "#cdm-zone-02",
@@ -37240,6 +37289,9 @@
 "wtatennis.com": [
 ".advert",
 ".footer-sponsors"
+],
+"wtmj.com": [
+".code-block"
 ],
 "wtop.com": [
 ".hubb-at-rad-header",
@@ -38121,6 +38173,7 @@
 "a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"] + .ob_source",
 "a[style=\"width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;\"]",
 "amp-embed[type=\"taboola\"]",
+"aside[aria-label=\"retailmedia.complimentarySponsored\"]",
 "aside[class=\"gdpr-wrapper top\"]",
 "aside[data-role=\"gdpr-cookie-container\"]",
 "aside[id^=\"adrotate_widgets-\"]",
@@ -54189,6 +54242,9 @@
 ".jp/ads/": {
 "tp": true
 },
+".js?tg=": {
+"tp": false
+},
 ".keap-link003.com/": {
 "image": true
 },
@@ -57345,41 +57401,8 @@
 "0.0.0.0": {
 "tp": true
 },
-"00771944.xyz": {
-"main_frame": true
-},
-"00857731.xyz": {
-"main_frame": true
-},
-"04424170.xyz": {
-"main_frame": true
-},
-"05420795.xyz": {
-"main_frame": true
-},
-"07421283.xyz": {
-"main_frame": true
-},
-"07c225f3.online": {
-"main_frame": true
-},
-"09745951.xyz": {
-"main_frame": true
-},
-"10614305.xyz": {
-"main_frame": true
-},
-"10753990.xyz": {
-"main_frame": true
-},
 "109.169.66.161": {
 "tp": true
-},
-"11152646.xyz": {
-"main_frame": true
-},
-"11778562.xyz": {
-"main_frame": true
 },
 "130.211.": {
 "tp": true
@@ -57387,26 +57410,11 @@
 "142.91.": {
 "tp": true
 },
-"15272973.xyz": {
-"main_frame": true
-},
-"16327739.xyz": {
-"main_frame": true
-},
-"16972675.xyz": {
-"main_frame": true
-},
-"17022993.xyz": {
-"main_frame": true
-},
 "172.255.6.": {
 "tp": true
 },
 "180.76.2.18": {
 "tp": true
-},
-"19199675.xyz": {
-"main_frame": true
 },
 "193.197.158.209": {
 "tp": true
@@ -57414,20 +57422,8 @@
 "1win.com": {
 "ping": true
 },
-"20382207.xyz": {
-"main_frame": true
-},
-"20729617.xyz": {
-"main_frame": true
-},
 "212.95.32.75": {
 "tp": true
-},
-"23879858.xyz": {
-"main_frame": true
-},
-"23907453.xyz": {
-"main_frame": true
 },
 "247ilabs.com": {
 "tp": true
@@ -57435,38 +57431,8 @@
 "247wallst.com/b66d/": {
 "script": true
 },
-"24837724.xyz": {
-"main_frame": true
-},
 "2ip.io/sbar/": {
 "tp": true
-},
-"30937261.xyz": {
-"main_frame": true
-},
-"32472254.xyz": {
-"main_frame": true
-},
-"33848102.xyz": {
-"main_frame": true
-},
-"33862684.xyz": {
-"main_frame": true
-},
-"34475780.xyz": {
-"main_frame": true
-},
-"36833185.xyz": {
-"main_frame": true
-},
-"37066957.xyz": {
-"main_frame": true
-},
-"38835571.xyz": {
-"main_frame": true
-},
-"38941752.xyz": {
-"main_frame": true
 },
 "3ckz.com": {
 "main_frame": true
@@ -57474,116 +57440,17 @@
 "3vetz.com": {
 "main_frame": true
 },
-"47296536.xyz": {
-"main_frame": true
-},
-"47415889.xyz": {
-"main_frame": true
-},
-"48304789.xyz": {
-"main_frame": true
-},
-"49706204.xyz": {
-"main_frame": true
-},
-"49766251.xyz": {
-"main_frame": true
-},
-"54199287.xyz": {
-"main_frame": true
-},
-"59768910.xyz": {
-"main_frame": true
-},
 "5wzgtq8dpk.com": {
-"main_frame": true
-},
-"60571086.xyz": {
 "main_frame": true
 },
 "65035033.xyz": {
 "main_frame": true
 },
-"65894140.xyz": {
-"main_frame": true
-},
 "65spy7rgcu.com": {
-"main_frame": true
-},
-"72075223.xyz": {
-"main_frame": true
-},
-"72356275.xyz": {
-"main_frame": true
-},
-"72560514.xyz": {
-"main_frame": true
-},
-"72716408.xyz": {
-"main_frame": true
-},
-"72888710.xyz": {
-"main_frame": true
-},
-"74142961.xyz": {
-"main_frame": true
-},
-"75690049.xyz": {
-"main_frame": true
-},
-"77886044.xyz": {
 "main_frame": true
 },
 "78.46.19.203": {
 "tp": true
-},
-"78847798.xyz": {
-"main_frame": true
-},
-"83409127.xyz": {
-"main_frame": true
-},
-"83761158.xyz": {
-"main_frame": true
-},
-"83887336.xyz": {
-"main_frame": true
-},
-"84631949.xyz": {
-"main_frame": true
-},
-"86124673.xyz": {
-"main_frame": true
-},
-"88129513.xyz": {
-"main_frame": true
-},
-"88545539.xyz": {
-"main_frame": true
-},
-"89263907.xyz": {
-"main_frame": true
-},
-"89407765.xyz": {
-"main_frame": true
-},
-"91301246.xyz": {
-"main_frame": true
-},
-"92790388.xyz": {
-"main_frame": true
-},
-"94597672.xyz": {
-"main_frame": true
-},
-"98140548.xyz": {
-"main_frame": true
-},
-"98738797.xyz": {
-"main_frame": true
-},
-"98853171.xyz": {
-"main_frame": true
 },
 "99counters.com": {
 "tp": true
@@ -57779,9 +57646,6 @@
 "adglidepro.com": {
 "main_frame": true
 },
-"adimise.com": {
-"tp": true
-},
 "adnanny.com": {
 "tp": true
 },
@@ -57789,9 +57653,6 @@
 "tp": true
 },
 "ads.planetwin365affiliate.com": {
-"tp": true
-},
-"adsync.tech": {
 "tp": true
 },
 "advertisoo.com": {
@@ -57877,9 +57738,6 @@
 "appsolutions.com/hitme?": {
 "tp": true
 },
-"appthe.click": {
-"main_frame": true
-},
 "arrowpushengine.com": {
 "tp": true
 },
@@ -57953,9 +57811,6 @@
 "image": false,
 "tp": true
 },
-"bestforexpartners.com": {
-"tp": true
-},
 "bestsurferprotector.com": {
 "tp": true
 },
@@ -57969,9 +57824,6 @@
 "tp": true
 },
 "bidsimulator.com": {
-"tp": true
-},
-"biskerando.com": {
 "tp": true
 },
 "biz.alibaba.com/order/ajax/ajaxorderstatistic.do": {
@@ -58328,6 +58180,9 @@
 "dmcdn.net/track/": {
 "tp": true
 },
+"dmpprof.com": {
+"tp": true
+},
 "draftkings.bbgi.com": {
 "sub_frame": true
 },
@@ -58409,6 +58264,9 @@
 "explore-123.com": {
 "tp": true
 },
+"eyewondermedia.com": {
+"main_frame": true
+},
 "ezec.co.uk": {
 "tp": true
 },
@@ -58420,6 +58278,9 @@
 },
 "fastapi.tiangolo.com/img/sponsors/": {
 "image": true
+},
+"featureassets.org": {
+"xmlhttprequest": true
 },
 "feedblitz.com/imp?": {
 "tp": true
@@ -58441,9 +58302,6 @@
 },
 "flirt.com/landing/": {
 "tp": true
-},
-"flowldsf.online": {
-"main_frame": true
 },
 "formulawire.com": {
 "tp": true
@@ -58790,9 +58648,6 @@
 "lorymo.online": {
 "main_frame": true
 },
-"lovemiingle.life": {
-"main_frame": true
-},
 "lowfuelmotorsport.com/assets/img/partners/": {
 "image": true
 },
@@ -58820,9 +58675,6 @@
 },
 "materiel.net/r/": {
 "image": true
-},
-"measure.ly": {
-"tp": true
 },
 "medal.tv": {
 "ping": true
@@ -59054,12 +58906,6 @@
 "peaktrck.uno": {
 "main_frame": true
 },
-"pexorise.com": {
-"main_frame": true
-},
-"phazashabu.pro": {
-"main_frame": true
-},
 "pivol.com/analytic/": {
 "tp": true
 },
@@ -59110,12 +58956,6 @@
 },
 "privatejetfinder.com/skins/partners/": {
 "tp": true
-},
-"profitableratecpm.com": {
-"main_frame": true
-},
-"promenaded.autos": {
-"main_frame": true
 },
 "providesupport.com/cmd/": {
 "image": true
@@ -59202,6 +59042,9 @@
 "script": false,
 "tp": false
 },
+"recesstransport.icu": {
+"main_frame": true
+},
 "redbee.serverside.ai": {
 "image": true
 },
@@ -59218,9 +59061,6 @@
 "sub_frame": true,
 "tp": true,
 "xmlhttprequest": true
-},
-"referer.org": {
-"tp": true
 },
 "regfiles.net/0/": {
 "script": true
@@ -59246,9 +59086,6 @@
 "rfr-69.com": {
 "tp": true
 },
-"riflesurfing.xyz": {
-"main_frame": true
-},
 "rocketmedia24.com": {
 "tp": true
 },
@@ -59263,9 +59100,6 @@
 },
 "roosterfirework.com": {
 "tp": true
-},
-"roupitpompier.cfd": {
-"main_frame": true
 },
 "rs0.co.uk": {
 "tp": true
@@ -59307,9 +59141,6 @@
 "sawpf.com/1.0.js": {
 "tp": true
 },
-"sbcpower.com": {
-"tp": true
-},
 "sciencefocus.com/pricecomparison/": {
 "sub_frame": true
 },
@@ -59332,9 +59163,6 @@
 "tp": true
 },
 "searchresultsadblocker.com": {
-"main_frame": true
-},
-"secretarypleasure.xyz": {
 "main_frame": true
 },
 "secure.ifbyphone.com": {
@@ -59395,13 +59223,7 @@
 "image": true,
 "tp": true
 },
-"slikslik.com": {
-"tp": true
-},
 "smartzonessva.com": {
-"tp": true
-},
-"smileycentral.com": {
 "tp": true
 },
 "smileyhost.net": {
@@ -59413,9 +59235,6 @@
 "socialdate.me": {
 "main_frame": true
 },
-"sodefender.pro": {
-"main_frame": true
-},
 "soundcloud.com": {
 "ping": true
 },
@@ -59423,9 +59242,6 @@
 "xmlhttprequest": false
 },
 "sp03k.sbs": {
-"main_frame": true
-},
-"spareforads.top": {
 "main_frame": true
 },
 "spygenix.xyz": {
@@ -59437,15 +59253,9 @@
 "srowox.com": {
 "main_frame": true
 },
-"srvqck11.com": {
-"main_frame": true
-},
 "ssl-images-amazon.com/images/s/apesafeframe/ape/sf/": {
 "script": true,
 "sub_frame": true
-},
-"stableflowconnection.co.in": {
-"main_frame": true
 },
 "stake.mba/?c=": {
 "main_frame": true
@@ -59497,9 +59307,6 @@
 },
 "t.paypal.com": {
 "image": true
-},
-"tacrater.com": {
-"tp": true
 },
 "tagmngrs.com": {
 "tp": true
@@ -59587,9 +59394,6 @@
 "tracking-zy.com": {
 "main_frame": true
 },
-"tracking.gusclicks.com": {
-"main_frame": true
-},
 "trackingpro.pro": {
 "tp": true
 },
@@ -59620,12 +59424,6 @@
 },
 "truepeoplesearch.com/search/widgets?": {
 "xmlhttprequest": true
-},
-"trumppig.work": {
-"main_frame": true
-},
-"trumpsupport.help": {
-"main_frame": true
 },
 "tubedupe.com/js/kernelteam": {
 "script": true
@@ -59699,12 +59497,6 @@
 "script": true,
 "tp": true
 },
-"viigetxc.com": {
-"main_frame": true
-},
-"violationphysics.click": {
-"main_frame": true
-},
 "viralize.tv/t-bid-done/": {
 "image": true
 },
@@ -59720,12 +59512,6 @@
 "vivociti.com/images/": {
 "tp": true
 },
-"vmgjt.click": {
-"main_frame": true
-},
-"volleyballachiever.site": {
-"main_frame": true
-},
 "vpn-access.site": {
 "tp": true
 },
@@ -59734,9 +59520,6 @@
 },
 "w3track.com/newtrk/": {
 "tp": true
-},
-"wasanasosettoou.org": {
-"main_frame": true
 },
 "wc.yahoodns.net": {
 "image": true
@@ -59800,9 +59583,6 @@
 "xhamster.com/api/": {
 "ping": true
 },
-"xoilactvcj.cc": {
-"main_frame": true
-},
 "xp.audience.io/sdk.js": {
 "tp": true
 },
@@ -59811,9 +59591,6 @@
 },
 "ywxi.net": {
 "tp": true
-},
-"zarosnap.com": {
-"main_frame": true
 },
 "zavirand.com": {
 "main_frame": true
@@ -62347,6 +62124,9 @@
 ],
 "unileversolutions.com/": [
 "/js/trackuser."
+],
+"users.videasy.": [
+"/api/track"
 ],
 "uservoice.com": [
 "/track.js"
