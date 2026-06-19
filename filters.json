@@ -4244,6 +4244,7 @@
 "api-web.pressplay.cc/marketing",
 "api.about.me/user/performance/record/views",
 "api.aio.media/stat?",
+"api.anyembed.xyz/api/user/event",
 "api.atlassian.com/metal/ingest",
 "api.baomoi.com/a465/",
 "api.bdg.com/event",
@@ -4344,6 +4345,7 @@
 "app.gnosispay.com/relay-gp-ph/",
 "app.huawei.com/hwa-c/configresource/js/general/ha.js",
 "app.kulgacdn.com/js/script.js",
+"app.nicealts.com/user/referral/visit",
 "app.notipack.com/pixel-track?",
 "app.notipack.com/pixel/",
 "app.octaneai.com/get_analytics_engine/",
@@ -5046,6 +5048,7 @@
 "compare-static.flightconnections.com/tag.js",
 "compendiumblog.com/sp.js",
 "competitoor.com/analytics/",
+"compo-de.frontnow.app/api/event",
 "components.justanswer.com/v3/main-tracking-script@released.js",
 "components2.corriereobjects.it/rcs_data-tracking/",
 "components2.rcsobjects.it/rcs_tracking-service/",
@@ -5791,6 +5794,7 @@
 "github.dev/diagnostic?",
 "gitpod.io/api/collect-data",
 "givefreely.com/ingest/",
+"gizbot.com/images/tracker.jpg?tracker=",
 "glam.com/app/",
 "glam.com/cece/agof/",
 "glam.com/ctagsimgcmd.act?",
@@ -8154,6 +8158,7 @@
 "townwork.net/api/lettice/collect/",
 "toyokeizai.net/op/analytics.js",
 "toyota.com/analytics/",
+"tp-em.com/collect",
 "tpead.net/stat/",
 "tr.indeed.com/m/basecamp/analytics.js",
 "tra.scds.pmdstatic.net/advertising-core/",
@@ -8343,6 +8348,7 @@
 "vanilladev.com/analytics.",
 "vanityfair.com/user-context?referrer",
 "vantastic-foods.com/dlyx/tms.js",
+"vaughn.live/vsz/",
 "vbox7.com/aj/player-stats?",
 "vcita.com/tr_",
 "vecer.com/js/remp.js",
@@ -9893,9 +9899,6 @@
 ".master-product-carousel:has([data-carousel-api*=\"search/sponsored-carousel\"])",
 ".master-product-carousel:has([data-carousel-driven=\"sponsored-products\"])",
 ".pc-grid-prdItem:has(span[data-qa=\"prd-itm-spnsrd\"])"
-],
-"androplus.org": [
-"a[href^=\"https://px.a8.net/\"]"
 ],
 "andscape.com": [
 ".ad-incontent-wrapper"
@@ -12026,8 +12029,11 @@
 ".bannerBox"
 ],
 "bsc.news": [
+"#bscn-banner",
+"#igaming-carousel-container",
 ".banner",
-".banner-one"
+".banner-one",
+"div[id^=\"bscn-ad-\"]"
 ],
 "btimesonline.com": [
 ".ad"
@@ -15099,6 +15105,7 @@
 ".min-h-\\[278px\\]",
 ".min-h-\\[400px\\]",
 ".min-h-\\[56px\\].z-30",
+".min-h-\\[60px\\]",
 ".text-center.italic",
 ".top-0.justify-center",
 ".top-10",
@@ -19832,6 +19839,9 @@
 ".ads",
 ".items-center:has(.ads)"
 ],
+"hexload.com": [
+"a[href*=\"?key=\"]"
+],
 "hianime.to": [
 ".pizza"
 ],
@@ -21563,7 +21573,11 @@
 ".top-ad-banner-wrapper"
 ],
 "justjared.com": [
-".top_rail_shell"
+".banner-spacer-top {max-height: 50px !important;}",
+".header-container__main",
+".top_rail_shell",
+".widget_tpd_ad_widget",
+"[role=\"banner\"] {top:0 !important}"
 ],
 "justjaredjr.com": [
 ".top_rail_shell"
@@ -29497,6 +29511,7 @@
 ],
 "refooty.com": [
 ".ad-placement-wrapper",
+".mobile-sponsor-banner",
 ".mobile-sticky-ad"
 ],
 "regexlearn.com": [
@@ -29838,6 +29853,9 @@
 "#click-widget-banner",
 ".aawp"
 ],
+"romsworlds.com": [
+".code-block"
+],
 "roosterteeth.com": [
 ".vjs-marker"
 ],
@@ -30067,6 +30085,7 @@
 ".td-a-rec"
 ],
 "salisburyjournal.co.uk": [
+".mar-leaderboard--top",
 ".promoted-block"
 ],
 "salisburypost.com": [
@@ -34696,7 +34715,8 @@
 ".nya-slot"
 ],
 "trendhunter.com": [
-".hcamp"
+".hcamp",
+".tha__adph"
 ],
 "trendingpoliticsnews.com": [
 ".code-block",
@@ -35025,6 +35045,9 @@
 ],
 "turkmenportal.com": [
 "a[data-content=\"promotion\"]"
+],
+"turtlecute.org": [
+".sponsor_banner_wrap"
 ],
 "tutiempo.net": [
 ".ContBannerTop",
@@ -53179,6 +53202,7 @@
 "amp-fx-flying-carpet",
 "app-ad",
 "app-advertisement",
+"app-cookie-consent-popup",
 "app-cookies-agreement",
 "app-large-ad",
 "ark-cookiebar",
@@ -54703,6 +54727,10 @@
 },
 "/ad.css?": {
 "stylesheet": true
+},
+"/ad.html": {
+"sub_frame": true,
+"tp": false
 },
 "/ad.html?": {
 "xmlhttprequest": false
@@ -57725,6 +57753,9 @@
 "aaxdetect.com": {
 "tp": true
 },
+"ad5track.com": {
+"tp": true
+},
 "adblock-tester.com/banners/": {
 "tp": false
 },
@@ -57770,9 +57801,6 @@
 },
 "amazonaws.com/prod/main?ref=": {
 "image": true,
-"tp": true
-},
-"ambercrow.com": {
 "tp": true
 },
 "americascardroom.eu/ads/": {
@@ -58266,6 +58294,9 @@
 "dmpprof.com": {
 "tp": true
 },
+"donkeyflower.xyz": {
+"main_frame": true
+},
 "draftkings.bbgi.com": {
 "sub_frame": true
 },
@@ -58713,6 +58744,9 @@
 "livespacelivekeyrealclub.com": {
 "main_frame": true
 },
+"lloogg.com": {
+"tp": true
+},
 "lorymo.online": {
 "main_frame": true
 },
@@ -58795,6 +58829,9 @@
 "tp": true
 },
 "moontrkr.com": {
+"main_frame": true
+},
+"movie-tv-free.com": {
 "main_frame": true
 },
 "mrskin.com": {
@@ -58957,6 +58994,9 @@
 },
 "peaktrck.uno": {
 "main_frame": true
+},
+"ph.givebutter.com": {
+"ping": true
 },
 "pivol.com/analytic/": {
 "tp": true
@@ -59348,6 +59388,9 @@
 "svc.dynamics.com/t/w": {
 "tp": true
 },
+"swiftmining.win": {
+"tp": true
+},
 "swiftypecdn.com/cc.js": {
 "tp": true
 },
@@ -59511,6 +59554,9 @@
 "uriports.com/reports/": {
 "tp": true
 },
+"usa.cc": {
+"tp": true
+},
 "usedownloads.com": {
 "main_frame": true
 },
@@ -59618,6 +59664,9 @@
 "ping": true
 },
 "xp.audience.io/sdk.js": {
+"tp": true
+},
+"xyztraffic.com": {
 "tp": true
 },
 "your-analytics.org": {
@@ -60860,6 +60909,9 @@
 ],
 "edge.sdk.awswaf.com/": [
 "/telemetry"
+],
+"edit-api-": [
+".capcut.com/lv/v1/event/"
 ],
 "efsa.onlinelibrary.wiley.com/wro/": [
 "~full-text-analytics.js"
