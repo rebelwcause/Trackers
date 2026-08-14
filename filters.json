@@ -4124,6 +4124,7 @@
 "agoda.com/api/pixel/index?",
 "agoda.net/v2/track",
 "agronews.com/js/tagmanager",
+"ai-sdk.dev/api/track",
 "aichaoxing.com/res/cx_stat.js",
 "aim.cloudflare.com/__log",
 "airgreenland.com/tracking/",
@@ -4175,6 +4176,7 @@
 "allaboutberlin.com/whoisthere.js",
 "allanalpass.com/track/",
 "allbbwcams.com/api/metrics",
+"allenai.org/v5/event",
 "allevents.in/actracker/",
 "alljapanesepass.com/ascripts/gcu.js",
 "alljapanesepass.com/rstat",
@@ -4288,8 +4290,6 @@
 "api.bluecore.app/api/track/",
 "api.bo3.gg/api/v1/ad_baners",
 "api.bo3.gg/api/v1/ad_banners",
-"api.btmessage.com/events/",
-"api.btmessage.com/log?",
 "api.consumer.pt.mcclatchy.com/mia-mh/meter",
 "api.corr.life/public/metrics/",
 "api.data.pt.mcclatchy.com/events",
@@ -4368,6 +4368,7 @@
 "apis.naver.com/videostat/videostat/qoe",
 "apkpure.com/api/v1/get-withdraw-count",
 "apl.roskomsvoboda.org/js/script.js",
+"aplus.qwen.ai/aplus.monitor.load_cna_success?",
 "aplus.qwen.ai/aplus.monitor.log_arrival_rate",
 "apm.infoldgames.com/v1/log/sendtlog",
 "apmplus.volces.com/monitor_web/",
@@ -5508,6 +5509,7 @@
 "embeds.beehiiv.com/attribution.js",
 "embedsports.top/ad.html",
 "emea.flow.microsoft.com/providers/internal.telemetry",
+"emrldtp.com/collect",
 "ems.youku.com/event?",
 "emule-security.org/tracker.js",
 "en2.elvenar.com/game/tracking",
@@ -5715,6 +5717,7 @@
 "formstack.com/forms/analytics.php",
 "formula1.com/api/track",
 "forocoches.com/image/nada.gif",
+"fortune.com/api/recommendations/feedback/view/",
 "fortune.com/comscore-json/",
 "forum.ixbt.com/liveinternet.gif",
 "forum.miata.net/sp/",
@@ -6529,6 +6532,7 @@
 "live.visually-io.com/api/allocator/",
 "live.visually-io.com/api/s?token=",
 "liveball.sx/albert",
+"liveblog.pro/api/analytics/hit",
 "livedoor.com/counter/",
 "livehdcams.com/api/metrics",
 "livehelpnow.net/api/visitor/init",
@@ -6745,6 +6749,7 @@
 "minutemediacdn.com/campaign-manager-client/",
 "mis.ig.com/tracking/",
 "misc.udn.com/record/pageview/",
+"mistral.ai/api/trpc/event.sendeventtodatalake?",
 "misumi-ec.com/api/v1/log/",
 "misumi-ec.com/vcommon/common/js/karte.js",
 "mixi.net/static/js/build/mixi-analysis",
@@ -6982,6 +6987,7 @@
 "nzmuscle.co.nz/rdgp/",
 "nzpages.co.nz/modules/common/track.js",
 "o.aolcdn.com/js/mg1.js",
+"obs.coupangstreaming.com/web/collect",
 "observerbd.com/ad/",
 "ocnk.net/include/access.php",
 "oct8ne.com/visitor/",
@@ -7048,6 +7054,7 @@
 "operationsports.com/wp-json/navy/v1/tag?pid=",
 "opinary.com/v1/events",
 "oppo.com/api/country",
+"opstream.fun/api/heartbeat",
 "optics.org/banners/",
 "optimizer.poxo.com/ca2/analytics.js",
 "optimizer.poxo.com/jet/jet.js",
@@ -7921,6 +7928,7 @@
 "startpage.com/sp/dplpxs?",
 "startpage.com/sp/elp",
 "startpage.com/sp/jst",
+"startuphub.ai/api/promotions",
 "starzplay.com/resources/js/analytics.js",
 "stat.tildaapi.com/event/",
 "static-cdn.arte.tv/static/analytics/",
@@ -7969,6 +7977,7 @@
 "static1.dmcdn.net/js/cpe/cpeevent.min.js",
 "static1.dmcdn.net/js/cpe/cpeeventtracking.min.js",
 "staticmoly.me/metric.php",
+"statics.cedscdn.it/utils/src/js/shopalytics.js",
 "statics.foxsports.com/static/orion/js/segment-analytics.js",
 "staticwl.bkmcdn.com/scripts/adwords-tracker.js",
 "statis.simeji.me/report/",
@@ -8408,6 +8417,7 @@
 "ucoz.com/stat/",
 "ucoz.net/stat/",
 "ucuzabilet.com/ajax/referreranalytics",
+"ucuztap.az/api/ads/track",
 "ucweb.com/collect/",
 "udemy.com/api-2.0/ecl",
 "uefa.com/imgml/uefacom/sponsors/",
@@ -8783,6 +8793,7 @@
 "xp.apple.com/report/",
 "xplay.gg/api/server/analytics/mixpanel",
 "xsplit.com/_gtm.js",
+"xullys.xyz/~api/analytics",
 "xvideos.com/picserror/",
 "xvp.imgix.net/assets/customer_tools/ip_checker-",
 "xxf.mobi/hit",
@@ -18355,6 +18366,9 @@
 "freesvg.org": [
 ".sponsored-main-detail"
 ],
+"freetetris.org": [
+"[style^=\"display\"]:has([onclick][href])"
+],
 "freethesaurus.com": [
 "#qk1",
 "#qk2",
@@ -23650,6 +23664,7 @@
 ".advertisement"
 ],
 "mail.aol.com": [
+"[role=\"presentation\"]:has(> div[data-ad-row-id])",
 "div[data-test-id=\"virtual-list\"] > ul[role=\"list\"][aria-label] > li[style]:has(a[href^=\"https://api.taboola.com/\"][href*=\"/yahoo-aol-mail/\"])",
 "li:has(a[data-test-id=\"pencil-ad-messageList\"])"
 ],
@@ -27392,7 +27407,9 @@
 ".htlad-sidebar_rectangle"
 ],
 "pastpapers.co": [
-".sticky-bottom"
+".MuiBox-root:has(> .adsbygoogle)",
+".sticky-bottom",
+"[href=\"https://papafy.com\"]"
 ],
 "pasty.info": [
 "img[aria-label=\"Aliexpress partner network affiliate Link\"]",
@@ -28218,6 +28235,8 @@
 ".owl-carousel:has(.carousel-ad)"
 ],
 "polygon.com": [
+".an-zone-d",
+".an-zone-footer-footer",
 ".sidebar-default",
 ".video",
 "[class]:has(> [data-concert])",
@@ -29007,6 +29026,10 @@
 ],
 "puzzlegarage.com": [
 ".banner--inside"
+],
+"puzzleshq.com": [
+".advertWrapper_adContainer__RxpbP",
+".article_adContainer__qr_Hd"
 ],
 "pv-magazine-australia.com": [
 "#home-top-rectangle-wrap-1",
@@ -32996,6 +33019,7 @@
 ".a-wrap"
 ],
 "techcentral.ie": [
+".g",
 ".topBanner"
 ],
 "techconnect.com": [
@@ -33598,6 +33622,9 @@
 ],
 "thecompleteuniversityguide.co.uk": [
 ".bnr_out"
+],
+"theconsensus.dev": [
+".banner"
 ],
 "theconservativetreehouse.com": [
 "#text-6"
@@ -34793,6 +34820,9 @@
 "[style*=\"display: block !important; margin-bottom: 20px;\"]",
 "[style*=\"margin-left: auto; margin-right: auto;\"]",
 "[style*=\"min-height:250px;\"]"
+],
+"timeful.app": [
+"span.tw-border-light-gray-stroke:has(> .tw-tracking-wide)"
 ],
 "timeout.com": [
 "._ad_1elek_1",
@@ -36903,7 +36933,8 @@
 ".widget_newspack-ads-widget"
 ],
 "washingtonexaminer.com": [
-".ad"
+".ad",
+".wex-ad-wrap"
 ],
 "washingtoninformer.com": [
 ".newspack_global_ad"
@@ -51149,6 +51180,7 @@
 ".inpage_cookieOptOutForm",
 ".inpostad",
 ".inr_top_ads",
+".ins-v-cookie-alert",
 ".ins_adwrap",
 ".insert-post-ads",
 ".insert_ad",
@@ -58440,9 +58472,6 @@
 "advertisoo.com": {
 "main_frame": true
 },
-"advsnx.net": {
-"tp": true
-},
 "aktion.esprit-club.com": {
 "image": true
 },
@@ -58596,9 +58625,6 @@
 "betclever.com/wp-admin/admin-ajax.php?action=coupons_widget_iframe&id=": {
 "tp": true
 },
-"bidsimulator.com": {
-"tp": true
-},
 "biz.alibaba.com/order/ajax/ajaxorderstatistic.do": {
 "tp": true
 },
@@ -58634,9 +58660,6 @@
 "script": true
 },
 "bstn-14-ma.com": {
-"tp": true
-},
-"btmessage.com": {
 "tp": true
 },
 "bucklemail.com/a/": {
@@ -58693,6 +58716,9 @@
 "tp": true
 },
 "casinobonusdeals.io": {
+"main_frame": true
+},
+"cautommityring.com": {
 "main_frame": true
 },
 "cc.naver.com/cc": {
@@ -58842,6 +58868,9 @@
 "condenastdigital.com/track": {
 "tp": true
 },
+"conestreshow.com": {
+"main_frame": true
+},
 "confirmic.com": {
 "tp": true
 },
@@ -58873,6 +58902,9 @@
 "tp": true
 },
 "cookihq.com": {
+"tp": true
+},
+"counter.pixplug.in": {
 "tp": true
 },
 "counter2.blog.livedoor.com": {
@@ -58910,6 +58942,12 @@
 },
 "ct.thegear-box.com": {
 "tp": true
+},
+"ctrmanager.com": {
+"tp": true
+},
+"curbneon.com": {
+"script": true
 },
 "d-1.co": {
 "tp": true
@@ -59118,6 +59156,9 @@
 "gamezop.com/creatives/": {
 "image": true,
 "tp": true
+},
+"gamonalsmadevel.com": {
+"main_frame": true
 },
 "ganja.com": {
 "tp": true
@@ -59452,6 +59493,9 @@
 "media-amazon.com/images/s/apesafeframe/ape/sf/": {
 "script": true
 },
+"metabatted.com": {
+"main_frame": true
+},
 "metomic.io": {
 "tp": true
 },
@@ -59711,9 +59755,6 @@
 "providesupport.com/cmd/": {
 "image": true
 },
-"proxy4mmo.com": {
-"main_frame": true
-},
 "ptrk-wn.com": {
 "tp": true
 },
@@ -59752,9 +59793,6 @@
 "ping": true,
 "script": true,
 "xmlhttprequest": true
-},
-"raceamen.com": {
-"main_frame": true
 },
 "rail.bankofamerica.com": {
 "script": true,
@@ -59894,6 +59932,9 @@
 },
 "samba.org/banners/": {
 "image": true
+},
+"san-spr-01.net": {
+"tp": true
 },
 "saveit.us/img/": {
 "tp": true
@@ -60077,9 +60118,6 @@
 "sync.amperwave.net/api/get/magnite/auid=": {
 "xmlhttprequest": true
 },
-"t.dgm-au.com": {
-"tp": true
-},
 "t.paypal.com": {
 "image": true
 },
@@ -60137,9 +60175,6 @@
 "tp": true
 },
 "top.startua.com/?": {
-"tp": true
-},
-"top100bloggers.com": {
 "tp": true
 },
 "torimochi.line-apps.com": {
@@ -60284,6 +60319,9 @@
 "w3track.com/newtrk/": {
 "tp": true
 },
+"want-some-psh.com": {
+"main_frame": true
+},
 "wc.yahoodns.net": {
 "image": true
 },
@@ -60301,6 +60339,9 @@
 "tp": true
 },
 "webflowmetrics.com": {
+"tp": true
+},
+"webmining.co": {
 "tp": true
 },
 "webtutoriaux.com/services/compteur-visiteurs/index.php?": {
@@ -60353,6 +60394,9 @@
 "tp": true
 },
 "yaudience.com": {
+"tp": true
+},
+"yldr.io": {
 "tp": true
 },
 "ywxi.net": {
@@ -61501,6 +61545,9 @@
 "/ga_seo.js",
 "/makuake_ga.js"
 ],
+"d26yk4zpyhjeeq.cloudfront.net/": [
+"/tracking/"
+],
 "d2jjzw81hqbuqv.cloudfront.net/assets/": [
 "/autotrack-"
 ],
@@ -62364,6 +62411,9 @@
 ],
 "ntm.pstatic.net/scripts/ntm_": [
 ".js"
+],
+"obs.coupangstreaming.com/web/otlp/": [
+"/metrics"
 ],
 "octaneai.com": [
 "/utrk"
