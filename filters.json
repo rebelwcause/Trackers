@@ -254,7 +254,6 @@
 ".quora.com/qemail/mark_read?",
 ".revenue.tagged-events.js",
 ".secureserver.net/bbimage.aspx?",
-".sendibm1.com/mk/",
 ".simplicitycrm.com/rd/",
 ".skimlinks.js",
 ".starbucks.com/a/",
@@ -628,6 +627,7 @@
 "/analytics-reporter/",
 "/analytics-sdk.",
 "/analytics-secure.js",
+"/analytics-talk-content-tracking.",
 "/analytics-tracker/",
 "/analytics-tracking.js",
 "/analytics-worker.iife.js",
@@ -2739,6 +2739,7 @@
 "/revinit.js",
 "/revopush_v2.js",
 "/rgea.min.js",
+"/ria.analytics.js",
 "/risk_fp_log?",
 "/riveted.min.js",
 "/rivraddon.js",
@@ -3029,6 +3030,7 @@
 "/statcountex/count.asp?",
 "/static/cache.php?url=https://mc.yandex.com/metrika/",
 "/static/cache/?url=https://mc.yandex.ru/",
+"/static/js/tracker.js",
 "/static/modules/js/assertiveyield/",
 "/static/ws/tagging/bundle",
 "/static/ws/tracking/bundle",
@@ -4260,6 +4262,7 @@
 "analdin.com/js/analytics.js",
 "analiz.habersoft.com/collect.js",
 "analytics.popupsmart.com/api/site/tracking-config",
+"analyticsindiamag.com/~api/analytics",
 "ancestry.com/core.js",
 "ancestrycdn.com/tao/at/",
 "ancestrycdn.com/webui-unifiedtracking/",
@@ -4606,6 +4609,7 @@
 "baqend.com/v1/rum/",
 "barrons.com/cookies/pixel.gif",
 "barry-callebaut.com/pd.js",
+"batcave.biz/p/script.js",
 "bathandbodyworks.com/lsxlyya5/init.js",
 "bayshop.com/img/svg/track",
 "bazaarvoice.com/sid.gif",
@@ -5684,6 +5688,7 @@
 "feedly.com/mxpnl/",
 "feeds.feedburner.com/~fc/",
 "feeds.ibt.com/track.gif",
+"feliz.data.tm-awx.com/smile-web-v2/batch",
 "feross.org/views",
 "ff.netmonet.co/api/frontend/client/metrics",
 "ffmovies.lol/jss/dectector-2025.js",
@@ -6328,6 +6333,7 @@
 "iono.fm/tracking?",
 "ip-secrets.com/img/nv",
 "iphonelife.com/_app/immutable/chunks/trackingparamsforminputs.",
+"iplayer.is/lib/tk.js",
 "ipokabu.net/js/analytics.js",
 "ippen.space/idat",
 "iptv-web.app/__/tracking.astro_astro_type_script_index_",
@@ -7193,6 +7199,7 @@
 "pc.assets-cosme.net/js/general/pc/cmn-pf-nav-google-analytics.js",
 "pc161021.com/scripts/noui/eventlogger.js",
 "pc161021.com/scripts/noui/statprovider.js",
+"pcapredict.com/js/sensor.js",
 "pcexpress.ca/pcx-bff/api/v2/media/ads",
 "pcgamesn.com/cdn-cgi/trace",
 "pcmag.com/js/ga.js",
@@ -7605,6 +7612,7 @@
 "s.ensonhaber.com/assets/js/lib/esh-tag-v5.js",
 "s.gaming.tools/api/event",
 "s.joinhoney.com/evs",
+"s.omsolution.net/omstatapi/",
 "s.p7s1.io/datalayer/conviva",
 "s.pinimg.com/ct/core.js",
 "s.pixfs.net/visitor.pixplug.in/",
@@ -7827,6 +7835,7 @@
 "sinst.fwdcdn.com/img/newimg/liveinternet.gif",
 "siriusxmstore.com/api/collect",
 "sirporno.xxx/js/analytics.js",
+"sitecorecloud.io/v1/events/",
 "sitefinity.com/collect/",
 "siteground.com/img/affiliate/",
 "siteground.com/img/banners/",
@@ -7880,6 +7889,7 @@
 "sobeycloud.com/services/stat.",
 "soccerinhd.com/aclib.js",
 "socialmonkee.com/images/",
+"socialxup.com/api/track",
 "softcab.com/google.php?",
 "softportal.com/js/metrika.js",
 "sohu.com/clk.gif?",
@@ -7916,6 +7926,7 @@
 "spankbang.com/api/ab-test/tracking",
 "spankbang.com/static/dist/ab_test_click_tracker",
 "sparklit.com/counter/",
+"spaziogames.it/6vzv/",
 "spclient.wg.spotify.com/ad-logic/",
 "spdn.splice.com/next-integrations/integrations/google-tag-manager/",
 "spdn.splice.com/next-integrations/middleware/analytics.",
@@ -8686,6 +8697,7 @@
 "walmartrealty.com/px/pxcfrcfefa/init.js",
 "wantlive.com/pixel/",
 "wargamer.com/cdn-cgi/trace",
+"wargamings.net/png.php?id=",
 "wargamings.net/track.js",
 "warnermedia.com/api/v1/events?",
 "was.livere.me/api/ad",
@@ -13167,7 +13179,7 @@
 "chatgpt.com": [
 ".border-token-border-default.mt-2.border-t:has(button[aria-label=\"Ad options\"])",
 "[class*=\"_assistantAds\"]",
-"[data-message-role=\"assistant\"] > section[class]:has(> aside[aria-label] > div[role=\"list\"] a[rel][target=\"_blank\"] + [class] > button[aria-haspopup])",
+"[data-message-role=\"assistant\"] > section[class]:has(> aside[aria-label] > div[role=\"list\"] a[rel][target=\"_blank\"][href*=\"&oppref=\"])",
 "[data-testid=\"bazaar-v2-elevated-box\"]",
 "aside[data-assistant-ads-unit]",
 "div.opacity-100.transition-opacity.ease-out:has(button[aria-label=\"Sponsored options\"], button[aria-label=\"Ad options\"])",
@@ -31681,6 +31693,9 @@
 ".adCLS"
 ],
 "sitepoint.com": [
+"#takeover-content-1",
+"#takeover-vertical",
+".inline-content",
 "[rel*=\"sponsored\"]"
 ],
 "siteslike.com": [
@@ -34395,6 +34410,7 @@
 ".commercial-label-style",
 ".shopwindow-advertorial",
 "[data-tmdatatrack-type=\"commercial\"]",
+"div[data-testid*=\"commercial\"]",
 "reach-topbox"
 ],
 "themix.net": [
@@ -35542,6 +35558,9 @@
 "tpb.party": [
 "a[href=\"https://mysurferprotector.com/\"]"
 ],
+"trace.moe": [
+".sponsor-module__2LoZHG__sponsor"
+],
 "trackalerts.com": [
 ".widget_custom_html"
 ],
@@ -36150,6 +36169,9 @@
 "div[data-testid=\"eventHero\"]:has(path[d$=\"10H8.996V8h7v7z\"])",
 "div[data-testid=\"placementTracking\"]:has(div[data-testid$=\"-impression-pixel\"])",
 "div[data-testid=\"trend\"]:has(path[d$=\"10H8.996V8h7v7z\"])"
+],
+"twstalker.com": [
+"div[style^=\"max-width: 728px; width: 100%;\"]"
 ],
 "twz.com": [
 "#pw-iab-leaderboard",
@@ -55576,6 +55598,9 @@
 ".sendemail.gate.io/o/": {
 "image": true
 },
+".sendibm1.com/mk/op/": {
+"image": true
+},
 ".sendibt2.com/tr/op/": {
 "image": true
 },
@@ -56867,9 +56892,6 @@
 "/drsup-admanager-ajax.js": {
 "script": true
 },
-"/duracelltomi-google-tag-manager/": {
-"script": true
-},
 "/e.customeriomail.com/e/o/": {
 "image": true
 },
@@ -57118,6 +57140,9 @@
 "xmlhttprequest": true
 },
 "/gtm-data-layer-": {
+"script": true
+},
+"/gtm4wp-": {
 "script": true
 },
 "/gunosyadssdkv2.js": {
@@ -58798,6 +58823,9 @@
 "advertisoo.com": {
 "main_frame": true
 },
+"aicontents.net": {
+"tp": true
+},
 "aktion.esprit-club.com": {
 "image": true
 },
@@ -59126,6 +59154,20 @@
 },
 "cerezgo.com": {
 "tp": true
+},
+"chandrabinduad.com": {
+"tp": true
+},
+"chatgpt.com/awe/api/v2/rum": {
+"ping": true,
+"xmlhttprequest": true
+},
+"chatgpt.com/backend-api/codex/app-download-signal": {
+"xmlhttprequest": true
+},
+"chatgpt.com/unauth-mweb/events/": {
+"ping": true,
+"xmlhttprequest": true
 },
 "checkru.net": {
 "tp": true
@@ -59737,6 +59779,9 @@
 },
 "lambda-url.eu-west-1.on.aws": {
 "ping": true
+},
+"laserveradedomaina.com": {
+"tp": true
 },
 "lawdepot.com/affiliate/": {
 "tp": true
@@ -60782,6 +60827,9 @@
 ],
 ".umusic-online.com": [
 "/o.gif"
+],
+"/?compression=": [
+"&ip="
 ],
 "/addyn": [
 ";adtech;",
@@ -62397,9 +62445,6 @@
 "imdb.com": [
 "/b.gif"
 ],
-"img.sputnik.": [
-"/min/js/libs/ria.analytics.js"
-],
 "infusionsoft.com": [
 "/gettrackingcode?"
 ],
@@ -62408,9 +62453,6 @@
 ],
 "ingwb.com/": [
 "/ingwb-webtrekk"
-],
-"intercelestial.com/": [
-"/api/v1/event"
 ],
 "investing.com/": [
 "/ad-notification-popup"
@@ -62756,6 +62798,9 @@
 "octaneai.com": [
 "/utrk"
 ],
+"oeamtc.at/": [
+"/js/cms.frontend._js.tracking/"
+],
 "oneroof.co.nz/": [
 "/record-log/"
 ],
@@ -62804,9 +62849,6 @@
 ],
 "paddle.com": [
 "/analytics.js"
-],
-"pahe.plus/": [
-"/api/v1/event"
 ],
 "paramountplus.com/_next/static/chunks/page_view_event-": [
 ".js"
