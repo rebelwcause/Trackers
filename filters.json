@@ -4211,6 +4211,8 @@
 "alljapanesepass.com/rstat",
 "allkeyshop.com/analytics/script.js",
 "allo.cdnlbox.club/stat",
+"alloha.yani.tv/errors",
+"alloha.yani.tv/events",
 "alpharank.io/api/pixel/",
 "alteregomedia.org/files/js/gtags.js",
 "altin.in/ajax.asp?i=adblock",
@@ -4544,6 +4546,7 @@
 "assets.sky.com/js/thirdparty/sessioncam5-5.js",
 "assets.systemrequirementslabs.net/srl/wwwroot/js/stake-takeover.js",
 "assistant.watson.appdomain.cloud/analytics/",
+"astrologyanswers.com/gtmmetrics/",
 "asuracomic.net/api/ads/",
 "at.cbsi.com/lib/api/client-info",
 "atcdn.co.uk/frostbite/",
@@ -5028,6 +5031,7 @@
 "chickencoopcompany.com/api/collect",
 "chil-chil.net/cpadshow/",
 "chimpstatic.com/mcjs-connected/js/",
+"choices.trustarc.com/get?",
 "choosefi.com/api/site/track",
 "choosefi.com/block-event",
 "choosefi.com/conversion-event",
@@ -5129,6 +5133,7 @@
 "cloudfunctions.net/conversioneventcondition",
 "cloudfunctions.net/export-customizer-data-metrics",
 "cloudfunctions.net/function-record-stream-metric?",
+"cloudfunctions.net/goose-track-pageview-prd",
 "cloudfunctions.net/ingest?",
 "cloudfunctions.net/sendwebpush-analytics",
 "cloudfunctions.net/trackevent",
@@ -5351,6 +5356,7 @@
 "debales.ai/ingest/",
 "deepl.com/web/statistics",
 "deepsystems.com/wp-content/plugins/integrate-posthog-web-analytics/",
+"deepweb.net/api/event",
 "deezer.com/ajax/gw-light.php?method=log.listen",
 "deezer.com/ajax/gw-light.php?method=triton.pixeltracking&",
 "delishkitchen.tv/api/access_trackers",
@@ -5697,6 +5703,7 @@
 "fastly.net/sp.js",
 "fastmail.com/api/event/",
 "faz.net/api/collect",
+"faz.net/api/fpid/",
 "faz.net/placingservice/count",
 "faz.net/pr/me/",
 "fboom.me/log",
@@ -6181,6 +6188,7 @@
 "hrkgame.com/allstaticfiles/js/cookie.min.js",
 "hrw.org/libraries/custom/simpleanalytics.js",
 "hsforms.com/embed/v3/counters.gif",
+"hsmoa.com/media/buzzni_rt.min.js",
 "html5games.com/event/",
 "httdev.it/e/c?",
 "http-inputs-itv.splunkcloud.com/services/collector",
@@ -6693,6 +6701,7 @@
 "majikichi.com/js/tracking.js",
 "majorgeeks.com/images/mg/ads/",
 "makeship.com/ingest/static/recorder-v2.js",
+"mall.hanssem.com/resources/js/log/",
 "mall.tv/bundles/analytics?",
 "mallorca.com/user/data/advertisements/",
 "mallorcamagazin.com/sfcounter",
@@ -8063,6 +8072,7 @@
 "startpage.com/sp/jst",
 "startuphub.ai/api/promotions",
 "starzplay.com/resources/js/analytics.js",
+"stat.i3.dmm.com/plus/tracking.js",
 "stat.tildaapi.com/event/",
 "static-cdn.arte.tv/static/analytics/",
 "static-cl.xhcdn.com/js/track.min.js",
@@ -8293,6 +8303,7 @@
 "target.com/telemetry_data/",
 "tashanmp3.com/api/pops/",
 "tatadigital.com/analytics-engine/",
+"tcafe21.com/plugin/perf/",
 "tcloudbase.com/access?",
 "teamtailor.com/pageview",
 "teamviewer.com/api/log/",
@@ -8654,6 +8665,7 @@
 "vaughn.live/vsz/",
 "vbox7.com/aj/player-stats?",
 "vcita.com/tr_",
+"vdrama.fans/js/vd-analytics.js",
 "vecer.com/js/remp.js",
 "vecteezy.com/dmpu/",
 "vectips.com/wp-content/themes/vectips-theme/js/adzones.js",
@@ -10353,6 +10365,10 @@
 ".topad",
 ".zerg"
 ],
+"antrimnow.co.uk": [
+".banner",
+".helper__DesktopAdContainer-sc-12ggaoi-1"
+],
 "aol.co.uk": [
 ".m-gam__container"
 ],
@@ -10548,8 +10564,14 @@
 "archpaper.com": [
 ".an-ads"
 ],
+"arealme.com": [
+".leader_ad_banner",
+".lowerad",
+"div[style=\"margin:auto;width:100%;min-height:250px;\"]"
+],
 "arenaev.com": [
-"#subHeader"
+"#subHeader",
+".adv"
 ],
 "argonauts.ca": [
 ".top-banner"
@@ -10732,6 +10754,9 @@
 ],
 "astrology.com": [
 ".primis-video-module-horoscope"
+],
+"astrologyanswers.com": [
+".astro-entity-placement"
 ],
 "astrozop.com": [
 ".relative.z-5"
@@ -11392,16 +11417,19 @@
 ".advs"
 ],
 "beaumontenterprise.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "beautifyjson.org": [
@@ -12132,6 +12160,7 @@
 "booking.com": [
 ".js_sr_persuation_msg",
 ".sr-motivate-messages",
+"div[data-testid=\"property-card\"]:has(a[href*=\"nad_id=\"])",
 "div[data-testid=\"property-card\"]:has(div[data-testid=\"new-ad-design-badge\"])"
 ],
 "booklife.com": [
@@ -13309,12 +13338,14 @@
 "checkfelix.com": [
 "#resultWrapper > div > div > [role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".CGMG:has(.c_3eP-badge-content)",
+".CarResultsList .VbVE:has(.VbVE-ProviderContentBanner)",
 ".Dp1L",
 ".EvBR",
 ".IZSg-mod-banner",
 ".J8jg:has(.J8jg-provider-ad-badge)",
 ".Tl2M-contentInner:has(.c_3eP-badge-content)",
 ".YnaR",
+".c71z4 > div:has(> .Tl2M-contentInner)",
 ".ev1_-results-list > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".ev1_-results-list > div > div > div > div[data-resultid$=\"-sponsored\"]",
 ".nqHv-pres-three:has(div.nqHv-logo-ad-wrapper)",
@@ -13471,16 +13502,19 @@
 "div[jscontroller]:has-text(Install Chrome)"
 ],
 "chron.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "[data-block-type=\"ad\"]",
 "body:style(overflow: auto !important;)"
 ],
@@ -13874,6 +13908,10 @@
 "[alt=\"AD DESCRIPTION\"]",
 "[href^=\"https://app.adjust.com/\"]",
 "img[fetchpriority]"
+],
+"codex-resets.com": [
+".sponsor-mobile",
+".sponsor-rail"
 ],
 "coffeeordie.com": [
 ".BannerPromo-desktop",
@@ -14670,6 +14708,7 @@
 ".wrapper-au-popup"
 ],
 "csrep.gg": [
+".sticky:has(> div.w-full > a[target=\"_blank\"] img)",
 "div[data-ad-placement]"
 ],
 "css3generator.com": [
@@ -14694,29 +14733,35 @@
 ".home-incontent-ad-2"
 ],
 "ctinsider.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".md\\:block.y100",
 ".mnh90px",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "ctpost.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "ctvnews.ca": [
@@ -16142,9 +16187,12 @@
 ],
 "drive.com.au": [
 ".adSpacing-module-scss-module__5jWT7q__drive-ad-spacing",
+".adSpacing_drive-ad-spacing__ABpTJ",
 ".adSpacing_drive-ad-spacing__HdaBg",
+".blocks_drive-block__ad__wrapper__er_24",
 ".gam-ad",
 ".gam-ad-wrapper",
+".roofrack-wrapper",
 "hr"
 ],
 "drive2.com": [
@@ -16516,6 +16564,7 @@
 ],
 "edmunds.com": [
 ".car-news-marquee",
+".justify-content-center:has(.exco-player)",
 ".leaderboard",
 ".overflow-hidden.w-100:has(.exco-player)"
 ],
@@ -17230,16 +17279,19 @@
 "div[id^=\"taboola-\"]"
 ],
 "expressnews.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "extra.ie": [
@@ -19182,6 +19234,7 @@
 "#primisContainer"
 ],
 "gearjunkie.com": [
+".gj-incontent-dt",
 ".ldm_ad",
 ".video-jwplayer"
 ],
@@ -19919,10 +19972,13 @@
 "div[style=\"font-size:x-small;text-align:center;padding-top:10px\"]"
 ],
 "greenwichtime.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "greyhound-data.com": [
 ".non-sticky-publift",
@@ -19949,6 +20005,7 @@
 "figure[data-clickurl^=\"https://api.groupon.com/sponsored/\"]"
 ],
 "gsmarena.com": [
+"#opt300x250",
 "#subHeader:has(> #topAdv)",
 ".adv",
 ".adv-mid",
@@ -20869,17 +20926,20 @@
 ".ad_pushup_subtitle"
 ],
 "houstonchronicle.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ad-module--ad--16cf1",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "houstonherald.com": [
@@ -23349,6 +23409,11 @@
 "[data-concert=\"desktop_leaderboard_variable\"]",
 "[data-concert=\"leaderboard_top_tablet_desktop\"]"
 ],
+"libertycity.net": [
+".banner_in_news",
+".lcnet.backgr42",
+"[data-umami-event=\"Difmark Brand Click\"]"
+],
 "libertyunlocked.com": [
 ".code-block"
 ],
@@ -23696,16 +23761,19 @@
 ".custom-html-widget"
 ],
 "lmtonline.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "lnbz.la": [
@@ -24064,7 +24132,9 @@
 "div[class^=\"_adContainer_\"]"
 ],
 "makemytrip.*": [
-".listingRowOuter:has(.pc__sponsored)"
+".flights-adtech-desktop",
+".listingRowOuter:has(.pc__sponsored)",
+"div:has(> .adBanner__img)"
 ],
 "makemytrip.com": [
 ".adtech-desktop",
@@ -24222,10 +24292,13 @@
 ".article-body-content > .fixed-gray-color"
 ],
 "manisteenews.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "manitobacooperator.ca": [
 ".inline--2",
@@ -24822,10 +24895,13 @@
 ".wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit"
 ],
 "michigansthumb.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "mid-day.com": [
 ".add-300x250",
@@ -24840,16 +24916,19 @@
 ".lb24-base-list-ad"
 ],
 "middletownpress.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "midweekherald.co.uk": [
@@ -25503,16 +25582,19 @@
 ".region-sidebar"
 ],
 "mrt.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "mrw.co.uk": [
@@ -25790,10 +25872,13 @@
 "[href^=\"https://go.nordvpn.net/\"]"
 ],
 "myjournalcourier.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "mykhel.com": [
 "#verticleLinks",
@@ -25831,10 +25916,13 @@
 ".product-base:has(.product-waterMark)"
 ],
 "myplainview.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "mypunepulse.com": [
 ".n2-padding",
@@ -25857,16 +25945,19 @@
 ".zone-el"
 ],
 "mysanantonio.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "mytelly.co.uk": [
@@ -26599,15 +26690,18 @@
 ".ad"
 ],
 "newstimes.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "newsweek.com": [
@@ -26724,16 +26818,19 @@
 ".bg-light.bg-opacity-25"
 ],
 "nhregister.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "niagarafallsreview.ca": [
@@ -27564,10 +27661,13 @@
 "img[width=\"300\"]"
 ],
 "ourmidland.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "ourworldofenergy.com": [
 "#sponsors_container"
@@ -28965,6 +29065,12 @@
 "primagames.com": [
 ".wp-block-gamurs-ad"
 ],
+"primeaudio.org": [
+"#media_image-23",
+"#media_image-25",
+".code-block",
+".zeen-da-wrap"
+],
 "primeraescuela.com": [
 "#adBanner"
 ],
@@ -29040,7 +29146,8 @@
 "div[data-test] > section:has(img[src=\"/i/299a62819c7092e196f7fc2c331cc11ef4f93a0f32c3b3069c4fd974cda0cb4c\"])",
 "div[data-test]:not([data-test^=\"homepage-section-\"]) > section[data-test^=\"post-item-\"]",
 "div[data-test^=\"ad-slot-\"]",
-"section.group + div > section.group"
+"section.group + div > section.group",
+"section:has(> div > div > span.rounded-b-xl.bg-brand-500)"
 ],
 "productreview.com.au": [
 "div[style=\"line-height:0\"]"
@@ -30467,16 +30574,19 @@
 ".w-full.mb-3:has(a[href=\"/learn/regex-for-seo\"])"
 ],
 "registercitizen.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "reklambladerbjudanden.se": [
@@ -31650,27 +31760,33 @@
 ".td-header-rec-wrap"
 ],
 "sfchronicle.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".scrl-block > .scrl-block-inner:has(.ad-module--ad--16cf1)",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "[data-block-type=\"ad\"]",
 "body:style(overflow: auto !important;)",
 "div[class^=\"ad-module-\"]"
 ],
 "sfgate.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "sgcarmart": [
@@ -32671,16 +32787,19 @@
 ".slot"
 ],
 "stamfordadvocate.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".x100.bg-gray100",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "standard.co.uk": [
@@ -33266,11 +33385,13 @@
 ],
 "swoodoo.com": [
 "#resultWrapper > div > div > [role=\"button\"][tabindex=\"0\"] > .yuAt-pres-rounded",
+".CarResultsList .VbVE:has(.VbVE-ProviderContentBanner)",
 ".Dp1L",
 ".EvBR",
 ".IZSg-mod-banner",
 ".J8jg:has(.J8jg-provider-ad-badge)",
 ".YnaR",
+".c71z4 > div:has(> .Tl2M-contentInner)",
 ".ev1_-results-list > div > div > div > div.G-5c[role=\"tab\"][tabindex=\"0\"] > .yuAt-pres-rounded",
 ".ev1_-results-list > div > div > div > div[data-resultid$=\"-sponsored\"]",
 ".nqHv-pres-three:has(div.nqHv-logo-ad-wrapper)",
@@ -34460,15 +34581,18 @@
 ".layout__background"
 ],
 "thehour.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 "#modals",
 ".ar16-9",
 ".b-gray300.bt",
 ".b-gray300:has-text(Advertisement)",
 ".bg-black.td300",
+".fix:has(#modalOuter)",
 ".jcc.z1004",
 ".mb32:has-text(Advertisement)",
 ".mnh90px",
 ".y100:has([data-block-type=\"ad\"])",
+".z1006.fix",
 "body:style(overflow: auto !important;)"
 ],
 "thehulltruth.com": [
@@ -34492,10 +34616,13 @@
 "[data-spotim-module=\"tag-tester\"]"
 ],
 "theintelligencer.com": [
+"#modalOuter:has-text(Your Ad Blocker)",
 ".b-gray300:has-text(Advertisement)",
+".fix:has(#modalOuter)",
 ".mb32:has-text(Advertisement)",
 ".x100.bg-gray100",
-".y100:has([data-block-type=\"ad\"])"
+".y100:has([data-block-type=\"ad\"])",
+".z1006.fix"
 ],
 "theinventory.com": [
 ".ay-ad-slot"
@@ -35481,6 +35608,9 @@
 ],
 "tmo.report": [
 "#directad"
+],
+"tmpmailer.com": [
+".ad-anchor"
 ],
 "tmz.com": [
 "#ad-header",
@@ -55139,7 +55269,8 @@
 ".has-ad": [
 "deep-edge.net",
 "forums.digitalspy.com",
-"marketwatch.com"
+"marketwatch.com",
+"ullu-egg.com"
 ],
 ".has-fixed-bottom-ad": [
 "si.com"
@@ -57408,6 +57539,10 @@
 "/hoverad.js": {
 "script": true
 },
+"/i/api/kn/afterclick/": {
+"tp": false,
+"xmlhttprequest": true
+},
 "/i/npage/": {
 "script": true,
 "tp": true
@@ -59047,9 +59182,6 @@
 "adglidepro.com": {
 "main_frame": true
 },
-"admetric.io": {
-"tp": true
-},
 "adnanny.com": {
 "tp": true
 },
@@ -59060,6 +59192,9 @@
 "tp": true
 },
 "advertisoo.com": {
+"main_frame": true
+},
+"affcpatrk.com": {
 "main_frame": true
 },
 "aicontents.net": {
@@ -59324,6 +59459,9 @@
 "tp": true
 },
 "casinobonusdeals.io": {
+"main_frame": true
+},
+"cauditcommernal.com": {
 "main_frame": true
 },
 "cc.naver.com/cc": {
@@ -59613,9 +59751,6 @@
 "driv-analytics.com": {
 "tp": true
 },
-"dtc-v6t.com": {
-"tp": true
-},
 "duckdns.org": {
 "tp": true,
 "websocket": true
@@ -59818,6 +59953,9 @@
 "gomsop.com": {
 "main_frame": true
 },
+"gosupersonic.ai": {
+"tp": true
+},
 "graph.org/file/": {
 "tp": true
 },
@@ -59847,6 +59985,9 @@
 },
 "heroku.com/?callback=getip": {
 "tp": true
+},
+"hetapus.com": {
+"main_frame": true
 },
 "hfr67jhqrw8.com": {
 "main_frame": true
@@ -60018,6 +60159,9 @@
 },
 "lambda-url.eu-west-1.on.aws": {
 "ping": true
+},
+"landingpg.com": {
+"tp": true
 },
 "laserveradedomaina.com": {
 "tp": true
@@ -60241,9 +60385,6 @@
 },
 "objects.tremormedia.com": {
 "object": false,
-"tp": true
-},
-"oclus.com": {
 "tp": true
 },
 "ocmail1.in/rtw/": {
@@ -60746,6 +60887,9 @@
 "takefile.link/promo/": {
 "tp": true
 },
+"tardangro.com": {
+"tp": true
+},
 "target2sell.mirakl.net": {
 "tp": true
 },
@@ -60887,6 +61031,9 @@
 },
 "uriports.com/reports/": {
 "tp": true
+},
+"validcombine.com": {
+"main_frame": true
 },
 "vast.com/vimpressions.js": {
 "tp": true
@@ -63167,6 +63314,9 @@
 "/statslogresource/",
 "/userregistertrackactionresource/"
 ],
+"plapi.cdnvideohub.com/": [
+"/events"
+],
 "platform-eu.cloud.coveo.com/rest/": [
 "/analytics/view?"
 ],
@@ -63872,6 +64022,9 @@
 "/ad_acknowledgment",
 "/ad_syndication_user_tracking",
 "/sit_rep"
+],
+"yimg.com/": [
+"/ymanalytics-core.js"
 ],
 "yimg.com/aaq/vzm/cs_": [
 ".js"
