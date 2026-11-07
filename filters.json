@@ -4426,6 +4426,7 @@
 "apigw.scmp.com/metrics/monitoring",
 "apigw.scmp.com/pwa-v2-unleash-proxy/proxy/client/metrics",
 "apis.naver.com/videostat/videostat/qoe",
+"apkcube.com/loader.js",
 "apkpure.com/api/v1/get-withdraw-count",
 "apkpure.com/static-2/assets/js/prebid",
 "apl.roskomsvoboda.org/js/script.js",
@@ -4504,6 +4505,7 @@
 "ar-cdn.net/api/v1/events/view",
 "arabnews.com/srpc.js",
 "arbitrarydecisions.com/fingerprint-sw.js",
+"arc.io/widget.min.js",
 "arc.nexx.cloud/static/structure/pixel_transparent.png",
 "arc.pub/clavis/training/events",
 "archive.org/includes/analytics.js",
@@ -7129,6 +7131,7 @@
 "nsandi.com/sites/all/themes/nsandi/js/webtrends_multitrack.js",
 "nslookup.io/pl.js",
 "nstool.netease.com/info.js",
+"ntdeals.net/assets/js/google-ads.",
 "ntm.pstatic.net/ex/nlog-v2.js",
 "ntm.pstatic.net/ex/nlog.js",
 "ntunhs.net/js/tracker.js",
@@ -7478,6 +7481,7 @@
 "proxy6.net/static/img/b/",
 "proxysolutions.net/affiliates/",
 "ps.azurewaf.microsoft.com/event",
+"psdeals.net/assets/js/google-ads.",
 "psr.staticbg.com/rum/monitor.min.js",
 "pub.pixels.ai/metrics-lib.js",
 "pubgifs.com/pixel.gif",
@@ -8138,6 +8142,10 @@
 "static-lvlt.xhcdn.com/js/track.min.js",
 "static-web.grammarly.com/web-heartbeat/",
 "static.airbridge.io/sdk/",
+"static.alphwidget.com/script/common-script/production/alphacore_alpha_data.js",
+"static.alphwidget.com/script/push-script/production/alphapush_ga.js",
+"static.alphwidget.com/script/review-script/production/alpha_au.js",
+"static.alphwidget.com/script/review-script/production/alphareview_ga",
 "static.crunchyroll.com/analytics/",
 "static.danawa.com/globaljs/static/bdl/dsac.min.js",
 "static.danawa.com/globaljs/static/insight_webanalytics_",
@@ -8999,6 +9007,7 @@
 "www-idm.com/wp-content/uploads/2022/02/bitcoin.png",
 "wzzm13.com/taboola_",
 "x.t-idr.com/api/v1/identify",
+"xbdeals.net/assets/js/google-ads.",
 "xboxservices.com/xboxcomfd/experimentation?",
 "xcity.org/wp-content/themes/newspulse/images/banner300.jpg",
 "xcitypass.com/wp-content/themes/newspulse/images/banner728.jpg",
@@ -16889,6 +16898,9 @@
 "endtimeheadlines.org": [
 ".endti-widget"
 ],
+"eneba.com": [
+".site-sponsors-container"
+],
 "energyforecastonline.co.za": [
 ".ads"
 ],
@@ -17189,13 +17201,16 @@
 "#connatix-container",
 "#js-smart-banner",
 "#o-site-hr__leaderboard-wallpaper.u-show-for-xlarge {remove:true;}",
+".as-site-main",
 ".base-leaderboard",
 ".c-ad",
 ".c-card-sponsor",
 ".enw-MPU",
 ".m-object:has(.m-object__spons-quote)",
+".optidigital-wrapper-div",
 ".qa-dfpLeaderBoard",
-".tp-outbrain"
+".tp-outbrain",
+"div[data-twig-component=\"Advertising-default\"]"
 ],
 "europages.co.uk": [
 ".sponsor"
@@ -32198,6 +32213,7 @@
 "div[class^=\"ItineraryInlinePlusWrapper_\"]:has(button[class^=\"SponsoredInfoButton_\"])",
 "div[data-backpack-ds-component]:has(#inline-ad-button)",
 "div[id*=\"-first-result\" i]:has(button[class*=\"SponsoredInfoButton\" i])",
+"div[role=\"listitem\"]:has(button[data-testid=\"adInfoBtn\"])",
 "section[data-testid=\"inline-ad-panel-desktop-layout\"]"
 ],
 "skysports.com": [
