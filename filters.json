@@ -19150,11 +19150,7 @@
 ],
 "gamepadla.com": [
 ".gpPartnerCard",
-".pMain:has(a[href^=\"/go/\"])",
-".pMain:has(div[class^=\"asd_\"])",
-".pMain:has(div[title=\"Partner placement\"])",
-".panel-container:has(.media-header-row-item)",
-"a[href^=\"https://www.amazon.com/\"] + div + picture"
+"div:has(> div > div > a[href^=\"/visit/\"][href*=\"cmp=slider\"])"
 ],
 "gamepix.com": [
 "div[id^=\"gpx-banner\"]"
@@ -55331,6 +55327,9 @@
 ],
 ".ads-core-placer": [
 "happyend.life"
+],
+".ads-desktop": [
+"convertcase.net"
 ],
 ".ads-image": [
 "heatware.com"
